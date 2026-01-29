@@ -17,11 +17,31 @@ codes_dict = {"ball_loss_1" : 1, "ball_loss_2" : 2, "ball_loss_3" : 3, "ball_los
               "pause" : 35, "press" : 36, "build_up" : 37, "high_ball" : 38, "long_corner" : 39, "shootout" : 40,
               "man_up" : 41, "man_down" : 42, "no_keeper" : 43}
 
-teams_dict = {"amsterdam" : 1, "hurley" : 2, "laren" : 3, "kampong" : 4, "den_bosch" : 5, "oranje_rood" : 6,
-              "pinoke" : 7, "rotterdam" : 8, "HDM" : 9, "klein_zwitserland" : 10, "bloemendaal" : 11,
-              "schaerweijde" : 12}
-
 NUM_CODES = len(codes_dict)
+
+
+teams_dict = {}
+next_team_id = 1
+
+def get_team_id(team_name):
+    """Assign a unique ID to each team dynamically."""
+    global next_team_id
+
+    if not isinstance(team_name, str):
+        return None
+
+    team_name = team_name.lower().strip()
+
+    # Ensure team name is NOT an event code
+    if team_name in codes_dict:
+        return None
+
+    if team_name not in teams_dict:
+        teams_dict[team_name] = next_team_id
+        next_team_id += 1
+
+    return teams_dict[team_name]
+
 
 def codes_to_vector(code_list):
     vector = np.zeros(NUM_CODES, dtype=np.float32)
@@ -31,72 +51,65 @@ def codes_to_vector(code_list):
         vector[code - 1] = 1.0
     return vector
 
+
 def import_data_from_file():
     if len(sys.argv) < 2:
         raise ImportError("Not enough arguments passed")
 
-    directory = sys.argv[1]
-
-    if not os.path.isdir(directory):
-        raise NotADirectoryError(f"{directory} is not a valid directory")
-
     all_files = []
-    for f in os.listdir(directory):
-        full_path = os.path.join(directory, f)
-        if os.path.isfile(full_path):
-            all_files.append(full_path)
+    for i in range(1, len(sys.argv)):
+        directory = sys.argv[i]
+
+        if not os.path.isdir(directory):
+            raise NotADirectoryError(f"{directory} is not a valid directory")
+
+        for f in os.listdir(directory):
+            full_path = os.path.join(directory, f)
+            if os.path.isfile(full_path):
+                all_files.append(full_path)
 
     return all_files
+
 
 def preprocess_data(df):
     df = df.copy()
 
-    # Split team and code safely
     df[["team", "code"]] = df["code"].astype(str).str.split(
         pat=" ", n=1, expand=True
     )
 
-    # Keep only real teams
-    df = df[df["team"].isin(teams_dict.keys())]
+    # Assign dynamic team IDs
+    df["team"] = df["team"].apply(get_team_id)
 
-    # Drop rows where code is missing
+    # Drop rows where team was actually an event code
+    df = df[df["team"].notna()]
+    df["team"] = df["team"].astype(int)
+
     df = df[df["code"].notna()]
-
-    # Clean code strings
     df["code"] = df["code"].astype(str).str.strip().str.lower()
 
-    # Map team names → ints
-    df["team"] = df["team"].map(teams_dict).astype(int)
-
-    # Map code names → ints
     df["code"] = df["code"].map(codes_dict)
-
-    # Drop unmapped codes
     df = df[df["code"].notna()]
-
-    # Convert to int
     df["code"] = df["code"].astype(int)
 
-    # Start at 0 seconds
     start_time = df["start"].min()
     df["start"] -= start_time
     df["end"] -= start_time
 
-    # Round
     df["start"] = df["start"].round(1)
     df["end"] = df["end"].round(1)
 
     return df
 
 
-def convert_to_time_series(df):
+def convert_to_time_series(df, sample_rate):
     df = df.copy()
 
     start_time = df["start"].min()
     end_time = df["end"].max()
 
-    n_steps = int((end_time - start_time) * 10) + 1
-    time_values = [step / 10 for step in range(n_steps)]
+    n_steps = int((end_time - start_time) * sample_rate) + 1
+    time_values = [step / sample_rate for step in range(n_steps)]
 
     teams_present = sorted(df["team"].unique())
     num_teams = len(teams_dict)
@@ -108,8 +121,8 @@ def convert_to_time_series(df):
     for _, row in df.iterrows():
         code = int(row["code"])
         team = int(row["team"])
-        start_idx = int(row["start"] * 10)
-        end_idx = int(row["end"] * 10)
+        start_idx = int(row["start"] * sample_rate)
+        end_idx = int(row["end"] * sample_rate)
         for idx in range(start_idx, end_idx + 1):
             team_lists[team][idx].append(code)
 
@@ -133,16 +146,12 @@ def convert_to_time_series(df):
             combined.append(data[f"team_{team}"][i])
         feature_vectors.append(np.concatenate(combined))
 
-
     # Extract goal event
-    goal_code = codes_dict["goal"]  # 20
-    goal_offset = goal_code - 1  # 19
-
-    block_size = num_teams + NUM_CODES  # 12 + 43 = 55
+    goal_code = codes_dict["goal"]
+    goal_offset = goal_code - 1
+    block_size = num_teams + NUM_CODES
 
     goal_indices = []
-
-    # For each team block, compute the goal index
     for block_i in range(len(teams_present)):
         base = block_i * block_size
         goal_idx = base + num_teams + goal_offset
@@ -152,7 +161,6 @@ def convert_to_time_series(df):
     cleaned_features = []
 
     for vec in feature_vectors:
-        # Check only valid indices
         goal_flag = 0
         for idx in goal_indices:
             if idx < len(vec) and vec[idx] == 1.0:
@@ -161,7 +169,6 @@ def convert_to_time_series(df):
 
         goal_events.append(goal_flag)
 
-        # Remove goal bits (only those that exist)
         valid_goal_indices = [idx for idx in goal_indices if idx < len(vec)]
         vec_no_goal = np.delete(vec, valid_goal_indices)
         cleaned_features.append(vec_no_goal)
@@ -174,21 +181,27 @@ def convert_to_time_series(df):
 
     return df
 
+
 def main():
+    samples = 2
     list_of_files = import_data_from_file()
+
     game_dfs = []
 
     for game_id, file in enumerate(list_of_files):
         file_df = pd.read_xml(file, xpath=".//instance")
         df = preprocess_data(file_df)
-        df = convert_to_time_series(df)
+        df = convert_to_time_series(df, samples)
 
-        df["game_id"] = game_id   # <-- ADD GAME ID HERE
-
+        df["game_id"] = game_id
         game_dfs.append(df)
 
     all_games_df = pd.concat(game_dfs, ignore_index=True)
     all_games_df.to_csv("time_series.csv", index=False)
+
+
+
+
 
 if __name__ == "__main__":
     with keep.running():
@@ -196,3 +209,4 @@ if __name__ == "__main__":
         main()
         end = time.time()
         print(f"The program took {end - start} seconds to run")
+
