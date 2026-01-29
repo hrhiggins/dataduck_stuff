@@ -1,4 +1,5 @@
 import numpy as np
+from ingest_data import main as ingest_data
 import pandas as pd
 import time
 from wakepy import keep
@@ -74,18 +75,9 @@ def build_windows(df, window_seconds, step_seconds, horizon_seconds):
     return X, y_goal, y_xg, game_ids
 
 
-def parse_feature_string(s):
-    s = s.strip()[1:-1]  # remove [ and ]
-    if not s:
-        return np.array([], dtype=np.float32)
-    return np.fromstring(s, sep=' ', dtype=np.float32)
-
-
 def main():
-    data = pd.read_csv("time_series.csv")
-
-    # Convert feature strings back to numpy arrays
-    data["features"] = data["features"].apply(parse_feature_string)
+#    data = pd.read_csv("time_series.csv")
+    data = ingest_data()
 
     # Build windows
     x_data, y_goal, y_xg, game_ids = build_windows(
@@ -100,6 +92,20 @@ def main():
 
     # Build model
     model = build_lstm_model(window_size=90, feature_dim=feature_dim)
+
+
+    # Train model
+    history = model.fit(
+        x_data,
+        {"goal_prob": y_goal, "xg": y_xg},
+        batch_size=64,
+        epochs=10,
+        validation_split=0.2,
+        shuffle=True
+    )
+
+    model.save("lstm_model.h5")
+
     model.summary()
 
 

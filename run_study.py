@@ -1,6 +1,8 @@
 from optuna_integration import TFKerasPruningCallback
 from keras.optimizers import Adam, RMSprop
 from preprocessing import add_rul_labels
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import f1_score
 from preprocessing import remove_non_relevant_data
 from preprocessing import pad_data_set
 from preprocessing import smooth_data
@@ -27,69 +29,56 @@ def objective(trial, training_data, validation_data, artifact_store):
 
     # Get optuna to figure out which value to pick
     # Define all the parameters
-    rul_cap = trial.suggest_int("rul_cap", 115, 135)
-    #healthy_cycles = trial.suggest_int('healthy_cycles', 20, 40)
-    #fault_threshold = trial.suggest_float('fault_threshold', 0.01, 0.1)
-    variance_threshold = trial.suggest_float('variance_threshold', 0.01, 0.05)
-    correlation_threshold = trial.suggest_float('correlation_threshold', 0.15, 0.30)
-    sigma = trial.suggest_float('sigma', 0.1, 0.5)
-    model_type_name = trial.suggest_categorical("model_type", ["LSTM", "GRU"])
+    rul_cap                         = trial.suggest_int("rul_cap", 115, 135)
+    #healthy_cycles                 = trial.suggest_int('healthy_cycles', 20, 40)
+    #fault_threshold                = trial.suggest_float('fault_threshold', 0.01, 0.1)
+    variance_threshold              = trial.suggest_float('variance_threshold', 0.01, 0.05)
+    correlation_threshold           = trial.suggest_float('correlation_threshold', 0.15, 0.30)
+    sigma                           = trial.suggest_float('sigma', 0.1, 0.5)
+    model_type_name                 = trial.suggest_categorical("model_type", ["LSTM", "GRU"])
     if model_type_name == "LSTM":
         model_type = LSTM
     else:
         model_type = GRU
-    sequence_length = trial.suggest_int("sequence_length", 20, 60)
-    include_smooth = trial.suggest_categorical("include_smooth", [True, False])
+    sequence_length                 = trial.suggest_int("sequence_length", 20, 60)
+    include_smooth                  = trial.suggest_categorical("include_smooth", [True, False])
     #k = trial.suggest_int("k", 1, 20)
-    unit_layer_1 = trial.suggest_int("lstm_layer_1", 50, 100)
-    dropout_layer_1 = trial.suggest_float("dropout_layer_1", 0.2, 0.5, step=0.1)
-    recurrent_dropout_layer_1 = trial.suggest_float("recurrent_dropout_layer_1", 0.0, 0.5)
-    unit_layer_2 = trial.suggest_int("lstm_layer_2", 20, 50)
-    dropout_layer_2 = trial.suggest_float("dropout_layer_2", 0.2, 0.5, step=0.1)
-    recurrent_dropout_layer_2 = trial.suggest_float("recurrent_dropout_layer_2", 0.0, 0.5)
-    dense = trial.suggest_int("dense", 16, 48)
-    activation = trial.suggest_categorical("activation", ["relu", "tanh", "elu"])
-    optimizer_type = trial.suggest_categorical("optimizer_type", ["adam", "rmsprop"])
+    unit_layer_1                    = trial.suggest_int("lstm_layer_1", 50, 100)
+    dropout_layer_1                 = trial.suggest_float("dropout_layer_1", 0.2, 0.5, step=0.1)
+    recurrent_dropout_layer_1       = trial.suggest_float("recurrent_dropout_layer_1", 0.0, 0.5)
+    unit_layer_2                    = trial.suggest_int("lstm_layer_2", 20, 50)
+    dropout_layer_2                 = trial.suggest_float("dropout_layer_2", 0.2, 0.5, step=0.1)
+    recurrent_dropout_layer_2       = trial.suggest_float("recurrent_dropout_layer_2", 0.0, 0.5)
+    dense                           = trial.suggest_int("dense", 16, 48)
+    activation                      = trial.suggest_categorical("activation", ["relu", "tanh", "elu"])
+    optimizer_type                  = trial.suggest_categorical("optimizer_type", ["adam", "rmsprop"])
     if optimizer_type == "adam":
         selected_optimizer = Adam
     else:
         selected_optimizer = RMSprop
-    learning_rate = trial.suggest_float("learning_rate", 0.0001, 0.001)
-    loss = "mse"
-    batch_size = trial.suggest_categorical("batch_size", [32, 64, 128])
-    epochs = trial.suggest_int("epochs", 50, 100)
+    learning_rate                   = trial.suggest_float("learning_rate", 0.0001, 0.001)
+    loss                            = "mse"
+    batch_size                      = trial.suggest_categorical("batch_size", [32, 64, 128])
+    epochs                          = trial.suggest_int("epochs", 50, 100)
 
-    # Create cache key for this specific set of variables
-    preprocess_cache_key = (variance_threshold, correlation_threshold, model_type_name,
-                            include_smooth, sequence_length, sigma)
-
-    if preprocess_cache_key not in PREPROCESSING_CACHE:
-
-        training_data = add_rul_labels(training_data, rul_cap)
-        validation_data = add_rul_labels(validation_data, rul_cap)
-
-        training_data, dropped_columns = remove_non_relevant_data(training_data, variance_threshold, correlation_threshold)
-        validation_data = validation_data.drop(columns=dropped_columns)
-
-        if include_smooth:
-            training_data = smooth_data(training_data, sigma)
-            validation_data = smooth_data(validation_data, sigma)
-
-        training_data = pad_data_set(training_data, sequence_length)
-        validation_data = pad_data_set(validation_data, sequence_length)
+    training_data = pad_data_set(training_data, sequence_length)
+    validation_data = pad_data_set(validation_data, sequence_length)
 
 
-        training_data, validation_data, normalising_scaler = normalise(primary_data=training_data,
-                                                                       secondary_data=validation_data)
-
-        # Add these results to the cache
-        PREPROCESSING_CACHE[preprocess_cache_key] = (training_data, validation_data, normalising_scaler, dropped_columns)
-
-    else:
-        training_data, validation_data, normalising_scaler, dropped_columns = PREPROCESSING_CACHE[preprocess_cache_key]
 
     training_df, rul_training_df = convert_to_windowed(training_data, sequence_length)
     validation_df, rul_validation_df = convert_to_windowed(validation_data, sequence_length)
+
+    # Train
+    # num_samples = training_df.shape[0]
+    # training_df = training_df.reshape(num_samples, -1)
+    # fault_model = KNeighborsClassifier(n_neighbors=k)
+    # fault_model.fit(training_df, rul_training_df)
+    # Validate
+    # num_samples = validation_df.shape[0]
+    # validation_df = validation_df.reshape(num_samples, -1)
+    # predicted = fault_model.predict(validation_df)
+    # f1 = f1_score(rul_validation_df, predicted)
 
     num_cols = training_df.shape[2]
 
@@ -153,18 +142,18 @@ def build_rul_model(sequence_length, num_cols, unit_layer_1, dropout_layer_1, un
 
 # https://medium.com/@mihaitimoficiuc/predicting-jet-engine-failures-with-nasas-c-mapss-dataset-and-lstm-a-practical-guide-to-85b9513ea9ed
 def convert_to_windowed(data_set, sequence_length):
-    data_set = data_set.sort_values(["engine_id", "cycle"]).reset_index(drop=True)
+    data_set = data_set.sort_values(["game_id", "time"]).reset_index(drop=True)
 
     data_windows_list = []
-    rul_windows_list = []
+    goal_windows_list = []
 
-    for engine_id, engine in data_set.groupby("engine_id"):
+    for engine_id, engine in data_set.groupby("game_id"):
         engine = engine.reset_index(drop=True)
         data_cols = get_data_columns(engine)
 
         # To avoid going into padded rows (where cycle less than 0):
-        non_padded_rows = engine.loc[engine["cycle"] > 0]
-        rul_values = non_padded_rows["rul"].reset_index(drop=True)
+        non_padded_rows = engine.loc[engine["time"] > 0]
+        rul_values = non_padded_rows["gao"].reset_index(drop=True)
         data_col_values = non_padded_rows[data_cols]
         num_windows = len(rul_values)
 
