@@ -1,0 +1,2437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>ARBITRAGE</code>
+<start>306.2059985932251</start>
+<end>326.2059985932251</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>ARBITRAGE</code>
+<start>546.1059342512251</start>
+<end>566.1059342512251</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>ARBITRAGE</code>
+<start>1375.305917273225</start>
+<end>1395.305917273225</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>ARBITRAGE</code>
+<start>2012.0059457592251</start>
+<end>2032.0059457592251</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>ARBITRAGE</code>
+<start>2123.205934487225</start>
+<end>2143.205934487225</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>ARBITRAGE</code>
+<start>2264.208771891225</start>
+<end>2284.208771891225</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>ARBITRAGE</code>
+<start>3291.2059455572253</start>
+<end>3311.2059455572253</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>ARBITRAGE</code>
+<start>3644.005954185225</start>
+<end>3664.005954185225</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>ARBITRAGE</code>
+<start>3695.9059569772253</start>
+<end>3715.9059569772253</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>ARBITRAGE</code>
+<start>3751.264235006225</start>
+<end>3771.264235006225</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>ARBITRAGE</code>
+<start>3771.2742350062254</start>
+<end>3772.0059494232246</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>ARBITRAGE</code>
+<start>3783.8059485952253</start>
+<end>3803.8059485952253</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>ARBITRAGE</code>
+<start>3878.105950084225</start>
+<end>3898.105950084225</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>ARBITRAGE</code>
+<start>3898.115950084225</start>
+<end>3909.0059334582247</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>ARBITRAGE</code>
+<start>4111.705939892225</start>
+<end>4131.705939892225</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>ARBITRAGE</code>
+<start>4296.305934166225</start>
+<end>4316.305934166225</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>ARBITRAGE</code>
+<start>4395.205978018225</start>
+<end>4415.205978018225</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>ARBITRAGE</code>
+<start>4786.605972973225</start>
+<end>4806.605972973225</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>ARBITRAGE</code>
+<start>4806.615972973225</start>
+<end>4820.105961932225</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>ARBITRAGE</code>
+<start>4958.305935709225</start>
+<end>4978.305935709225</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>ASB HDM</code>
+<start>4986.108206238225</start>
+<end>4996.108206238225</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>ASC HDM</code>
+<start>462.305974343225</start>
+<end>472.305974343225</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>ASC HDM</code>
+<start>502.00604761322506</start>
+<end>512.0060476132251</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>ASC HDM</code>
+<start>626.405962554225</start>
+<end>636.405962554225</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>ASC HDM</code>
+<start>1801.5059391372251</start>
+<end>1811.5059391372251</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>ASC PIN</code>
+<start>1935.1059164672251</start>
+<end>1945.1059164672251</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>ASC PIN</code>
+<start>3532.8078542422254</start>
+<end>3542.8078542422254</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>ASC PIN</code>
+<start>4818.505961349225</start>
+<end>4828.505961349225</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>BLESSURE / IMPACT</code>
+<start>1507.5059393482252</start>
+<end>1527.5059393482252</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>BLESSURE / IMPACT</code>
+<start>2298.505926112225</start>
+<end>2318.505926112225</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>BLESSURE / IMPACT</code>
+<start>3355.005958218225</start>
+<end>3375.005958218225</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>BLESSURE / IMPACT</code>
+<start>3969.3059705422247</start>
+<end>3989.3059705422247</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>BS1 HDM</code>
+<start>157.90594940022493</start>
+<end>180.70602438822493</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>BS1 HDM</code>
+<start>305.51506172022505</start>
+<end>315.1059353442249</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>BS1 HDM</code>
+<start>940.2059460202249</start>
+<end>991.305964196225</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BS1 HDM</code>
+<start>1074.0088832392248</start>
+<end>1092.928042906225</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BS1 HDM</code>
+<start>1129.9098199362252</start>
+<end>1152.010191936225</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BS1 HDM</code>
+<start>1360.1059169402251</start>
+<end>1365.4059272312252</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BS1 HDM</code>
+<start>1520.405922139225</start>
+<end>1524.405929222225</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BS1 HDM</code>
+<start>1531.105932654225</start>
+<end>1538.8059098212252</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BS1 HDM</code>
+<start>1544.5059146952249</start>
+<end>1569.509651259225</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BS1 HDM</code>
+<start>1874.205914928225</start>
+<end>1894.409421291225</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BS1 HDM</code>
+<start>1987.905939551225</start>
+<end>2005.6059446342251</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BS1 HDM</code>
+<start>3299.7059830982253</start>
+<end>3329.6059335922246</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BS1 HDM</code>
+<start>3417.505926468225</start>
+<end>3447.0059110752254</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BS1 HDM</code>
+<start>3594.7059343942246</start>
+<end>3612.4059489342253</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BS1 HDM</code>
+<start>3721.605919643225</start>
+<end>3745.0059602262254</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BS1 HDM</code>
+<start>3764.305960595225</start>
+<end>3795.5059680542254</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BS1 HDM</code>
+<start>3956.1059325192255</start>
+<end>3972.0059458112246</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BS1 HDM</code>
+<start>3981.605929000225</start>
+<end>3986.105925333225</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BS1 HDM</code>
+<start>4031.605954219225</start>
+<end>4038.605932094225</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BS1 HDM</code>
+<start>4078.413955742225</start>
+<end>4097.110449367225</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BS1 HDM</code>
+<start>4125.705937993225</start>
+<end>4149.005956951225</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BS1 HDM</code>
+<start>4156.805953034225</start>
+<end>4173.305951076225</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BS1 HDM</code>
+<start>4449.205987828225</start>
+<end>4467.805922911225</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BS1 HDM</code>
+<start>4481.705962592225</start>
+<end>4496.605967342225</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BS1 HDM</code>
+<start>4542.105945253225</start>
+<end>4577.105969337225</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BS1 HDM</code>
+<start>4915.505995130225</start>
+<end>4936.005932213225</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BS1 HDM</code>
+<start>4942.905931583225</start>
+<end>4971.606868583225</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BS1 HDM</code>
+<start>5260.305922805225</start>
+<end>5279.805939721225</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BS1 HDM</code>
+<start>5290.607450764225</start>
+<end>5307.105954638225</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BS1 HDM</code>
+<start>5343.006429638225</start>
+<end>5347.405930180225</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BS1 PIN</code>
+<start>281.10601030222506</start>
+<end>309.01506172022505</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BS1 PIN</code>
+<start>535.805969006225</start>
+<end>577.513915851225</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BS1 PIN</code>
+<start>625.2059923542249</start>
+<end>636.405962554225</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BS1 PIN</code>
+<start>986.805964196225</start>
+<end>1020.2059185302251</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BS1 PIN</code>
+<start>1668.305926820225</start>
+<end>1696.2060222792252</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BS1 PIN</code>
+<start>1747.405938137225</start>
+<end>1770.8059364802252</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BS1 PIN</code>
+<start>1853.505926897225</start>
+<end>1877.705914928225</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BS1 PIN</code>
+<start>2114.205927260225</start>
+<end>2134.605917237225</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BS1 PIN</code>
+<start>2145.005908945225</start>
+<end>2163.805938195225</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BS1 PIN</code>
+<start>2253.905929488225</start>
+<end>2278.409882599225</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BS1 PIN</code>
+<start>2283.908915765225</start>
+<end>2299.909075765225</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BS1 PIN</code>
+<start>2330.205928154225</start>
+<end>2367.105928278225</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BS1 PIN</code>
+<start>3183.2059345232246</start>
+<end>3215.206061523225</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BS1 PIN</code>
+<start>3248.5059196892253</start>
+<end>3271.8059746062254</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BS1 PIN</code>
+<start>3326.805918593225</start>
+<end>3346.805956453225</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BS1 PIN</code>
+<start>3369.7059179942253</start>
+<end>3394.0059403582254</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BS1 PIN</code>
+<start>3442.5059110752254</start>
+<end>3465.7074870762253</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BS1 PIN</code>
+<start>3679.4059629772246</start>
+<end>3696.9059648102248</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BS1 PIN</code>
+<start>3801.8059789532253</start>
+<end>3823.1059494532246</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BS1 PIN</code>
+<start>4324.205941871225</start>
+<end>4337.006453663225</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BS1 PIN</code>
+<start>4354.105957205225</start>
+<end>4381.405962996225</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BS1 PIN</code>
+<start>4384.805966996225</start>
+<end>4406.005940204225</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BS1 PIN</code>
+<start>4615.205934380225</start>
+<end>4625.305932588225</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BS1 PIN</code>
+<start>4728.105964723225</start>
+<end>4748.705988223225</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BS1 PIN</code>
+<start>5148.805921606225</start>
+<end>5180.805934480225</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BS2 HDM</code>
+<start>177.20602438822493</start>
+<end>183.90593026322495</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BS2 HDM</code>
+<start>311.6059353442249</start>
+<end>344.3214802602249</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BS2 HDM</code>
+<start>351.705977683225</start>
+<end>378.605988183225</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BS2 HDM</code>
+<start>794.605941254225</start>
+<end>820.9059412552251</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BS2 HDM</code>
+<start>1566.009651259225</start>
+<end>1606.9059365232251</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BS2 HDM</code>
+<start>2274.909882599225</start>
+<end>2288.408915765225</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BS2 HDM</code>
+<start>2296.409075765225</start>
+<end>2314.605926946225</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BS2 HDM</code>
+<start>3161.9130009392247</start>
+<end>3187.7059345232246</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BS2 HDM</code>
+<start>3614.4331345592254</start>
+<end>3636.2059643102248</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BS2 HDM</code>
+<start>3636.215964310225</start>
+<end>3656.005935560225</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BS2 HDM</code>
+<start>3855.3276648572246</start>
+<end>3875.3059759172247</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BS2 HDM</code>
+<start>3875.315975917225</start>
+<end>3889.805933208225</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BS2 HDM</code>
+<start>3889.815933208225</start>
+<end>3895.9059569592246</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BS2 HDM</code>
+<start>4282.805973915225</start>
+<end>4292.705973040225</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BS2 HDM</code>
+<start>4493.105967342225</start>
+<end>4513.605947461225</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BS2 HDM</code>
+<start>4701.705935165225</start>
+<end>4719.405945495225</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BS2 HDM</code>
+<start>4886.405933516225</start>
+<end>4894.605948350225</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BS2 HDM</code>
+<start>4968.106868583225</start>
+<end>4996.110438821225</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BS2 HDM</code>
+<start>5079.205927513225</start>
+<end>5106.005964513225</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BS2 HDM</code>
+<start>5119.906412264225</start>
+<end>5141.305965773225</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BS2 HDM</code>
+<start>5177.305934480225</start>
+<end>5195.305984314225</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BS2 HDM</code>
+<start>5195.315984314225</start>
+<end>5213.905924231225</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>BS2 HDM</code>
+<start>5303.605954638225</start>
+<end>5318.105931180225</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>BS2 PIN</code>
+<start>135.00904787622494</start>
+<end>152.40596178122496</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>BS2 PIN</code>
+<start>179.40593026322495</start>
+<end>195.00608834522495</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>BS2 PIN</code>
+<start>344.81493773422494</start>
+<end>355.205977683225</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>BS2 PIN</code>
+<start>586.906013679225</start>
+<end>619.105956126225</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>BS2 PIN</code>
+<start>694.4059427982249</start>
+<end>716.7059691822251</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>BS2 PIN</code>
+<start>1041.7059644292249</start>
+<end>1059.7059359712248</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>BS2 PIN</code>
+<start>1287.106905875225</start>
+<end>1311.905917100225</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>BS2 PIN</code>
+<start>2159.305938195225</start>
+<end>2182.805928368225</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>BS2 PIN</code>
+<start>2362.605928278225</start>
+<end>2368.005931820225</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>BS2 PIN</code>
+<start>3267.3059746062254</start>
+<end>3283.705985939225</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>BS2 PIN</code>
+<start>3461.2074870762253</start>
+<end>3486.508465783225</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>BS2 PIN</code>
+<start>3692.4059648102248</start>
+<end>3725.105919643225</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>BS2 PIN</code>
+<start>3891.4059569592246</start>
+<end>3897.805950417225</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>BS2 PIN</code>
+<start>3910.0059387512247</start>
+<end>3959.6059325192255</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>BS2 PIN</code>
+<start>4144.505956951225</start>
+<end>4160.305953034225</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>BS2 PIN</code>
+<start>4401.505940204225</start>
+<end>4406.805947518225</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>BS2 PIN</code>
+<start>4406.815947518226</start>
+<end>4452.705987828225</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>BS2 PIN</code>
+<start>4509.105947461225</start>
+<end>4530.405980294225</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>BS2 PIN</code>
+<start>4620.805932588225</start>
+<end>4630.605944729225</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>BS2 PIN</code>
+<start>4669.105954243225</start>
+<end>4684.705997701225</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>BS2 PIN</code>
+<start>5043.605962946225</start>
+<end>5066.105918853225</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>BS2 PIN</code>
+<start>5234.005932763225</start>
+<end>5263.805922805225</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>BS2 PIN</code>
+<start>5275.305939721225</start>
+<end>5294.107450764225</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BS3 HDM</code>
+<start>202.2059846592249</start>
+<end>223.80596530422508</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BS3 HDM</code>
+<start>375.105988183225</start>
+<end>388.405951476225</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BS3 HDM</code>
+<start>429.208756244225</start>
+<end>434.2101682872251</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BS3 HDM</code>
+<start>618.9059795422249</start>
+<end>629.7059923542249</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BS3 HDM</code>
+<start>817.4059412552251</start>
+<end>830.1059781572251</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BS3 HDM</code>
+<start>1652.505931403225</start>
+<end>1672.805926820225</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BS3 HDM</code>
+<start>2002.1059446342251</start>
+<end>2010.8059332182252</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BS3 HDM</code>
+<start>2048.605940427225</start>
+<end>2062.505934926225</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BS3 HDM</code>
+<start>2131.105917237225</start>
+<end>2149.505908945225</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BS3 HDM</code>
+<start>2311.105926946225</start>
+<end>2334.705928154225</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BS3 HDM</code>
+<start>3652.505935560225</start>
+<end>3671.005965643225</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BS3 HDM</code>
+<start>4289.205973040225</start>
+<end>4303.405931706225</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BS3 HDM</code>
+<start>4333.506453663225</start>
+<end>4347.106879704225</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BS3 HDM</code>
+<start>4380.805963454225</start>
+<end>4389.305966996225</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BS3 HDM</code>
+<start>4719.705944828225</start>
+<end>4732.605964723225</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BS3 HDM</code>
+<start>4745.205988223225</start>
+<end>4758.205942124225</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BS3 HDM</code>
+<start>4891.105948350225</start>
+<end>4902.305932057225</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BS3 HDM</code>
+<start>5102.505964513225</start>
+<end>5123.406412264225</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BS3 HDM</code>
+<start>5137.805965773225</start>
+<end>5153.305921606225</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BS3 PIN</code>
+<start>253.70592788722502</start>
+<end>268.4059366782251</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BS3 PIN</code>
+<start>1015.7059185302251</start>
+<end>1037.205923471225</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BS3 PIN</code>
+<start>1691.7060222792252</start>
+<end>1704.605923443225</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BS3 PIN</code>
+<start>1900.9083780832252</start>
+<end>1919.108463874225</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BS3 PIN</code>
+<start>2185.305938744225</start>
+<end>2210.205935645225</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BS3 PIN</code>
+<start>3210.706061523225</start>
+<end>3227.805941247225</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BS3 PIN</code>
+<start>3389.5059403582254</start>
+<end>3414.7059696272254</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BS3 PIN</code>
+<start>4109.805959142225</start>
+<end>4119.605935058225</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BS3 PIN</code>
+<start>4119.615935058226</start>
+<end>4127.905957184225</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BS3 PIN</code>
+<start>5067.507141394225</start>
+<end>5075.405931102225</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BS4 HDM</code>
+<start>280.0060425122249</start>
+<end>285.60601030222506</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BS4 HDM</code>
+<start>452.20652645222503</start>
+<end>464.0059349932251</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BS4 HDM</code>
+<start>731.205940491225</start>
+<end>751.7059173692251</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BS4 HDM</code>
+<start>1603.4059365232251</start>
+<end>1611.9059234822248</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BS4 HDM</code>
+<start>1628.207556431225</start>
+<end>1647.006345987225</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BS4 HDM</code>
+<start>1781.905935813225</start>
+<end>1811.5059258462252</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BS4 HDM</code>
+<start>2060.805933509225</start>
+<end>2073.805943385225</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BS4 HDM</code>
+<start>3354.605960593225</start>
+<end>3374.2059179942253</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BS4 HDM</code>
+<start>3792.0059680542254</start>
+<end>3798.705966870225</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BS4 HDM</code>
+<start>4301.905938040225</start>
+<end>4322.405993872225</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BS4 HDM</code>
+<start>4346.105959496225</start>
+<end>4358.605957205225</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BS4 HDM</code>
+<start>4597.505934961225</start>
+<end>4614.506289920225</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BS4 PIN</code>
+<start>878.2059442192251</start>
+<end>893.305967095225</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BS4 PIN</code>
+<start>903.7059330542249</start>
+<end>926.0059770032251</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BS4 PIN</code>
+<start>926.0159770032251</start>
+<end>943.7059460202249</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BS4 PIN</code>
+<start>1055.2059359712248</start>
+<end>1077.5088832392248</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BS4 PIN</code>
+<start>1307.405917100225</start>
+<end>1339.5059225682248</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BS4 PIN</code>
+<start>1351.205921685225</start>
+<end>1363.6059169402251</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BS4 PIN</code>
+<start>1403.405926566225</start>
+<end>1410.005925565225</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BS4 PIN</code>
+<start>1410.0159255652252</start>
+<end>1436.505922381225</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BS4 PIN</code>
+<start>1493.205935995225</start>
+<end>1518.705908557225</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BS4 PIN</code>
+<start>1914.608463874225</start>
+<end>1936.305939177225</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BS4 PIN</code>
+<start>1936.3159391772251</start>
+<end>1941.3059240092248</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BS4 PIN</code>
+<start>1941.315924009225</start>
+<end>1945.105930884225</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BS4 PIN</code>
+<start>3279.205985939225</start>
+<end>3288.905985432225</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BS4 PIN</code>
+<start>3288.915985432225</start>
+<end>3303.2059830982253</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BS4 PIN</code>
+<start>3482.008465783225</start>
+<end>3492.9078905332253</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BS4 PIN</code>
+<start>3500.0068692012246</start>
+<end>3509.5075053672253</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BS4 PIN</code>
+<start>3509.5175053672256</start>
+<end>3520.810684742225</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BS4 PIN</code>
+<start>3520.8206847422252</start>
+<end>3544.7079417469076</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BS4 PIN</code>
+<start>3583.5059348952254</start>
+<end>3598.2059343942246</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BS4 PIN</code>
+<start>3747.8059951442247</start>
+<end>3767.805960595225</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BS4 PIN</code>
+<start>4041.614404367225</start>
+<end>4056.515206410225</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BS4 PIN</code>
+<start>4056.525206410225</start>
+<end>4081.913955742225</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BS4 PIN</code>
+<start>4525.905980294225</start>
+<end>4545.605945253225</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BS4 PIN</code>
+<start>4788.705962265225</start>
+<end>4810.805927223225</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BS4 PIN</code>
+<start>4810.815927223225</start>
+<end>4828.505969182225</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BW1 HDM</code>
+<start>145.90596178122496</start>
+<end>161.40594940022493</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BW1 HDM</code>
+<start>230.70953876222507</start>
+<end>258.205927887225</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BW1 HDM</code>
+<start>571.013915851225</start>
+<end>591.406013679225</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>BW1 HDM</code>
+<start>784.4059774212251</start>
+<end>798.105941254225</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>BW1 HDM</code>
+<start>847.8059700742251</start>
+<end>856.5059578652249</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>BW1 HDM</code>
+<start>886.805967095225</start>
+<end>908.2059330542249</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>BW1 HDM</code>
+<start>1333.0059225682248</start>
+<end>1355.705921685225</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>BW1 HDM</code>
+<start>1430.005922381225</start>
+<end>1445.005951923225</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>BW1 HDM</code>
+<start>1445.0159519232252</start>
+<end>1453.305923464225</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>BW1 HDM</code>
+<start>1453.3159234642253</start>
+<end>1458.005917298225</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>BW1 HDM</code>
+<start>1458.705925672225</start>
+<end>1480.0059406302248</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>BW1 HDM</code>
+<start>1512.205908557225</start>
+<end>1523.905922139225</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>BW1 HDM</code>
+<start>3408.2059696272254</start>
+<end>3421.005926468225</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>BW1 HDM</code>
+<start>3486.4078905332253</start>
+<end>3501.9086621582246</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>BW1 HDM</code>
+<start>3503.0075053672253</start>
+<end>3512.5099532422246</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>BW1 HDM</code>
+<start>3514.310684742225</start>
+<end>3523.1062307012253</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>BW1 HDM</code>
+<start>3579.2059395192246</start>
+<end>3588.0059348952254</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>BW1 HDM</code>
+<start>3837.005942607225</start>
+<end>3858.8276648572246</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>BW1 HDM</code>
+<start>4121.405957184225</start>
+<end>4129.205944934225</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>BW1 HDM</code>
+<start>4770.605983307225</start>
+<end>4777.905935557225</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>BW1 HDM</code>
+<start>4804.305927223225</start>
+<end>4814.805965432225</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>BW1 HDM</code>
+<start>5059.605918853225</start>
+<end>5072.007141394225</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>BW1 PIN</code>
+<start>381.905951476225</start>
+<end>392.5060014902251</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>BW1 PIN</code>
+<start>392.5160014902251</start>
+<end>400.6059525922251</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>BW1 PIN</code>
+<start>420.309835120225</start>
+<end>428.3103157862249</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>BW1 PIN</code>
+<start>428.3203157862249</start>
+<end>444.1125316622249</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>BW1 PIN</code>
+<start>457.5059349932251</start>
+<end>466.505927992225</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>BW1 PIN</code>
+<start>532.505967256225</start>
+<end>540.305969006225</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>BW1 PIN</code>
+<start>681.7059742152251</start>
+<end>698.9059427982249</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>BW1 PIN</code>
+<start>745.2059173692251</start>
+<end>790.9059774212251</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>BW1 PIN</code>
+<start>823.6059781572251</start>
+<end>854.3059700742251</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>BW1 PIN</code>
+<start>1605.4059234822248</start>
+<end>1613.305944024225</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>BW1 PIN</code>
+<start>1614.005933736225</start>
+<end>1622.0059195702252</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>BW1 PIN</code>
+<start>1640.506345987225</start>
+<end>1656.005931403225</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>BW1 PIN</code>
+<start>1719.305928588225</start>
+<end>1747.9059350122252</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>BW1 PIN</code>
+<start>2056.005934926225</start>
+<end>2064.305933509225</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>BW1 PIN</code>
+<start>2067.305943385225</start>
+<end>2078.505909884225</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>BW1 PIN</code>
+<start>2096.805928718225</start>
+<end>2104.805937884225</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>BW1 PIN</code>
+<start>2237.905981137225</start>
+<end>2258.405929488225</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>BW1 PIN</code>
+<start>3239.710967681225</start>
+<end>3253.0059196892253</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>BW1 PIN</code>
+<start>3323.1059335922246</start>
+<end>3331.305918593225</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>BW1 PIN</code>
+<start>3664.505965643225</start>
+<end>3683.9059629772246</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>BW1 PIN</code>
+<start>3792.205966870225</start>
+<end>3806.3059789532253</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>BW1 PIN</code>
+<start>3825.605964578225</start>
+<end>3843.505942607225</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>BW1 PIN</code>
+<start>4296.905931706225</start>
+<end>4305.405938040225</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>BW1 PIN</code>
+<start>4315.905993872225</start>
+<end>4328.705941871225</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>BW1 PIN</code>
+<start>4340.606879704225</start>
+<end>4349.605959496225</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>BW1 PIN</code>
+<start>4570.605969337225</start>
+<end>4578.805930503225</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>BW1 PIN</code>
+<start>4608.006289920225</start>
+<end>4619.705934380225</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>BW1 PIN</code>
+<start>4751.705942124225</start>
+<end>4777.105983307225</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>BW1 PIN</code>
+<start>5207.405924231225</start>
+<end>5233.905931555225</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>BW1 PIN</code>
+<start>5311.605931180225</start>
+<end>5346.506429638225</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>BW2 HDM</code>
+<start>188.50608834522495</start>
+<end>205.7059846592249</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>BW2 HDM</code>
+<start>261.9059366782251</start>
+<end>283.5060425122249</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>BW2 HDM</code>
+<start>394.1059525922251</start>
+<end>426.809835120225</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>BW2 HDM</code>
+<start>612.605956126225</start>
+<end>622.4059795422249</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>BW2 HDM</code>
+<start>710.2059691822251</start>
+<end>734.705940491225</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>BW2 HDM</code>
+<start>1030.705923471225</start>
+<end>1038.3059925952252</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>BW2 HDM</code>
+<start>1120.3059324782248</start>
+<end>1133.4098199362252</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>BW2 HDM</code>
+<start>1698.105923443225</start>
+<end>1725.805928588225</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>BW2 HDM</code>
+<start>1741.4059350122252</start>
+<end>1751.905938137225</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>BW2 HDM</code>
+<start>1764.3059364802252</start>
+<end>1785.405935813225</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>BW2 HDM</code>
+<start>2176.305928368225</start>
+<end>2185.105944869225</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>BW2 HDM</code>
+<start>2203.705935645225</start>
+<end>2244.405981137225</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>BW2 HDM</code>
+<start>3221.305941247225</start>
+<end>3246.210967681225</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>BW2 HDM</code>
+<start>4469.005937711225</start>
+<end>4477.106000669225</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>BW2 HDM</code>
+<start>5068.905931102225</start>
+<end>5082.705927513225</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>BW2 HDM</code>
+<start>5227.405931555225</start>
+<end>5238.505932763225</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>BW2 PIN</code>
+<start>217.30596530422508</start>
+<end>237.20953876222507</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>BW2 PIN</code>
+<start>337.8214802602249</start>
+<end>345.712940428225</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>BW2 PIN</code>
+<start>1473.5059406302248</start>
+<end>1497.705935995225</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>BW2 PIN</code>
+<start>4470.606000669225</start>
+<end>4485.205962592225</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>BW2 PIN</code>
+<start>4577.205934794225</start>
+<end>4588.605976419225</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>BW2 PIN</code>
+<start>4680.905998160225</start>
+<end>4705.205935165225</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>BW2 PIN</code>
+<start>4712.905945495225</start>
+<end>4723.205944828225</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>BW2 PIN</code>
+<start>4895.805932057225</start>
+<end>4919.005995130225</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>BW2 PIN</code>
+<start>4929.505932213225</start>
+<end>4946.405931583225</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>BW3 HDM</code>
+<start>339.212940428225</start>
+<end>349.31493773422494</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>BW3 HDM</code>
+<start>386.0060014902251</start>
+<end>394.006009948225</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>BW3 HDM</code>
+<start>421.8103157862249</start>
+<end>432.708756244225</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>BW3 HDM</code>
+<start>437.6125316622249</start>
+<end>455.70652645222503</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>BW3 HDM</code>
+<start>1097.505952479225</start>
+<end>1105.6059815622252</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>BW3 HDM</code>
+<start>1606.805944024225</start>
+<end>1620.505933736225</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>BW3 HDM</code>
+<start>2098.305937884225</start>
+<end>2118.705927260225</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>BW3 HDM</code>
+<start>3340.305956453225</start>
+<end>3358.105960593225</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>BW3 HDM</code>
+<start>3816.6059494532246</start>
+<end>3832.105964578225</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>BW3 HDM</code>
+<start>4374.905962996225</start>
+<end>4384.305963454225</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>BW3 HDM</code>
+<start>4572.305930503225</start>
+<end>4583.705934794225</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>BW3 HDM</code>
+<start>4583.715934794225</start>
+<end>4601.005934961225</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>BW3 HDM</code>
+<start>4624.105944729225</start>
+<end>4644.705951396225</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>BW3 HDM</code>
+<start>4678.205997701225</start>
+<end>4687.405998160225</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>BW3 PIN</code>
+<start>850.0059578652249</start>
+<end>882.7059442192251</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>BW3 PIN</code>
+<start>1031.8059925952252</start>
+<end>1046.2059644292249</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>BW3 PIN</code>
+<start>1086.428042906225</start>
+<end>1104.005952479225</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>BW3 PIN</code>
+<start>1104.0159524792252</start>
+<end>1126.8059324782248</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>BW3 PIN</code>
+<start>1438.505951923225</start>
+<end>1447.9059306732252</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>BW3 PIN</code>
+<start>1532.3059098212252</start>
+<end>1548.0059146952249</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>BW3 PIN</code>
+<start>1887.909421291225</start>
+<end>1905.4083780832252</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>BW3 PIN</code>
+<start>2178.605944869225</start>
+<end>2189.805938744225</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>BW3 PIN</code>
+<start>3605.9059489342253</start>
+<end>3617.9331345592254</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>BW3 PIN</code>
+<start>3629.7059643102248</start>
+<end>3638.305931435225</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>BW3 PIN</code>
+<start>3965.5059458112246</start>
+<end>3985.105929000225</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>BW3 PIN</code>
+<start>4032.105932094225</start>
+<end>4046.114404367225</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>BW3 PIN</code>
+<start>4090.6104493672246</start>
+<end>4114.305959142225</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>BW3 PIN</code>
+<start>4461.305922911225</start>
+<end>4475.505937711225</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>BW3 PIN</code>
+<start>4771.405935557225</start>
+<end>4793.205962265225</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>BW4 HDM</code>
+<start>460.005927992225</start>
+<end>468.8094715592249</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>BW4 HDM</code>
+<start>1615.5059195702252</start>
+<end>1631.707556431225</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>BW4 HDM</code>
+<start>2072.005909884225</start>
+<end>2103.305928718225</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>BW4 PIN</code>
+<start>143.50597707222505</start>
+<end>160.4059694412249</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>BW4 PIN</code>
+<start>1399.3059475232249</start>
+<end>1407.905926566225</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>BW4 PIN</code>
+<start>1446.805923464225</start>
+<end>1457.105917297225</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>BW4 PIN</code>
+<start>1457.1159172972252</start>
+<end>1465.205925672225</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>BW4 PIN</code>
+<start>1929.805939177225</start>
+<end>1938.905924926225</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>BW4 PIN</code>
+<start>3495.4086621582246</start>
+<end>3504.5068692012246</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>BW4 PIN</code>
+<start>3738.5059602262254</start>
+<end>3752.3059951442247</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>BW4 PIN</code>
+<start>4122.705944934225</start>
+<end>4129.205937993225</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>CP HDM</code>
+<start>263.805952303225</start>
+<end>285.30598159422493</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>CP HDM</code>
+<start>371.205970975225</start>
+<end>388.6059596842249</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>CP HDM</code>
+<start>452.205918450225</start>
+<end>468.8094715592249</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>CP HDM</code>
+<start>610.3059702712251</start>
+<end>633.4059353882251</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>CP HDM</code>
+<start>708.405960683225</start>
+<end>728.205972283225</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>CP HDM</code>
+<start>733.305948345225</start>
+<end>751.8059165772249</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>CP HDM</code>
+<start>970.605957504225</start>
+<end>990.706000156225</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>CP HDM</code>
+<start>1629.7086293892248</start>
+<end>1646.7064829032252</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>CP HDM</code>
+<start>3227.405943288225</start>
+<end>3245.5148040972254</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>CP HDM</code>
+<start>3426.6066339922254</start>
+<end>3446.4059207412247</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>CP HDM</code>
+<start>3780.805980828225</start>
+<end>3798.9059733282247</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>CP HDM</code>
+<start>4326.205930538225</start>
+<end>4346.505926163225</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>CP HDM</code>
+<start>4621.505960062225</start>
+<end>4644.705951396225</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>CP HDM</code>
+<start>4972.608112446225</start>
+<end>4996.110438821225</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>CP PIN</code>
+<start>143.50597707222505</start>
+<end>160.4059694412249</end>
+</instance>
+<instance>
+<ID>331</ID>
+<code>CP PIN</code>
+<start>1316.005928442225</start>
+<end>1334.7059240672252</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>CP PIN</code>
+<start>1343.305927602225</start>
+<end>1361.9059190652251</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>CP PIN</code>
+<start>1444.105928381225</start>
+<end>1465.505934755225</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>CP PIN</code>
+<start>1528.805919737225</start>
+<end>1547.105933029225</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>CP PIN</code>
+<start>1898.7088236252248</start>
+<end>1919.908288707225</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>CP PIN</code>
+<start>3476.207549908225</start>
+<end>3493.2059350332247</end>
+</instance>
+<instance>
+<ID>337</ID>
+<code>CP PIN</code>
+<start>3502.7062104502247</start>
+<end>3521.105938950225</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>CP PIN</code>
+<start>3522.2076774502248</start>
+<end>3544.7079417469076</end>
+</instance>
+<instance>
+<ID>339</ID>
+<code>CP PIN</code>
+<start>3701.3059308102247</start>
+<end>3724.705954185225</end>
+</instance>
+<instance>
+<ID>340</ID>
+<code>CP PIN</code>
+<start>3733.605957143225</start>
+<end>3752.705932851225</end>
+</instance>
+<instance>
+<ID>341</ID>
+<code>CP PIN</code>
+<start>3939.1059296032254</start>
+<end>3959.105927978225</end>
+</instance>
+<instance>
+<ID>342</ID>
+<code>CP PIN</code>
+<start>3963.7059457152254</start>
+<end>3984.805995708225</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>CP PIN</code>
+<start>4059.514496493225</start>
+<end>4082.6082322012253</end>
+</instance>
+<instance>
+<ID>344</ID>
+<code>CP PIN</code>
+<start>4116.005949351225</start>
+<end>4130.305977075225</end>
+</instance>
+<instance>
+<ID>345</ID>
+<code>CP PIN</code>
+<start>4524.406476337225</start>
+<end>4544.505942420225</end>
+</instance>
+<instance>
+<ID>346</ID>
+<code>CP PIN</code>
+<start>5243.405929722225</start>
+<end>5262.305929180225</end>
+</instance>
+<instance>
+<ID>347</ID>
+<code>GEEL PIN</code>
+<start>1992.0059457592251</start>
+<end>3457.110418783225</end>
+</instance>
+<instance>
+<ID>348</ID>
+<code>GOAL HDM</code>
+<start>4621.705947270225</start>
+<end>4644.705947270225</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>GOAL HDM</code>
+<start>5010.205950462225</start>
+<end>5033.205950462225</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>GOAL PIN</code>
+<start>4849.905927882225</start>
+<end>4872.905927882225</end>
+</instance>
+<instance>
+<ID>351</ID>
+<code>GROEN HDM</code>
+<start>3869.0059334582247</start>
+<end>4086.3701305282248</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>Q1</code>
+<start>138.90593254322494</start>
+<end>1152.010191936225</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>Q2</code>
+<start>1291.108317875225</start>
+<end>2368.005931820225</end>
+</instance>
+<instance>
+<ID>354</ID>
+<code>Q3</code>
+<start>3164.911814814225</start>
+<end>4173.305951076225</end>
+</instance>
+<instance>
+<ID>355</ID>
+<code>Q4</code>
+<start>4285.405945956225</start>
+<end>5347.405930180225</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>SB HDM</code>
+<start>5025.605956629225</start>
+<end>5033.605956629225</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>SC HDM</code>
+<start>503.1059795292249</start>
+<end>517.1059795292249</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>SC HDM</code>
+<start>530.605965715225</start>
+<end>544.605965715225</end>
+</instance>
+<instance>
+<ID>359</ID>
+<code>SC HDM</code>
+<start>679.905935048225</start>
+<end>693.905935048225</end>
+</instance>
+<instance>
+<ID>360</ID>
+<code>SC HDM</code>
+<start>1850.0059184382249</start>
+<end>1864.0059184382249</end>
+</instance>
+<instance>
+<ID>361</ID>
+<code>SC PIN</code>
+<start>1980.705932676225</start>
+<end>1994.705932676225</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>SC PIN</code>
+<start>3576.206061935225</start>
+<end>3590.206061935225</end>
+</instance>
+<instance>
+<ID>363</ID>
+<code>SC PIN</code>
+<start>4859.805924841225</start>
+<end>4873.805924841225</end>
+</instance>
+<instance>
+<ID>364</ID>
+<code>SHARE PIN - HDM</code>
+<start>0.0</start>
+<end>5362.448900151513</end>
+</instance>
+<instance>
+<ID>365</ID>
+<code>START</code>
+<start>137.90593254322494</start>
+<end>140.90593254322494</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>START</code>
+<start>1290.108317875225</start>
+<end>1293.108317875225</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>START</code>
+<start>3163.911814814225</start>
+<end>3166.911814814225</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>START</code>
+<start>4284.405945956225</start>
+<end>4287.405945956225</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ARBITRAGE</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASB HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BLESSURE / IMPACT</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GEEL PIN</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GROEN HDM</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>Q1</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q2</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q3</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q4</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>SB HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC HDM</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>SHARE PIN - HDM</code>
+<R>59110</R>
+<G>59110</G>
+<B>59110</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+</ROWS>
+</file>

@@ -1,0 +1,2491 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>hbs 23_entry</code>
+<start>40.913366559</start>
+<end>55.913366559</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>hbs 23_entry</code>
+<start>166.773337172</start>
+<end>181.773337172</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>hbs 23_entry</code>
+<start>229.00010186</start>
+<end>246.616192377</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>hbs 23_entry</code>
+<start>769.035871995</start>
+<end>784.035871995</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>hbs 23_entry</code>
+<start>824.049318612</start>
+<end>839.049318612</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>hbs 23_entry</code>
+<start>904.533803287</start>
+<end>919.533803287</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>hbs 23_entry</code>
+<start>1103.669506112</start>
+<end>1118.669506112</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>hbs 23_entry</code>
+<start>1330.990538583</start>
+<end>1345.990538583</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>hbs 23_entry</code>
+<start>1543.873770903</start>
+<end>1558.873770903</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>hbs 23_entry</code>
+<start>1742.329581346</start>
+<end>1757.329581346</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>hbs 23_entry</code>
+<start>3099.716254465</start>
+<end>3117.313622464</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>hbs 23_entry</code>
+<start>3241.673475529</start>
+<end>3256.673475529</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>hbs 23_entry</code>
+<start>3626.851195263</start>
+<end>3641.851195263</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>hbs 23_entry</code>
+<start>3659.645115888</start>
+<end>3674.645115888</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>hbs 23_entry</code>
+<start>3697.003124388</start>
+<end>3712.003124388</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>hbs 23_entry</code>
+<start>3770.68655519</start>
+<end>3787.242272564</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>hbs 23_entry</code>
+<start>3891.561763805</start>
+<end>3906.561763805</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>hbs 23_entry</code>
+<start>4005.512423763</start>
+<end>4023.678743637</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>hbs 23_entry</code>
+<start>4363.131826751</start>
+<end>4385.753129126</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>hbs 23_entry</code>
+<start>4758.175878468</start>
+<end>4773.175878468</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>hbs 23_entry</code>
+<start>5001.744391505</start>
+<end>5019.822985007</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>hbs 23_entry</code>
+<start>5089.24618175</start>
+<end>5104.24618175</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>hbs 23_entry</code>
+<start>5306.59250403</start>
+<end>5321.59250403</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>hbs 23_entry</code>
+<start>5327.637053529</start>
+<end>5342.637053529</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>hbs 23_entry</code>
+<start>5364.768318897</start>
+<end>5379.768318897</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>3999.382470888</start>
+<end>4024.382470888</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>4060.712404598</start>
+<end>4085.712404598</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>4356.656924003</start>
+<end>4381.656924003</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>4424.265860443</start>
+<end>4449.265860443</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>hbs ball_restart_1</code>
+<start>160.1071094218844</start>
+<end>177.65600784</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>hbs ball_restart_1</code>
+<start>221.696867358</start>
+<end>241.167802461</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>hbs ball_restart_1</code>
+<start>373.226380726</start>
+<end>399.655113259</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>hbs ball_restart_1</code>
+<start>399.665113259</start>
+<end>414.068036093</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>hbs ball_restart_1</code>
+<start>439.71378875775156</start>
+<end>461.547145508</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>hbs ball_restart_1</code>
+<start>526.341456187</start>
+<end>542.820906605</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>hbs ball_restart_1</code>
+<start>1004.488783888</start>
+<end>1025.136017263</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>hbs ball_restart_1</code>
+<start>1025.146017263</start>
+<end>1035.933717534</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>hbs ball_restart_1</code>
+<start>1568.908535737</start>
+<end>1590.337616571</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>hbs ball_restart_1</code>
+<start>1714.426837012</start>
+<end>1727.665661678</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>hbs ball_restart_1</code>
+<start>1727.675661678</start>
+<end>1743.519293262</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>hbs ball_restart_1</code>
+<start>1824.69091956</start>
+<end>1849.559600521</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>hbs ball_restart_1</code>
+<start>1961.639589064</start>
+<end>1973.015716189</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>hbs ball_restart_1</code>
+<start>2045.538066313</start>
+<end>2095.346303185</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>hbs ball_restart_1</code>
+<start>2116.937957557</start>
+<end>2130.710924181</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>hbs ball_restart_1</code>
+<start>2195.521088685</start>
+<end>2214.162335672</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>hbs ball_restart_1</code>
+<start>2280.013768292</start>
+<end>2291.287152718</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>hbs ball_restart_1</code>
+<start>3161.795113724</start>
+<end>3182.701827974</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>hbs ball_restart_1</code>
+<start>3973.767420805</start>
+<end>3980.431444804</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>hbs ball_restart_1</code>
+<start>4325.532474206</start>
+<end>4347.006507704</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>hbs ball_restart_1</code>
+<start>4581.922040671</start>
+<end>4605.998662798</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>hbs ball_restart_1</code>
+<start>4606.008662798</start>
+<end>4620.443191079</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>hbs ball_restart_1</code>
+<start>4909.015657345</start>
+<end>4933.016817724</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>hbs ball_restart_1</code>
+<start>5294.678457782</start>
+<end>5321.984507153</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>hbs ball_restart_2</code>
+<start>18.739367658</start>
+<end>37.72112819204019</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>hbs ball_restart_2</code>
+<start>108.13265853170634</start>
+<end>120.227597034</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>hbs ball_restart_2</code>
+<start>457.047145508</start>
+<end>482.418722092</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>hbs ball_restart_2</code>
+<start>701.487831169</start>
+<end>722.831574503</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>hbs ball_restart_2</code>
+<start>722.841574503</start>
+<end>746.682351083</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>hbs ball_restart_2</code>
+<start>842.45925351</start>
+<end>864.261360885</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>hbs ball_restart_2</code>
+<start>864.271360885</start>
+<end>914.77230909</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>hbs ball_restart_2</code>
+<start>1031.433717534</start>
+<end>1053.53828841</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>hbs ball_restart_2</code>
+<start>1075.122942355</start>
+<end>1105.697365237</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>hbs ball_restart_2</code>
+<start>1300.82603202</start>
+<end>1347.518209333</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>hbs ball_restart_2</code>
+<start>1466.258457743</start>
+<end>1488.436062577</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>hbs ball_restart_2</code>
+<start>1488.446062577</start>
+<end>1496.487834243</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>hbs ball_restart_2</code>
+<start>1527.827231403</start>
+<end>1545.194666655</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>hbs ball_restart_2</code>
+<start>1585.837616571</start>
+<end>1602.502554092</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>hbs ball_restart_2</code>
+<start>1621.868015594</start>
+<end>1635.499310928</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>hbs ball_restart_2</code>
+<start>1739.019293262</start>
+<end>1758.938143096</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>hbs ball_restart_2</code>
+<start>1998.954204811</start>
+<end>2018.749546561</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>hbs ball_restart_2</code>
+<start>2018.759546561</start>
+<end>2042.482300813</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>hbs ball_restart_2</code>
+<start>3343.571631402</start>
+<end>3350.174068278</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>hbs ball_restart_2</code>
+<start>3491.949561276</start>
+<end>3506.022712499</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>hbs ball_restart_2</code>
+<start>3617.693808638</start>
+<end>3636.708543014</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>hbs ball_restart_2</code>
+<start>3724.641110765</start>
+<end>3753.634782767</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>hbs ball_restart_2</code>
+<start>4654.628328329</start>
+<end>4674.733336328</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>hbs ball_restart_2</code>
+<start>4730.421858077</start>
+<end>4754.103227078</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>hbs ball_restart_3</code>
+<start>36.616304309</start>
+<end>64.408646423</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>hbs ball_restart_3</code>
+<start>801.414142112</start>
+<end>809.465894861</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>hbs ball_restart_3</code>
+<start>1049.03828841</start>
+<end>1067.155827106</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>hbs ball_restart_3</code>
+<start>1101.197365237</start>
+<end>1112.092004488</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>hbs ball_restart_3</code>
+<start>1424.412061161</start>
+<end>1441.013050995</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>hbs ball_restart_3</code>
+<start>2090.846303185</start>
+<end>2099.053495933</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>hbs ball_restart_3</code>
+<start>3345.674068278</start>
+<end>3379.568149527</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>hbs ball_restart_3</code>
+<start>3865.805574685</start>
+<end>3903.627915304</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>hbs ball_restart_3</code>
+<start>4146.87765318</start>
+<end>4156.481265929</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>hbs ball_restart_3</code>
+<start>4749.603227078</start>
+<end>4770.608470469</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>hbs ball_restart_3</code>
+<start>4778.16883697</start>
+<end>4795.620519344</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>hbs ball_restart_3</code>
+<start>4928.516817724</start>
+<end>4949.715507349</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>hbs ball_restart_4</code>
+<start>1343.018209333</start>
+<end>1388.501411913</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>hbs ball_restart_4</code>
+<start>1540.694666655</start>
+<end>1552.699819237</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>hbs ball_restart_4</code>
+<start>3248.699991153</start>
+<end>3264.457746276</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>hbs ball_restart_4</code>
+<start>3689.462881514</start>
+<end>3716.753101133</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>hbs ball_restart_4</code>
+<start>3716.7631011330004</start>
+<end>3723.062384767</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>hbs ball_restart_4</code>
+<start>3782.152592566</start>
+<end>3802.723186315</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>hbs ball_restart_4</code>
+<start>4366.785979375</start>
+<end>4381.656924003</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>hbs ball_restart_4</code>
+<start>5036.249762752</start>
+<end>5050.218956377</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>hbs ball_restart_4</code>
+<start>5050.228956377</start>
+<end>5061.657345253</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>hbs ball_restart_4</code>
+<start>5106.393776755</start>
+<end>5115.491294008</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>hbs ball_restart_4</code>
+<start>5317.484507153</start>
+<end>5335.731513152</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>hbs ball_win_1</code>
+<start>276.681516452</start>
+<end>311.044752538</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>hbs ball_win_1</code>
+<start>337.540260974</start>
+<end>358.941405726</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>hbs ball_win_1</code>
+<start>506.143860227</start>
+<end>514.615983977</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>hbs ball_win_1</code>
+<start>583.577419365</start>
+<end>601.427005863</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>hbs ball_win_1</code>
+<start>689.132896335</start>
+<end>705.987831169</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>hbs ball_win_1</code>
+<start>755.625009415</start>
+<end>776.434228161</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>hbs ball_win_1</code>
+<start>830.378293884</start>
+<end>846.95925351</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>hbs ball_win_1</code>
+<start>988.126413593</start>
+<end>998.802607093</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>hbs ball_win_1</code>
+<start>1609.46743851</start>
+<end>1626.368015594</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>hbs ball_win_1</code>
+<start>1902.690122524</start>
+<end>1928.287945648</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>hbs ball_win_1</code>
+<start>2216.098951046</start>
+<end>2224.682170796</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>hbs ball_win_1</code>
+<start>2224.692170796</start>
+<end>2241.437843672</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>hbs ball_win_1</code>
+<start>3128.349401723</start>
+<end>3143.792881724</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>hbs ball_win_1</code>
+<start>3189.788688848</start>
+<end>3203.185062974</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>hbs ball_win_1</code>
+<start>3229.060170903</start>
+<end>3253.199991153</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>hbs ball_win_1</code>
+<start>3436.933331904</start>
+<end>3449.285854779</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>hbs ball_win_1</code>
+<start>3560.339352482</start>
+<end>3588.016392433</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>hbs ball_win_1</code>
+<start>3608.069296681</start>
+<end>3622.193808638</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>hbs ball_win_1</code>
+<start>4501.832304699</start>
+<end>4511.124192699</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>hbs ball_win_1</code>
+<start>4841.838824725</start>
+<end>4853.216273224</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>hbs ball_win_1</code>
+<start>5285.632159031</start>
+<end>5299.178457782</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>hbs ball_win_2</code>
+<start>1512.880946903</start>
+<end>1532.327231403</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>hbs ball_win_2</code>
+<start>2300.665131841</start>
+<end>2316.690558656</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>hbs ball_win_2</code>
+<start>3510.889850375</start>
+<end>3530.674333625</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>hbs ball_win_2</code>
+<start>4133.913342681</start>
+<end>4151.37765318</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>hbs ball_win_2</code>
+<start>4715.419905077</start>
+<end>4725.228967076</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>hbs ball_win_2</code>
+<start>4994.668766131</start>
+<end>5026.629079504</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>hbs ball_win_3</code>
+<start>967.922413601</start>
+<end>981.057940171</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>hbs ball_win_3</code>
+<start>3767.04795769</start>
+<end>3786.652592566</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>hbs ball_win_4</code>
+<start>913.219008465</start>
+<end>928.874223338</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>hbs ball_win_4</code>
+<start>1785.157604024</start>
+<end>1802.926539442</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>hbs ball_win_4</code>
+<start>3647.235209387</start>
+<end>3656.821976387</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>hbs ball_win_4</code>
+<start>3657.696703013</start>
+<end>3676.682622512</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>hbs ball_win_4</code>
+<start>5118.338601133</start>
+<end>5128.369476634</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>hbs circle_penetration</code>
+<start>41.413366559</start>
+<end>64.408646423</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>hbs circle_penetration</code>
+<start>232.116192377</start>
+<end>241.167802461</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>hbs circle_penetration</code>
+<start>905.033803287</start>
+<end>914.77230909</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>hbs circle_penetration</code>
+<start>1331.490538583</start>
+<end>1347.518209333</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>hbs circle_penetration</code>
+<start>3660.145115888</start>
+<end>3676.682622512</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>hbs circle_penetration</code>
+<start>3697.503124388</start>
+<end>3716.753101133</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>hbs circle_penetration</code>
+<start>3772.742272564</start>
+<end>3786.652592566</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>hbs circle_penetration</code>
+<start>4371.253129126</start>
+<end>4381.656924003</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>hbs circle_penetration</code>
+<start>5089.74618175</start>
+<end>5110.893776755</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>hbs circle_penetration</code>
+<start>5328.137053529</start>
+<end>5357.876050022</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>hbs circle_penetration</code>
+<start>5365.268318897</start>
+<end>5372.279411771</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>hbs goal_attempt</code>
+<start>43.697829059</start>
+<end>53.697829059</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>hbs goal_attempt</code>
+<start>908.563880413</start>
+<end>918.563880413</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>hbs goal_attempt</code>
+<start>3103.42533484</start>
+<end>3113.42533484</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>hbs goal_attempt</code>
+<start>3664.139336514</start>
+<end>3674.139336514</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>hbs goal_attempt</code>
+<start>3701.629575009</start>
+<end>3711.629575009</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>hbs goal_attempt</code>
+<start>4057.578134849</start>
+<end>4067.578134849</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>hbs goal_attempt</code>
+<start>4108.279789309</start>
+<end>4118.279789309</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>hbs goal_attempt</code>
+<start>4430.18871232</start>
+<end>4440.18871232</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>hbs goal_attempt</code>
+<start>4461.061677568</start>
+<end>4471.061677568</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>hbs goal_attempt</code>
+<start>4760.130186093</start>
+<end>4770.130186093</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>hbs goal_attempt</code>
+<start>5091.370972376</start>
+<end>5101.370972376</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>hbs goal_attempt</code>
+<start>5101.3809723760005</start>
+<end>5108.48143788</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>hbs goal_attempt</code>
+<start>5364.768318897</start>
+<end>5374.768318897</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>hbs goal_attempt</code>
+<start>908.563880413</start>
+<end>918.563880413</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>hbs goal_attempt</code>
+<start>3103.42533484</start>
+<end>3113.42533484</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>hbs goal_attempt</code>
+<start>3664.139336514</start>
+<end>3674.139336514</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>hbs goal_attempt</code>
+<start>3701.629575009</start>
+<end>3711.629575009</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>hbs goal_attempt</code>
+<start>4057.578134849</start>
+<end>4067.578134849</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>hbs goal_attempt</code>
+<start>4430.18871232</start>
+<end>4440.18871232</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>hbs goal_attempt</code>
+<start>5091.370972376</start>
+<end>5101.370972376</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>hbs goal_attempt</code>
+<start>5101.3809723760005</start>
+<end>5108.48143788</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>hbs long_corner</code>
+<start>1341.518209333</start>
+<end>1367.518209333</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>hbs long_corner</code>
+<start>1539.194666655</start>
+<end>1565.194666655</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>hbs long_corner</code>
+<start>3710.753101133</start>
+<end>3736.753101133</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>hbs long_corner</code>
+<start>3780.652592566</start>
+<end>3806.652592566</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>hbs long_corner</code>
+<start>5104.893776755</start>
+<end>5130.893776755</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>hbs long_corner</code>
+<start>5315.984507153</start>
+<end>5341.984507153</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>hbs penalty_corner</code>
+<start>4052.578134849</start>
+<end>4077.578134849</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>hbs penalty_corner</code>
+<start>4100.665192937</start>
+<end>4125.665192937</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>hbs penalty_corner</code>
+<start>4422.803277569</start>
+<end>4447.803277569</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>hbs penalty_corner</code>
+<start>4453.536531317</start>
+<end>4478.536531317</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>nijmegen 23_entry</code>
+<start>151.775503188</start>
+<end>166.775503188</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>nijmegen 23_entry</code>
+<start>169.12966109</start>
+<end>184.12966109</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>nijmegen 23_entry</code>
+<start>262.338945377</start>
+<end>287.312253961</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>nijmegen 23_entry</code>
+<start>430.834452377</start>
+<end>447.770599295</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>nijmegen 23_entry</code>
+<start>492.78379551</start>
+<end>526.870287895</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>nijmegen 23_entry</code>
+<start>539.305563939</start>
+<end>555.883160439</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>nijmegen 23_entry</code>
+<start>574.710956033</start>
+<end>596.180002699</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>nijmegen 23_entry</code>
+<start>598.613529697</start>
+<end>613.613529697</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>nijmegen 23_entry</code>
+<start>660.624833003</start>
+<end>683.650936003</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>nijmegen 23_entry</code>
+<start>984.687552093</start>
+<end>999.687552093</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>nijmegen 23_entry</code>
+<start>1604.49347026</start>
+<end>1619.49347026</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>nijmegen 23_entry</code>
+<start>1631.827180762</start>
+<end>1646.827180762</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>nijmegen 23_entry</code>
+<start>1696.239354094</start>
+<end>1711.239354094</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>nijmegen 23_entry</code>
+<start>1819.10764569</start>
+<end>1834.91154556</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>nijmegen 23_entry</code>
+<start>1927.65745715</start>
+<end>1942.65745715</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>nijmegen 23_entry</code>
+<start>1943.643030524</start>
+<end>1958.643030524</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>nijmegen 23_entry</code>
+<start>1969.82564369</start>
+<end>1984.82564369</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>nijmegen 23_entry</code>
+<start>2101.910806934</start>
+<end>2116.910806934</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>nijmegen 23_entry</code>
+<start>2131.511197933</start>
+<end>2146.511197933</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>nijmegen 23_entry</code>
+<start>2270.544574797</start>
+<end>2285.544574797</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>nijmegen 23_entry</code>
+<start>2317.774029282</start>
+<end>2332.774029282</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>nijmegen 23_entry</code>
+<start>3114.641585002</start>
+<end>3129.641585002</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>nijmegen 23_entry</code>
+<start>3184.72209285</start>
+<end>3199.72209285</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>nijmegen 23_entry</code>
+<start>3223.46584315</start>
+<end>3238.46584315</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>nijmegen 23_entry</code>
+<start>3410.463383029</start>
+<end>3443.410698154</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>nijmegen 23_entry</code>
+<start>3455.924438902</start>
+<end>3470.924438902</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>nijmegen 23_entry</code>
+<start>3558.837288855</start>
+<end>3573.837288855</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>nijmegen 23_entry</code>
+<start>3977.067587681</start>
+<end>3992.067587681</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>nijmegen 23_entry</code>
+<start>4284.454751706</start>
+<end>4301.683851705</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>nijmegen 23_entry</code>
+<start>4306.097590953</start>
+<end>4321.097590953</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>nijmegen 23_entry</code>
+<start>4509.8781442</start>
+<end>4524.8781442</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>nijmegen 23_entry</code>
+<start>4565.970400673</start>
+<end>4580.970400673</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>nijmegen 23_entry</code>
+<start>4693.243335825</start>
+<end>4708.243335825</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>nijmegen 23_entry</code>
+<start>4798.411133469</start>
+<end>4817.339177217</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>nijmegen 23_entry</code>
+<start>4827.129331976</start>
+<end>4852.339916351</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>nijmegen 23_entry</code>
+<start>4864.514528849</start>
+<end>4879.514528849</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>nijmegen 23_entry</code>
+<start>4880.164392095</start>
+<end>4915.710989345</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>nijmegen 23_entry</code>
+<start>4949.516871725</start>
+<end>4964.516871725</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>nijmegen 23_entry</code>
+<start>5171.11428816</start>
+<end>5189.104865535</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>nijmegen 23_entry</code>
+<start>5222.640080283</start>
+<end>5237.640080283</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>nijmegen 23_entry</code>
+<start>5414.86389777</start>
+<end>5429.86389777</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>586.640185865</start>
+<end>611.640185865</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>1621.809543676</start>
+<end>1646.809543676</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>2120.207388436</start>
+<end>2145.207388436</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>4494.8781442</start>
+<end>4519.8781442</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>nijmegen ball_restart_1</code>
+<start>59.90864642299999</start>
+<end>112.63265853170634</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>nijmegen ball_restart_1</code>
+<start>236.667802461</start>
+<end>277.312253961</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>nijmegen ball_restart_1</code>
+<start>1754.438143096</start>
+<end>1789.657604024</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>nijmegen ball_restart_1</code>
+<start>3287.829418026</start>
+<end>3317.677104027</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>nijmegen ball_restart_1</code>
+<start>3798.223186315</start>
+<end>3828.015489937</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>nijmegen ball_restart_1</code>
+<start>3899.127915304</start>
+<end>3930.974276431</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>nijmegen ball_restart_1</code>
+<start>4470.916022568</start>
+<end>4506.332304699</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>nijmegen ball_restart_1</code>
+<start>4670.233336328</start>
+<end>4719.919905077</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>nijmegen ball_restart_1</code>
+<start>5022.129079504</start>
+<end>5040.749762752</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>nijmegen ball_restart_1</code>
+<start>5123.869476634</start>
+<end>5155.306804885</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>nijmegen ball_restart_1</code>
+<start>5367.779411771</start>
+<end>5415.581336894</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>nijmegen ball_restart_2</code>
+<start>128.503511866</start>
+<end>150.4594757</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>nijmegen ball_restart_2</code>
+<start>150.4694757</start>
+<end>160.183513272</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>nijmegen ball_restart_2</code>
+<start>742.182351083</start>
+<end>760.125009415</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>nijmegen ball_restart_2</code>
+<start>1127.290056859</start>
+<end>1154.674792108</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>nijmegen ball_restart_2</code>
+<start>1384.001411913</start>
+<end>1408.363447829</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>nijmegen ball_restart_2</code>
+<start>1408.373447829</start>
+<end>1428.912061161</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>nijmegen ball_restart_2</code>
+<start>1448.573591495</start>
+<end>1470.758457743</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>nijmegen ball_restart_2</code>
+<start>1798.426539442</start>
+<end>1821.490219358</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3084.626836086</start>
+<end>3092.803314462</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3749.134782767</start>
+<end>3771.54795769</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3823.515489937</start>
+<end>3849.031114561</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3926.474276431</start>
+<end>3978.267420805</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>nijmegen ball_restart_2</code>
+<start>4625.353292204</start>
+<end>4647.068603579</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>nijmegen ball_restart_2</code>
+<start>5411.081336894</start>
+<end>5429.124431521</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>nijmegen ball_restart_3</code>
+<start>477.918722092</start>
+<end>507.421708178</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>nijmegen ball_restart_3</code>
+<start>596.927005863</start>
+<end>611.640185865</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>nijmegen ball_restart_3</code>
+<start>1816.990219358</start>
+<end>1829.19091956</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>nijmegen ball_restart_3</code>
+<start>1845.059600521</start>
+<end>1858.674833647</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>nijmegen ball_restart_3</code>
+<start>2236.937843672</start>
+<end>2284.513768292</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>nijmegen ball_restart_3</code>
+<start>3198.685062974</start>
+<end>3233.560170903</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>nijmegen ball_restart_3</code>
+<start>3380.926137528</start>
+<end>3425.429816904</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>nijmegen ball_restart_3</code>
+<start>5282.863502405</start>
+<end>5290.132159031</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>nijmegen ball_restart_4</code>
+<start>272.812253961</start>
+<end>281.181516452</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>nijmegen ball_restart_4</code>
+<start>502.921708178</start>
+<end>510.643860227</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>nijmegen ball_restart_4</code>
+<start>575.210956033</start>
+<end>588.077419365</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>nijmegen ball_restart_4</code>
+<start>661.124833003</start>
+<end>693.632896335</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>nijmegen ball_restart_4</code>
+<start>1696.739354094</start>
+<end>1718.926837012</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>nijmegen ball_restart_4</code>
+<start>1928.15745715</start>
+<end>1966.139589064</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>nijmegen ball_restart_4</code>
+<start>3420.929816904</start>
+<end>3441.433331904</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4306.597590953</start>
+<end>4330.032474206</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4566.470400673</start>
+<end>4586.422040671</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4827.629331976</start>
+<end>4842.339916351</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4842.3499163510005</start>
+<end>4846.338824725</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4880.664392095</start>
+<end>4901.438897596</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4901.448897596</start>
+<end>4913.515657345</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>nijmegen ball_win_1</code>
+<start>173.15600784</start>
+<end>226.196867358</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>nijmegen ball_win_1</code>
+<start>306.544752538</start>
+<end>342.040260974</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>nijmegen ball_win_1</code>
+<start>771.934228161</start>
+<end>805.914142112</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>nijmegen ball_win_1</code>
+<start>910.27230909</start>
+<end>917.719008465</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>nijmegen ball_win_1</code>
+<start>1107.592004488</start>
+<end>1131.790056859</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>nijmegen ball_win_1</code>
+<start>1548.199819237</start>
+<end>1573.408535737</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>nijmegen ball_win_1</code>
+<start>3259.957746276</start>
+<end>3292.329418026</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>nijmegen ball_win_1</code>
+<start>3632.208543014</start>
+<end>3651.735209387</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>nijmegen ball_win_1</code>
+<start>3652.321976387</start>
+<end>3662.196703013</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>nijmegen ball_win_1</code>
+<start>3672.182622512</start>
+<end>3693.962881514</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>nijmegen ball_win_1</code>
+<start>4151.981265929</start>
+<end>4170.998012933</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>nijmegen ball_win_1</code>
+<start>4465.124348316</start>
+<end>4475.416022568</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>nijmegen ball_win_1</code>
+<start>5057.157345253</start>
+<end>5085.992664877</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>nijmegen ball_win_1</code>
+<start>5353.376050022</start>
+<end>5365.180004147</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>nijmegen ball_win_2</code>
+<start>814.476947111</start>
+<end>834.878293884</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>nijmegen ball_win_2</code>
+<start>976.557940171</start>
+<end>992.626413593</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>nijmegen ball_win_2</code>
+<start>1062.655827106</start>
+<end>1079.622942355</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>nijmegen ball_win_2</code>
+<start>3526.174333625</start>
+<end>3564.839352482</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>nijmegen ball_win_2</code>
+<start>4720.728967076</start>
+<end>4734.921858077</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>nijmegen ball_win_2</code>
+<start>4791.553052479</start>
+<end>4816.890593853</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>nijmegen ball_win_2</code>
+<start>4848.716273224</start>
+<end>4885.164392095</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>nijmegen ball_win_2</code>
+<start>5236.151237906</start>
+<end>5287.363502405</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>nijmegen ball_win_3</code>
+<start>354.441405726</start>
+<end>377.726380726</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>nijmegen ball_win_3</code>
+<start>409.568036093</start>
+<end>444.21378875775156</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>nijmegen ball_win_3</code>
+<start>538.320906605</start>
+<end>564.325574867</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>nijmegen ball_win_3</code>
+<start>1491.987834243</start>
+<end>1517.380946903</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>nijmegen ball_win_3</code>
+<start>1598.002554092</start>
+<end>1612.55248676</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>nijmegen ball_win_3</code>
+<start>1630.999310928</start>
+<end>1646.809543676</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>nijmegen ball_win_3</code>
+<start>1865.552898772</start>
+<end>1907.190122524</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>nijmegen ball_win_3</code>
+<start>3178.201827974</start>
+<end>3194.288688848</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>nijmegen ball_win_3</code>
+<start>5204.006581532</start>
+<end>5231.974723907</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>nijmegen ball_win_4</code>
+<start>510.11598397700004</start>
+<end>532.271120408</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>nijmegen ball_win_4</code>
+<start>1608.05248676</start>
+<end>1613.96743851</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>nijmegen ball_win_4</code>
+<start>1923.787945648</start>
+<end>1932.65745715</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>nijmegen ball_win_4</code>
+<start>1968.515716189</start>
+<end>1982.173333938</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>nijmegen ball_win_4</code>
+<start>2126.210924181</start>
+<end>2145.207388436</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>nijmegen ball_win_4</code>
+<start>2220.182170796</start>
+<end>2227.389907922</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>nijmegen ball_win_4</code>
+<start>3444.785854779</start>
+<end>3471.0821699</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>nijmegen ball_win_4</code>
+<start>3975.931444804</start>
+<end>3988.753046805</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>nijmegen ball_win_4</code>
+<start>4506.624192699</start>
+<end>4519.8781442</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>nijmegen circle_penetration</code>
+<start>152.275503188</start>
+<end>167.061344426</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>nijmegen circle_penetration</code>
+<start>169.62966109</start>
+<end>177.65600784</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>nijmegen circle_penetration</code>
+<start>433.270599295</start>
+<end>444.21378875775156</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>nijmegen circle_penetration</code>
+<start>512.370287895</start>
+<end>530.841456187</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>nijmegen circle_penetration</code>
+<start>985.187552093</start>
+<end>992.626413593</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>nijmegen circle_penetration</code>
+<start>1604.99347026</start>
+<end>1612.55248676</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>nijmegen circle_penetration</code>
+<start>1632.327180762</start>
+<end>1646.809543676</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>nijmegen circle_penetration</code>
+<start>1970.32564369</start>
+<end>1982.173333938</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>nijmegen circle_penetration</code>
+<start>2102.410806934</start>
+<end>2121.437957557</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>nijmegen circle_penetration</code>
+<start>2132.011197933</start>
+<end>2145.207388436</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>nijmegen circle_penetration</code>
+<start>2318.274029282</start>
+<end>2355.042582158</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>nijmegen circle_penetration</code>
+<start>3115.141585002</start>
+<end>3132.849401723</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>nijmegen circle_penetration</code>
+<start>3223.96584315</start>
+<end>3233.560170903</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>nijmegen circle_penetration</code>
+<start>3456.424438902</start>
+<end>3471.0821699</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>nijmegen circle_penetration</code>
+<start>3977.567587681</start>
+<end>3988.753046805</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>nijmegen circle_penetration</code>
+<start>4510.3781442</start>
+<end>4519.8781442</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>nijmegen circle_penetration</code>
+<start>4884.889076095</start>
+<end>4901.438897596</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>nijmegen circle_penetration</code>
+<start>4901.448897596</start>
+<end>4913.515657345</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>nijmegen circle_penetration</code>
+<start>4950.016871725</start>
+<end>4999.168766131</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>nijmegen circle_penetration</code>
+<start>5415.36389777</start>
+<end>5429.124431521</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>nijmegen goal_attempt</code>
+<start>434.509256045</start>
+<end>442.509256045</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>nijmegen goal_attempt</code>
+<start>515.228165908</start>
+<end>523.228165908</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>nijmegen goal_attempt</code>
+<start>541.967039867</start>
+<end>549.967039867</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>nijmegen goal_attempt</code>
+<start>649.7987657531506</start>
+<end>657.7987657531506</end>
+</instance>
+<instance>
+<ID>331</ID>
+<code>nijmegen goal_attempt</code>
+<start>984.687552093</start>
+<end>992.687552093</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>nijmegen goal_attempt</code>
+<start>1605.353039092</start>
+<end>1613.353039092</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>nijmegen goal_attempt</code>
+<start>1681.37429576</start>
+<end>1689.37429576</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>nijmegen goal_attempt</code>
+<start>1972.173333938</start>
+<end>1980.173333938</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>nijmegen goal_attempt</code>
+<start>2180.906304934</start>
+<end>2188.906304934</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>nijmegen goal_attempt</code>
+<start>2321.372099409</start>
+<end>2329.372099409</end>
+</instance>
+<instance>
+<ID>337</ID>
+<code>nijmegen goal_attempt</code>
+<start>3118.699207003</start>
+<end>3126.699207003</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>nijmegen goal_attempt</code>
+<start>3226.087970902</start>
+<end>3234.087970902</end>
+</instance>
+<instance>
+<ID>339</ID>
+<code>nijmegen goal_attempt</code>
+<start>3461.0821699</start>
+<end>3469.0821699</end>
+</instance>
+<instance>
+<ID>340</ID>
+<code>nijmegen goal_attempt</code>
+<start>3979.537199555</start>
+<end>3987.537199555</end>
+</instance>
+<instance>
+<ID>341</ID>
+<code>nijmegen goal_attempt</code>
+<start>4289.897237082</start>
+<end>4297.897237082</end>
+</instance>
+<instance>
+<ID>342</ID>
+<code>nijmegen goal_attempt</code>
+<start>4809.577448841</start>
+<end>4817.577448841</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>nijmegen goal_attempt</code>
+<start>4953.754334474</start>
+<end>4961.754334474</end>
+</instance>
+<instance>
+<ID>344</ID>
+<code>nijmegen goal_attempt</code>
+<start>5419.124431521</start>
+<end>5427.124431521</end>
+</instance>
+<instance>
+<ID>345</ID>
+<code>nijmegen goal_attempt</code>
+<start>434.509256045</start>
+<end>444.509256045</end>
+</instance>
+<instance>
+<ID>346</ID>
+<code>nijmegen goal_attempt</code>
+<start>515.228165908</start>
+<end>525.228165908</end>
+</instance>
+<instance>
+<ID>347</ID>
+<code>nijmegen goal_attempt</code>
+<start>541.967039867</start>
+<end>551.967039867</end>
+</instance>
+<instance>
+<ID>348</ID>
+<code>nijmegen goal_attempt</code>
+<start>1605.353039092</start>
+<end>1615.353039092</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>nijmegen goal_attempt</code>
+<start>1681.37429576</start>
+<end>1691.37429576</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>nijmegen goal_attempt</code>
+<start>1972.173333938</start>
+<end>1982.173333938</end>
+</instance>
+<instance>
+<ID>351</ID>
+<code>nijmegen goal_attempt</code>
+<start>2180.906304934</start>
+<end>2190.906304934</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>nijmegen goal_attempt</code>
+<start>3118.699207003</start>
+<end>3128.699207003</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>nijmegen goal_attempt</code>
+<start>3226.087970902</start>
+<end>3236.087970902</end>
+</instance>
+<instance>
+<ID>354</ID>
+<code>nijmegen goal_attempt</code>
+<start>3461.0821699</start>
+<end>3471.0821699</end>
+</instance>
+<instance>
+<ID>355</ID>
+<code>nijmegen goal_attempt</code>
+<start>3979.537199555</start>
+<end>3989.537199555</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>nijmegen goal_attempt</code>
+<start>4809.577448841</start>
+<end>4819.577448841</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>nijmegen goal_attempt</code>
+<start>5419.124431521</start>
+<end>5429.124431521</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>nijmegen goal</code>
+<start>1972.173333938</start>
+<end>1982.173333938</end>
+</instance>
+<instance>
+<ID>359</ID>
+<code>nijmegen goal</code>
+<start>3461.0821699</start>
+<end>3471.0821699</end>
+</instance>
+<instance>
+<ID>360</ID>
+<code>nijmegen goal</code>
+<start>3979.537199555</start>
+<end>3989.537199555</end>
+</instance>
+<instance>
+<ID>361</ID>
+<code>nijmegen goal</code>
+<start>5419.124431521</start>
+<end>5429.124431521</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>nijmegen long_corner</code>
+<start>573.710956033</start>
+<end>599.710956033</end>
+</instance>
+<instance>
+<ID>363</ID>
+<code>nijmegen long_corner</code>
+<start>659.624833003</start>
+<end>685.624833003</end>
+</instance>
+<instance>
+<ID>364</ID>
+<code>nijmegen long_corner</code>
+<start>3419.429816904</start>
+<end>3445.429816904</end>
+</instance>
+<instance>
+<ID>365</ID>
+<code>nijmegen long_corner</code>
+<start>4305.097590953</start>
+<end>4331.097590953</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>nijmegen long_corner</code>
+<start>4564.970400673</start>
+<end>4590.970400673</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>nijmegen long_corner</code>
+<start>4826.129331976</start>
+<end>4852.129331976</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>nijmegen long_corner</code>
+<start>4895.438897596</start>
+<end>4921.438897596</end>
+</instance>
+<instance>
+<ID>369</ID>
+<code>nijmegen penalty_corner</code>
+<start>641.441724944</start>
+<end>666.441724944</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>nijmegen penalty_corner</code>
+<start>1674.14395926</start>
+<end>1699.14395926</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>nijmegen penalty_corner</code>
+<start>2174.186376809</start>
+<end>2199.186376809</end>
+</instance>
+<instance>
+<ID>372</ID>
+<code>nijmegen penalty_corner</code>
+<start>4547.637035676</start>
+<end>4572.637035676</end>
+</instance>
+<instance>
+<ID>373</ID>
+<code>start</code>
+<start>17.852911908</start>
+<end>27.852911908</end>
+</instance>
+<instance>
+<ID>374</ID>
+<code>start</code>
+<start>1299.268224438</start>
+<end>1309.268224438</end>
+</instance>
+<instance>
+<ID>375</ID>
+<code>start</code>
+<start>3082.544339587</start>
+<end>3092.544339587</end>
+</instance>
+<instance>
+<ID>376</ID>
+<code>start</code>
+<start>4273.687430463</start>
+<end>4283.687430463</end>
+</instance>
+<instance>
+<ID>377</ID>
+<code>pause</code>
+<start>1149.674792108</start>
+<end>1159.674792108</end>
+</instance>
+<instance>
+<ID>378</ID>
+<code>pause</code>
+<start>2350.042582158</start>
+<end>2360.042582158</end>
+</instance>
+<instance>
+<ID>379</ID>
+<code>pause</code>
+<start>4165.998012933</start>
+<end>4175.998012933</end>
+</instance>
+<instance>
+<ID>380</ID>
+<code>pause</code>
+<start>5447.330466093219</start>
+<end>5457.330466093219</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>HBS 23M</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS ASC</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS BS1</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS BS2</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS BS3</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS BS4</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS BW1</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS BW2</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS BW3</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS BW4</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS CP</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS DP</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS DP ON</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS LC</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>HBS SC</code>
+<R>14906</R>
+<G>34952</G>
+<B>65278</B>
+</row>
+<row>
+<code>NIJ 23M</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ ASC</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ BS1</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ BS2</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ BS3</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ BS4</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ BW1</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ BW2</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ BW3</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ BW4</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ CP</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ DP</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ DP ON</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ GOAL</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ LC</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ SC</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>STOP</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

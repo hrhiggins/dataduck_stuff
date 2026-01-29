@@ -1,0 +1,2546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<GLOBALMARKERS></GLOBALMARKERS>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>Q1</code>
+<start>134.100138264</start>
+<end>1036.100061339</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>Q2</code>
+<start>1170.500093297</start>
+<end>2197.500326165</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>Q3</code>
+<start>2930.600108679</start>
+<end>3923.900132986</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>Q4</code>
+<start>4047.200196191</start>
+<end>5147.800103277</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>TIJDSTIL</code>
+<start>4257.70010507</start>
+<end>4276.600098253</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>TIJDSTIL</code>
+<start>1036.100061339</start>
+<end>1170.500093297</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>TIJDSTIL</code>
+<start>2197.500326165</start>
+<end>2930.600108679</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>TIJDSTIL</code>
+<start>3127.400028374</start>
+<end>3158.60010293</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>TIJDSTIL</code>
+<start>3923.900132986</start>
+<end>4047.200196191</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>TIJDSTIL</code>
+<start>1301.200079458</start>
+<end>1318.800175808</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>TIJDSTIL</code>
+<start>1753.607550883</start>
+<end>1769.405352799</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>TIJDSTIL</code>
+<start>1775.505157967</start>
+<end>1788.604441424</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>TIJDSTIL</code>
+<start>3576.500064083</start>
+<end>3615.800045041</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>TIJDSTIL</code>
+<start>4234.500255569</start>
+<end>4249.300192361</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>TIJDSTIL</code>
+<start>4916.104710317</start>
+<end>4965.800102306</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>TIJDSTIL</code>
+<start>1720.600168716</start>
+<end>1747.401479633</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>TIJDSTIL</code>
+<start>1668.4000683</start>
+<end>1710.800053883</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>TIJDSTIL</code>
+<start>3527.602739623</start>
+<end>3547.703102998</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>TIJDSTIL</code>
+<start>4187.500224017</start>
+<end>4227.600079736</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>TIJDSTIL</code>
+<start>4481.600321454</start>
+<end>4525.90254396</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>ARBITRAGE</code>
+<start>382.501749999</start>
+<end>402.501749999</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>ARBITRAGE</code>
+<start>4974.700084222</start>
+<end>4994.700084222</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>ARBITRAGE</code>
+<start>4800.800131762</start>
+<end>4820.800131762</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>ARBITRAGE</code>
+<start>2134.300633833</start>
+<end>2154.300633833</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>BLESSURE / IMPACT</code>
+<start>3510.303934082</start>
+<end>3530.303934082</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>GROEN HUR</code>
+<start>4780.800131762</start>
+<end>4994.200075556</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>START</code>
+<start>4046.200196191</start>
+<end>4049.200196191</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>START</code>
+<start>1169.500093297</start>
+<end>1172.500093297</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>START</code>
+<start>2929.600108679</start>
+<end>2932.600108679</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>START</code>
+<start>133.100138264</start>
+<end>136.100138264</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>ASC PIN</code>
+<start>4906.104710317</start>
+<end>4916.104710317</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>ASC PIN</code>
+<start>4224.500255569</start>
+<end>4234.500255569</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>ASC PIN</code>
+<start>4471.600321454</start>
+<end>4481.600321454</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>ASC PIN</code>
+<start>4177.500224017</start>
+<end>4187.500224017</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>ASC PIN</code>
+<start>3564.000381456</start>
+<end>3574.000381456</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BB PIN</code>
+<start>4703.000110216</start>
+<end>4716.530207592</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BB PIN</code>
+<start>338.800127854</start>
+<end>391.700053334</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BB PIN</code>
+<start>4082.800082472</start>
+<end>4090.700088305</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BB PIN</code>
+<start>4861.700056769</start>
+<end>4888.100064416</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BB PIN</code>
+<start>5144.000252194</start>
+<end>5147.800103277</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BB PIN</code>
+<start>142.80007943</start>
+<end>208.400100935</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BB PIN</code>
+<start>806.000102332</start>
+<end>807.500123124</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BB PIN</code>
+<start>4249.300192361</start>
+<end>4257.700122028</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BB PIN</code>
+<start>709.00009199</start>
+<end>722.9000835</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BB PIN</code>
+<start>4328.600066027</start>
+<end>4365.500125406</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BB PIN</code>
+<start>1591.300060682</start>
+<end>1608.000088344</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BB PIN</code>
+<start>3314.80008244</start>
+<end>3316.300201524</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BB PIN</code>
+<start>4289.400108336</start>
+<end>4315.80010361</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BB PIN</code>
+<start>4427.10279953</start>
+<end>4481.600216953</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BB PIN</code>
+<start>5028.505790847</start>
+<end>5057.400048139</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BB PIN</code>
+<start>1899.302855665</start>
+<end>1915.001528707</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BB PIN</code>
+<start>3111.500240499</start>
+<end>3127.400028374</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BB PIN</code>
+<start>4986.400073346</start>
+<end>5008.000060806</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BB PIN</code>
+<start>4624.800104792</start>
+<end>4700.500112717</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BB PIN</code>
+<start>1817.106091967</start>
+<end>1838.000044472</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BB PIN</code>
+<start>2070.203683125</start>
+<end>2155.100086124</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BB PIN</code>
+<start>1854.100048708</start>
+<end>1855.600068291</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BB PIN</code>
+<start>3227.500288241</start>
+<end>3250.50010529</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BB PIN</code>
+<start>796.800121457</start>
+<end>800.600057416</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BB PIN</code>
+<start>1452.510409898</start>
+<end>1469.805968148</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BB PIN</code>
+<start>3398.300071272</start>
+<end>3441.700089708</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BB PIN</code>
+<start>4965.800102306</start>
+<end>4972.900077388</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BB PIN</code>
+<start>4525.90254396</start>
+<end>4598.200081</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BB PIN</code>
+<start>3823.300121835</start>
+<end>3857.500117367</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BB PIN</code>
+<start>935.600096955</start>
+<end>980.604216173</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BB PIN</code>
+<start>3645.800051249</start>
+<end>3655.900214068</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BB PIN</code>
+<start>1009.700044922</start>
+<end>1012.000189173</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BB PIN</code>
+<start>4409.700062317</start>
+<end>4416.400036279</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BB PIN</code>
+<start>3757.200076665</start>
+<end>3782.600130041</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BB PIN</code>
+<start>1478.206523481</start>
+<end>1511.300081458</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BB PIN</code>
+<start>3378.100098939</start>
+<end>3392.501108688</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BB PIN</code>
+<start>1513.100062167</start>
+<end>1534.200133792</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BB PIN</code>
+<start>5071.813554503</start>
+<end>5080.20010717</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BB PIN</code>
+<start>3323.300112357</start>
+<end>3327.400211023</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BB PIN</code>
+<start>4146.200102375</start>
+<end>4187.500079726</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BB PIN</code>
+<start>424.900075977</start>
+<end>557.400123166</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BB PIN</code>
+<start>1347.402111016</start>
+<end>1395.400102248</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BB PIN</code>
+<start>3202.303512866</start>
+<end>3212.504800283</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BB PIN</code>
+<start>3615.800045041</start>
+<end>3622.400088667</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BB PIN</code>
+<start>3678.90008861</start>
+<end>3734.300122123</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BB PIN</code>
+<start>260.900086541</start>
+<end>291.700127999</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BB PIN</code>
+<start>4397.000139276</start>
+<end>4398.500047526</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BB PIN</code>
+<start>3547.703102998</start>
+<end>3576.500064083</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BB PIN</code>
+<start>4835.205688429</start>
+<end>4856.300115103</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BB PIN</code>
+<start>3867.600220375</start>
+<end>3913.800096486</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BB PIN</code>
+<start>4048.600080733</start>
+<end>4071.400116648</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BB PIN</code>
+<start>1795.503684133</start>
+<end>1800.706450466</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BB PIN</code>
+<start>816.500418111</start>
+<end>826.700095298</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BB PIN</code>
+<start>1251.500095291</start>
+<end>1294.500051935</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BB PIN</code>
+<start>2931.80005272</start>
+<end>3108.100082541</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BB PIN</code>
+<start>4756.500058717</start>
+<end>4826.400211055</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BB PIN</code>
+<start>1398.600083207</start>
+<end>1441.60634148</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BB PIN</code>
+<start>1569.400138366</start>
+<end>1577.200048367</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BB PIN</code>
+<start>3452.20003975</start>
+<end>3527.602739623</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BB PIN</code>
+<start>870.60011254</start>
+<end>915.500113705</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BB PIN</code>
+<start>922.600100913</start>
+<end>928.006476413</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BB PIN</code>
+<start>2005.600198871</start>
+<end>2053.6001735</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BB PIN</code>
+<start>1621.900066428</start>
+<end>1624.500068428</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BB PIN</code>
+<start>1028.303924756</start>
+<end>1036.100061339</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BB PIN</code>
+<start>1634.100413103</start>
+<end>1641.700070133</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BB PIN</code>
+<start>1858.700064332</start>
+<end>1884.500049165</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BB PIN</code>
+<start>748.400080958</start>
+<end>752.6000565</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BB PIN</code>
+<start>4905.207129901</start>
+<end>4916.105284775</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BB PIN</code>
+<start>3260.200117665</start>
+<end>3302.700110898</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BB PIN</code>
+<start>4227.600079736</start>
+<end>4234.500087194</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BB PIN</code>
+<start>4117.800107333</start>
+<end>4141.000111416</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BB PIN</code>
+<start>3788.800130498</start>
+<end>3806.200138539</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BB PIN</code>
+<start>1223.600105333</start>
+<end>1230.300111498</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BB PIN</code>
+<start>1942.607869917</start>
+<end>1995.600062292</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>BB PIN</code>
+<start>239.810398389</start>
+<end>241.000101722</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>BB PIN</code>
+<start>5088.717186962</start>
+<end>5142.20006136</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>BB PIN</code>
+<start>3158.60010293</start>
+<end>3185.001207616</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>BB PIN</code>
+<start>3333.500062608</start>
+<end>3376.600063606</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>BB PIN</code>
+<start>628.500118416</start>
+<end>694.300104075</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>BS1 PIN</code>
+<start>340.600336375</start>
+<end>356.600128583</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>BS1 PIN</code>
+<start>3673.900071151</start>
+<end>3718.800268649</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>BS1 PIN</code>
+<start>5083.600077794</start>
+<end>5141.700092319</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>BS1 PIN</code>
+<start>5066.700092336</start>
+<end>5079.700100419</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>BS1 PIN</code>
+<start>1246.500115291</start>
+<end>1282.900117125</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>BS1 PIN</code>
+<start>1342.400096808</start>
+<end>1394.900049707</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>BS1 PIN</code>
+<start>1023.304049505</start>
+<end>1036.100061339</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>BS1 PIN</code>
+<start>3222.505685991</start>
+<end>3250.000245582</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>BS1 PIN</code>
+<start>5033.700107347</start>
+<end>5053.000074014</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>BS1 PIN</code>
+<start>234.700088639</start>
+<end>240.500176597</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>BS1 PIN</code>
+<start>261.600144624</start>
+<end>291.200070749</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>BS1 PIN</code>
+<start>4323.600219277</start>
+<end>4365.000128697</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>BS1 PIN</code>
+<start>487.500111626</start>
+<end>513.000066374</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>BS1 PIN</code>
+<start>1818.200166666</start>
+<end>1837.500063555</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>BS2 PIN</code>
+<start>2926.800165512</start>
+<end>2950.60375751</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>BS2 PIN</code>
+<start>5048.500074014</start>
+<end>5056.90004518</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>BS2 PIN</code>
+<start>4043.60026819</start>
+<end>4070.900144815</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>BS2 PIN</code>
+<start>4288.000249943</start>
+<end>4315.300124194</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>BS2 PIN</code>
+<start>139.400380347</start>
+<end>175.70473913</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BS2 PIN</code>
+<start>4149.436121208</start>
+<end>4187.500079726</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BS2 PIN</code>
+<start>352.100128583</start>
+<end>391.200084625</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BS2 PIN</code>
+<start>639.800081333</start>
+<end>660.000072916</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BS2 PIN</code>
+<start>419.900075145</start>
+<end>492.000111626</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BS2 PIN</code>
+<start>875.30011004</start>
+<end>915.000110996</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BS2 PIN</code>
+<start>508.50006637399997</start>
+<end>523.700064666</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BS2 PIN</code>
+<start>4628.6001045</start>
+<end>4662.500108</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BS2 PIN</code>
+<start>3255.200078083</start>
+<end>3291.300039316</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BS2 PIN</code>
+<start>1951.200086542</start>
+<end>1995.10004675</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BS2 PIN</code>
+<start>3400.400061541</start>
+<end>3428.200116833</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BS3 PIN</code>
+<start>2069.600066916</start>
+<end>2105.404700374</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BS3 PIN</code>
+<start>1393.500090332</start>
+<end>1422.400111916</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BS3 PIN</code>
+<start>3423.700116833</start>
+<end>3441.200114584</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BS3 PIN</code>
+<start>3475.306497957</start>
+<end>3501.203996206</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BS3 PIN</code>
+<start>4787.6100973</start>
+<end>4805.000213971</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BS3 PIN</code>
+<start>1514.60010825</start>
+<end>1533.705608291</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BS3 PIN</code>
+<start>4684.300098374</start>
+<end>4700.0000853</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BS3 PIN</code>
+<start>4981.400075098</start>
+<end>5007.500055221</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BS3 PIN</code>
+<start>4077.800108263</start>
+<end>4090.200067388</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BS3 PIN</code>
+<start>171.20473913</start>
+<end>207.900097727</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BS3 PIN</code>
+<start>4760.800356466</start>
+<end>4787.6000973</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BS3 PIN</code>
+<start>4436.601977655</start>
+<end>4481.600216953</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BS3 PIN</code>
+<start>4805.010213971001</start>
+<end>4825.900168263</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BS3 PIN</code>
+<start>3286.800039316</start>
+<end>3302.200110148</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BS3 PIN</code>
+<start>704.000096741</start>
+<end>722.400097917</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BS4 PIN</code>
+<start>2123.8100712910004</start>
+<end>2154.603791332</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BS4 PIN</code>
+<start>655.500072916</start>
+<end>693.800115865</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BS4 PIN</code>
+<start>4578.410104208</start>
+<end>4597.700176916</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BS4 PIN</code>
+<start>956.610112914</start>
+<end>968.400129415</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BS4 PIN</code>
+<start>3526.6174569980003</start>
+<end>3527.602739623</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BS4 PIN</code>
+<start>4531.005113169</start>
+<end>4561.900160041</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BS4 PIN</code>
+<start>3153.60012568</start>
+<end>3184.502117324</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BS4 PIN</code>
+<start>2100.904700374</start>
+<end>2123.800071291</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BS4 PIN</code>
+<start>3496.703996206</start>
+<end>3526.607456998</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BS4 PIN</code>
+<start>3902.010146432</start>
+<end>3913.300104445</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BS4 PIN</code>
+<start>2967.916419302</start>
+<end>2976.208324594</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BS4 PIN</code>
+<start>2976.218324594</start>
+<end>3012.50011633</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BS4 PIN</code>
+<start>4561.910160041</start>
+<end>4578.400104208</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BS4 PIN</code>
+<start>1460.119136564</start>
+<end>1469.306997023</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BS4 PIN</code>
+<start>3862.600079</start>
+<end>3891.900086974</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BS4 PIN</code>
+<start>536.211754374</start>
+<end>556.900062916</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BS4 PIN</code>
+<start>519.200064666</start>
+<end>536.201754374</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BS4 PIN</code>
+<start>3051.510221121</start>
+<end>3093.500089413</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BS4 PIN</code>
+<start>1510.810073833</start>
+<end>1519.10010825</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BS4 PIN</code>
+<start>3346.000159648</start>
+<end>3376.102299439</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BS4 PIN</code>
+<start>4698.000184592</start>
+<end>4716.0000838</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BS4 PIN</code>
+<start>3121.800039541</start>
+<end>3127.400028374</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BS4 PIN</code>
+<start>968.410129415</start>
+<end>980.10425534</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BS4 PIN</code>
+<start>3093.510089413</start>
+<end>3107.600066083</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BS4 PIN</code>
+<start>930.600110204</start>
+<end>956.600112914</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BS4 PIN</code>
+<start>2946.10375751</start>
+<end>2967.906419302</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BS4 PIN</code>
+<start>3012.51011633</start>
+<end>3051.500221121</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BS4 PIN</code>
+<start>3891.910086974</start>
+<end>3902.000146432</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BS4 PIN</code>
+<start>3542.705938914</start>
+<end>3576.500064083</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BS4 PIN</code>
+<start>1483.500101541</start>
+<end>1510.800073833</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BS4 PIN</code>
+<start>1417.900111916</start>
+<end>1441.110401689</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BS4 PIN</code>
+<start>1278.400117125</start>
+<end>1294.500051935</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BS4 PIN</code>
+<start>1447.506767732</start>
+<end>1460.109136564</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BS4 PIN</code>
+<start>4658.000108</start>
+<end>4688.800098374</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BS4 PIN</code>
+<start>3714.300268649</start>
+<end>3733.80020304</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BS4 PIN</code>
+<start>1460.119136564</start>
+<end>1463.907125565</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BW1 PIN</code>
+<start>331.800172313</start>
+<end>345.100336375</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BW1 PIN</code>
+<start>1584.300078557</start>
+<end>1607.500070177</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BW1 PIN</code>
+<start>3750.200116582</start>
+<end>3782.10019529</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BW1 PIN</code>
+<start>4617.800175709</start>
+<end>4633.1001045</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BW1 PIN</code>
+<start>1216.600177583</start>
+<end>1229.805106164</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BW1 PIN</code>
+<start>3638.800059874</start>
+<end>3655.400084734</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BW1 PIN</code>
+<start>800.111464458</start>
+<end>807.00011229</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BW1 PIN</code>
+<start>1562.400097616</start>
+<end>1576.700199282</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>BW1 PIN</code>
+<start>1627.100430979</start>
+<end>1641.200086341</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>BW1 PIN</code>
+<start>1002.706546756</start>
+<end>1011.500064839</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>BW1 PIN</code>
+<start>789.800105666</start>
+<end>800.101464458</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>BW1 PIN</code>
+<start>1614.800099844</start>
+<end>1624.000087468</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>BW1 PIN</code>
+<start>1810.105348341</start>
+<end>1822.700166666</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>BW1 PIN</code>
+<start>5021.500076556</start>
+<end>5038.200107347</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>BW1 PIN</code>
+<start>1788.504788466</start>
+<end>1800.207095091</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>BW1 PIN</code>
+<start>5137.00013286</start>
+<end>5147.800103277</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>BW1 PIN</code>
+<start>253.900105166</start>
+<end>266.100144624</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>BW1 PIN</code>
+<start>4139.200112833</start>
+<end>4153.936121208</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>BW1 PIN</code>
+<start>621.500111042</start>
+<end>644.300081333</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>BW1 PIN</code>
+<start>4390.000121817</start>
+<end>4398.000207192</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>BW2 PIN</code>
+<start>809.500125069</start>
+<end>826.200093422</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>BW2 PIN</code>
+<start>4110.800115208</start>
+<end>4140.500135458</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>BW2 PIN</code>
+<start>1855.111731749</start>
+<end>1884.001876208</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>BW2 PIN</code>
+<start>4828.200061388</start>
+<end>4855.800086894</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>BW2 PIN</code>
+<start>1935.600124042</start>
+<end>1955.700086542</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>BW2 PIN</code>
+<start>4749.500115383</start>
+<end>4765.300356466</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>BW2 PIN</code>
+<start>135.800040514</start>
+<end>143.900380347</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>BW2 PIN</code>
+<start>3195.306438491</start>
+<end>3212.005895157</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>BW2 PIN</code>
+<start>863.600123623</start>
+<end>879.80011004</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>BW2 PIN</code>
+<start>4855.810086894</start>
+<end>4887.600126624</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>BW2 PIN</code>
+<start>1998.600225787</start>
+<end>2053.100071625</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>BW2 PIN</code>
+<start>3781.800110623</start>
+<end>3805.700144497</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>BW2 PIN</code>
+<start>1892.303776624</start>
+<end>1914.502604874</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>BW2 PIN</code>
+<start>3326.500203523</start>
+<end>3350.500159648</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>BW2 PIN</code>
+<start>3445.200090958</start>
+<end>3479.806497957</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>BW2 PIN</code>
+<start>1847.10145254</start>
+<end>1855.101731749</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>BW2 PIN</code>
+<start>4282.400099836</start>
+<end>4292.500249943</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>BW2 PIN</code>
+<start>4402.700090318</start>
+<end>4415.903448946</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>BW3 PIN</code>
+<start>3392.010112897</start>
+<end>3404.900061541</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>BW3 PIN</code>
+<start>3104.500049374</start>
+<end>3126.300039541</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>BW3 PIN</code>
+<start>3316.300112149</start>
+<end>3326.900101316</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>BW3 PIN</code>
+<start>3371.100048647</start>
+<end>3392.000112897</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>BW3 PIN</code>
+<start>2063.203290624</start>
+<end>2074.100066916</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>BW3 PIN</code>
+<start>3307.800120107</start>
+<end>3315.800088149</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>BW3 PIN</code>
+<start>4420.103130447</start>
+<end>4441.101977655</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>BW3 PIN</code>
+<start>3816.300081711</start>
+<end>3857.000162617</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>BW3 PIN</code>
+<start>741.400046667</start>
+<end>752.100088959</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>BW3 PIN</code>
+<start>4898.201866192</start>
+<end>4916.105284775</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>BW4 PIN</code>
+<start>915.600090288</start>
+<end>927.500105871</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>BW4 PIN</code>
+<start>1471.209498856</start>
+<end>1488.000101541</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>CP PIN</code>
+<start>4699.6101034250005</start>
+<end>4716.400125633</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>CP PIN</code>
+<start>3084.000107579</start>
+<end>3107.300072041</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>CP PIN</code>
+<start>700.700108907</start>
+<end>721.100054124</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>CP PIN</code>
+<start>4459.90010662</start>
+<end>4481.600216953</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>CP PIN</code>
+<start>1284.310129876</start>
+<end>1294.500051935</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>CP PIN</code>
+<start>3868.900065166</start>
+<end>3893.10012389</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>CP PIN</code>
+<start>2026.60012225</start>
+<end>2052.500176625</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>CP PIN</code>
+<start>2086.700067999</start>
+<end>2105.800058957</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>CP PIN</code>
+<start>4896.408336734</start>
+<end>4916.105284775</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>CP PIN</code>
+<start>934.300113538</start>
+<end>956.200115666</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>CP PIN</code>
+<start>369.30012675</start>
+<end>390.704071082</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>CP PIN</code>
+<start>537.700090958</start>
+<end>557.400123166</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>CP PIN</code>
+<start>3838.700199159</start>
+<end>3855.900608658</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>CP PIN</code>
+<start>3358.700091105</start>
+<end>3376.300114064</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>CP PIN</code>
+<start>2949.006167968</start>
+<end>2968.701975386</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>CP PIN</code>
+<start>1263.900104916</start>
+<end>1284.300129876</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>CP PIN</code>
+<start>4166.50008306</start>
+<end>4187.500079726</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>CP PIN</code>
+<start>669.300046833</start>
+<end>687.200104824</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>CP PIN</code>
+<start>3545.104589998</start>
+<end>3576.500064083</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>CP PIN</code>
+<start>4684.500081996</start>
+<end>4699.600103425</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>CP PIN</code>
+<start>1464.607171356</start>
+<end>1487.500103874</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>CP PIN</code>
+<start>3820.600155825</start>
+<end>3838.000118367</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>GOAL PIN</code>
+<start>1278.200079458</start>
+<end>1301.200079458</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>GOAL PIN</code>
+<start>4234.70010507</start>
+<end>4257.70010507</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>SC PIN</code>
+<start>4521.90254396</start>
+<end>4535.90254396</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>SC PIN</code>
+<start>4961.800102306</start>
+<end>4975.800102306</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>SC PIN</code>
+<start>4245.300192361</start>
+<end>4259.300192361</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>SC PIN</code>
+<start>4223.600079736</start>
+<end>4237.600079736</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>SC PIN</code>
+<start>3611.800045041</start>
+<end>3625.800045041</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>ASC HUR</code>
+<start>1710.600168716</start>
+<end>1720.600168716</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>ASC HUR</code>
+<start>1743.607550883</start>
+<end>1753.607550883</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>ASC HUR</code>
+<start>1658.4000683</start>
+<end>1668.4000683</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>ASC HUR</code>
+<start>1765.505157967</start>
+<end>1775.505157967</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>BS1 HUR</code>
+<start>553.400062916</start>
+<end>576.300111958</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>BS1 HUR</code>
+<start>3618.400170833</start>
+<end>3637.500092125</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>BS1 HUR</code>
+<start>3909.800104445</start>
+<end>3923.900132986</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>BS1 HUR</code>
+<start>3298.700110148</start>
+<end>3314.300120107</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>BS1 HUR</code>
+<start>3651.900084734</start>
+<end>3671.800131068</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>BS1 HUR</code>
+<start>4884.100126624</start>
+<end>4904.701866192</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>BS1 HUR</code>
+<start>3853.500162617</start>
+<end>3867.100079</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>BS1 HUR</code>
+<start>1541.700099249</start>
+<end>1560.500136075</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>BS1 HUR</code>
+<start>3437.700114584</start>
+<end>3451.700090958</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>BS1 HUR</code>
+<start>718.900097917</start>
+<end>747.900046667</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>BS1 HUR</code>
+<start>576.310111958</start>
+<end>593.900044291</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>BS1 HUR</code>
+<start>690.300115865</start>
+<end>708.500096741</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>BS1 HUR</code>
+<start>4968.900072722</start>
+<end>4985.900075098</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>BS1 HUR</code>
+<start>3802.200144497</start>
+<end>3822.800081711</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>BS1 HUR</code>
+<start>4717.700092176</start>
+<end>4740.700078508</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>BS1 HUR</code>
+<start>2049.600071625</start>
+<end>2069.703290624</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>BS1 HUR</code>
+<start>387.700084625</start>
+<end>412.500168709</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>BS2 HUR</code>
+<start>3730.30020304</start>
+<end>3750.000212915</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>BS2 HUR</code>
+<start>822.700093422</start>
+<end>870.100123623</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>BS2 HUR</code>
+<start>4272.600111587</start>
+<end>4288.900099836</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>BS2 HUR</code>
+<start>3750.010212915</start>
+<end>3756.700116582</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>BS2 HUR</code>
+<start>1911.002604874</start>
+<end>1942.100124042</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>BS2 HUR</code>
+<start>409.000168709</start>
+<end>424.400075145</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>BS2 HUR</code>
+<start>590.400044291</start>
+<end>606.300098041</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>BS2 HUR</code>
+<start>1314.800106682</start>
+<end>1330.000092432</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>BS2 HUR</code>
+<start>4600.100156208</start>
+<end>4621.0000955</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>BS2 HUR</code>
+<start>3312.300088149</start>
+<end>3322.800112149</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>BS2 HUR</code>
+<start>5014.400089638</start>
+<end>5028.000076556</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>BS2 HUR</code>
+<start>3634.000092125</start>
+<end>3645.300059874</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>BS2 HUR</code>
+<start>759.100086957</start>
+<end>796.300105666</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>BS2 HUR</code>
+<start>4737.200078508</start>
+<end>4756.000115383</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>BS2 HUR</code>
+<start>208.500110809</start>
+<end>239.200088639</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>BS2 HUR</code>
+<start>131.600086555</start>
+<end>142.300040514</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>BS2 HUR</code>
+<start>3323.400101316</start>
+<end>3333.000203523</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>BS2 HUR</code>
+<start>4092.300066596</start>
+<end>4117.300115208</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>BS2 HUR</code>
+<start>1168.100100131</start>
+<end>1180.800193083</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>BS2 HUR</code>
+<start>3246.500245582</start>
+<end>3259.700078083</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>BS2 HUR</code>
+<start>2173.000089002</start>
+<end>2197.500326165</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>BS2 HUR</code>
+<start>1834.000063555</start>
+<end>1853.60145254</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>BS2 HUR</code>
+<start>3668.300131068</start>
+<end>3678.400071151</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>BS2 HUR</code>
+<start>4361.500128697</start>
+<end>4380.700111406</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>BS2 HUR</code>
+<start>976.60425534</start>
+<end>985.301290755</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>BS3 HUR</code>
+<start>4137.000135458</start>
+<end>4145.700112833</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>BS3 HUR</code>
+<start>1604.000070177</start>
+<end>1621.300099844</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>BS3 HUR</code>
+<start>1177.300193083</start>
+<end>1184.800229084</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>BS3 HUR</code>
+<start>1326.500092432</start>
+<end>1340.900084848</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>BS3 HUR</code>
+<start>981.801290755</start>
+<end>1009.206546756</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>BS3 HUR</code>
+<start>1184.810229084</start>
+<end>1219.900080041</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>BS3 HUR</code>
+<start>1637.700086341</start>
+<end>1668.400071466</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>BS3 HUR</code>
+<start>602.800098041</start>
+<end>628.000111042</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>BS3 HUR</code>
+<start>1557.000136075</start>
+<end>1568.900097616</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>BS3 HUR</code>
+<start>1576.700093349</start>
+<end>1590.800078557</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>BS3 HUR</code>
+<start>4617.5000955</start>
+<end>4624.300175709</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>BS3 HUR</code>
+<start>3208.505895157</start>
+<end>3227.005685991</end>
+</instance>
+<instance>
+<ID>331</ID>
+<code>BS3 HUR</code>
+<start>287.700070749</start>
+<end>304.600075331</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>BS4 HUR</code>
+<start>1216.400080041</start>
+<end>1223.100177583</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>BS4 HUR</code>
+<start>1008.000064839</start>
+<end>1027.804049505</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>BS4 HUR</code>
+<start>1337.400084848</start>
+<end>1346.900096808</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>BS4 HUR</code>
+<start>301.100075331</start>
+<end>316.700105247</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>BS4 HUR</code>
+<start>803.50011229</start>
+<end>816.000125069</end>
+</instance>
+<instance>
+<ID>337</ID>
+<code>BS4 HUR</code>
+<start>237.000176597</start>
+<end>260.400105166</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>BS4 HUR</code>
+<start>316.710105247</start>
+<end>329.100061937</end>
+</instance>
+<instance>
+<ID>339</ID>
+<code>BS4 HUR</code>
+<start>4396.510121817</start>
+<end>4409.200090318</end>
+</instance>
+<instance>
+<ID>340</ID>
+<code>BS4 HUR</code>
+<start>329.110061937</start>
+<end>338.300172313</end>
+</instance>
+<instance>
+<ID>341</ID>
+<code>BS4 HUR</code>
+<start>4377.200111406</start>
+<end>4396.500121817</end>
+</instance>
+<instance>
+<ID>342</ID>
+<code>BW1 HUR</code>
+<start>908.500110996</start>
+<end>922.100090288</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>BW1 HUR</code>
+<start>4693.5000853</start>
+<end>4702.500184592</end>
+</instance>
+<instance>
+<ID>344</ID>
+<code>BW1 HUR</code>
+<start>4591.200176916</start>
+<end>4603.600156208</end>
+</instance>
+<instance>
+<ID>345</ID>
+<code>BW1 HUR</code>
+<start>1434.610401689</start>
+<end>1452.006767732</end>
+</instance>
+<instance>
+<ID>346</ID>
+<code>BW1 HUR</code>
+<start>201.400097727</start>
+<end>212.000110809</end>
+</instance>
+<instance>
+<ID>347</ID>
+<code>BW1 HUR</code>
+<start>1504.300073833</start>
+<end>1512.600087834</end>
+</instance>
+<instance>
+<ID>348</ID>
+<code>BW1 HUR</code>
+<start>2148.103791332</start>
+<end>2176.500089002</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>BW1 HUR</code>
+<start>3369.602299439</start>
+<end>3377.600048647</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>BW1 HUR</code>
+<start>3101.100066083</start>
+<end>3111.000049374</end>
+</instance>
+<instance>
+<ID>351</ID>
+<code>BW1 HUR</code>
+<start>1388.400049707</start>
+<end>1398.000090332</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>BW1 HUR</code>
+<start>1462.806997023</start>
+<end>1477.709498856</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>BW1 HUR</code>
+<start>4083.700067388</start>
+<end>4095.800066596</end>
+</instance>
+<instance>
+<ID>354</ID>
+<code>BW1 HUR</code>
+<start>922.110090288</start>
+<end>935.100110204</end>
+</instance>
+<instance>
+<ID>355</ID>
+<code>BW1 HUR</code>
+<start>3385.500112897</start>
+<end>3397.800059064</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>BW1 HUR</code>
+<start>1877.501876208</start>
+<end>1898.803776624</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>BW1 HUR</code>
+<start>1527.205608291</start>
+<end>1545.200099249</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>BW1 HUR</code>
+<start>4308.800124194</start>
+<end>4328.100219277</end>
+</instance>
+<instance>
+<ID>359</ID>
+<code>BW1 HUR</code>
+<start>4709.5000838</start>
+<end>4721.200092176</end>
+</instance>
+<instance>
+<ID>360</ID>
+<code>BW1 HUR</code>
+<start>4819.400168263</start>
+<end>4834.700061388</end>
+</instance>
+<instance>
+<ID>361</ID>
+<code>BW2 HUR</code>
+<start>1988.60004675</start>
+<end>2005.100225787</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>BW2 HUR</code>
+<start>4064.400144815</start>
+<end>4082.300108263</end>
+</instance>
+<instance>
+<ID>363</ID>
+<code>BW2 HUR</code>
+<start>745.600088959</start>
+<end>762.600086957</end>
+</instance>
+<instance>
+<ID>364</ID>
+<code>BW2 HUR</code>
+<start>3775.60019529</start>
+<end>3788.300110623</end>
+</instance>
+<instance>
+<ID>365</ID>
+<code>BW2 HUR</code>
+<start>5001.000055221</start>
+<end>5017.900089638</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>BW2 HUR</code>
+<start>3178.002117324</start>
+<end>3201.806438491</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>BW2 HUR</code>
+<start>4849.300086894</start>
+<end>4861.200107768</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>BW2 HUR</code>
+<start>4409.403448946</start>
+<end>4426.603130447</end>
+</instance>
+<instance>
+<ID>369</ID>
+<code>BW2 HUR</code>
+<start>5050.40004518</start>
+<end>5071.200092336</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>BW3 HUR</code>
+<start>1223.305106164</start>
+<end>1251.000115291</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>BW3 HUR</code>
+<start>1617.500087468</start>
+<end>1633.600430979</end>
+</instance>
+<instance>
+<ID>372</ID>
+<code>BW3 HUR</code>
+<start>1848.601731749</start>
+<end>1858.202532457</end>
+</instance>
+<instance>
+<ID>373</ID>
+<code>BW3 HUR</code>
+<start>1570.200199282</start>
+<end>1580.200093349</end>
+</instance>
+<instance>
+<ID>374</ID>
+<code>BW3 HUR</code>
+<start>5073.200100419</start>
+<end>5088.100077794</end>
+</instance>
+<instance>
+<ID>375</ID>
+<code>BW4 HUR</code>
+<start>5135.200092319</start>
+<end>5143.50013286</end>
+</instance>
+<instance>
+<ID>376</ID>
+<code>BW4 HUR</code>
+<start>793.601464458</start>
+<end>805.500085957</end>
+</instance>
+<instance>
+<ID>377</ID>
+<code>BW4 HUR</code>
+<start>1793.707095091</start>
+<end>1816.605348341</end>
+</instance>
+<instance>
+<ID>378</ID>
+<code>CP HUR</code>
+<start>778.500103123</start>
+<end>796.922037541</end>
+</instance>
+<instance>
+<ID>379</ID>
+<code>CP HUR</code>
+<start>983.101095256</start>
+<end>1000.900060673</end>
+</instance>
+<instance>
+<ID>380</ID>
+<code>CP HUR</code>
+<start>796.932037541</start>
+<end>805.700120707</end>
+</instance>
+<instance>
+<ID>381</ID>
+<code>CP HUR</code>
+<start>1000.910060673</start>
+<end>1009.500071256</end>
+</instance>
+<instance>
+<ID>382</ID>
+<code>CP HUR</code>
+<start>470.500155165</start>
+<end>492.900053626</end>
+</instance>
+<instance>
+<ID>383</ID>
+<code>CP HUR</code>
+<start>3204.906814741</start>
+<end>3225.304198866</end>
+</instance>
+<instance>
+<ID>384</ID>
+<code>CP HUR</code>
+<start>1645.400274091</start>
+<end>1668.400071466</end>
+</instance>
+<instance>
+<ID>385</ID>
+<code>CP HUR</code>
+<start>1614.000122469</start>
+<end>1633.200558895</end>
+</instance>
+<instance>
+<ID>386</ID>
+<code>SC HUR</code>
+<start>1743.401479633</start>
+<end>1757.401479633</end>
+</instance>
+<instance>
+<ID>387</ID>
+<code>SC HUR</code>
+<start>1784.604441424</start>
+<end>1798.604441424</end>
+</instance>
+<instance>
+<ID>388</ID>
+<code>SC HUR</code>
+<start>1765.405352799</start>
+<end>1779.405352799</end>
+</instance>
+<instance>
+<ID>389</ID>
+<code>SC HUR</code>
+<start>1706.800053883</start>
+<end>1720.800053883</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>Q1</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q2</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q3</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q4</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>TIJDSTIL</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>ARBITRAGE</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>BLESSURE / IMPACT</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GROEN HUR</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BB PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>SC PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

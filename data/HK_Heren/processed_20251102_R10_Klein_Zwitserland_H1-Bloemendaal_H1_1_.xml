@@ -1,0 +1,6691 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>215.70008624899998</start>
+<end>235.700093347</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>736.800068923</start>
+<end>794.000143649</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIAL BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>1136.600139961</start>
+<end>1177.000119084</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>1402.6001839179999</start>
+<end>1429.600085705</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>1529.2000821679999</start>
+<end>1563.100096864</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 3 BUILD-UP BLO</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>1698.8001158529999</start>
+<end>1748.900068936</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>1789.7000770149998</start>
+<end>1857.900075268</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>2913.700095679</start>
+<end>2969.100065222</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>3117.5000832789997</start>
+<end>3157.500165719</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>3268.600074158</start>
+<end>3289.500046208</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>3567.00012994</start>
+<end>3605.902068185</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>3818.100098894</start>
+<end>3893.903837489</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>4269.3000693720005</start>
+<end>4305.500082747</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>4567.500075017</start>
+<end>4579.700423643</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIAL BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>bloemendaal ball_restart_1</code>
+<start>4619.600090238</start>
+<end>4633.300073321</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>129.00007052</start>
+<end>136.900105478</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>625.500065432</start>
+<end>651.000160974</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>695.500146708</start>
+<end>716.400092273</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>889.5000987650001</start>
+<end>910.300097415</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>1177.000079624</start>
+<end>1196.100099334</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>1276.000070961</start>
+<end>1295.802675347</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>1562.200084782</start>
+<end>1588.100063072</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>1588.110063072</start>
+<end>1591.800066814</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>1683.6001688949998</start>
+<end>1700.007471769</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>1756.0033268109999</start>
+<end>1772.600068083</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: PRESS BROKEN</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>2992.7000669639997</start>
+<end>3117.300087697</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: M2M PRESS BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>3245.700064158</start>
+<end>3270.100091158</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KZ</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>3288.800061</start>
+<end>3305.500161709</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>3401.700072798</start>
+<end>3416.900085532</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: PRESS BROKEN</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>3451.800087783</start>
+<end>3472.300097335</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>4080.100134166</start>
+<end>4107.7001003</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KZ</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>4224.700095581</start>
+<end>4269.200071581</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KZ</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>4391.9000938340005</start>
+<end>4425.300058393</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: PRESS BROKEN</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>bloemendaal ball_restart_2</code>
+<start>337.700068741</start>
+<end>396.000070991</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>bloemendaal ball_restart_2</code>
+<start>844.800066816</start>
+<end>871.100088847</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>PRESSSHAPE: 50 PRESS KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>bloemendaal ball_restart_2</code>
+<start>2700.500078834</start>
+<end>2789.000090383</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>bloemendaal ball_restart_2</code>
+<start>3204.200104145</start>
+<end>3238.800089284</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>bloemendaal ball_restart_2</code>
+<start>3306.100141375</start>
+<end>3332.604521482</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>EFFICIENCY: CPC BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>bloemendaal ball_restart_2</code>
+<start>3772.400116161</start>
+<end>3789.800071321</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>bloemendaal ball_restart_2</code>
+<start>3995.8000574049997</start>
+<end>4034.9000575</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIAL BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>bloemendaal ball_restart_2</code>
+<start>4058.001741954</start>
+<end>4084.705560038</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE BLO</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>0.0</start>
+<end>31.304587374</end>
+<label>
+<text>QUARTER: Q0</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>32.100207832</start>
+<end>59.904446873</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>145.200103181</start>
+<end>207.200069722</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>249.800097473</start>
+<end>286.100079723</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>445.40004730100003</start>
+<end>467.000089033</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>511.400052008</start>
+<end>518.900087381</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KZ</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>803.400071399</start>
+<end>845.400090649</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>1060.800076116</start>
+<end>1129.800097337</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>1772.200103765</start>
+<end>1790.800073348</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>1883.60004136</start>
+<end>1936.100180038</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>1980.800096345</start>
+<end>1996.907263026</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>2793.803087767</start>
+<end>2874.400061806</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KZ</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 50 PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: M2M PRESS BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: PRESS BROKEN</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 3 BUILD-UP KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>3620.000073851</start>
+<end>3635.802296601</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>3894.6000878229997</start>
+<end>3963.000137478</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>4037.200071333</start>
+<end>4061.700095694</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>bloemendaal ball_restart_3</code>
+<start>56.100137658</start>
+<end>121.600090893</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: 50 PRESS KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: PRESS BROKEN</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>bloemendaal ball_restart_3</code>
+<start>285.30008751400004</start>
+<end>296.700075197</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>bloemendaal ball_restart_3</code>
+<start>323.300074381</start>
+<end>328.300069366</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE BLO</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>bloemendaal ball_restart_3</code>
+<start>399.901050914</start>
+<end>411.900061871</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE BLO</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>bloemendaal ball_restart_3</code>
+<start>593.6000789440001</start>
+<end>603.80031379</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>bloemendaal ball_restart_3</code>
+<start>1217.20008569</start>
+<end>1230.100132939</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>bloemendaal ball_restart_3</code>
+<start>3151.900078067</start>
+<end>3166.700093829</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>bloemendaal ball_restart_3</code>
+<start>4304.300071372</start>
+<end>4391.400067335</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: 50 PRESS KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: PRESS BROKEN</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>206.80185389</start>
+<end>221.600069055</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>428.992431747</start>
+<end>431.392431747</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>653.400067515</start>
+<end>661.400071699</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>1383.9000725019998</start>
+<end>1399.300071669</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>3498.700338952</start>
+<end>3516.600088401</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>3640.900248309</start>
+<end>3653.500086315</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>4166.302563962</start>
+<end>4178.902069594</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>4579.800083059</start>
+<end>4606.200067393</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>4632.100092154001</start>
+<end>4649.700048222</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>4670.900068733001</start>
+<end>4681.600076388</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>bloemendaal ball_restart_4</code>
+<start>869.800065514</start>
+<end>888.200081016</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPC BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>bloemendaal ball_restart_4</code>
+<start>1210.6000864999999</start>
+<end>1221.600645252</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>bloemendaal ball_restart_4</code>
+<start>1231.9000685229998</start>
+<end>1259.30007919</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIAL BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>bloemendaal ball_restart_4</code>
+<start>1437.900051288</start>
+<end>1453.800094871</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIAL BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>bloemendaal ball_restart_4</code>
+<start>1453.810094871</start>
+<end>1471.70013141</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>FH: FH BLO</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>bloemendaal ball_restart_4</code>
+<start>2967.700081847</start>
+<end>2992.200065881</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 5 BUILD-UP BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>bloemendaal ball_restart_4</code>
+<start>4202.700088092</start>
+<end>4229.200092172</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 5 BUILD-UP BLO</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>467.100313449</start>
+<end>515.305027958</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>907.900097415</start>
+<end>920.400083968</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST BLO</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>1503.40008795</start>
+<end>1509.300347315</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>2873.700124988</start>
+<end>2902.200087239</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>2902.210087239</start>
+<end>2912.000166263</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>3516.900071443</start>
+<end>3544.700068393</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>4518.501204767001</start>
+<end>4530.100128017</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>4533.100092226</start>
+<end>4564.900087018</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>4605.6001661010005</start>
+<end>4621.600077185</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>bloemendaal ball_win_1</code>
+<start>410.300068515</start>
+<end>430.70693533</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>bloemendaal ball_win_1</code>
+<start>657.400071699</start>
+<end>695.700084041</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>bloemendaal ball_win_1</code>
+<start>712.400092273</start>
+<end>719.400091612</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>bloemendaal ball_win_1</code>
+<start>1192.100099334</start>
+<end>1211.400070708</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>bloemendaal ball_win_1</code>
+<start>1290.600071602</start>
+<end>1337.304535869</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>bloemendaal ball_win_1</code>
+<start>1505.300347315</start>
+<end>1518.900066877</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>bloemendaal ball_win_1</code>
+<start>1992.907263026</start>
+<end>2006.504064941</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>bloemendaal ball_win_1</code>
+<start>3540.700068393</start>
+<end>3565.700076358</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>bloemendaal ball_win_1</code>
+<start>3804.100078227</start>
+<end>3818.200091395</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>bloemendaal ball_win_1</code>
+<start>3959.000137478</start>
+<end>3981.500093663</end>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>bloemendaal ball_win_1</code>
+<start>4174.902069594</start>
+<end>4203.600092883</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>bloemendaal ball_win_1</code>
+<start>4421.300058393</start>
+<end>4427.400089383</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>bloemendaal ball_win_1</code>
+<start>4432.800090682</start>
+<end>4453.107295872</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>bloemendaal ball_win_1</code>
+<start>4645.700048222</start>
+<end>4659.400052982</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>bloemendaal ball_win_1</code>
+<start>4677.600076388</start>
+<end>4685.400059266</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>117.600090893</start>
+<end>128.40037781</end>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 50 PRESS KZ</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>292.700075197</start>
+<end>326.500079614</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>392.000070991</start>
+<end>404.900068908</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>407.900061871</start>
+<end>414.300068515</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>580.403050467</start>
+<end>598.90199455</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>599.80031379</start>
+<end>605.900089637</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>790.000143649</start>
+<end>803.600088066</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1333.304535869</start>
+<end>1340.000059389</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1367.600073002</start>
+<end>1384.30010721</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1425.600085705</start>
+<end>1437.000083747</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1467.70013141</start>
+<end>1481.702701029</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1593.500079892</start>
+<end>1605.700065355</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1853.900075268</start>
+<end>1866.200107944</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>2785.000090383</start>
+<end>2792.700071623</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>3162.700093829</start>
+<end>3173.800079909</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>3191.100071561</start>
+<end>3200.500125353</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>3234.800089284</start>
+<end>3246.400079574</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>3476.506183243</start>
+<end>3498.303534118</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>4115.505112212</start>
+<end>4165.604967086</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>4449.107295872</start>
+<end>4459.400081349</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>4482.700059802</start>
+<end>4504.605555226</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>4655.400052982</start>
+<end>4671.300070733</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>bloemendaal ball_win_2</code>
+<start>132.900105478</start>
+<end>146.900081394</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>bloemendaal ball_win_2</code>
+<start>514.900087381</start>
+<end>584.403050467</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>bloemendaal ball_win_2</code>
+<start>1477.702701029</start>
+<end>1486.400060999</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>bloemendaal ball_win_2</code>
+<start>1601.700065355</start>
+<end>1679.000132602</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL BLO</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>bloemendaal ball_win_2</code>
+<start>1862.200107944</start>
+<end>1880.600069736</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>bloemendaal ball_win_2</code>
+<start>1932.100180038</start>
+<end>1959.300076923</end>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>bloemendaal ball_win_2</code>
+<start>3169.800079909</start>
+<end>3178.900144188</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>bloemendaal ball_win_2</code>
+<start>3412.900085532</start>
+<end>3447.801118199</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>bloemendaal ball_win_2</code>
+<start>3987.300081071</start>
+<end>3996.800091572</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>bloemendaal ball_win_2</code>
+<start>4455.400081349</start>
+<end>4486.700059802</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>231.700093347</start>
+<end>249.70024989</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>324.300069366</start>
+<end>337.100063491</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>1482.400060999</start>
+<end>1502.700077992</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>3174.900144188</start>
+<end>3181.400095807</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>3601.902068185</start>
+<end>3619.401970977</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>3785.800071321</start>
+<end>3808.100078227</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>3977.500093663</start>
+<end>3991.300081071</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>4423.400089383</start>
+<end>4436.800090682</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>bloemendaal ball_win_3</code>
+<start>601.900089637</start>
+<end>619.300110015</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>bloemendaal ball_win_3</code>
+<start>1336.000059389</start>
+<end>1371.600073002</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>bloemendaal ball_win_3</code>
+<start>1587.800066814</start>
+<end>1597.500079892</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>bloemendaal ball_win_3</code>
+<start>3177.400095807</start>
+<end>3195.100071561</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>bloemendaal ball_win_3</code>
+<start>3468.300097335</start>
+<end>3480.506183243</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>bloemendaal ball_win_3</code>
+<start>4103.7001003</start>
+<end>4119.505112212</end>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>klein_zwitserland ball_win_4</code>
+<start>715.400091612</start>
+<end>735.100058923</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST BLO</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>klein_zwitserland ball_win_4</code>
+<start>1514.900066877</start>
+<end>1528.80012721</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>klein_zwitserland ball_win_4</code>
+<start>4681.400059266</start>
+<end>4746.947389628</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>EFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPCT BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>bloemendaal goal_attempt</code>
+<start>862.700113973</start>
+<end>870.700113973</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>bloemendaal goal_attempt</code>
+<start>1166.700125209</start>
+<end>1174.700125209</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>bloemendaal goal_attempt</code>
+<start>3436.800093533</start>
+<end>3444.800093533</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>klein_zwitserland goal_attempt</code>
+<start>3803.100059858</start>
+<end>3811.100059858</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>158</ID>
+<code>klein_zwitserland goal_attempt</code>
+<start>3956.600070687</start>
+<end>3964.600070687</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS BLO</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS BLO</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>bloemendaal circle_penetration</code>
+<start>103.900074061</start>
+<end>121.600090893</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>bloemendaal circle_penetration</code>
+<start>394.800065348</start>
+<end>411.900061871</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>bloemendaal circle_penetration</code>
+<start>411.910061871</start>
+<end>419.809051621</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>bloemendaal circle_penetration</code>
+<start>419.81905162099997</start>
+<end>430.70693533</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>bloemendaal circle_penetration</code>
+<start>567.700693008</start>
+<end>584.403050467</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>bloemendaal circle_penetration</code>
+<start>598.300084307</start>
+<end>619.300110015</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>bloemendaal circle_penetration</code>
+<start>674.500090124</start>
+<end>695.700084041</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>bloemendaal circle_penetration</code>
+<start>777.600227316</start>
+<end>794.000143649</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>bloemendaal circle_penetration</code>
+<start>849.700078014</start>
+<end>871.100088847</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>bloemendaal circle_penetration</code>
+<start>871.110088847</start>
+<end>888.200081016</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CPC BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>bloemendaal circle_penetration</code>
+<start>1153.900107084</start>
+<end>1177.000119084</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>bloemendaal circle_penetration</code>
+<start>1409.800082055</start>
+<end>1429.600085705</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>bloemendaal circle_penetration</code>
+<start>1454.100117327</start>
+<end>1471.70013141</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>bloemendaal circle_penetration</code>
+<start>1580.700087809</start>
+<end>1597.500079892</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>bloemendaal circle_penetration</code>
+<start>1656.500385978</start>
+<end>1679.000132602</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>bloemendaal circle_penetration</code>
+<start>1837.100089685</start>
+<end>1857.900075268</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>bloemendaal circle_penetration</code>
+<start>1937.600059493</start>
+<end>1959.300076923</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>bloemendaal circle_penetration</code>
+<start>2969.600085131</start>
+<end>2992.200065881</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>bloemendaal circle_penetration</code>
+<start>3175.90005852</start>
+<end>3195.100071561</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>bloemendaal circle_penetration</code>
+<start>3306.605868648</start>
+<end>3332.604521482</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>EFFICIENCY: CPC BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>bloemendaal circle_penetration</code>
+<start>3421.400073366</start>
+<end>3447.801118199</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>bloemendaal circle_penetration</code>
+<start>3459.363648459</start>
+<end>3480.506183243</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>bloemendaal circle_penetration</code>
+<start>4010.200073749</start>
+<end>4034.9000575</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>bloemendaal circle_penetration</code>
+<start>4060.505646079</start>
+<end>4084.705560038</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>bloemendaal circle_penetration</code>
+<start>4179.90009755</start>
+<end>4203.600092883</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>bloemendaal circle_penetration</code>
+<start>4432.000084931</start>
+<end>4453.107295872</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>698.800052816</start>
+<end>716.400092273</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>716.410092273</start>
+<end>735.100058923</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST BLO</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>897.600108343</start>
+<end>920.400083968</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST BLO</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>1104.400096171</start>
+<end>1129.800097337</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>2846.100090436</start>
+<end>2874.400061806</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 3 BUILD-UP KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT BLO</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>2890.600104179</start>
+<end>2912.000166263</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>3527.300056023</start>
+<end>3544.700068393</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>3788.700076358</start>
+<end>3808.100078227</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>3942.900079979</start>
+<end>3963.000137478</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 BLO</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>4507.400082851</start>
+<end>4530.100128017</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>bloemendaal circle_penetration</code>
+<start>3312.906025565</start>
+<end>3330.2060255650003</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>4673.200067266</start>
+<end>4690.500067266</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>bloemendaal</code>
+<start>1464.800082311</start>
+<end>1471.70013141</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP BLO</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 BLO</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>klein_zwitserland</code>
+<start>904.500104465</start>
+<end>920.400083968</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST BLO</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>klein_zwitserland</code>
+<start>2901.500297321</start>
+<end>2912.000166263</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT BLO</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>klein_zwitserland</code>
+<start>4533.500098183999</start>
+<end>4564.900087018</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT BLO</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>bloemendaal goal</code>
+<start>407.905476539</start>
+<end>427.205476539</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 0</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>bloemendaal goal</code>
+<start>1938.400098619</start>
+<end>1957.7000986189998</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>bloemendaal penalty_corner</code>
+<start>3372.900081965</start>
+<end>3390.300089631</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>klein_zwitserland penalty_corner</code>
+<start>4730.90005117</start>
+<end>4746.947389628</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>klein_zwitserland shootout</code>
+<start>1119.700076045</start>
+<end>1127.700076045</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 1</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 1</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>klein_zwitserland shootout</code>
+<start>2867.300108972</start>
+<end>2874.400061806</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - BLO 2</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: BLO 2</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>start</code>
+<start>0.0</start>
+<end>1.500111875</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>start</code>
+<start>1061.500122492</start>
+<end>1063.500122492</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>start</code>
+<start>2701.300062001</start>
+<end>2703.300062001</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>start</code>
+<start>3773.000131994</start>
+<end>3775.000131994</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>BS1 BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS2 BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS3 BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS4 BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW1 BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW2 BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW3 BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>CHANCE BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CHANCE KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>CP BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>CPC BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CPC KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>FH BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>FH KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>GOAL BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>PC BLO</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>PC KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>SOT KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

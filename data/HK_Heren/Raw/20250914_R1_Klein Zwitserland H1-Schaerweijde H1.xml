@@ -1,0 +1,10471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>BS1 KZ</code>
+<start>128.800181166</start>
+<end>154.004601456</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>BS1 KZ</code>
+<start>442.500103207</start>
+<end>456.800316165</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>BS1 KZ</code>
+<start>532.100280415</start>
+<end>556.601277374</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS SCH</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>BS1 KZ</code>
+<start>677.500334499</start>
+<end>702.800282498</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>BS1 KZ</code>
+<start>1135.800232874</start>
+<end>1148.70007</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>BS1 KZ</code>
+<start>1263.200294667</start>
+<end>1272.700081916</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>BS1 KZ</code>
+<start>1943.600865958</start>
+<end>1953.500086083</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>BS1 KZ</code>
+<start>1967.700042791</start>
+<end>1980.200316374</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>BS1 KZ</code>
+<start>2085.828736124</start>
+<end>2131.900115041</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 25 PRESS SCH</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>BS1 KZ</code>
+<start>2459.200121249</start>
+<end>2481.300084167</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>BS1 KZ</code>
+<start>2831.300167708</start>
+<end>2839.900067624</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>BS1 KZ</code>
+<start>2946.200097625</start>
+<end>2956.100112499</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>BS1 KZ</code>
+<start>3125.40009179</start>
+<end>3157.900113123</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>BS1 KZ</code>
+<start>3200.500064001</start>
+<end>3218.500246624</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>BS1 KZ</code>
+<start>3422.600065</start>
+<end>3439.700069542</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>BS1 KZ</code>
+<start>3570.700073333</start>
+<end>3582.200071625</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>BS1 KZ</code>
+<start>3610.601162249</start>
+<end>3642.915562</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>BS1 KZ</code>
+<start>3645.700079207</start>
+<end>3664.400069707</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>BS1 KZ</code>
+<start>3675.500096707</start>
+<end>3691.600035749</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>BS1 KZ</code>
+<start>3833.400106916</start>
+<end>3870.90003929</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>BS1 KZ</code>
+<start>3909.500096582</start>
+<end>3917.400909165</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>BS1 KZ</code>
+<start>4213.3000869160005</start>
+<end>4285.500080583</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>BS1 SCH</code>
+<start>95.800074332</start>
+<end>110.501290957</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>BS1 SCH</code>
+<start>247.2000675</start>
+<end>255.200088792</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>BS1 SCH</code>
+<start>741.500116458</start>
+<end>774.900074249</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>BS1 SCH</code>
+<start>908.101182041</start>
+<end>925.900116834</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>BS1 SCH</code>
+<start>950.7000732920001</start>
+<end>957.500074833</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>BS1 SCH</code>
+<start>971.000046791</start>
+<end>997.100111084</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>BS1 SCH</code>
+<start>1099.6013127479998</start>
+<end>1126.200220875</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>BS1 SCH</code>
+<start>1641.700097875</start>
+<end>1682.300084416</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>BS1 SCH</code>
+<start>1725.812778</start>
+<end>1735.100089333</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>BS1 SCH</code>
+<start>2054.9000444569997</start>
+<end>2067.500115791</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>BS1 SCH</code>
+<start>2754.900125791</start>
+<end>2769.102053457</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>BS1 SCH</code>
+<start>3159.001082747</start>
+<end>3184.900059457</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>BS1 SCH</code>
+<start>3297.5004236679997</start>
+<end>3319.100093791</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BS1 SCH</code>
+<start>3741.800115333</start>
+<end>3769.500997084</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BS1 SCH</code>
+<start>4062.300121583</start>
+<end>4078.400063958</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BS1 SCH</code>
+<start>4309.700087583</start>
+<end>4320.600233791</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BS2 KZ</code>
+<start>0.0</start>
+<end>18.90012975</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BS2 KZ</code>
+<start>208.153742792</start>
+<end>247.200192542</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BS2 KZ</code>
+<start>315.300035916</start>
+<end>337.400067874</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BS2 KZ</code>
+<start>454.40031616500005</start>
+<end>467.202227998</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BS2 KZ</code>
+<start>797.800289416</start>
+<end>846.400217625</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>PRESSSHAPE: 50 PRESS SCH</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT SCH</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 4 BUILD-UP KZ</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BS2 KZ</code>
+<start>927.4003226240001</start>
+<end>948.900086458</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BS2 KZ</code>
+<start>1034.200295207</start>
+<end>1053.100099123</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BS2 KZ</code>
+<start>1053.110099123</start>
+<end>1100.200032624</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BS2 KZ</code>
+<start>1208.500089125</start>
+<end>1221.400081584</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BS2 KZ</code>
+<start>1620.800138208</start>
+<end>1642.100114</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BS2 KZ</code>
+<start>1681.900093125</start>
+<end>1703.900033333</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BS2 KZ</code>
+<start>2430.8000939569997</start>
+<end>2458.500072042</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BS2 KZ</code>
+<start>2521.600105792</start>
+<end>2540.900080708</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BS2 KZ</code>
+<start>2717.3000631259997</start>
+<end>2755.800228583</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BS2 KZ</code>
+<start>2765.700082335</start>
+<end>2772.600078584</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BS2 KZ</code>
+<start>2795.70009425</start>
+<end>2802.000148041</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BS2 KZ</code>
+<start>2867.500102124</start>
+<end>2896.400087791</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BS2 KZ</code>
+<start>2986.400046833</start>
+<end>3000.000077376</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BS2 KZ</code>
+<start>3389.400855458</start>
+<end>3399.700118375</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BS2 KZ</code>
+<start>3588.306768499</start>
+<end>3611.200060916</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BS2 KZ</code>
+<start>3696.000319791</start>
+<end>3724.000572832</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BS2 KZ</code>
+<start>3724.0105728320004</start>
+<end>3725.300121417</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BS2 KZ</code>
+<start>3725.310121417</start>
+<end>3743.200110708</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BS2 SCH</code>
+<start>164.400086166</start>
+<end>208.102008916</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BS2 SCH</code>
+<start>254.600590042</start>
+<end>265.500255959</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BS2 SCH</code>
+<start>395.10010870800005</start>
+<end>434.300152207</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BS2 SCH</code>
+<start>571.800053914</start>
+<end>580.400153414</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE SCH</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BS2 SCH</code>
+<start>580.410153414</start>
+<end>595.500075165</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BS2 SCH</code>
+<start>634.500099208</start>
+<end>642.8063905</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BS2 SCH</code>
+<start>661.100513708</start>
+<end>675.40009204</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BS2 SCH</code>
+<start>1145.300076624</start>
+<end>1164.100079083</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BS2 SCH</code>
+<start>1546.400081709</start>
+<end>1568.800129459</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BS2 SCH</code>
+<start>1743.601577792</start>
+<end>1761.400041543</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BS2 SCH</code>
+<start>2182.8002644999997</start>
+<end>2220.000075</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 SCH</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BS2 SCH</code>
+<start>2391.800095167</start>
+<end>2431.60006975</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BS2 SCH</code>
+<start>2548.700072707</start>
+<end>2564.600068915</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BS2 SCH</code>
+<start>2836.7000722489997</start>
+<end>2848.500569666</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BS2 SCH</code>
+<start>2912.9000527089997</start>
+<end>2928.300072125</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BS2 SCH</code>
+<start>3271.601142125</start>
+<end>3297.402731085</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BS2 SCH</code>
+<start>3347.800112416</start>
+<end>3362.900299</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BS2 SCH</code>
+<start>3362.910299</start>
+<end>3387.000078125</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BS2 SCH</code>
+<start>3518.500114958</start>
+<end>3573.100073333</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE SCH</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>FH: FH SCH</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BS2 SCH</code>
+<start>3580.800122541</start>
+<end>3589.900076666</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BS2 SCH</code>
+<start>4181.9000306240005</start>
+<end>4203.800169041</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BS3 KZ</code>
+<start>555.900083333</start>
+<end>577.000145414</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BS3 KZ</code>
+<start>841.000047792</start>
+<end>854.40011304</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BS3 KZ</code>
+<start>1220.4011901679999</start>
+<end>1240.400075375</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BS3 KZ</code>
+<start>1865.5000372069999</start>
+<end>1890.80003104</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BS3 KZ</code>
+<start>2014.600081584</start>
+<end>2049.400084291</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: PRESS BROKEN</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BS3 KZ</code>
+<start>2248.600105459</start>
+<end>2273.101703166</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BS3 KZ</code>
+<start>2959.400079249</start>
+<end>2968.500090541</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BS3 KZ</code>
+<start>3217.200167459</start>
+<end>3228.600182165</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BS3 KZ</code>
+<start>3439.9001171669997</start>
+<end>3453.100085917</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BS3 KZ</code>
+<start>3982.600481042</start>
+<end>4059.300069458</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>PRESSSHAPE: 25 PRESS SCH</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BS3 KZ</code>
+<start>4322.3024578330005</start>
+<end>4345.105042208</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BS3 KZ</code>
+<start>4345.802221124</start>
+<end>4398.56</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BS3 SCH</code>
+<start>109.800232082</start>
+<end>117.900062332</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BS3 SCH</code>
+<start>261.600379749</start>
+<end>303.500305042</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE SCH</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BS3 SCH</code>
+<start>475.500069666</start>
+<end>507.900084834</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE SCH</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>FH: FH SCH</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BS3 SCH</code>
+<start>507.910084834</start>
+<end>517.492421333</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BS3 SCH</code>
+<start>591.900087542</start>
+<end>599.100075124</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BS3 SCH</code>
+<start>641.203944333</start>
+<end>666.002754917</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BS3 SCH</code>
+<start>780.700088292</start>
+<end>787.700077582</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE SCH</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BS3 SCH</code>
+<start>993.400120126</start>
+<end>1022.32</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BS3 SCH</code>
+<start>1245.70007025</start>
+<end>1258.601151167</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE SCH</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BS3 SCH</code>
+<start>1579.700082124</start>
+<end>1611.200097708</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE SCH</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BS3 SCH</code>
+<start>1788.5000593739999</start>
+<end>1805.600112374</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BS3 SCH</code>
+<start>1949.200138541</start>
+<end>1968.300148458</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BS3 SCH</code>
+<start>2219.2000723319998</start>
+<end>2231.800135959</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BS3 SCH</code>
+<start>2477.800269001</start>
+<end>2494.600081835</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BS3 SCH</code>
+<start>2847.200074582</start>
+<end>2853.000284749</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>BS3 SCH</code>
+<start>2998.800080833</start>
+<end>3015.000296249</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>BS3 SCH</code>
+<start>3049.900047873</start>
+<end>3064.500300123</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>BS4 KZ</code>
+<start>64.900072916</start>
+<end>79.700074916</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>BS4 KZ</code>
+<start>79.800117957</start>
+<end>93.900073999</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>BS4 KZ</code>
+<start>701.000253792</start>
+<end>723.900086791</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>BS4 KZ</code>
+<start>725.000274166</start>
+<end>740.200155666</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>BS4 KZ</code>
+<start>865.300071083</start>
+<end>898.800091667</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>BS4 KZ</code>
+<start>1438.5000605</start>
+<end>1484.301355625</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 4 BUILD-UP KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 50 PRESS SCH</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>BS4 KZ</code>
+<start>1891.400086665</start>
+<end>1904.50078904</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>BS4 KZ</code>
+<start>2132.4025375399997</start>
+<end>2147.900090707</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>BS4 KZ</code>
+<start>2147.910090707</start>
+<end>2186.900858666</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 4 BUILD-UP KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>BS4 KZ</code>
+<start>3234.4008439159998</start>
+<end>3257.900133749</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>BS4 KZ</code>
+<start>3457.602540625</start>
+<end>3501.600120167</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>BS4 KZ</code>
+<start>3504.300077042</start>
+<end>3514.400241</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>BS4 KZ</code>
+<start>4284.800071625001</start>
+<end>4293.700041374</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>BS4 SCH</code>
+<start>514.500091666</start>
+<end>529.80011704</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>BS4 SCH</code>
+<start>1163.000091749</start>
+<end>1175.300039249</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>BS4 SCH</code>
+<start>1303.20031825</start>
+<end>1318.200306251</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>FH: FH SCH</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>BS4 SCH</code>
+<start>1349.1000347079998</start>
+<end>1375.300090625</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>BS4 SCH</code>
+<start>1414.3000942489998</start>
+<end>1423.200081416</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>BS4 SCH</code>
+<start>1565.3009937909999</start>
+<end>1573.700044541</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE SCH</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>FH: FH SCH</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>BS4 SCH</code>
+<start>2496.300072334</start>
+<end>2519.000396751</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>BS4 SCH</code>
+<start>2573.1002222899997</start>
+<end>2593.80034175</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>BS4 SCH</code>
+<start>2928.400058834</start>
+<end>2942.000309375</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BS4 SCH</code>
+<start>3015.400332916</start>
+<end>3021.400062541</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BS4 SCH</code>
+<start>3068.6001338329997</start>
+<end>3123.800622458</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BS4 SCH</code>
+<start>3182.700074585</start>
+<end>3194.700075918</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BS4 SCH</code>
+<start>3399.900078708</start>
+<end>3414.000220833</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BS4 SCH</code>
+<start>3660.300083916</start>
+<end>3673.300098124</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE SCH</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BS4 SCH</code>
+<start>3769.800201125</start>
+<end>3810.500091458</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BS4 SCH</code>
+<start>3810.601025166</start>
+<end>3813.505849166</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BS4 SCH</code>
+<start>3924.70021</start>
+<end>3936.300132333</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BS4 SCH</code>
+<start>3940.200190208</start>
+<end>3958.500234249</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BS4 SCH</code>
+<start>4199.600398499</start>
+<end>4212.200230834</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BW1 KZ</code>
+<start>113.900062332</start>
+<end>130.700076915</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BW1 KZ</code>
+<start>299.500305042</start>
+<end>319.500106584</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BW1 KZ</code>
+<start>430.300152207</start>
+<end>442.500069957</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BW1 KZ</code>
+<start>595.100075124</start>
+<end>633.800075499</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 50 PRESS SCH</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BW1 KZ</code>
+<start>770.900074249</start>
+<end>784.500858916</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BW1 KZ</code>
+<start>784.510858916</start>
+<end>795.900054665</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BW1 KZ</code>
+<start>1122.200220875</start>
+<end>1132.903850166</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BW1 KZ</code>
+<start>1171.300039249</start>
+<end>1189.600092708</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BW1 KZ</code>
+<start>1317.900113584</start>
+<end>1329.000265916</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BW1 KZ</code>
+<start>1419.200081416</start>
+<end>1438.001437749</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BW1 KZ</code>
+<start>1569.700044541</start>
+<end>1583.100088707</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BW1 KZ</code>
+<start>1607.200097708</start>
+<end>1620.5000995</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BW1 KZ</code>
+<start>1757.400041543</start>
+<end>1774.001182375</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BW1 KZ</code>
+<start>1851.400076915</start>
+<end>1864.90555904</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BW1 KZ</code>
+<start>1913.200080582</start>
+<end>1920.34740825</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BW1 KZ</code>
+<start>2063.500115791</start>
+<end>2068.600210957</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BW1 KZ</code>
+<start>2589.80034175</start>
+<end>2601.500123624</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BW1 KZ</code>
+<start>2849.000284749</start>
+<end>2863.100098457</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BW1 KZ</code>
+<start>2974.700915625</start>
+<end>2985.100068125</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BW1 KZ</code>
+<start>3017.400062541</start>
+<end>3027.586076582</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BW1 KZ</code>
+<start>3410.000220833</start>
+<end>3421.000834667</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BW1 KZ</code>
+<start>3809.505849166</start>
+<end>3816.000636374</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BW1 KZ</code>
+<start>3932.300132333</start>
+<end>3943.500881207</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BW1 KZ</code>
+<start>4074.400063958</start>
+<end>4101.300052585</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BW1 SCH</code>
+<start>850.40011304</start>
+<end>856.700062165</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BW1 SCH</code>
+<start>894.800091667</start>
+<end>908.700111584</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BW1 SCH</code>
+<start>1236.400075375</start>
+<end>1249.900050333</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BW1 SCH</code>
+<start>2964.500090541</start>
+<end>2978.700915625</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BW1 SCH</code>
+<start>3224.600182165</start>
+<end>3236.800235249</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BW1 SCH</code>
+<start>3331.800196666</start>
+<end>3343.100070416</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BW1 SCH</code>
+<start>3449.100085917</start>
+<end>3458.500103208</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BW1 SCH</code>
+<start>3510.400241</start>
+<end>3523.100055583</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BW1 SCH</code>
+<start>4289.700041374</start>
+<end>4309.400034541</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BW2 KZ</code>
+<start>1731.100089333</start>
+<end>1742.600100208</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BW2 KZ</code>
+<start>2603.10004925</start>
+<end>2620.000189334</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BW2 KZ</code>
+<start>3315.100093791</start>
+<end>3335.800196666</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BW2 KZ</code>
+<start>3954.500234249</start>
+<end>3982.906107167</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BW2 SCH</code>
+<start>629.800075499</start>
+<end>639.90403829</end>
+<label>
+<text>PRESSSHAPE: ZONE PRESS SCH</text>
+</label>
+<label>
+<text>PRESSSHAPE: 50 PRESS SCH</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BW2 SCH</code>
+<start>1699.900033333</start>
+<end>1705.20684225</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BW2 SCH</code>
+<start>1738.600100208</start>
+<end>1748.000152791</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BW2 SCH</code>
+<start>1770.001182375</start>
+<end>1790.368948582</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BW2 SCH</code>
+<start>2536.900080708</start>
+<end>2549.600087207</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BW2 SCH</code>
+<start>2597.500123624</start>
+<end>2607.10004925</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BW2 SCH</code>
+<start>2768.600078584</start>
+<end>2790.300078458</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BW2 SCH</code>
+<start>2798.000148041</start>
+<end>2828.900118209</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BW2 SCH</code>
+<start>3023.586076582</start>
+<end>3046.500076832</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BW2 SCH</code>
+<start>3866.90003929</start>
+<end>3909.801363332</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BW3 KZ</code>
+<start>953.500074833</start>
+<end>971.802273958</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BW3 KZ</code>
+<start>2227.800135959</start>
+<end>2244.900117416</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BW3 SCH</code>
+<start>1268.700081916</start>
+<end>1305.60010404</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BW3 SCH</code>
+<start>1325.000265916</start>
+<end>1330.600043917</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BW3 SCH</code>
+<start>1330.610043917</start>
+<end>1349.901164582</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BW3 SCH</code>
+<start>1900.50078904</start>
+<end>1917.200080582</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BW3 SCH</code>
+<start>3812.000636374</start>
+<end>3830.900065666</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BW4 KZ</code>
+<start>852.700062165</start>
+<end>867.20021179</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BW4 SCH</code>
+<start>463.202227998</start>
+<end>478.800246291</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BW4 SCH</code>
+<start>1916.34740825</start>
+<end>1939.100118708</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BW4 SCH</code>
+<start>2065.900329957</start>
+<end>2080.200087623</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BW4 SCH</code>
+<start>3913.400909165</start>
+<end>3927.900089957</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>CHANCE KZ</code>
+<start>237.90010225</start>
+<end>245.90010225</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>CHANCE KZ</code>
+<start>959.300279291</start>
+<end>967.300279291</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>CHANCE KZ</code>
+<start>1091.200924748</start>
+<end>1099.200924748</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>CHANCE KZ</code>
+<start>4049.400285082</start>
+<end>4057.400285082</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>CHANCE KZ</code>
+<start>4385.800260792</start>
+<end>4393.800260792</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>CHANCE SCH</code>
+<start>1927.900064791</start>
+<end>1935.900064791</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>CHANCE SCH</code>
+<start>1956.800195541</start>
+<end>1964.800195541</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>CHANCE SCH</code>
+<start>2485.400087</start>
+<end>2493.400087</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>CHANCE SCH</code>
+<start>3005.300135165</start>
+<end>3013.300135165</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>CP KZ</code>
+<start>59.900099</start>
+<end>79.700074916</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>CP KZ</code>
+<start>79.71007491600001</start>
+<end>93.900073999</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>CP KZ</code>
+<start>125.800073999</start>
+<end>154.004601456</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>CP KZ</code>
+<start>224.400123334</start>
+<end>247.200192542</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>CP KZ</code>
+<start>314.200116042</start>
+<end>337.400067874</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>CP KZ</code>
+<start>680.700075873</start>
+<end>702.800282498</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>CP KZ</code>
+<start>702.810282498</start>
+<end>723.900086791</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>CP KZ</code>
+<start>944.700044583</start>
+<end>971.802273958</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>CP KZ</code>
+<start>1051.002948457</start>
+<end>1079.802967207</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>CP KZ</code>
+<start>1456.100060416</start>
+<end>1484.301355625</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>CP KZ</code>
+<start>1702.000076083</start>
+<end>1725.40008229</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>CP KZ</code>
+<start>2018.600083832</start>
+<end>2049.400084291</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>CP KZ</code>
+<start>2107.000292207</start>
+<end>2131.900115041</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>224</ID>
+<code>CP KZ</code>
+<start>2131.910115041</start>
+<end>2147.900090707</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>CP KZ</code>
+<start>2156.400131374</start>
+<end>2186.900858666</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>CP KZ</code>
+<start>2238.100083582</start>
+<end>2273.101703166</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>CP KZ</code>
+<start>2435.818742875</start>
+<end>2458.500072042</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>CP KZ</code>
+<start>2735.000074416</start>
+<end>2755.800228583</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>CP KZ</code>
+<start>2870.100071291</start>
+<end>2896.400087791</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>CP KZ</code>
+<start>3211.188099416</start>
+<end>3228.600182165</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>CP KZ</code>
+<start>3231.806865416</start>
+<end>3257.900133749</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>CP KZ</code>
+<start>3316.400140166</start>
+<end>3335.800196666</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>CP KZ</code>
+<start>3432.500908292</start>
+<end>3453.100085917</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>CP KZ</code>
+<start>4034.200075791</start>
+<end>4059.300069458</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>CP KZ</code>
+<start>4274.200080373</start>
+<end>4293.700041374</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>CP KZ</code>
+<start>4370.300071126</start>
+<end>4398.56</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>CP SCH</code>
+<start>582.100058541</start>
+<end>599.100075124</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>CP SCH</code>
+<start>771.007025832</start>
+<end>787.700077582</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>CP SCH</code>
+<start>990.700087</start>
+<end>1022.32</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>CP SCH</code>
+<start>1099.500739208</start>
+<end>1126.200220875</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>CP SCH</code>
+<start>1347.400288459</start>
+<end>1375.300090625</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>CP SCH</code>
+<start>1593.500261208</start>
+<end>1611.200097708</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>CP SCH</code>
+<start>1897.304728625</start>
+<end>1917.200080582</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>CP SCH</code>
+<start>1917.210080582</start>
+<end>1939.100118708</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>CP SCH</code>
+<start>1942.177853999</start>
+<end>1968.300148458</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>CP SCH</code>
+<start>2056.70004104</start>
+<end>2080.200087623</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>CP SCH</code>
+<start>2469.532336751</start>
+<end>2494.600081835</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>CP SCH</code>
+<start>2575.803433623</start>
+<end>2593.80034175</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>CP SCH</code>
+<start>2803.300077333</start>
+<end>2828.900118209</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>CP SCH</code>
+<start>2918.800038667</start>
+<end>2942.000309375</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>CP SCH</code>
+<start>2989.200221166</start>
+<end>3015.000296249</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>CP SCH</code>
+<start>3099.90007054</start>
+<end>3123.800622458</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>CP SCH</code>
+<start>3529.102259207</start>
+<end>3573.100073333</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>CP SCH</code>
+<start>3799.200326166</start>
+<end>3813.505849166</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>CP SCH</code>
+<start>4189.400110542</start>
+<end>4212.200230834</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>CPC KZ</code>
+<start>0.0</start>
+<end>13.501063499</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>CPC KZ</code>
+<start>317.300074125</start>
+<end>334.600074125</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>CPC KZ</code>
+<start>1461.004064708</start>
+<end>1478.304064708</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>CPC KZ</code>
+<start>2243.300163248</start>
+<end>2260.600163248</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>CPC KZ</code>
+<start>4079.200127418</start>
+<end>4096.500127418</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>CPC SCH</code>
+<start>1351.000540708</start>
+<end>1368.300540708</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>CPC SCH</code>
+<start>1784.100095999</start>
+<end>1801.4000959989999</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>CPC SCH</code>
+<start>3046.900100248</start>
+<end>3064.200100248</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>CPT KZ</code>
+<start>582.100058541</start>
+<end>599.100075124</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>CPT KZ</code>
+<start>771.007025832</start>
+<end>787.700077582</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>CPT KZ</code>
+<start>990.700087</start>
+<end>1022.32</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>CPT KZ</code>
+<start>1099.500739208</start>
+<end>1126.200220875</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>CPT KZ</code>
+<start>1347.400288459</start>
+<end>1375.300090625</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>CPT KZ</code>
+<start>1593.500261208</start>
+<end>1611.200097708</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>CPT KZ</code>
+<start>1897.304728625</start>
+<end>1917.200080582</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>CPT KZ</code>
+<start>1917.210080582</start>
+<end>1939.100118708</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>CPT KZ</code>
+<start>1942.177853999</start>
+<end>1968.300148458</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>CPT KZ</code>
+<start>2056.70004104</start>
+<end>2080.200087623</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>CPT KZ</code>
+<start>2469.532336751</start>
+<end>2494.600081835</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>CPT KZ</code>
+<start>2575.803433623</start>
+<end>2593.80034175</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>CPT KZ</code>
+<start>2803.300077333</start>
+<end>2828.900118209</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>CPT KZ</code>
+<start>2918.800038667</start>
+<end>2942.000309375</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>CPT KZ</code>
+<start>2989.200221166</start>
+<end>3015.000296249</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>CPT KZ</code>
+<start>3099.90007054</start>
+<end>3123.800622458</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>CPT KZ</code>
+<start>3529.102259207</start>
+<end>3573.100073333</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>CPT KZ</code>
+<start>3799.200326166</start>
+<end>3813.505849166</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>CPT KZ</code>
+<start>4189.400110542</start>
+<end>4212.200230834</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>CPT SCH</code>
+<start>59.900099</start>
+<end>79.700074916</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>CPT SCH</code>
+<start>79.71007491600001</start>
+<end>93.900073999</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>CPT SCH</code>
+<start>125.800073999</start>
+<end>154.004601456</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>CPT SCH</code>
+<start>224.400123334</start>
+<end>247.200192542</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>CPT SCH</code>
+<start>314.200116042</start>
+<end>337.400067874</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>CPT SCH</code>
+<start>680.700075873</start>
+<end>702.800282498</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>CPT SCH</code>
+<start>702.810282498</start>
+<end>723.900086791</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>CPT SCH</code>
+<start>944.700044583</start>
+<end>971.802273958</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>CPT SCH</code>
+<start>1456.100060416</start>
+<end>1484.301355625</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>292</ID>
+<code>CPT SCH</code>
+<start>1702.000076083</start>
+<end>1725.40008229</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>293</ID>
+<code>CPT SCH</code>
+<start>2018.600083832</start>
+<end>2049.400084291</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>294</ID>
+<code>CPT SCH</code>
+<start>2107.000292207</start>
+<end>2131.900115041</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>CPT SCH</code>
+<start>2131.910115041</start>
+<end>2147.900090707</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>CPT SCH</code>
+<start>2156.400131374</start>
+<end>2186.900858666</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>CPT SCH</code>
+<start>2238.100083582</start>
+<end>2273.101703166</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>CPT SCH</code>
+<start>2435.818742875</start>
+<end>2458.500072042</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>299</ID>
+<code>CPT SCH</code>
+<start>2735.000074416</start>
+<end>2755.800228583</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>300</ID>
+<code>CPT SCH</code>
+<start>2870.100071291</start>
+<end>2896.400087791</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>301</ID>
+<code>CPT SCH</code>
+<start>3211.188099416</start>
+<end>3228.600182165</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>CPT SCH</code>
+<start>3231.806865416</start>
+<end>3257.900133749</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>303</ID>
+<code>CPT SCH</code>
+<start>3316.400140166</start>
+<end>3335.800196666</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>CPT SCH</code>
+<start>3432.500908292</start>
+<end>3453.100085917</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>305</ID>
+<code>CPT SCH</code>
+<start>4034.200075791</start>
+<end>4059.300069458</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>306</ID>
+<code>CPT SCH</code>
+<start>4274.200080373</start>
+<end>4293.700041374</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>307</ID>
+<code>CPT SCH</code>
+<start>4370.300071126</start>
+<end>4398.56</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>308</ID>
+<code>FH KZ</code>
+<start>707.600108083</start>
+<end>723.900086791</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>309</ID>
+<code>FH KZ</code>
+<start>831.3003214580001</start>
+<end>846.400217625</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 4 BUILD-UP KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>310</ID>
+<code>FH KZ</code>
+<start>1076.400111707</start>
+<end>1100.200032624</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>311</ID>
+<code>FH KZ</code>
+<start>4381.500215416</start>
+<end>4398.56</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 7</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET SCH</text>
+</label>
+</instance>
+<instance>
+<ID>312</ID>
+<code>FH SCH</code>
+<start>483.00345504</start>
+<end>507.900084834</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>313</ID>
+<code>FH SCH</code>
+<start>1309.600080125</start>
+<end>1321.900113584</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>314</ID>
+<code>FH SCH</code>
+<start>1568.701014208</start>
+<end>1573.700044541</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>315</ID>
+<code>FH SCH</code>
+<start>3535.30904904</start>
+<end>3542.402282083</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>316</ID>
+<code>GOAL KZ</code>
+<start>127.705066415</start>
+<end>147.00506641500002</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>317</ID>
+<code>GOAL KZ</code>
+<start>358.800095625</start>
+<end>378.100095625</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>318</ID>
+<code>GOAL KZ</code>
+<start>1504.100085541</start>
+<end>1523.400085541</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>319</ID>
+<code>GOAL KZ</code>
+<start>2338.400053832</start>
+<end>2357.7000538320003</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>320</ID>
+<code>GOAL KZ</code>
+<start>2872.000037916</start>
+<end>2891.3000379160003</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>321</ID>
+<code>GOAL KZ</code>
+<start>3233.800081875</start>
+<end>3253.1000818750003</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>322</ID>
+<code>GOAL KZ</code>
+<start>4147.600093126</start>
+<end>4166.900093126</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>323</ID>
+<code>GOAL SCH</code>
+<start>993.70007825</start>
+<end>1013.00007825</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>324</ID>
+<code>GREEN KZ</code>
+<start>3544.700116916</start>
+<end>3567.700116916</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>GREEN SCH</code>
+<start>2030.80011521</start>
+<end>2053.80011521</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>GREEN SCH</code>
+<start>3955.906878957</start>
+<end>3978.906878957</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>GREEN SCH</code>
+<start>4082.900091957</start>
+<end>4105.900091957</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>LC KZ</code>
+<start>64.900072916</start>
+<end>79.700074916</end>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>329</ID>
+<code>LC KZ</code>
+<start>701.000253792</start>
+<end>723.900086791</end>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>330</ID>
+<code>LC KZ</code>
+<start>725.000274166</start>
+<end>740.200155666</end>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>331</ID>
+<code>LC KZ</code>
+<start>865.300071083</start>
+<end>898.800091667</end>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>332</ID>
+<code>LC KZ</code>
+<start>2132.4025375399997</start>
+<end>2186.900858666</end>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT SCH</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 4 BUILD-UP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+</instance>
+<instance>
+<ID>333</ID>
+<code>LC KZ</code>
+<start>3504.300077042</start>
+<end>3514.400241</end>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>334</ID>
+<code>LC SCH</code>
+<start>1414.3000942489998</start>
+<end>1423.200081416</end>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>335</ID>
+<code>LC SCH</code>
+<start>2496.300072334</start>
+<end>2519.000396751</end>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+</instance>
+<instance>
+<ID>336</ID>
+<code>LC SCH</code>
+<start>2573.1002222899997</start>
+<end>2593.80034175</end>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 4 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 4</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIAL SCH</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>337</ID>
+<code>LC SCH</code>
+<start>3015.400332916</start>
+<end>3021.400062541</end>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>338</ID>
+<code>LC SCH</code>
+<start>3068.6001338329997</start>
+<end>3123.800622458</end>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 5 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 5</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>339</ID>
+<code>LC SCH</code>
+<start>3924.70021</start>
+<end>3936.300132333</end>
+<label>
+<text>TO ZONE: ZONE4 SCH</text>
+</label>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>EFFICIENCY: CP SCH</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 SCH</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>340</ID>
+<code>PC KZ</code>
+<start>51.000288039</start>
+<end>61.900106998</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>341</ID>
+<code>PC KZ</code>
+<start>369.600089708</start>
+<end>389.600073291</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>342</ID>
+<code>PC KZ</code>
+<start>1515.500105207</start>
+<end>1529.400158791</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>343</ID>
+<code>PC KZ</code>
+<start>2344.200160499</start>
+<end>2365.600106707</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>344</ID>
+<code>PC KZ</code>
+<start>4159.100086418</start>
+<end>4174.500922585</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>345</ID>
+<code>PC SCH</code>
+<start>1404.200170959</start>
+<end>1414.603522583</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>346</ID>
+<code>PC SCH</code>
+<start>1839.600137001</start>
+<end>1849.000377376</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>347</ID>
+<code>PCT SCH</code>
+<start>51.000288039</start>
+<end>61.900106998</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+</instance>
+<instance>
+<ID>348</ID>
+<code>PCT SCH</code>
+<start>369.600089708</start>
+<end>389.600073291</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 1 - SCH 0</text>
+</label>
+<label>
+<text>SCORE: KZ 1</text>
+</label>
+<label>
+<text>SCORE: SCH 0</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>349</ID>
+<code>PCT SCH</code>
+<start>1515.500105207</start>
+<end>1529.400158791</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>350</ID>
+<code>PCT SCH</code>
+<start>2344.200160499</start>
+<end>2365.600106707</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>351</ID>
+<code>PCT SCH</code>
+<start>4159.100086418</start>
+<end>4174.500922585</end>
+<label>
+<text>QUARTER: Q5</text>
+</label>
+<label>
+<text>SCORE: KZ 6 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 6</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOAL KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: GOALT SCH</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>352</ID>
+<code>SOT SCH</code>
+<start>1116.205049875</start>
+<end>1124.205049875</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 2 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 2</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>353</ID>
+<code>SOT SCH</code>
+<start>1841.80012671</start>
+<end>1849.000377376</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>354</ID>
+<code>SOT SCH</code>
+<start>1910.406919125</start>
+<end>1918.406919125</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 3 - SCH 1</text>
+</label>
+<label>
+<text>SCORE: KZ 3</text>
+</label>
+<label>
+<text>SCORE: SCH 1</text>
+</label>
+</instance>
+<instance>
+<ID>355</ID>
+<code>START</code>
+<start>0.0</start>
+<end>1.3001296660000001</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>START</code>
+<start>1052.601075583</start>
+<end>1054.601075583</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>START</code>
+<start>1208.50023746</start>
+<end>1210.50023746</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>START</code>
+<start>2183.500089834</start>
+<end>2185.500089834</end>
+</instance>
+<instance>
+<ID>359</ID>
+<code>START</code>
+<start>3361.900099417</start>
+<end>3363.900099417</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>BS1 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS1 SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS2 SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS3 SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS4 SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW1 SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW2 SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW3 SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW4 SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CHANCE KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>CHANCE SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>CP SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CPC KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>CPC SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CPT KZ</code>
+<R>51400</R>
+<G>28527</G>
+<B>0</B>
+</row>
+<row>
+<code>CPT SCH</code>
+<R>5397</R>
+<G>14135</G>
+<B>65536</B>
+</row>
+<row>
+<code>FH KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>FH SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>GOAL SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>GREEN KZ</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>GREEN SCH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>LC KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>LC SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>PC KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>PC SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>PCT SCH</code>
+<R>5397</R>
+<G>14135</G>
+<B>65536</B>
+</row>
+<row>
+<code>SOT SCH</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

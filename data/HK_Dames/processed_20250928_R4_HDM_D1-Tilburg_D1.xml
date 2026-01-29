@@ -1,0 +1,5305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>hdm 23_entry</code>
+<start>184.60003333333333</start>
+<end>209.30025</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>hdm 23_entry</code>
+<start>236.30001666666666</start>
+<end>256.90003333333334</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>hdm 23_entry</code>
+<start>266.00005</start>
+<end>286.3000333333333</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>hdm 23_entry</code>
+<start>468.60005</start>
+<end>498.60005</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>hdm 23_entry</code>
+<start>714.70005</start>
+<end>740.7015833333334</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>hdm 23_entry</code>
+<start>748.7000666666667</start>
+<end>807.00005</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>hdm 23_entry</code>
+<start>808.1000666666666</start>
+<end>827.8000333333333</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>hdm 23_entry</code>
+<start>899.00005</start>
+<end>918.5000833333334</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>hdm 23_entry</code>
+<start>924.0000666666666</start>
+<end>945.60005</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>hdm 23_entry</code>
+<start>955.9000166666667</start>
+<end>976.8000333333333</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>hdm 23_entry</code>
+<start>1018.40005</start>
+<end>1041.3000333333334</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>hdm 23_entry</code>
+<start>1053.4000833333334</start>
+<end>1072.70005</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>hdm 23_entry</code>
+<start>1078.4001833333334</start>
+<end>1097.7000166666667</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>hdm 23_entry</code>
+<start>1411.8000333333334</start>
+<end>1438.60005</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>hdm 23_entry</code>
+<start>1439.3000666666667</start>
+<end>1466.00005</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>hdm 23_entry</code>
+<start>1531.40005</start>
+<end>1549.1000333333334</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>hdm 23_entry</code>
+<start>1583.6000666666666</start>
+<end>1608.7000333333333</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>hdm 23_entry</code>
+<start>1653.7000333333333</start>
+<end>1676.2000333333333</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>ASC HDM</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>hdm 23_entry</code>
+<start>1763.10005</start>
+<end>1786.7000166666667</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>DP HDM</text>
+</label>
+<label>
+<text>ASC HDM</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>hdm 23_entry</code>
+<start>1912.60005</start>
+<end>1932.2000333333333</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>hdm 23_entry</code>
+<start>2036.0000333333332</start>
+<end>2053.200533333333</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>hdm 23_entry</code>
+<start>2056.2000333333335</start>
+<end>2080.80055</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>hdm 23_entry</code>
+<start>2141.3000333333334</start>
+<end>2175.60095</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>hdm 23_entry</code>
+<start>2226.4000333333333</start>
+<end>2253.600033333333</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>DP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>hdm 23_entry</code>
+<start>2292.60005</start>
+<end>2318.0000333333332</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>Goal HDM</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>hdm 23_entry</code>
+<start>3094.8002</start>
+<end>3114.8000166666666</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>hdm 23_entry</code>
+<start>3118.70115</start>
+<end>3137.3012</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>hdm 23_entry</code>
+<start>3221.8000333333334</start>
+<end>3262.1000166666668</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>hdm 23_entry</code>
+<start>3428.30005</start>
+<end>3449.1000166666668</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>hdm 23_entry</code>
+<start>3480.500016666667</start>
+<end>3498.300783333333</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>hdm 23_entry</code>
+<start>3524.50005</start>
+<end>3544.9000166666665</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>hdm 23_entry</code>
+<start>3566.600033333333</start>
+<end>3603.6006166666666</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>hdm 23_entry</code>
+<start>3635.5000333333332</start>
+<end>3659.80005</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>hdm 23_entry</code>
+<start>3679.600033333333</start>
+<end>3697.7000333333335</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>hdm 23_entry</code>
+<start>3729.70005</start>
+<end>3754.4000333333333</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>hdm 23_entry</code>
+<start>3769.0000333333332</start>
+<end>3793.2000166666667</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>hdm 23_entry</code>
+<start>3868.5000333333332</start>
+<end>3892.4011</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>DP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>hdm 23_entry</code>
+<start>3903.2006833333335</start>
+<end>3923.600033333333</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>hdm 23_entry</code>
+<start>4214.2000333333335</start>
+<end>4234.100033333333</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>hdm 23_entry</code>
+<start>4258.100016666666</start>
+<end>4281.800166666667</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>hdm 23_entry</code>
+<start>4573.40005</start>
+<end>4628.600016666666</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>hdm 23_entry</code>
+<start>4682.600016666666</start>
+<end>4719.000016666667</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>hdm 23_entry</code>
+<start>4887.4000166666665</start>
+<end>4912.500183333334</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>hdm 23_entry</code>
+<start>4920.000016666667</start>
+<end>4950.000016666667</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>hdm 23_entry</code>
+<start>5071.600483333334</start>
+<end>5092.100016666666</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>ASC HDM</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>hdm 23_entry</code>
+<start>5388.200016666667</start>
+<end>5418.200016666667</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>tilburg 23_entry</code>
+<start>117.00003333333333</start>
+<end>141.30003333333335</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>tilburg 23_entry</code>
+<start>361.3000166666667</start>
+<end>380.20003333333335</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>tilburg 23_entry</code>
+<start>444.5000333333333</start>
+<end>464.3005166666667</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>tilburg 23_entry</code>
+<start>540.4000666666667</start>
+<end>562.4014333333333</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>tilburg 23_entry</code>
+<start>1306.2000166666667</start>
+<end>1328.3000833333333</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>tilburg 23_entry</code>
+<start>1494.4000666666666</start>
+<end>1515.8006166666667</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>tilburg 23_entry</code>
+<start>1968.0000333333332</start>
+<end>1990.2000166666667</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>tilburg 23_entry</code>
+<start>2170.9000166666665</start>
+<end>2221.6008666666667</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>tilburg 23_entry</code>
+<start>3145.7005166666668</start>
+<end>3214.1000166666668</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>tilburg 23_entry</code>
+<start>3276.9000166666665</start>
+<end>3302.2000333333335</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>tilburg 23_entry</code>
+<start>3329.5000666666665</start>
+<end>3355.100033333333</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>tilburg 23_entry</code>
+<start>3484.40005</start>
+<end>3501.80005</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>tilburg 23_entry</code>
+<start>3790.9000166666665</start>
+<end>3811.2000166666667</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>tilburg 23_entry</code>
+<start>3956.100033333333</start>
+<end>3999.80035</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>tilburg 23_entry</code>
+<start>4484.9000166666665</start>
+<end>4502.200016666667</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>tilburg 23_entry</code>
+<start>4636.300016666667</start>
+<end>4657.4006</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>tilburg 23_entry</code>
+<start>4792.7000333333335</start>
+<end>4824.500683333334</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>tilburg 23_entry</code>
+<start>5025.600916666666</start>
+<end>5053.600466666667</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>Goal TIL</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>tilburg 23_entry</code>
+<start>5172.000016666667</start>
+<end>5203.70005</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>tilburg 23_entry</code>
+<start>5468.70005</start>
+<end>5501.40005</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>hdm cause_of_penalty_corner</code>
+<start>480.30063333333334</start>
+<end>501.30063333333334</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>hdm cause_of_penalty_corner</code>
+<start>827.7017</start>
+<end>848.7017</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>hdm cause_of_penalty_corner</code>
+<start>1655.2009</start>
+<end>1676.2009</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>hdm cause_of_penalty_corner</code>
+<start>1707.80005</start>
+<end>1728.80005</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>hdm cause_of_penalty_corner</code>
+<start>1765.7000333333333</start>
+<end>1786.7000333333333</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>hdm cause_of_penalty_corner</code>
+<start>5071.100016666666</start>
+<end>5092.100016666666</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>tilburg cause_of_penalty_corner</code>
+<start>1344.3004666666666</start>
+<end>1365.3004666666666</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>tilburg cause_of_penalty_corner</code>
+<start>4510.600016666666</start>
+<end>4531.600016666666</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>tilburg cause_of_penalty_corner</code>
+<start>5263.5013</start>
+<end>5284.5013</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>hdm ball_possession</code>
+<start>170.00001666666665</start>
+<end>214.90003333333334</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>hdm ball_possession</code>
+<start>240.70005</start>
+<end>256.90003333333334</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>hdm ball_possession</code>
+<start>280.00005</start>
+<end>286.3000333333333</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>hdm ball_possession</code>
+<start>299.60001666666665</start>
+<end>312.5000166666667</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>hdm ball_possession</code>
+<start>338.40001666666666</start>
+<end>367.00005</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>hdm ball_possession</code>
+<start>380.20003333333335</start>
+<end>384.1000666666667</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>hdm ball_possession</code>
+<start>401.90003333333334</start>
+<end>430.80008333333336</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>hdm ball_possession</code>
+<start>435.5000166666667</start>
+<end>452.3000666666667</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>hdm ball_possession</code>
+<start>464.3005166666667</start>
+<end>501.3000333333333</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>hdm ball_possession</code>
+<start>542.6000666666666</start>
+<end>549.7000833333333</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>hdm ball_possession</code>
+<start>616.5000333333334</start>
+<end>660.4000666666667</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>hdm ball_possession</code>
+<start>674.5005</start>
+<end>691.0000666666666</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>hdm ball_possession</code>
+<start>722.80005</start>
+<end>740.7015833333334</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>hdm ball_possession</code>
+<start>759.10005</start>
+<end>848.7000333333333</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>hdm ball_possession</code>
+<start>887.80005</start>
+<end>918.5000833333334</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>hdm ball_possession</code>
+<start>934.0000666666666</start>
+<end>945.60005</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>hdm ball_possession</code>
+<start>968.2000833333333</start>
+<end>976.8000333333333</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>hdm ball_possession</code>
+<start>1015.4000666666667</start>
+<end>1097.7000166666667</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>hdm ball_possession</code>
+<start>1270.7000666666668</start>
+<end>1276.3019166666666</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>hdm ball_possession</code>
+<start>1328.3000833333333</start>
+<end>1353.0000166666666</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>hdm ball_possession</code>
+<start>1412.8000333333334</start>
+<end>1438.60005</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>hdm ball_possession</code>
+<start>1452.2000666666668</start>
+<end>1466.00005</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>hdm ball_possession</code>
+<start>1515.8006166666667</start>
+<end>1549.1000333333334</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>hdm ball_possession</code>
+<start>1573.00005</start>
+<end>1608.7000333333333</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>hdm ball_possession</code>
+<start>1612.9000166666667</start>
+<end>1619.30005</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>hdm ball_possession</code>
+<start>1662.10005</start>
+<end>1676.2000333333333</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>hdm ball_possession</code>
+<start>1722.5000833333334</start>
+<end>1728.80005</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>hdm ball_possession</code>
+<start>1746.10005</start>
+<end>1786.7000166666667</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>hdm ball_possession</code>
+<start>1820.0000333333332</start>
+<end>1829.50005</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>hdm ball_possession</code>
+<start>1882.60005</start>
+<end>1887.5000333333332</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>hdm ball_possession</code>
+<start>1914.20005</start>
+<end>1932.2000333333333</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>hdm ball_possession</code>
+<start>1962.3000833333333</start>
+<end>1976.8000666666667</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>hdm ball_possession</code>
+<start>1990.2000166666667</start>
+<end>2006.1000333333334</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>hdm ball_possession</code>
+<start>2026.7000666666668</start>
+<end>2080.80055</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>hdm ball_possession</code>
+<start>2125.30085</start>
+<end>2139.9000166666665</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>hdm ball_possession</code>
+<start>2142.60005</start>
+<end>2144.20005</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>hdm ball_possession</code>
+<start>2146.4000333333333</start>
+<end>2175.60095</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>hdm ball_possession</code>
+<start>2221.6008666666667</start>
+<end>2253.600033333333</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>hdm ball_possession</code>
+<start>2267.80005</start>
+<end>2318.0000333333332</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>hdm ball_possession</code>
+<start>3101.40005</start>
+<end>3114.8000166666666</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>hdm ball_possession</code>
+<start>3124.4000333333333</start>
+<end>3137.3012</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>hdm ball_possession</code>
+<start>3214.1000166666668</start>
+<end>3262.1000166666668</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>hdm ball_possession</code>
+<start>3302.2000333333335</start>
+<end>3325.8003833333332</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>hdm ball_possession</code>
+<start>3355.100033333333</start>
+<end>3384.4000333333333</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>hdm ball_possession</code>
+<start>3388.600033333333</start>
+<end>3407.4000166666665</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>hdm ball_possession</code>
+<start>3430.1000166666668</start>
+<end>3438.4000333333333</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>hdm ball_possession</code>
+<start>3441.1000166666668</start>
+<end>3454.2008833333334</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>hdm ball_possession</code>
+<start>3484.30005</start>
+<end>3498.300783333333</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>hdm ball_possession</code>
+<start>3501.80005</start>
+<end>3550.8006833333334</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>hdm ball_possession</code>
+<start>3561.5008333333335</start>
+<end>3603.6006166666666</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>hdm ball_possession</code>
+<start>3630.4000333333333</start>
+<end>3659.80005</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>hdm ball_possession</code>
+<start>3671.10005</start>
+<end>3697.7000333333335</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>hdm ball_possession</code>
+<start>3716.70005</start>
+<end>3793.2000166666667</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>hdm ball_possession</code>
+<start>3811.2000166666667</start>
+<end>3892.4011</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>hdm ball_possession</code>
+<start>3911.8004833333334</start>
+<end>3923.600033333333</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>hdm ball_possession</code>
+<start>3940.1000166666668</start>
+<end>3957.2000333333335</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>hdm ball_possession</code>
+<start>3980.1000166666668</start>
+<end>3983.9000333333333</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>hdm ball_possession</code>
+<start>3999.80035</start>
+<end>4031.60005</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>hdm ball_possession</code>
+<start>4202.9000166666665</start>
+<end>4210.700016666667</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>hdm ball_possession</code>
+<start>4224.500433333334</start>
+<end>4261.000016666667</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>hdm ball_possession</code>
+<start>4268.9000166666665</start>
+<end>4281.800166666667</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>hdm ball_possession</code>
+<start>4284.500116666667</start>
+<end>4296.200016666667</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>hdm ball_possession</code>
+<start>4318.9000166666665</start>
+<end>4322.5000666666665</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>hdm ball_possession</code>
+<start>4337.9000166666665</start>
+<end>4351.70005</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>hdm ball_possession</code>
+<start>4364.200016666667</start>
+<end>4373.300716666667</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>hdm ball_possession</code>
+<start>4395.9000166666665</start>
+<end>4422.400033333333</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>hdm ball_possession</code>
+<start>4443.30005</start>
+<end>4450.000033333334</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>hdm ball_possession</code>
+<start>4486.600033333333</start>
+<end>4494.300033333333</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>hdm ball_possession</code>
+<start>4506.60005</start>
+<end>4513.100033333333</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>hdm ball_possession</code>
+<start>4576.200016666667</start>
+<end>4628.600016666666</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>hdm ball_possession</code>
+<start>4657.4006</start>
+<end>4701.800033333333</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>hdm ball_possession</code>
+<start>4709.500566666667</start>
+<end>4719.000016666667</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>hdm ball_possession</code>
+<start>4744.50005</start>
+<end>4755.900033333333</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>hdm ball_possession</code>
+<start>4761.9000166666665</start>
+<end>4768.600016666666</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>hdm ball_possession</code>
+<start>4781.000033333334</start>
+<end>4794.100016666666</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>hdm ball_possession</code>
+<start>4812.2000333333335</start>
+<end>4819.9000166666665</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>hdm ball_possession</code>
+<start>4824.500683333334</start>
+<end>4839.4010333333335</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>hdm ball_possession</code>
+<start>4850.000016666667</start>
+<end>4871.400933333333</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>hdm ball_possession</code>
+<start>4886.800033333333</start>
+<end>4912.500183333334</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>hdm ball_possession</code>
+<start>4927.400816666666</start>
+<end>4930.80005</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>hdm ball_possession</code>
+<start>4933.600016666666</start>
+<end>4993.200016666667</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>hdm ball_possession</code>
+<start>5063.300066666667</start>
+<end>5092.100016666666</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>hdm ball_possession</code>
+<start>5140.700066666666</start>
+<end>5152.700016666667</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>hdm ball_possession</code>
+<start>5203.70005</start>
+<end>5214.60025</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>hdm ball_possession</code>
+<start>5231.300633333333</start>
+<end>5252.100033333333</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>hdm ball_possession</code>
+<start>5257.200016666667</start>
+<end>5264.200066666666</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>hdm ball_possession</code>
+<start>5348.9000166666665</start>
+<end>5448.400533333333</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>tilburg ball_possession</code>
+<start>116.80008333333333</start>
+<end>170.00001666666665</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>tilburg ball_possession</code>
+<start>214.90003333333334</start>
+<end>240.70005</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>tilburg ball_possession</code>
+<start>256.90003333333334</start>
+<end>280.00005</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>tilburg ball_possession</code>
+<start>286.3000333333333</start>
+<end>299.60001666666665</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>tilburg ball_possession</code>
+<start>312.5000166666667</start>
+<end>338.40001666666666</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>tilburg ball_possession</code>
+<start>367.00005</start>
+<end>380.20003333333335</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>tilburg ball_possession</code>
+<start>384.1000666666667</start>
+<end>401.90003333333334</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>tilburg ball_possession</code>
+<start>430.80008333333336</start>
+<end>435.5000166666667</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>tilburg ball_possession</code>
+<start>452.3000666666667</start>
+<end>464.3005166666667</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>tilburg ball_possession</code>
+<start>549.7000833333333</start>
+<end>616.5000333333334</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>tilburg ball_possession</code>
+<start>660.4000666666667</start>
+<end>674.5005</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>tilburg ball_possession</code>
+<start>691.0000666666666</start>
+<end>722.80005</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>tilburg ball_possession</code>
+<start>740.7015833333334</start>
+<end>759.10005</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>tilburg ball_possession</code>
+<start>918.5000833333334</start>
+<end>934.0000666666666</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>tilburg ball_possession</code>
+<start>945.60005</start>
+<end>968.2000833333333</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>tilburg ball_possession</code>
+<start>976.8000333333333</start>
+<end>1015.4000666666667</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>tilburg ball_possession</code>
+<start>1097.7000166666667</start>
+<end>1102.80005</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>tilburg ball_possession</code>
+<start>1262.1000166666668</start>
+<end>1270.7000666666668</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>tilburg ball_possession</code>
+<start>1276.3019166666666</start>
+<end>1328.3000833333333</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>tilburg ball_possession</code>
+<start>1353.0000166666666</start>
+<end>1365.3000333333334</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>tilburg ball_possession</code>
+<start>1405.5000666666667</start>
+<end>1412.8000333333334</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>tilburg ball_possession</code>
+<start>1438.60005</start>
+<end>1452.2000666666668</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>tilburg ball_possession</code>
+<start>1466.00005</start>
+<end>1515.8006166666667</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>tilburg ball_possession</code>
+<start>1549.1000333333334</start>
+<end>1573.00005</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>tilburg ball_possession</code>
+<start>1608.7000333333333</start>
+<end>1612.9000166666667</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>tilburg ball_possession</code>
+<start>1619.30005</start>
+<end>1662.10005</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>tilburg ball_possession</code>
+<start>1829.50005</start>
+<end>1882.60005</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>tilburg ball_possession</code>
+<start>1887.5000333333332</start>
+<end>1914.20005</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>tilburg ball_possession</code>
+<start>1932.2000333333333</start>
+<end>1962.3000833333333</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>tilburg ball_possession</code>
+<start>1976.8000666666667</start>
+<end>1990.2000166666667</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>tilburg ball_possession</code>
+<start>2006.1000333333334</start>
+<end>2026.7000666666668</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>tilburg ball_possession</code>
+<start>2080.80055</start>
+<end>2125.30085</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>tilburg ball_possession</code>
+<start>2139.9000166666665</start>
+<end>2142.60005</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>tilburg ball_possession</code>
+<start>2144.20005</start>
+<end>2146.4000333333333</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>tilburg ball_possession</code>
+<start>2175.60095</start>
+<end>2221.6008666666667</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>tilburg ball_possession</code>
+<start>2253.600033333333</start>
+<end>2267.80005</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>tilburg ball_possession</code>
+<start>2343.3000666666667</start>
+<end>2347.10005</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>tilburg ball_possession</code>
+<start>3114.8000166666666</start>
+<end>3124.4000333333333</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>tilburg ball_possession</code>
+<start>3137.3012</start>
+<end>3214.1000166666668</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>tilburg ball_possession</code>
+<start>3262.1000166666668</start>
+<end>3302.2000333333335</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>tilburg ball_possession</code>
+<start>3325.8003833333332</start>
+<end>3355.100033333333</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>tilburg ball_possession</code>
+<start>3384.4000333333333</start>
+<end>3388.600033333333</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>tilburg ball_possession</code>
+<start>3407.4000166666665</start>
+<end>3430.1000166666668</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>tilburg ball_possession</code>
+<start>3438.4000333333333</start>
+<end>3441.1000166666668</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>tilburg ball_possession</code>
+<start>3454.2008833333334</start>
+<end>3484.30005</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>tilburg ball_possession</code>
+<start>3498.300783333333</start>
+<end>3501.80005</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>tilburg ball_possession</code>
+<start>3550.8006833333334</start>
+<end>3561.5008333333335</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>tilburg ball_possession</code>
+<start>3603.6006166666666</start>
+<end>3630.4000333333333</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>tilburg ball_possession</code>
+<start>3659.80005</start>
+<end>3671.10005</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>tilburg ball_possession</code>
+<start>3697.7000333333335</start>
+<end>3716.70005</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>tilburg ball_possession</code>
+<start>3793.2000166666667</start>
+<end>3811.2000166666667</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>tilburg ball_possession</code>
+<start>3892.4011</start>
+<end>3911.8004833333334</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>tilburg ball_possession</code>
+<start>3923.600033333333</start>
+<end>3940.1000166666668</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>tilburg ball_possession</code>
+<start>3957.2000333333335</start>
+<end>3980.1000166666668</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>tilburg ball_possession</code>
+<start>3983.9000333333333</start>
+<end>3999.80035</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>tilburg ball_possession</code>
+<start>4210.700016666667</start>
+<end>4224.500433333334</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>tilburg ball_possession</code>
+<start>4261.000016666667</start>
+<end>4268.9000166666665</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>tilburg ball_possession</code>
+<start>4281.800166666667</start>
+<end>4284.500116666667</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>tilburg ball_possession</code>
+<start>4296.200016666667</start>
+<end>4318.9000166666665</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>tilburg ball_possession</code>
+<start>4322.5000666666665</start>
+<end>4337.9000166666665</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>tilburg ball_possession</code>
+<start>4351.70005</start>
+<end>4364.200016666667</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>tilburg ball_possession</code>
+<start>4373.300716666667</start>
+<end>4395.9000166666665</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>tilburg ball_possession</code>
+<start>4422.400033333333</start>
+<end>4443.30005</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>tilburg ball_possession</code>
+<start>4450.000033333334</start>
+<end>4486.600033333333</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>tilburg ball_possession</code>
+<start>4494.300033333333</start>
+<end>4506.60005</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>tilburg ball_possession</code>
+<start>4513.100033333333</start>
+<end>4531.600833333333</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>tilburg ball_possession</code>
+<start>4570.80005</start>
+<end>4576.200016666667</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>tilburg ball_possession</code>
+<start>4628.600016666666</start>
+<end>4657.4006</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>tilburg ball_possession</code>
+<start>4701.800033333333</start>
+<end>4709.500566666667</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>tilburg ball_possession</code>
+<start>4719.000016666667</start>
+<end>4744.50005</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>tilburg ball_possession</code>
+<start>4755.900033333333</start>
+<end>4761.9000166666665</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>tilburg ball_possession</code>
+<start>4768.600016666666</start>
+<end>4781.000033333334</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>tilburg ball_possession</code>
+<start>4794.100016666666</start>
+<end>4812.2000333333335</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>tilburg ball_possession</code>
+<start>4819.9000166666665</start>
+<end>4824.500683333334</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>tilburg ball_possession</code>
+<start>4839.4010333333335</start>
+<end>4850.000016666667</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>tilburg ball_possession</code>
+<start>4871.400933333333</start>
+<end>4886.800033333333</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>tilburg ball_possession</code>
+<start>4912.500183333334</start>
+<end>4927.400816666666</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>tilburg ball_possession</code>
+<start>4930.80005</start>
+<end>4933.600016666666</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>tilburg ball_possession</code>
+<start>4993.200016666667</start>
+<end>5053.600466666667</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>tilburg ball_possession</code>
+<start>5161.20005</start>
+<end>5203.70005</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>tilburg ball_possession</code>
+<start>5214.60025</start>
+<end>5231.300633333333</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>tilburg ball_possession</code>
+<start>5252.100033333333</start>
+<end>5257.200016666667</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>tilburg ball_possession</code>
+<start>5264.200066666666</start>
+<end>5284.501066666667</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>tilburg ball_possession</code>
+<start>5324.800066666667</start>
+<end>5335.100033333333</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>tilburg ball_possession</code>
+<start>5453.8000833333335</start>
+<end>5501.40005</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>hdm ball_restart_1</code>
+<start>416.80008333333336</start>
+<end>430.80008333333336</end>
+<label>
+<text>BW3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>hdm ball_restart_1</code>
+<start>435.5000166666667</start>
+<end>452.3000666666667</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>hdm ball_restart_1</code>
+<start>464.3005166666667</start>
+<end>474.90003333333334</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>hdm ball_restart_1</code>
+<start>616.5000333333334</start>
+<end>660.4000666666667</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>hdm ball_restart_1</code>
+<start>1330.8000166666666</start>
+<end>1353.0000166666666</end>
+<label>
+<text>BW4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>hdm ball_restart_1</code>
+<start>1515.8006166666667</start>
+<end>1549.1000333333334</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>hdm ball_restart_1</code>
+<start>1990.2000166666667</start>
+<end>2006.1000333333334</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>hdm ball_restart_1</code>
+<start>2127.2000333333335</start>
+<end>2139.9000166666665</end>
+<label>
+<text>BW3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>hdm ball_restart_1</code>
+<start>2221.6008666666667</start>
+<end>2253.600033333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>DP HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>hdm ball_restart_1</code>
+<start>3214.1000166666668</start>
+<end>3252.80045</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BS4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>hdm ball_restart_1</code>
+<start>3302.2000333333335</start>
+<end>3325.8003833333332</end>
+<label>
+<text>BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>hdm ball_restart_1</code>
+<start>3811.2000166666667</start>
+<end>3843.9000166666665</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>hdm ball_restart_1</code>
+<start>3999.80035</start>
+<end>4025.500016666667</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>hdm ball_restart_1</code>
+<start>4337.9000166666665</start>
+<end>4351.70005</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>hdm ball_restart_1</code>
+<start>4576.200016666667</start>
+<end>4580.800066666667</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>hdm ball_restart_1</code>
+<start>4657.4006</start>
+<end>4701.800033333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>hdm ball_restart_1</code>
+<start>4781.000033333334</start>
+<end>4794.100016666666</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>hdm ball_restart_1</code>
+<start>4824.500683333334</start>
+<end>4839.4010333333335</end>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>hdm ball_restart_1</code>
+<start>5203.70005</start>
+<end>5214.60025</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>hdm ball_restart_1</code>
+<start>5237.4006</start>
+<end>5252.100033333333</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>tilburg ball_restart_1</code>
+<start>214.90003333333334</start>
+<end>233.00005</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>tilburg ball_restart_1</code>
+<start>262.70005</start>
+<end>280.00005</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>tilburg ball_restart_1</code>
+<start>286.70005</start>
+<end>297.40003333333334</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>tilburg ball_restart_1</code>
+<start>312.5000166666667</start>
+<end>329.0000166666667</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>tilburg ball_restart_1</code>
+<start>549.7000833333333</start>
+<end>562.4014333333333</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>tilburg ball_restart_1</code>
+<start>740.7015833333334</start>
+<end>759.10005</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>tilburg ball_restart_1</code>
+<start>918.5000833333334</start>
+<end>934.0000666666666</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>tilburg ball_restart_1</code>
+<start>947.8000666666667</start>
+<end>968.2000833333333</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>tilburg ball_restart_1</code>
+<start>982.8000666666667</start>
+<end>1007.5000666666666</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>tilburg ball_restart_1</code>
+<start>1276.3019166666666</start>
+<end>1290.70005</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>tilburg ball_restart_1</code>
+<start>1466.00005</start>
+<end>1487.4000666666666</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>tilburg ball_restart_1</code>
+<start>1549.1000333333334</start>
+<end>1573.00005</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>tilburg ball_restart_1</code>
+<start>1829.50005</start>
+<end>1854.1000333333334</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>tilburg ball_restart_1</code>
+<start>1932.2000333333333</start>
+<end>1962.3000833333333</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>tilburg ball_restart_1</code>
+<start>2091.8000333333334</start>
+<end>2125.30085</end>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>tilburg ball_restart_1</code>
+<start>2175.60095</start>
+<end>2188.7000333333335</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>tilburg ball_restart_1</code>
+<start>2253.600033333333</start>
+<end>2267.80005</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>tilburg ball_restart_1</code>
+<start>3267.4004666666665</start>
+<end>3287.20155</end>
+<label>
+<text>BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>tilburg ball_restart_1</code>
+<start>3407.4000166666665</start>
+<end>3430.1000166666668</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>tilburg ball_restart_1</code>
+<start>3603.6006166666666</start>
+<end>3630.4000333333333</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>tilburg ball_restart_1</code>
+<start>3892.4011</start>
+<end>3911.8004833333334</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>tilburg ball_restart_1</code>
+<start>3923.600033333333</start>
+<end>3940.1000166666668</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>tilburg ball_restart_1</code>
+<start>4296.200016666667</start>
+<end>4318.9000166666665</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>tilburg ball_restart_1</code>
+<start>4628.600016666666</start>
+<end>4633.700016666667</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>tilburg ball_restart_1</code>
+<start>4912.500183333334</start>
+<end>4927.400816666666</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>292</ID>
+<code>tilburg ball_restart_1</code>
+<start>4993.200016666667</start>
+<end>5035.2000333333335</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>293</ID>
+<code>hdm ball_restart_2</code>
+<start>674.5005</start>
+<end>691.0000666666666</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>294</ID>
+<code>hdm ball_restart_2</code>
+<start>2026.7000666666668</start>
+<end>2053.200533333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>hdm ball_restart_2</code>
+<start>3101.40005</start>
+<end>3114.8000166666666</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>hdm ball_restart_2</code>
+<start>3484.30005</start>
+<end>3498.300783333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>hdm ball_restart_2</code>
+<start>3510.2000166666667</start>
+<end>3544.9000166666665</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>hdm ball_restart_2</code>
+<start>3671.10005</start>
+<end>3690.801066666667</end>
+<label>
+<text>BS4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>299</ID>
+<code>hdm ball_restart_2</code>
+<start>3727.80005</start>
+<end>3754.4000333333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>300</ID>
+<code>hdm ball_restart_2</code>
+<start>4025.500016666667</start>
+<end>4031.60005</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>hdm ball_restart_2</code>
+<start>4202.9000166666665</start>
+<end>4210.700016666667</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>hdm ball_restart_2</code>
+<start>4580.800066666667</start>
+<end>4612.000016666667</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>303</ID>
+<code>hdm ball_restart_2</code>
+<start>4750.301133333333</start>
+<end>4755.900033333333</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>hdm ball_restart_2</code>
+<start>4850.000016666667</start>
+<end>4871.400933333333</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>305</ID>
+<code>hdm ball_restart_2</code>
+<start>5063.300066666667</start>
+<end>5092.100016666666</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>ASC HDM</text>
+</label>
+</instance>
+<instance>
+<ID>306</ID>
+<code>hdm ball_restart_2</code>
+<start>5348.9000166666665</start>
+<end>5393.000033333334</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>307</ID>
+<code>tilburg ball_restart_2</code>
+<start>116.80008333333333</start>
+<end>127.20003333333334</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>308</ID>
+<code>tilburg ball_restart_2</code>
+<start>233.00005</start>
+<end>240.70005</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>309</ID>
+<code>tilburg ball_restart_2</code>
+<start>329.0000166666667</start>
+<end>338.40001666666666</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>310</ID>
+<code>tilburg ball_restart_2</code>
+<start>691.0000666666666</start>
+<end>722.80005</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>311</ID>
+<code>tilburg ball_restart_2</code>
+<start>1007.5000666666666</start>
+<end>1015.4000666666667</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>312</ID>
+<code>tilburg ball_restart_2</code>
+<start>1262.1000166666668</start>
+<end>1270.7000666666668</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>313</ID>
+<code>tilburg ball_restart_2</code>
+<start>1290.70005</start>
+<end>1328.3000833333333</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>314</ID>
+<code>tilburg ball_restart_2</code>
+<start>1487.4000666666666</start>
+<end>1503.0000833333334</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>315</ID>
+<code>tilburg ball_restart_2</code>
+<start>1854.1000333333334</start>
+<end>1866.20005</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>tilburg ball_restart_2</code>
+<start>1866.4000833333334</start>
+<end>1882.60005</end>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>317</ID>
+<code>tilburg ball_restart_2</code>
+<start>2006.1000333333334</start>
+<end>2026.7000666666668</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>318</ID>
+<code>tilburg ball_restart_2</code>
+<start>2343.3000666666667</start>
+<end>2347.10005</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>tilburg ball_restart_2</code>
+<start>3147.100033333333</start>
+<end>3190.2003666666665</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>DP TIL</text>
+</label>
+<label>
+<text>BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>320</ID>
+<code>tilburg ball_restart_2</code>
+<start>3704.3000333333334</start>
+<end>3716.70005</end>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>321</ID>
+<code>tilburg ball_restart_2</code>
+<start>4218.800533333333</start>
+<end>4223.800233333333</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>322</ID>
+<code>tilburg ball_restart_2</code>
+<start>4324.9000166666665</start>
+<end>4337.9000166666665</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>tilburg ball_restart_2</code>
+<start>4378.100033333333</start>
+<end>4395.9000166666665</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>324</ID>
+<code>tilburg ball_restart_2</code>
+<start>4422.400033333333</start>
+<end>4443.30005</end>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>325</ID>
+<code>tilburg ball_restart_2</code>
+<start>4450.000033333334</start>
+<end>4486.600033333333</end>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>326</ID>
+<code>tilburg ball_restart_2</code>
+<start>4633.700016666667</start>
+<end>4657.4006</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>327</ID>
+<code>tilburg ball_restart_2</code>
+<start>4725.800033333333</start>
+<end>4744.50005</end>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>328</ID>
+<code>tilburg ball_restart_2</code>
+<start>4768.600016666666</start>
+<end>4777.9000166666665</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>329</ID>
+<code>tilburg ball_restart_2</code>
+<start>4874.300466666667</start>
+<end>4886.800033333333</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>330</ID>
+<code>tilburg ball_restart_2</code>
+<start>5161.20005</start>
+<end>5194.500666666667</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>331</ID>
+<code>tilburg ball_restart_2</code>
+<start>5252.100033333333</start>
+<end>5257.200016666667</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>332</ID>
+<code>tilburg ball_restart_2</code>
+<start>5264.200066666666</start>
+<end>5284.501066666667</end>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>ASC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>333</ID>
+<code>tilburg ball_restart_2</code>
+<start>5453.8000833333335</start>
+<end>5475.200083333333</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>334</ID>
+<code>hdm ball_restart_3</code>
+<start>182.20005</start>
+<end>190.60008333333334</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>hdm ball_restart_3</code>
+<start>190.90006666666667</start>
+<end>209.30025</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>336</ID>
+<code>hdm ball_restart_3</code>
+<start>302.70003333333335</start>
+<end>312.5000166666667</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>337</ID>
+<code>hdm ball_restart_3</code>
+<start>474.90003333333334</start>
+<end>501.3000333333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>ASC HDM</text>
+</label>
+</instance>
+<instance>
+<ID>338</ID>
+<code>hdm ball_restart_3</code>
+<start>1015.4000666666667</start>
+<end>1041.3000333333334</end>
+<label>
+<text>23m HDM</text>
+</label>
+</instance>
+<instance>
+<ID>339</ID>
+<code>hdm ball_restart_3</code>
+<start>1270.7000666666668</start>
+<end>1276.3019166666666</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>340</ID>
+<code>hdm ball_restart_3</code>
+<start>1452.2000666666668</start>
+<end>1466.00005</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>341</ID>
+<code>hdm ball_restart_3</code>
+<start>1583.5000666666667</start>
+<end>1608.7000333333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>342</ID>
+<code>hdm ball_restart_3</code>
+<start>2152.7000333333335</start>
+<end>2162.500016666667</end>
+<label>
+<text>23m HDM</text>
+</label>
+</instance>
+<instance>
+<ID>343</ID>
+<code>hdm ball_restart_3</code>
+<start>3435.0000833333334</start>
+<end>3438.4000333333333</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>344</ID>
+<code>hdm ball_restart_3</code>
+<start>3566.4000333333333</start>
+<end>3603.6006166666666</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>345</ID>
+<code>hdm ball_restart_3</code>
+<start>3645.2000333333335</start>
+<end>3659.80005</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>346</ID>
+<code>hdm ball_restart_3</code>
+<start>3843.9000166666665</start>
+<end>3848.2000166666667</end>
+</instance>
+<instance>
+<ID>347</ID>
+<code>hdm ball_restart_3</code>
+<start>3848.4000166666665</start>
+<end>3866.2000333333335</end>
+</instance>
+<instance>
+<ID>348</ID>
+<code>hdm ball_restart_3</code>
+<start>3866.6000166666668</start>
+<end>3892.4011</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>DP HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>349</ID>
+<code>hdm ball_restart_3</code>
+<start>3954.70125</start>
+<end>3957.2000333333335</end>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>350</ID>
+<code>hdm ball_restart_3</code>
+<start>4268.9000166666665</start>
+<end>4281.800166666667</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>351</ID>
+<code>hdm ball_restart_3</code>
+<start>4886.800033333333</start>
+<end>4912.500183333334</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>352</ID>
+<code>hdm ball_restart_3</code>
+<start>5393.000033333334</start>
+<end>5448.400533333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>Goal HDM</text>
+</label>
+</instance>
+<instance>
+<ID>353</ID>
+<code>tilburg ball_restart_3</code>
+<start>127.20003333333334</start>
+<end>141.30003333333335</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>DP TIL</text>
+</label>
+<label>
+<text>BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>354</ID>
+<code>tilburg ball_restart_3</code>
+<start>1503.0000833333334</start>
+<end>1515.8006166666667</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BS1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>355</ID>
+<code>tilburg ball_restart_3</code>
+<start>1642.8000333333334</start>
+<end>1662.10005</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>356</ID>
+<code>tilburg ball_restart_3</code>
+<start>1887.5000333333332</start>
+<end>1914.20005</end>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>357</ID>
+<code>tilburg ball_restart_3</code>
+<start>3498.300783333333</start>
+<end>3501.80005</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>358</ID>
+<code>tilburg ball_restart_3</code>
+<start>3988.7000333333335</start>
+<end>3999.80035</end>
+<label>
+<text>23m TIL</text>
+</label>
+</instance>
+<instance>
+<ID>359</ID>
+<code>tilburg ball_restart_3</code>
+<start>4497.9000166666665</start>
+<end>4502.200016666667</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>360</ID>
+<code>tilburg ball_restart_3</code>
+<start>4513.100033333333</start>
+<end>4531.600833333333</end>
+<label>
+<text>ASC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>361</ID>
+<code>tilburg ball_restart_3</code>
+<start>4777.9000166666665</start>
+<end>4781.000033333334</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>tilburg ball_restart_3</code>
+<start>4794.100016666666</start>
+<end>4812.2000333333335</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>363</ID>
+<code>tilburg ball_restart_3</code>
+<start>5035.2000333333335</start>
+<end>5053.600466666667</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>Goal TIL</text>
+</label>
+</instance>
+<instance>
+<ID>364</ID>
+<code>tilburg ball_restart_3</code>
+<start>5475.200083333333</start>
+<end>5487.100016666666</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>365</ID>
+<code>hdm ball_restart_4</code>
+<start>209.30025</start>
+<end>214.90003333333334</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>366</ID>
+<code>hdm ball_restart_4</code>
+<start>767.3000333333333</start>
+<end>789.1000166666666</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>367</ID>
+<code>hdm ball_restart_4</code>
+<start>789.40005</start>
+<end>806.5000166666666</end>
+<label>
+<text>23m HDM</text>
+</label>
+</instance>
+<instance>
+<ID>368</ID>
+<code>hdm ball_restart_4</code>
+<start>807.00005</start>
+<end>827.6000333333334</end>
+<label>
+<text>23m HDM</text>
+</label>
+</instance>
+<instance>
+<ID>369</ID>
+<code>hdm ball_restart_4</code>
+<start>827.8000333333333</start>
+<end>833.6000666666666</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>hdm ball_restart_4</code>
+<start>833.9000333333333</start>
+<end>838.8000666666667</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>hdm ball_restart_4</code>
+<start>839.00005</start>
+<end>848.7000333333333</end>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>ASC HDM</text>
+</label>
+</instance>
+<instance>
+<ID>372</ID>
+<code>hdm ball_restart_4</code>
+<start>898.3002166666666</start>
+<end>918.5000833333334</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>373</ID>
+<code>hdm ball_restart_4</code>
+<start>1041.3000333333334</start>
+<end>1053.30005</end>
+</instance>
+<instance>
+<ID>374</ID>
+<code>hdm ball_restart_4</code>
+<start>1053.5000333333332</start>
+<end>1072.6000666666666</end>
+<label>
+<text>23m HDM</text>
+</label>
+</instance>
+<instance>
+<ID>375</ID>
+<code>hdm ball_restart_4</code>
+<start>1072.70005</start>
+<end>1097.7000166666667</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>376</ID>
+<code>hdm ball_restart_4</code>
+<start>1612.9000166666667</start>
+<end>1619.30005</end>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>377</ID>
+<code>hdm ball_restart_4</code>
+<start>1761.70005</start>
+<end>1786.7000166666667</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>DP HDM</text>
+</label>
+<label>
+<text>ASC HDM</text>
+</label>
+</instance>
+<instance>
+<ID>378</ID>
+<code>hdm ball_restart_4</code>
+<start>2053.200533333333</start>
+<end>2080.80055</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>379</ID>
+<code>hdm ball_restart_4</code>
+<start>2162.500016666667</start>
+<end>2175.60095</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>380</ID>
+<code>hdm ball_restart_4</code>
+<start>3128.0000333333332</start>
+<end>3137.3012</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>381</ID>
+<code>hdm ball_restart_4</code>
+<start>3252.80045</start>
+<end>3262.1000166666668</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>382</ID>
+<code>hdm ball_restart_4</code>
+<start>3449.1000166666668</start>
+<end>3454.2008833333334</end>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>383</ID>
+<code>hdm ball_restart_4</code>
+<start>3544.9000166666665</start>
+<end>3550.8006833333334</end>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>384</ID>
+<code>hdm ball_restart_4</code>
+<start>3690.801066666667</start>
+<end>3697.7000333333335</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>385</ID>
+<code>hdm ball_restart_4</code>
+<start>3754.4000333333333</start>
+<end>3768.3006333333333</end>
+</instance>
+<instance>
+<ID>386</ID>
+<code>hdm ball_restart_4</code>
+<start>3768.60005</start>
+<end>3793.2000166666667</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>387</ID>
+<code>hdm ball_restart_4</code>
+<start>4234.100033333333</start>
+<end>4261.000016666667</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>388</ID>
+<code>hdm ball_restart_4</code>
+<start>4612.000016666667</start>
+<end>4628.600016666666</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>389</ID>
+<code>hdm ball_restart_4</code>
+<start>4712.9000166666665</start>
+<end>4719.000016666667</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>390</ID>
+<code>tilburg ball_restart_4</code>
+<start>141.30003333333335</start>
+<end>154.70006666666666</end>
+</instance>
+<instance>
+<ID>391</ID>
+<code>tilburg ball_restart_4</code>
+<start>154.90005</start>
+<end>170.00001666666665</end>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>392</ID>
+<code>tilburg ball_restart_4</code>
+<start>384.1000666666667</start>
+<end>401.90003333333334</end>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>393</ID>
+<code>tilburg ball_restart_4</code>
+<start>562.4014333333333</start>
+<end>586.50115</end>
+<label>
+<text>CP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>394</ID>
+<code>tilburg ball_restart_4</code>
+<start>586.9000333333333</start>
+<end>616.5000333333334</end>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BS1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>395</ID>
+<code>tilburg ball_restart_4</code>
+<start>2188.7000333333335</start>
+<end>2203.7002666666667</end>
+<label>
+<text>23m TIL</text>
+</label>
+</instance>
+<instance>
+<ID>396</ID>
+<code>tilburg ball_restart_4</code>
+<start>2203.9000166666665</start>
+<end>2221.6008666666667</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>BS1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>397</ID>
+<code>tilburg ball_restart_4</code>
+<start>3190.2003666666665</start>
+<end>3196.9000166666665</end>
+<label>
+<text>23m TIL</text>
+</label>
+</instance>
+<instance>
+<ID>398</ID>
+<code>tilburg ball_restart_4</code>
+<start>3197.100033333333</start>
+<end>3214.1000166666668</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>399</ID>
+<code>tilburg ball_restart_4</code>
+<start>3287.20155</start>
+<end>3302.2000333333335</end>
+<label>
+<text>23m TIL</text>
+</label>
+</instance>
+<instance>
+<ID>400</ID>
+<code>tilburg ball_restart_4</code>
+<start>3325.8003833333332</start>
+<end>3355.100033333333</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>401</ID>
+<code>tilburg ball_restart_4</code>
+<start>4502.200016666667</start>
+<end>4506.60005</end>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>402</ID>
+<code>tilburg ball_restart_4</code>
+<start>5194.500666666667</start>
+<end>5203.70005</end>
+<label>
+<text>23m TIL</text>
+</label>
+</instance>
+<instance>
+<ID>403</ID>
+<code>tilburg ball_restart_4</code>
+<start>5487.100016666666</start>
+<end>5501.40005</end>
+<label>
+<text>23m TIL</text>
+</label>
+</instance>
+<instance>
+<ID>404</ID>
+<code>hdm ball_win_1</code>
+<start>162.00001666666665</start>
+<end>182.20005</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>405</ID>
+<code>hdm ball_win_1</code>
+<start>393.90003333333334</start>
+<end>416.80008333333336</end>
+<label>
+<text>BS1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>406</ID>
+<code>hdm ball_win_1</code>
+<start>1320.3000833333333</start>
+<end>1330.8000166666666</end>
+<label>
+<text>BS1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>407</ID>
+<code>hdm ball_win_1</code>
+<start>1404.8000333333334</start>
+<end>1438.60005</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>408</ID>
+<code>hdm ball_win_1</code>
+<start>1874.60005</start>
+<end>1887.5000333333332</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>409</ID>
+<code>hdm ball_win_1</code>
+<start>1906.20005</start>
+<end>1932.2000333333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>410</ID>
+<code>hdm ball_win_1</code>
+<start>2117.30085</start>
+<end>2127.2000333333335</end>
+<label>
+<text>BS1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>411</ID>
+<code>hdm ball_win_1</code>
+<start>3347.100033333333</start>
+<end>3384.4000333333333</end>
+<label>
+<text>BW3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>412</ID>
+<code>hdm ball_win_1</code>
+<start>3493.80005</start>
+<end>3510.2000166666667</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>413</ID>
+<code>hdm ball_win_1</code>
+<start>3708.70005</start>
+<end>3727.80005</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>414</ID>
+<code>hdm ball_win_1</code>
+<start>3972.1000166666668</start>
+<end>3983.9000333333333</end>
+<label>
+<text>BW3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>415</ID>
+<code>hdm ball_win_1</code>
+<start>4435.30005</start>
+<end>4450.000033333334</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>416</ID>
+<code>hdm ball_win_1</code>
+<start>4478.600033333333</start>
+<end>4494.300033333333</end>
+<label>
+<text>BW3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>417</ID>
+<code>hdm ball_win_1</code>
+<start>4498.60005</start>
+<end>4513.100033333333</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>418</ID>
+<code>hdm ball_win_1</code>
+<start>4736.50005</start>
+<end>4750.301133333333</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>419</ID>
+<code>hdm ball_win_1</code>
+<start>4804.2000333333335</start>
+<end>4819.9000166666665</end>
+<label>
+<text>BW3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>420</ID>
+<code>hdm ball_win_1</code>
+<start>5223.300633333333</start>
+<end>5237.4006</end>
+</instance>
+<instance>
+<ID>421</ID>
+<code>tilburg ball_win_1</code>
+<start>248.90003333333334</start>
+<end>262.70005</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>422</ID>
+<code>tilburg ball_win_1</code>
+<start>278.3000333333333</start>
+<end>286.70005</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>423</ID>
+<code>tilburg ball_win_1</code>
+<start>937.60005</start>
+<end>947.8000666666667</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>424</ID>
+<code>tilburg ball_win_1</code>
+<start>968.8000333333333</start>
+<end>982.8000666666667</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>425</ID>
+<code>tilburg ball_win_1</code>
+<start>1089.7000166666667</start>
+<end>1102.80005</end>
+</instance>
+<instance>
+<ID>426</ID>
+<code>tilburg ball_win_1</code>
+<start>1430.60005</start>
+<end>1452.2000666666668</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>427</ID>
+<code>tilburg ball_win_1</code>
+<start>1600.7000333333333</start>
+<end>1642.8000333333334</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>428</ID>
+<code>tilburg ball_win_1</code>
+<start>2072.80055</start>
+<end>2091.8000333333334</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>429</ID>
+<code>tilburg ball_win_1</code>
+<start>3106.8000166666666</start>
+<end>3124.4000333333333</end>
+<label>
+<text>BW4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>430</ID>
+<code>tilburg ball_win_1</code>
+<start>3129.3012</start>
+<end>3147.100033333333</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>431</ID>
+<code>tilburg ball_win_1</code>
+<start>3254.1000166666668</start>
+<end>3267.4004666666665</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>432</ID>
+<code>tilburg ball_win_1</code>
+<start>3446.2008833333334</start>
+<end>3484.30005</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>433</ID>
+<code>tilburg ball_win_1</code>
+<start>3542.8006833333334</start>
+<end>3561.5008333333335</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>434</ID>
+<code>tilburg ball_win_1</code>
+<start>3651.80005</start>
+<end>3671.10005</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>435</ID>
+<code>tilburg ball_win_1</code>
+<start>3689.7000333333335</start>
+<end>3704.3000333333334</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>436</ID>
+<code>tilburg ball_win_1</code>
+<start>3785.2000166666667</start>
+<end>3811.2000166666667</end>
+<label>
+<text>23m TIL</text>
+</label>
+</instance>
+<instance>
+<ID>437</ID>
+<code>tilburg ball_win_1</code>
+<start>3949.2000333333335</start>
+<end>3980.1000166666668</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>438</ID>
+<code>tilburg ball_win_1</code>
+<start>4273.800166666667</start>
+<end>4284.500116666667</end>
+<label>
+<text>BW4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>439</ID>
+<code>tilburg ball_win_1</code>
+<start>4365.300716666667</start>
+<end>4378.100033333333</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>440</ID>
+<code>tilburg ball_win_1</code>
+<start>4693.800033333333</start>
+<end>4709.500566666667</end>
+<label>
+<text>BW4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>441</ID>
+<code>tilburg ball_win_1</code>
+<start>4711.000016666667</start>
+<end>4725.800033333333</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>442</ID>
+<code>tilburg ball_win_1</code>
+<start>4831.4010333333335</start>
+<end>4850.000016666667</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>443</ID>
+<code>tilburg ball_win_1</code>
+<start>4922.80005</start>
+<end>4933.600016666666</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>444</ID>
+<code>hdm ball_win_2</code>
+<start>330.40001666666666</start>
+<end>367.00005</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>445</ID>
+<code>hdm ball_win_2</code>
+<start>714.80005</start>
+<end>740.7015833333334</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>446</ID>
+<code>hdm ball_win_2</code>
+<start>751.10005</start>
+<end>767.3000333333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+</instance>
+<instance>
+<ID>447</ID>
+<code>hdm ball_win_2</code>
+<start>1565.00005</start>
+<end>1583.5000666666667</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>448</ID>
+<code>hdm ball_win_2</code>
+<start>1654.10005</start>
+<end>1676.2000333333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>ASC HDM</text>
+</label>
+</instance>
+<instance>
+<ID>449</ID>
+<code>hdm ball_win_2</code>
+<start>1954.3000833333333</start>
+<end>1976.8000666666667</end>
+<label>
+<text>BW3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>450</ID>
+<code>hdm ball_win_2</code>
+<start>2134.60005</start>
+<end>2152.7000333333335</end>
+<label>
+<text>BW3 TIL</text>
+</label>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>451</ID>
+<code>hdm ball_win_2</code>
+<start>2259.80005</start>
+<end>2318.0000333333332</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>Goal HDM</text>
+</label>
+</instance>
+<instance>
+<ID>452</ID>
+<code>hdm ball_win_2</code>
+<start>3380.600033333333</start>
+<end>3407.4000166666665</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>453</ID>
+<code>hdm ball_win_2</code>
+<start>3622.4000333333333</start>
+<end>3645.2000333333335</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>454</ID>
+<code>hdm ball_win_2</code>
+<start>4310.9000166666665</start>
+<end>4322.5000666666665</end>
+<label>
+<text>BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>455</ID>
+<code>hdm ball_win_2</code>
+<start>4356.200016666667</start>
+<end>4373.300716666667</end>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>456</ID>
+<code>hdm ball_win_2</code>
+<start>4387.9000166666665</start>
+<end>4422.400033333333</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>457</ID>
+<code>hdm ball_win_2</code>
+<start>5249.200016666667</start>
+<end>5264.200066666666</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>458</ID>
+<code>tilburg ball_win_2</code>
+<start>289.40003333333334</start>
+<end>299.60001666666665</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>459</ID>
+<code>tilburg ball_win_2</code>
+<start>359.00005</start>
+<end>380.20003333333335</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BW4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>460</ID>
+<code>tilburg ball_win_2</code>
+<start>444.3000666666667</start>
+<end>464.3005166666667</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>BS1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>461</ID>
+<code>tilburg ball_win_2</code>
+<start>652.4000666666667</start>
+<end>674.5005</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>462</ID>
+<code>tilburg ball_win_2</code>
+<start>3430.4000333333333</start>
+<end>3441.1000166666668</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>463</ID>
+<code>tilburg ball_win_2</code>
+<start>4202.700016666667</start>
+<end>4224.500433333334</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>464</ID>
+<code>tilburg ball_win_2</code>
+<start>4253.000016666667</start>
+<end>4268.9000166666665</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>465</ID>
+<code>tilburg ball_win_2</code>
+<start>4314.5000666666665</start>
+<end>4324.9000166666665</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>466</ID>
+<code>tilburg ball_win_2</code>
+<start>4343.70005</start>
+<end>4364.200016666667</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>467</ID>
+<code>tilburg ball_win_2</code>
+<start>4747.900033333333</start>
+<end>4761.9000166666665</end>
+<label>
+<text>BW3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>468</ID>
+<code>tilburg ball_win_2</code>
+<start>4863.400933333333</start>
+<end>4874.300466666667</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>469</ID>
+<code>tilburg ball_win_2</code>
+<start>5206.60025</start>
+<end>5231.300633333333</end>
+<label>
+<text>BW1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>470</ID>
+<code>hdm ball_win_3</code>
+<start>232.70005</start>
+<end>256.90003333333334</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>471</ID>
+<code>hdm ball_win_3</code>
+<start>272.00005</start>
+<end>286.3000333333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>472</ID>
+<code>hdm ball_win_3</code>
+<start>291.60001666666665</start>
+<end>302.70003333333335</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>473</ID>
+<code>hdm ball_win_3</code>
+<start>926.0000666666666</start>
+<end>945.60005</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>474</ID>
+<code>hdm ball_win_3</code>
+<start>960.2000833333333</start>
+<end>976.8000333333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>475</ID>
+<code>hdm ball_win_3</code>
+<start>3422.1000166666668</start>
+<end>3449.1000166666668</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>476</ID>
+<code>hdm ball_win_3</code>
+<start>3553.5008333333335</start>
+<end>3566.4000333333333</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>477</ID>
+<code>hdm ball_win_3</code>
+<start>3903.8004833333334</start>
+<end>3923.600033333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>478</ID>
+<code>hdm ball_win_3</code>
+<start>3932.1000166666668</start>
+<end>3954.70125</end>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>479</ID>
+<code>hdm ball_win_3</code>
+<start>4216.500433333334</start>
+<end>4234.100033333333</end>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>BS4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>480</ID>
+<code>hdm ball_win_3</code>
+<start>4753.9000166666665</start>
+<end>4768.600016666666</end>
+<label>
+<text>BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>481</ID>
+<code>hdm ball_win_3</code>
+<start>4919.400816666666</start>
+<end>4993.200016666667</end>
+<label>
+<text>BW1 TIL</text>
+</label>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>482</ID>
+<code>tilburg ball_win_3</code>
+<start>422.80008333333336</start>
+<end>435.5000166666667</end>
+<label>
+<text>BS1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>483</ID>
+<code>tilburg ball_win_3</code>
+<start>1968.8000666666667</start>
+<end>1990.2000166666667</end>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BS1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>484</ID>
+<code>tilburg ball_win_3</code>
+<start>2131.9000166666665</start>
+<end>2146.4000333333333</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>485</ID>
+<code>tilburg ball_win_3</code>
+<start>3376.4000333333333</start>
+<end>3388.600033333333</end>
+<label>
+<text>BW2 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>486</ID>
+<code>tilburg ball_win_3</code>
+<start>3975.9000333333333</start>
+<end>3988.7000333333335</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>487</ID>
+<code>tilburg ball_win_3</code>
+<start>4486.300033333333</start>
+<end>4497.9000166666665</end>
+<label>
+<text>BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>488</ID>
+<code>tilburg ball_win_3</code>
+<start>4811.9000166666665</start>
+<end>4824.500683333334</end>
+<label>
+<text>23m TIL</text>
+</label>
+</instance>
+<instance>
+<ID>489</ID>
+<code>hdm ball_win_4</code>
+<start>3116.4000333333333</start>
+<end>3128.0000333333332</end>
+<label>
+<text>BS4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>490</ID>
+<code>hdm ball_win_4</code>
+<start>4276.500116666667</start>
+<end>4296.200016666667</end>
+<label>
+<text>BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>491</ID>
+<code>hdm ball_win_4</code>
+<start>4701.500566666667</start>
+<end>4712.9000166666665</end>
+<label>
+<text>BS4 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>492</ID>
+<code>tilburg ball_win_4</code>
+<start>1345.0000166666666</start>
+<end>1365.3000333333334</end>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>ASC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>493</ID>
+<code>hdm circle_penetration</code>
+<start>194.90003333333334</start>
+<end>209.30025</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>494</ID>
+<code>hdm circle_penetration</code>
+<start>489.40001666666666</start>
+<end>501.3000333333333</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>495</ID>
+<code>hdm circle_penetration</code>
+<start>725.1000166666666</start>
+<end>740.7015833333334</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>496</ID>
+<code>hdm circle_penetration</code>
+<start>774.5000666666666</start>
+<end>789.40005</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>497</ID>
+<code>hdm circle_penetration</code>
+<start>837.4000333333333</start>
+<end>848.7000333333333</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>498</ID>
+<code>hdm circle_penetration</code>
+<start>908.0000666666666</start>
+<end>918.5000833333334</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>499</ID>
+<code>hdm circle_penetration</code>
+<start>934.1000666666666</start>
+<end>945.60005</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>500</ID>
+<code>hdm circle_penetration</code>
+<start>965.9000333333333</start>
+<end>976.8000333333333</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>501</ID>
+<code>hdm circle_penetration</code>
+<start>1087.10005</start>
+<end>1097.7000166666667</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>502</ID>
+<code>hdm circle_penetration</code>
+<start>1426.8000333333334</start>
+<end>1438.60005</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>503</ID>
+<code>hdm circle_penetration</code>
+<start>1593.1000333333334</start>
+<end>1608.7000333333333</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>504</ID>
+<code>hdm circle_penetration</code>
+<start>1609.30005</start>
+<end>1619.30005</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>505</ID>
+<code>hdm circle_penetration</code>
+<start>1664.0000166666666</start>
+<end>1676.2000333333333</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>506</ID>
+<code>hdm circle_penetration</code>
+<start>1772.6001833333332</start>
+<end>1786.7000166666667</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>DP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>507</ID>
+<code>hdm circle_penetration</code>
+<start>2068.3000333333334</start>
+<end>2080.80055</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>508</ID>
+<code>hdm circle_penetration</code>
+<start>2241.2000166666667</start>
+<end>2253.600033333333</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>DP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>509</ID>
+<code>hdm circle_penetration</code>
+<start>2302.4000333333333</start>
+<end>2318.0000333333332</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>Goal HDM</text>
+</label>
+</instance>
+<instance>
+<ID>510</ID>
+<code>hdm circle_penetration</code>
+<start>3126.9000166666665</start>
+<end>3137.3012</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>511</ID>
+<code>hdm circle_penetration</code>
+<start>3237.5000333333332</start>
+<end>3252.80045</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>512</ID>
+<code>hdm circle_penetration</code>
+<start>3877.1000166666668</start>
+<end>3892.4011</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>DP HDM</text>
+</label>
+</instance>
+<instance>
+<ID>513</ID>
+<code>hdm circle_penetration</code>
+<start>4267.800816666667</start>
+<end>4281.800166666667</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>514</ID>
+<code>hdm circle_penetration</code>
+<start>4613.9000166666665</start>
+<end>4628.600016666666</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>515</ID>
+<code>hdm circle_penetration</code>
+<start>4896.70125</start>
+<end>4912.500183333334</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>516</ID>
+<code>hdm circle_penetration</code>
+<start>4929.000016666667</start>
+<end>4957.000016666667</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>517</ID>
+<code>hdm circle_penetration</code>
+<start>5081.9000166666665</start>
+<end>5092.100016666666</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>518</ID>
+<code>hdm circle_penetration</code>
+<start>5397.100016666666</start>
+<end>5425.100016666666</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>519</ID>
+<code>tilburg circle_penetration</code>
+<start>127.30003333333335</start>
+<end>141.30003333333335</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>520</ID>
+<code>tilburg circle_penetration</code>
+<start>369.40003333333334</start>
+<end>380.20003333333335</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>521</ID>
+<code>tilburg circle_penetration</code>
+<start>551.1000666666666</start>
+<end>562.4014333333333</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>522</ID>
+<code>tilburg circle_penetration</code>
+<start>572.9000333333333</start>
+<end>586.9000333333333</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>523</ID>
+<code>tilburg circle_penetration</code>
+<start>588.00005</start>
+<end>606.8900333333333</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>524</ID>
+<code>tilburg circle_penetration</code>
+<start>606.9000333333333</start>
+<end>616.5000333333334</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>525</ID>
+<code>tilburg circle_penetration</code>
+<start>1317.5007</start>
+<end>1328.3000833333333</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>526</ID>
+<code>tilburg circle_penetration</code>
+<start>1348.6000166666668</start>
+<end>1365.3000333333334</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>527</ID>
+<code>tilburg circle_penetration</code>
+<start>1503.4000333333333</start>
+<end>1515.8006166666667</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>528</ID>
+<code>tilburg circle_penetration</code>
+<start>1978.6000333333334</start>
+<end>1990.2000166666667</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>529</ID>
+<code>tilburg circle_penetration</code>
+<start>2115.500016666667</start>
+<end>2125.30085</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>530</ID>
+<code>tilburg circle_penetration</code>
+<start>3159.3000333333334</start>
+<end>3182.290033333333</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>531</ID>
+<code>tilburg circle_penetration</code>
+<start>3182.3000333333334</start>
+<end>3190.2003666666665</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>532</ID>
+<code>tilburg circle_penetration</code>
+<start>3199.8000333333334</start>
+<end>3214.1000166666668</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>533</ID>
+<code>tilburg circle_penetration</code>
+<start>3338.600033333333</start>
+<end>3355.100033333333</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>534</ID>
+<code>tilburg circle_penetration</code>
+<start>4645.100016666666</start>
+<end>4657.4006</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>535</ID>
+<code>tilburg circle_penetration</code>
+<start>4803.000016666667</start>
+<end>4812.2000333333335</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>536</ID>
+<code>tilburg circle_penetration</code>
+<start>5036.600033333333</start>
+<end>5053.600466666667</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>Goal TIL</text>
+</label>
+</instance>
+<instance>
+<ID>537</ID>
+<code>tilburg circle_penetration</code>
+<start>5184.200016666667</start>
+<end>5194.500666666667</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>538</ID>
+<code>tilburg circle_penetration</code>
+<start>5269.4000166666665</start>
+<end>5284.501066666667</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>539</ID>
+<code>hdm goal_attempt</code>
+<start>1775.6000333333334</start>
+<end>1786.7000166666667</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>540</ID>
+<code>hdm goal_attempt</code>
+<start>2243.1000166666668</start>
+<end>2256.1000166666668</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>541</ID>
+<code>hdm goal_attempt</code>
+<start>3879.9000166666665</start>
+<end>3892.9000166666665</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>542</ID>
+<code>tilburg goal_attempt</code>
+<start>131.30061666666666</start>
+<end>144.30061666666666</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>543</ID>
+<code>tilburg goal_attempt</code>
+<start>3162.8000333333334</start>
+<end>3175.8000333333334</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>544</ID>
+<code>tilburg goal_attempt</code>
+<start>3179.9000166666665</start>
+<end>3192.9000166666665</end>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>545</ID>
+<code>tilburg goal_attempt</code>
+<start>4646.9000166666665</start>
+<end>4659.9000166666665</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>546</ID>
+<code>hdm goal</code>
+<start>2293.000016666667</start>
+<end>2318.000016666667</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>547</ID>
+<code>hdm goal</code>
+<start>5127.700016666667</start>
+<end>5152.700016666667</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>548</ID>
+<code>hdm goal</code>
+<start>5423.40095</start>
+<end>5448.40095</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>549</ID>
+<code>tilburg goal</code>
+<start>5028.6006</start>
+<end>5053.6006</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>550</ID>
+<code>tilburg goal</code>
+<start>5310.100033333333</start>
+<end>5335.100033333333</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>551</ID>
+<code>hdm green_card</code>
+<start>1992.10005</start>
+<end>2132.10005</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+<label>
+<text>BS1 TIL</text>
+</label>
+<label>
+<text>CP TIL</text>
+</label>
+<label>
+<text>BW1 HDM</text>
+</label>
+<label>
+<text>BS1 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>552</ID>
+<code>hdm green_card</code>
+<start>3462.7003</start>
+<end>3602.7003</end>
+<label>
+<text>BS2 HDM</text>
+</label>
+<label>
+<text>23m HDM</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>BS3 TIL</text>
+</label>
+<label>
+<text>23m TIL</text>
+</label>
+<label>
+<text>BW1 HDM</text>
+</label>
+<label>
+<text>BS4 HDM</text>
+</label>
+<label>
+<text>BW1 TIL</text>
+</label>
+<label>
+<text>BW3 HDM</text>
+</label>
+<label>
+<text>BS3 HDM</text>
+</label>
+</instance>
+<instance>
+<ID>553</ID>
+<code>start</code>
+<start>116.50008333333334</start>
+<end>1101.00005</end>
+</instance>
+<instance>
+<ID>554</ID>
+<code>start</code>
+<start>1261.7000666666668</start>
+<end>2345.20005</end>
+</instance>
+<instance>
+<ID>555</ID>
+<code>start</code>
+<start>3101.100033333333</start>
+<end>4030.8000166666666</end>
+</instance>
+<instance>
+<ID>556</ID>
+<code>start</code>
+<start>4202.6001</start>
+<end>5496.7000333333335</end>
+</instance>
+<instance>
+<ID>557</ID>
+<code>hdm penalty_corner</code>
+<start>539.6000666666666</start>
+<end>549.7000833333333</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>558</ID>
+<code>hdm penalty_corner</code>
+<start>884.80005</start>
+<end>898.3002166666666</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>559</ID>
+<code>hdm penalty_corner</code>
+<start>1719.5000833333334</start>
+<end>1728.80005</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>560</ID>
+<code>hdm penalty_corner</code>
+<start>1743.10005</start>
+<end>1758.10005</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>561</ID>
+<code>hdm penalty_corner</code>
+<start>1817.0000333333332</start>
+<end>1829.50005</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>562</ID>
+<code>hdm penalty_corner</code>
+<start>5137.700066666666</start>
+<end>5152.700016666667</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>Goal HDM</text>
+</label>
+</instance>
+<instance>
+<ID>563</ID>
+<code>tilburg penalty_corner</code>
+<start>1402.5000666666667</start>
+<end>1412.8000333333334</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>564</ID>
+<code>tilburg penalty_corner</code>
+<start>4567.80005</start>
+<end>4576.200016666667</end>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>565</ID>
+<code>tilburg penalty_corner</code>
+<start>5321.800066666667</start>
+<end>5335.100033333333</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>Goal TIL</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>23m HDM</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>23m TIL</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>ASC HDM</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>ASC TIL</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>BB HDM</code>
+<R>2313</R>
+<G>40606</G>
+<B>17476</B>
+</row>
+<row>
+<code>BB TIL</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>BS1 HDM</code>
+<R>2313</R>
+<G>40606</G>
+<B>17476</B>
+</row>
+<row>
+<code>BS1 TIL</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>BS2 HDM</code>
+<R>2313</R>
+<G>40606</G>
+<B>17476</B>
+</row>
+<row>
+<code>BS2 TIL</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>BS3 HDM</code>
+<R>2313</R>
+<G>40606</G>
+<B>17476</B>
+</row>
+<row>
+<code>BS3 TIL</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>BS4 HDM</code>
+<R>2313</R>
+<G>40606</G>
+<B>17476</B>
+</row>
+<row>
+<code>BS4 TIL</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>BW1 HDM</code>
+<R>2313</R>
+<G>40606</G>
+<B>17476</B>
+</row>
+<row>
+<code>BW1 TIL</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>BW2 HDM</code>
+<R>2313</R>
+<G>40606</G>
+<B>17476</B>
+</row>
+<row>
+<code>BW2 TIL</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>BW3 HDM</code>
+<R>2313</R>
+<G>40606</G>
+<B>17476</B>
+</row>
+<row>
+<code>BW3 TIL</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>BW4 HDM</code>
+<R>2313</R>
+<G>40606</G>
+<B>17476</B>
+</row>
+<row>
+<code>BW4 TIL</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>CP HDM</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>CP TIL</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>DP HDM</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>DP TIL</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>Goal HDM</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>Goal TIL</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>Groen HDM</code>
+<R>0</R>
+<G>63993</G>
+<B>0</B>
+</row>
+<row>
+<code>Q1</code>
+<R>65536</R>
+<G>12079</G>
+<B>37522</B>
+</row>
+<row>
+<code>Q2</code>
+<R>65536</R>
+<G>12079</G>
+<B>37522</B>
+</row>
+<row>
+<code>Q3</code>
+<R>65536</R>
+<G>12079</G>
+<B>37522</B>
+</row>
+<row>
+<code>Q4</code>
+<R>65536</R>
+<G>12079</G>
+<B>37522</B>
+</row>
+<row>
+<code>SC HDM</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>SC TIL</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+</ROWS>
+</file>

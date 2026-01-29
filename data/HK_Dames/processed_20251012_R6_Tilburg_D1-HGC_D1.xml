@@ -1,0 +1,3478 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>tilburg cause_of_penalty_corner</code>
+<start>369.00006666666667</start>
+<end>379.00006666666667</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>tilburg cause_of_penalty_corner</code>
+<start>1350.3000666666667</start>
+<end>1360.3000666666667</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>tilburg cause_of_penalty_corner</code>
+<start>2922.7002</start>
+<end>2932.7002</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>hgc ball_restart_1</code>
+<start>7.2001333333333335</start>
+<end>21.200133333333333</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>hgc ball_restart_1</code>
+<start>203.70011666666667</start>
+<end>217.70011666666667</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>hgc ball_restart_1</code>
+<start>347.70015</start>
+<end>361.70015</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>hgc ball_restart_1</code>
+<start>445.6000833333333</start>
+<end>458.50006666666667</end>
+<label>
+<text>REND BBM: BS1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>hgc ball_restart_1</code>
+<start>458.51006666666666</start>
+<end>466.20006666666666</end>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>hgc ball_restart_1</code>
+<start>768.5000666666666</start>
+<end>782.5000666666666</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>hgc ball_restart_1</code>
+<start>1542.3000833333333</start>
+<end>1556.3000833333333</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>hgc ball_restart_1</code>
+<start>2856.8000833333335</start>
+<end>2867.7005166666668</end>
+<label>
+<text>REND BBM: BW3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>hgc ball_restart_1</code>
+<start>3389.200083333333</start>
+<end>3403.200083333333</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>hgc ball_restart_1</code>
+<start>3431.300116666667</start>
+<end>3445.300116666667</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>hgc ball_restart_1</code>
+<start>3674.200116666667</start>
+<end>3683.40005</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>hgc ball_restart_1</code>
+<start>3694.7001333333333</start>
+<end>3708.7001333333333</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>hgc ball_restart_1</code>
+<start>4178.90005</start>
+<end>4192.90005</end>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>hgc ball_restart_1</code>
+<start>4515.9001</start>
+<end>4529.9001</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>hgc ball_restart_1</code>
+<start>4831.700116666667</start>
+<end>4845.700116666667</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>hgc ball_restart_1</code>
+<start>4997.8000833333335</start>
+<end>5007.300066666667</end>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>tilburg ball_restart_1</code>
+<start>72.60008333333333</start>
+<end>78.30005</end>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>tilburg ball_restart_1</code>
+<start>111.8002</start>
+<end>125.8002</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>tilburg ball_restart_1</code>
+<start>473.10015</start>
+<end>487.10015</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>tilburg ball_restart_1</code>
+<start>545.9001333333333</start>
+<end>557.8000666666667</end>
+<label>
+<text>REND BBM: BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>tilburg ball_restart_1</code>
+<start>608.3000833333333</start>
+<end>614.3000833333333</end>
+<label>
+<text>REND BBM: BW4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>tilburg ball_restart_1</code>
+<start>640.0001</start>
+<end>646.00005</end>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>tilburg ball_restart_1</code>
+<start>690.8001</start>
+<end>703.6000833333334</end>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>tilburg ball_restart_1</code>
+<start>849.60005</start>
+<end>863.60005</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>tilburg ball_restart_1</code>
+<start>1094.3000833333333</start>
+<end>1108.3000833333333</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>tilburg ball_restart_1</code>
+<start>1339.3000666666667</start>
+<end>1353.3000666666667</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>tilburg ball_restart_1</code>
+<start>1752.3001</start>
+<end>1758.7001333333333</end>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>tilburg ball_restart_1</code>
+<start>1768.9000666666666</start>
+<end>1782.9000666666666</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>tilburg ball_restart_1</code>
+<start>2022.7000666666668</start>
+<end>2034.0000333333332</end>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>tilburg ball_restart_1</code>
+<start>2070.9000666666666</start>
+<end>2083.9000666666666</end>
+<label>
+<text>REND BBM: BS3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>tilburg ball_restart_1</code>
+<start>3080.60005</start>
+<end>3094.60005</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>tilburg ball_restart_1</code>
+<start>3129.4000833333334</start>
+<end>3139.3000833333335</end>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>tilburg ball_restart_1</code>
+<start>3254.3001</start>
+<end>3265.0000333333332</end>
+<label>
+<text>REND BBM: BW4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>tilburg ball_restart_1</code>
+<start>3555.6001</start>
+<end>3561.5000666666665</end>
+<label>
+<text>REND BBM: BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>tilburg ball_restart_1</code>
+<start>4152.10005</start>
+<end>4166.10005</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>tilburg ball_restart_1</code>
+<start>4226.50005</start>
+<end>4240.50005</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>tilburg ball_restart_1</code>
+<start>4247.600133333333</start>
+<end>4261.600133333333</end>
+<label>
+<text>REND BBM: BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>tilburg ball_restart_1</code>
+<start>4406.900066666667</start>
+<end>4420.900066666667</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>tilburg ball_restart_1</code>
+<start>4657.800066666667</start>
+<end>4671.800066666667</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>tilburg ball_restart_1</code>
+<start>4751.100133333333</start>
+<end>4765.100133333333</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>tilburg ball_restart_1</code>
+<start>4795.200066666666</start>
+<end>4809.200066666666</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>tilburg ball_restart_1</code>
+<start>4922.400033333333</start>
+<end>4936.400033333333</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>tilburg ball_restart_1</code>
+<start>5047.800066666667</start>
+<end>5061.800066666667</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>tilburg ball_restart_1</code>
+<start>5189.200066666666</start>
+<end>5200.600083333334</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>hgc ball_restart_2</code>
+<start>160.50011666666666</start>
+<end>174.50011666666666</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>hgc ball_restart_2</code>
+<start>462.20006666666666</start>
+<end>476.20006666666666</end>
+<label>
+<text>REND BBM: BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>hgc ball_restart_2</code>
+<start>1267.2000833333334</start>
+<end>1277.40005</end>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>hgc ball_restart_2</code>
+<start>1277.41005</start>
+<end>1288.40005</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>hgc ball_restart_2</code>
+<start>1499.1001</start>
+<end>1510.8000833333333</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>hgc ball_restart_2</code>
+<start>1719.5000833333334</start>
+<end>1733.5000833333334</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>hgc ball_restart_2</code>
+<start>1783.2001</start>
+<end>1797.2001</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>hgc ball_restart_2</code>
+<start>1799.6001333333334</start>
+<end>1813.6001333333334</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>hgc ball_restart_2</code>
+<start>3140.3000833333335</start>
+<end>3154.3000833333335</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>hgc ball_restart_2</code>
+<start>3508.700116666667</start>
+<end>3522.700116666667</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>hgc ball_restart_2</code>
+<start>3588.5000833333334</start>
+<end>3599.7001</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>hgc ball_restart_2</code>
+<start>3636.4001166666667</start>
+<end>3650.4001166666667</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>hgc ball_restart_2</code>
+<start>3925.4002666666665</start>
+<end>3935.5000666666665</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>hgc ball_restart_2</code>
+<start>4124.0000666666665</start>
+<end>4138.0000666666665</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>hgc ball_restart_2</code>
+<start>4189.200066666666</start>
+<end>4203.200066666666</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>hgc ball_restart_2</code>
+<start>4324.800066666667</start>
+<end>4338.800066666667</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>hgc ball_restart_2</code>
+<start>4491.0001</start>
+<end>4505.0001</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>hgc ball_restart_2</code>
+<start>4846.70015</start>
+<end>4860.70015</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>hgc ball_restart_2</code>
+<start>5003.300066666667</start>
+<end>5015.200083333333</end>
+<label>
+<text>REND BBM: BS3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>hgc ball_restart_2</code>
+<start>5067.800066666667</start>
+<end>5081.800066666667</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>tilburg ball_restart_2</code>
+<start>44.10006666666666</start>
+<end>53.60008333333333</end>
+<label>
+<text>REND BBM: BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>tilburg ball_restart_2</code>
+<start>53.61008333333333</start>
+<end>57.00006666666667</end>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>tilburg ball_restart_2</code>
+<start>484.9001</start>
+<end>490.9000833333333</end>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>tilburg ball_restart_2</code>
+<start>553.8000666666667</start>
+<end>560.3000833333333</end>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>tilburg ball_restart_2</code>
+<start>1054.7001333333333</start>
+<end>1063.6000666666666</end>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>tilburg ball_restart_2</code>
+<start>1110.60005</start>
+<end>1124.60005</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>tilburg ball_restart_2</code>
+<start>1124.61005</start>
+<end>1136.9000666666666</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>tilburg ball_restart_2</code>
+<start>1631.8001166666666</start>
+<end>1639.2000833333334</end>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>tilburg ball_restart_2</code>
+<start>3500.4000833333334</start>
+<end>3512.700116666667</end>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>tilburg ball_restart_2</code>
+<start>3557.5000666666665</start>
+<end>3569.4000666666666</end>
+<label>
+<text>REND BBM: BS2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>tilburg ball_restart_2</code>
+<start>3569.410066666667</start>
+<end>3580.4000666666666</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>tilburg ball_restart_2</code>
+<start>3581.3001</start>
+<end>3586.3001</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>tilburg ball_restart_2</code>
+<start>3624.60005</start>
+<end>3638.60005</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>tilburg ball_restart_2</code>
+<start>4258.400066666667</start>
+<end>4272.400066666667</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>tilburg ball_restart_2</code>
+<start>4459.200083333333</start>
+<end>4473.200083333333</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>tilburg ball_restart_2</code>
+<start>4765.80005</start>
+<end>4779.600083333334</end>
+<label>
+<text>REND BBM: BS3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>tilburg ball_restart_2</code>
+<start>4942.600083333334</start>
+<end>4956.600083333334</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>tilburg ball_restart_2</code>
+<start>5060.300066666667</start>
+<end>5071.800066666667</end>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>hgc ball_restart_3</code>
+<start>20.60011666666667</start>
+<end>29.100066666666667</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>hgc ball_restart_3</code>
+<start>710.6000666666666</start>
+<end>724.6000666666666</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>hgc ball_restart_3</code>
+<start>1073.4000666666666</start>
+<end>1087.4000666666666</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>hgc ball_restart_3</code>
+<start>1446.5000833333334</start>
+<end>1457.80005</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>hgc ball_restart_3</code>
+<start>1667.7001333333333</start>
+<end>1681.7001333333333</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>hgc ball_restart_3</code>
+<start>2079.9000666666666</start>
+<end>2093.9000666666666</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>hgc ball_restart_3</code>
+<start>3358.8000833333335</start>
+<end>3367.0001</end>
+<label>
+<text>REND BBM: BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>hgc ball_restart_3</code>
+<start>3468.5001</start>
+<end>3481.9000833333334</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>hgc ball_restart_3</code>
+<start>4107.400083333333</start>
+<end>4116.0000666666665</end>
+<label>
+<text>REND BBM: BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>hgc ball_restart_3</code>
+<start>4546.200066666666</start>
+<end>4556.20005</end>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+<label>
+<text>ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>hgc ball_restart_3</code>
+<start>4672.000083333333</start>
+<end>4686.000083333333</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>hgc ball_restart_3</code>
+<start>4687.4001</start>
+<end>4701.4001</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>hgc ball_restart_3</code>
+<start>4725.400083333333</start>
+<end>4739.400083333333</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>hgc ball_restart_3</code>
+<start>4775.600083333334</start>
+<end>4789.600083333334</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>hgc ball_restart_3</code>
+<start>4882.70055</start>
+<end>4896.70055</end>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>hgc ball_restart_3</code>
+<start>4959.2001</start>
+<end>4972.0001</end>
+<label>
+<text>REND BBM: BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>hgc ball_restart_3</code>
+<start>5011.200083333333</start>
+<end>5018.800066666667</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>tilburg ball_restart_3</code>
+<start>0.0</start>
+<end>11.0</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>tilburg ball_restart_3</code>
+<start>750.0000666666666</start>
+<end>764.0000666666666</end>
+<label>
+<text>REND: CP NBB TIL</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>tilburg ball_restart_3</code>
+<start>876.70005</start>
+<end>890.70005</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>tilburg ball_restart_3</code>
+<start>1139.40005</start>
+<end>1153.40005</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>tilburg ball_restart_3</code>
+<start>1163.5000666666667</start>
+<end>1177.5000666666667</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>tilburg ball_restart_3</code>
+<start>1814.0001</start>
+<end>1828.0001</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>tilburg ball_restart_3</code>
+<start>1883.5001</start>
+<end>1895.6001166666667</end>
+<label>
+<text>REND BBM: BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>tilburg ball_restart_3</code>
+<start>2808.5000833333334</start>
+<end>2815.9037</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>tilburg ball_restart_3</code>
+<start>2908.1001333333334</start>
+<end>2922.1001333333334</end>
+<label>
+<text>REND: CP TIL</text>
+</label>
+<label>
+<text>REND: DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>tilburg ball_restart_3</code>
+<start>3369.8000666666667</start>
+<end>3383.8000666666667</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>tilburg ball_restart_3</code>
+<start>3422.8000666666667</start>
+<end>3435.300116666667</end>
+<label>
+<text>REND BBM: BS1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>tilburg ball_restart_3</code>
+<start>3655.3001</start>
+<end>3669.3001</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>tilburg ball_restart_3</code>
+<start>4084.5001666666667</start>
+<end>4098.500166666667</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>tilburg ball_restart_3</code>
+<start>4171.900066666667</start>
+<end>4182.90005</end>
+<label>
+<text>REND BBM: BS1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>tilburg ball_restart_3</code>
+<start>4275.0001</start>
+<end>4289.0001</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>tilburg ball_restart_3</code>
+<start>4506.000133333333</start>
+<end>4519.9001</end>
+<label>
+<text>REND BBM: BS1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>tilburg ball_restart_3</code>
+<start>4818.600066666667</start>
+<end>4832.600066666667</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>tilburg ball_restart_3</code>
+<start>4985.900083333333</start>
+<end>4999.900083333333</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>hgc ball_restart_4</code>
+<start>94.8001</start>
+<end>108.8001</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>hgc ball_restart_4</code>
+<start>589.3000666666667</start>
+<end>599.2000833333333</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>hgc ball_restart_4</code>
+<start>660.7001833333334</start>
+<end>669.0000833333334</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>hgc ball_restart_4</code>
+<start>818.1001</start>
+<end>832.1001</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>hgc ball_restart_4</code>
+<start>1292.4000666666666</start>
+<end>1306.2000666666668</end>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>hgc ball_restart_4</code>
+<start>1306.2100666666668</start>
+<end>1315.8000833333333</end>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>hgc ball_restart_4</code>
+<start>1315.8100833333333</start>
+<end>1322.0000666666667</end>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+<label>
+<text>REND BBM: BS4 VS HGC</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>hgc ball_restart_4</code>
+<start>1322.0100666666667</start>
+<end>1333.0000666666667</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>hgc ball_restart_4</code>
+<start>1610.9000666666666</start>
+<end>1618.1000666666666</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>hgc ball_restart_4</code>
+<start>2048.1000833333333</start>
+<end>2062.1000833333333</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>hgc ball_restart_4</code>
+<start>3164.9000833333334</start>
+<end>3176.70015</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+<label>
+<text>ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>hgc ball_restart_4</code>
+<start>3229.6001</start>
+<end>3239.2000666666668</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>hgc ball_restart_4</code>
+<start>3522.5000833333334</start>
+<end>3529.0000833333334</end>
+<label>
+<text>REND BBM: BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>hgc ball_restart_4</code>
+<start>3538.3000833333335</start>
+<end>3544.300116666667</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>hgc ball_restart_4</code>
+<start>3731.8000833333335</start>
+<end>3745.2000666666668</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>hgc ball_restart_4</code>
+<start>3762.8000666666667</start>
+<end>3776.8000666666667</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>hgc ball_restart_4</code>
+<start>3777.4000833333334</start>
+<end>3791.4000833333334</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>hgc ball_restart_4</code>
+<start>4377.700066666666</start>
+<end>4391.700066666666</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>hgc ball_restart_4</code>
+<start>4708.5001</start>
+<end>4717.7001666666665</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>hgc ball_restart_4</code>
+<start>4892.80005</start>
+<end>4906.80005</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>tilburg ball_restart_4</code>
+<start>444.20008333333334</start>
+<end>449.6000833333333</end>
+<label>
+<text>REND BBM: BS1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>tilburg ball_restart_4</code>
+<start>908.7001</start>
+<end>915.80005</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>tilburg ball_restart_4</code>
+<start>1204.6089</start>
+<end>1216.00005</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>tilburg ball_restart_4</code>
+<start>1475.9001</start>
+<end>1481.80005</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>tilburg ball_restart_4</code>
+<start>1522.5000666666667</start>
+<end>1536.5000666666667</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>tilburg ball_restart_4</code>
+<start>1850.8001166666666</start>
+<end>1860.4001</end>
+<label>
+<text>REND BBM: BS4 TIL</text>
+</label>
+<label>
+<text>REND BBM: BS4 VS TIL</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>tilburg ball_restart_4</code>
+<start>1860.4101</start>
+<end>1865.9018666666666</end>
+<label>
+<text>REND: CP NBB TIL</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>tilburg ball_restart_4</code>
+<start>1891.6001166666667</start>
+<end>1900.60005</end>
+<label>
+<text>REND BBM: BS4 TIL</text>
+</label>
+<label>
+<text>REND BBM: BS4 VS TIL</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>tilburg ball_restart_4</code>
+<start>1900.61005</start>
+<end>1910.5000666666667</end>
+<label>
+<text>REND: CP TIL</text>
+</label>
+<label>
+<text>REND: DP TIL</text>
+</label>
+<label>
+<text>REND: GOAL TIL</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>tilburg ball_restart_4</code>
+<start>1966.0000833333334</start>
+<end>1975.2000666666668</end>
+<label>
+<text>REND: DP TIL</text>
+</label>
+<label>
+<text>REND: GOAL TIL</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>tilburg ball_restart_4</code>
+<start>2886.6000833333333</start>
+<end>2900.6000833333333</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>tilburg ball_restart_4</code>
+<start>2919.200083333333</start>
+<end>2932.7002</end>
+<label>
+<text>REND: CP TIL</text>
+</label>
+<label>
+<text>REND: DP TIL</text>
+</label>
+<label>
+<text>REND: ASC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>hgc ball_win_1</code>
+<start>134.0001</start>
+<end>148.0001</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>hgc ball_win_1</code>
+<start>331.6000833333333</start>
+<end>345.6000833333333</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>hgc ball_win_1</code>
+<start>911.80005</start>
+<end>922.8000833333333</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>hgc ball_win_1</code>
+<start>1177.00005</start>
+<end>1190.2000666666668</end>
+<label>
+<text>REND BBM: BW3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>hgc ball_win_1</code>
+<start>1212.00005</start>
+<end>1226.00005</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>hgc ball_win_1</code>
+<start>1241.7001666666667</start>
+<end>1255.7001666666667</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>hgc ball_win_1</code>
+<start>1477.80005</start>
+<end>1491.80005</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>hgc ball_win_1</code>
+<start>1861.9018666666666</start>
+<end>1875.9018666666666</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>hgc ball_win_1</code>
+<start>2811.9037</start>
+<end>2825.9037</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>hgc ball_win_1</code>
+<start>3808.9000333333333</start>
+<end>3817.40015</end>
+<label>
+<text>REND BBM: BW3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>hgc ball_win_1</code>
+<start>3908.30045</start>
+<end>3922.30045</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>hgc ball_win_1</code>
+<start>4312.10005</start>
+<end>4326.10005</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>hgc ball_win_1</code>
+<start>4477.600033333333</start>
+<end>4491.600033333333</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>tilburg ball_win_1</code>
+<start>0.0</start>
+<end>11.0</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>tilburg ball_win_1</code>
+<start>25.100066666666667</start>
+<end>39.10006666666666</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>tilburg ball_win_1</code>
+<start>61.70003333333334</start>
+<end>75.70003333333334</end>
+<label>
+<text>REND BBM: BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>tilburg ball_win_1</code>
+<start>177.2001</start>
+<end>191.2001</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>tilburg ball_win_1</code>
+<start>595.2000833333333</start>
+<end>609.2000833333333</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>tilburg ball_win_1</code>
+<start>665.0000833333334</start>
+<end>670.1001</end>
+<label>
+<text>REND BBM: BW4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>tilburg ball_win_1</code>
+<start>677.4000833333333</start>
+<end>691.4000833333333</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>tilburg ball_win_1</code>
+<start>800.4000666666667</start>
+<end>814.4000666666667</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>tilburg ball_win_1</code>
+<start>1286.10005</start>
+<end>1296.4000666666666</end>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>tilburg ball_win_1</code>
+<start>1453.80005</start>
+<end>1467.80005</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>tilburg ball_win_1</code>
+<start>1506.8000833333333</start>
+<end>1520.8000833333333</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>tilburg ball_win_1</code>
+<start>1564.60005</start>
+<end>1578.60005</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>tilburg ball_win_1</code>
+<start>1614.1000666666666</start>
+<end>1628.1000666666666</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>tilburg ball_win_1</code>
+<start>1678.7001666666667</start>
+<end>1692.7001666666667</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>tilburg ball_win_1</code>
+<start>1702.0000833333334</start>
+<end>1716.0000833333334</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>tilburg ball_win_1</code>
+<start>2007.10005</start>
+<end>2021.10005</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>tilburg ball_win_1</code>
+<start>3095.0001</start>
+<end>3107.40005</end>
+<label>
+<text>REND BBM: BW4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>tilburg ball_win_1</code>
+<start>3107.4100500000004</start>
+<end>3119.9000666666666</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>tilburg ball_win_1</code>
+<start>3235.2000666666668</start>
+<end>3249.2000666666668</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>tilburg ball_win_1</code>
+<start>3477.9000833333334</start>
+<end>3491.9000833333334</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>tilburg ball_win_1</code>
+<start>3540.300116666667</start>
+<end>3554.300116666667</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>tilburg ball_win_1</code>
+<start>3595.7001</start>
+<end>3609.7001</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>tilburg ball_win_1</code>
+<start>3679.40005</start>
+<end>3693.40005</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>tilburg ball_win_1</code>
+<start>3741.2000666666668</start>
+<end>3755.2000666666668</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>tilburg ball_win_1</code>
+<start>3799.0000666666665</start>
+<end>3812.9000333333333</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>tilburg ball_win_1</code>
+<start>4204.0000666666665</start>
+<end>4218.0000666666665</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>tilburg ball_win_1</code>
+<start>4536.80005</start>
+<end>4550.200066666666</end>
+<label>
+<text>REND BBM: BS3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>tilburg ball_win_1</code>
+<start>4713.7001666666665</start>
+<end>4727.7001666666665</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>tilburg ball_win_1</code>
+<start>4737.100133333333</start>
+<end>4751.100133333333</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>tilburg ball_win_1</code>
+<start>5014.800066666667</start>
+<end>5027.400033333333</end>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>tilburg ball_win_1</code>
+<start>5094.700083333333</start>
+<end>5104.900066666667</end>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>hgc ball_win_2</code>
+<start>53.00006666666667</start>
+<end>65.70003333333334</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>hgc ball_win_2</code>
+<start>260.90006666666665</start>
+<end>274.90006666666665</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>hgc ball_win_2</code>
+<start>486.9000833333333</start>
+<end>500.9000833333333</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>hgc ball_win_2</code>
+<start>518.00095</start>
+<end>532.00095</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>hgc ball_win_2</code>
+<start>556.3000833333333</start>
+<end>570.3000833333333</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>hgc ball_win_2</code>
+<start>1059.6000666666666</start>
+<end>1073.6000666666666</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>hgc ball_win_2</code>
+<start>1635.2000833333334</start>
+<end>1644.4000666666666</end>
+<label>
+<text>REND BBM: BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>hgc ball_win_2</code>
+<start>1692.0000666666667</start>
+<end>1706.0000833333334</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>hgc ball_win_2</code>
+<start>2030.0000333333332</start>
+<end>2044.0000333333332</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>hgc ball_win_2</code>
+<start>3135.3000833333335</start>
+<end>3144.3000833333335</end>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>hgc ball_win_2</code>
+<start>3582.3001</start>
+<end>3592.5000833333334</end>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>hgc ball_win_2</code>
+<start>4097.600083333334</start>
+<end>4111.400083333333</end>
+<label>
+<text>REND BBM: BS3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>tilburg ball_win_2</code>
+<start>225.80008333333333</start>
+<end>239.80008333333333</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>tilburg ball_win_2</code>
+<start>302.20006666666666</start>
+<end>316.20006666666666</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>tilburg ball_win_2</code>
+<start>512.7001333333334</start>
+<end>522.00095</end>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>tilburg ball_win_2</code>
+<start>730.4000833333333</start>
+<end>744.4000833333333</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>tilburg ball_win_2</code>
+<start>1224.3000833333333</start>
+<end>1238.3000833333333</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>tilburg ball_win_2</code>
+<start>1640.4000666666666</start>
+<end>1649.4001166666667</end>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>tilburg ball_win_2</code>
+<start>2824.1001</start>
+<end>2838.1001</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>tilburg ball_win_2</code>
+<start>3363.0001</start>
+<end>3373.8000666666667</end>
+<label>
+<text>REND BBM: BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>tilburg ball_win_2</code>
+<start>3525.0000833333334</start>
+<end>3532.9001166666667</end>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>tilburg ball_win_2</code>
+<start>3856.0000833333334</start>
+<end>3868.5001333333335</end>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>tilburg ball_win_2</code>
+<start>4112.0000666666665</start>
+<end>4126.0000666666665</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>tilburg ball_win_2</code>
+<start>4968.0001</start>
+<end>4982.0001</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>hgc ball_win_3</code>
+<start>74.30005</start>
+<end>88.30005</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>hgc ball_win_3</code>
+<start>642.00005</start>
+<end>656.00005</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>hgc ball_win_3</code>
+<start>699.6000833333334</start>
+<end>713.6000833333334</end>
+<label>
+<text>REND BBM: BS3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>hgc ball_win_3</code>
+<start>1645.4001166666667</start>
+<end>1659.4001166666667</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>hgc ball_win_3</code>
+<start>1754.7001333333333</start>
+<end>1768.7001333333333</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>hgc ball_win_3</code>
+<start>3093.7002</start>
+<end>3099.0001</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>hgc ball_win_3</code>
+<start>3528.9001166666667</start>
+<end>3542.3000833333335</end>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>hgc ball_win_3</code>
+<start>3864.5001333333335</start>
+<end>3878.5001333333335</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND: GOAL HGC</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>hgc ball_win_3</code>
+<start>5023.400033333333</start>
+<end>5037.400033333333</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>hgc ball_win_3</code>
+<start>5100.900066666667</start>
+<end>5110.80005</end>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+<label>
+<text>ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>tilburg ball_win_3</code>
+<start>369.20008333333334</start>
+<end>379.00006666666667</end>
+<label>
+<text>REND: CP TIL</text>
+</label>
+<label>
+<text>REND: ASC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>tilburg ball_win_3</code>
+<start>1186.2000666666668</start>
+<end>1200.2000666666668</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>tilburg ball_win_3</code>
+<start>2863.7005166666668</start>
+<end>2877.7005166666668</end>
+<label>
+<text>REND: CP TIL</text>
+</label>
+<label>
+<text>REND: DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>tilburg ball_win_3</code>
+<start>3813.40015</start>
+<end>3827.40015</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>hgc ball_win_4</code>
+<start>610.3000833333333</start>
+<end>624.3000833333333</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>hgc ball_win_4</code>
+<start>666.1001</start>
+<end>680.1001</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>hgc ball_win_4</code>
+<start>3103.40005</start>
+<end>3109.9000666666666</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>hgc ball_win_4</code>
+<start>3261.0000333333332</start>
+<end>3273.8000666666667</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+<label>
+<text>ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>hgc ball_win_4</code>
+<start>3752.600066666667</start>
+<end>3766.600066666667</end>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+<label>
+<text>REND BBM: BS4 VS HGC</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>hgc circle_penetration</code>
+<start>73.30006666666667</start>
+<end>95.30006666666667</end>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>hgc circle_penetration</code>
+<start>566.9000333333333</start>
+<end>588.9000333333333</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>hgc circle_penetration</code>
+<start>588.9100333333333</start>
+<end>599.2000833333333</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>hgc circle_penetration</code>
+<start>606.2000666666667</start>
+<end>624.3900833333333</end>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>hgc circle_penetration</code>
+<start>624.4000833333333</start>
+<end>636.4000833333333</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>hgc circle_penetration</code>
+<start>637.4000666666667</start>
+<end>659.4000666666667</end>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>hgc circle_penetration</code>
+<start>1668.2001</start>
+<end>1682.7001666666667</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>hgc circle_penetration</code>
+<start>1727.3000833333333</start>
+<end>1749.3000833333333</end>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>hgc circle_penetration</code>
+<start>1752.1000833333333</start>
+<end>1772.9000666666666</end>
+<label>
+<text>REND BBM: BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>hgc circle_penetration</code>
+<start>2030.90005</start>
+<end>2052.1000833333333</end>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>hgc circle_penetration</code>
+<start>2052.1100833333335</start>
+<end>2066.3000833333335</end>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>hgc circle_penetration</code>
+<start>2075.9000666666666</start>
+<end>2097.9000666666666</end>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>hgc circle_penetration</code>
+<start>3056.20005</start>
+<end>3078.20005</end>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>hgc circle_penetration</code>
+<start>3143.9000666666666</start>
+<end>3165.9000666666666</end>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>hgc circle_penetration</code>
+<start>3165.910066666667</start>
+<end>3176.70015</end>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+<label>
+<text>ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>hgc circle_penetration</code>
+<start>3227.8000833333335</start>
+<end>3239.2000666666668</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>hgc circle_penetration</code>
+<start>3257.600066666667</start>
+<end>3273.8000666666667</end>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+<label>
+<text>ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>hgc circle_penetration</code>
+<start>3465.00015</start>
+<end>3481.9000833333334</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>hgc circle_penetration</code>
+<start>3862.6000833333333</start>
+<end>3879.1009166666668</end>
+<label>
+<text>REND: GOAL HGC</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>hgc circle_penetration</code>
+<start>4131.800066666667</start>
+<end>4153.800066666667</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>hgc circle_penetration</code>
+<start>4683.2001</start>
+<end>4705.2001</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>hgc circle_penetration</code>
+<start>657.3000833333333</start>
+<end>669.3000833333333</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+<label>
+<text>REND BBM: BW4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>hgc circle_penetration</code>
+<start>669.3100833333333</start>
+<end>679.0000666666666</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>hgc circle_penetration</code>
+<start>1278.5072833333334</start>
+<end>1290.5072833333334</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>hgc circle_penetration</code>
+<start>1694.5000833333334</start>
+<end>1706.5000833333334</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>hgc circle_penetration</code>
+<start>3098.4000666666666</start>
+<end>3110.4000666666666</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>hgc circle_penetration</code>
+<start>3733.800116666667</start>
+<end>3745.800116666667</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>hgc circle_penetration</code>
+<start>4692.900066666667</start>
+<end>4704.900066666667</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>hgc circle_penetration</code>
+<start>4705.900083333333</start>
+<end>4717.900083333333</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>hgc circle_penetration</code>
+<start>4729.5081666666665</start>
+<end>4741.5081666666665</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>hgc circle_penetration</code>
+<start>4899.50005</start>
+<end>4911.50005</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>hgc circle_penetration</code>
+<start>5005.800016666667</start>
+<end>5017.800016666667</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>hgc circle_penetration</code>
+<start>5087.00015</start>
+<end>5099.00015</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>tilburg circle_penetration</code>
+<start>323.90005</start>
+<end>335.90005</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>tilburg circle_penetration</code>
+<start>749.1001</start>
+<end>761.1001</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>tilburg circle_penetration</code>
+<start>1854.30005</start>
+<end>1866.30005</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>tilburg circle_penetration</code>
+<start>4304.500083333333</start>
+<end>4316.500083333333</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>tilburg circle_penetration</code>
+<start>181.70008333333334</start>
+<end>203.70008333333334</end>
+<label>
+<text>REND: DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>tilburg circle_penetration</code>
+<start>363.80005</start>
+<end>379.00006666666667</end>
+<label>
+<text>REND: ASC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>tilburg circle_penetration</code>
+<start>883.6000666666666</start>
+<end>905.6000666666666</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>tilburg circle_penetration</code>
+<start>1344.1001166666667</start>
+<end>1360.3000666666667</end>
+<label>
+<text>REND: ASC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>tilburg circle_penetration</code>
+<start>1821.0001333333332</start>
+<end>1843.0001333333332</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>tilburg circle_penetration</code>
+<start>1895.60005</start>
+<end>1910.5000666666667</end>
+<label>
+<text>REND: DP TIL</text>
+</label>
+<label>
+<text>REND: GOAL TIL</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>tilburg circle_penetration</code>
+<start>2859.800166666667</start>
+<end>2881.800166666667</end>
+<label>
+<text>REND: DP TIL</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>tilburg circle_penetration</code>
+<start>2903.200083333333</start>
+<end>2923.200083333333</end>
+<label>
+<text>REND: DP TIL</text>
+</label>
+<label>
+<text>REND BBM: BS4 TIL</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>tilburg circle_penetration</code>
+<start>2923.2100833333334</start>
+<end>2932.7002</end>
+<label>
+<text>REND: DP TIL</text>
+</label>
+<label>
+<text>REND: ASC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>hgc goal_attempt</code>
+<start>84.00008333333334</start>
+<end>91.00008333333334</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>hgc goal_attempt</code>
+<start>613.5000666666666</start>
+<end>620.5000666666666</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>hgc goal_attempt</code>
+<start>645.8000666666667</start>
+<end>652.8000666666667</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>hgc goal_attempt</code>
+<start>652.8100666666667</start>
+<end>655.9000833333333</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>hgc goal_attempt</code>
+<start>1734.70015</start>
+<end>1741.70015</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>hgc goal_attempt</code>
+<start>2053.1001</start>
+<end>2060.1001</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>hgc goal_attempt</code>
+<start>2083.20005</start>
+<end>2090.20005</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>hgc goal_attempt</code>
+<start>3063.30005</start>
+<end>3070.30005</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>hgc goal_attempt</code>
+<start>3151.3000833333335</start>
+<end>3158.3000833333335</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>hgc goal_attempt</code>
+<start>3266.8001</start>
+<end>3273.8001</end>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+<label>
+<text>ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>tilburg goal_attempt</code>
+<start>190.40011666666666</start>
+<end>197.40011666666666</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>tilburg goal_attempt</code>
+<start>1903.20005</start>
+<end>1910.20005</end>
+<label>
+<text>REND: GOAL TIL</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>tilburg goal_attempt</code>
+<start>1967.8001</start>
+<end>1974.8001</end>
+<label>
+<text>REND: GOAL TIL</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>tilburg goal_attempt</code>
+<start>2866.10005</start>
+<end>2873.10005</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>tilburg goal_attempt</code>
+<start>2873.1100500000002</start>
+<end>2878.70255</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>tilburg goal_attempt</code>
+<start>2909.7003</start>
+<end>2916.7003</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>tilburg goal_attempt</code>
+<start>2924.700316666667</start>
+<end>2931.700316666667</end>
+<label>
+<text>REND: ASC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>end</code>
+<start>921.7000833333333</start>
+<end>923.7000833333333</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>end</code>
+<start>2245.50005</start>
+<end>2247.50005</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>end</code>
+<start>3934.4000666666666</start>
+<end>3936.4000666666666</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>end</code>
+<start>5199.500083333333</start>
+<end>5201.500083333333</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>hgc green_card</code>
+<start>725.4000666666667</start>
+<end>875.4000666666667</end>
+<label>
+<text>REND BBM: BS3 TIL</text>
+</label>
+<label>
+<text>REND: CP NBB TIL</text>
+</label>
+<label>
+<text>REND BBM: BS1 HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC HGC</text>
+</label>
+<label>
+<text>REND BBM: BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>307</ID>
+<code>hgc green_card</code>
+<start>4408.4001333333335</start>
+<end>4558.4001333333335</end>
+<label>
+<text>REND BBM: BS2 TIL</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+<label>
+<text>REND BBM: BS3 TIL</text>
+</label>
+<label>
+<text>REND BBM: BS1 HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+<label>
+<text>REND BBM: BS3 HGC</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+<label>
+<text>ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>308</ID>
+<code>high_ball</code>
+<start>0.0</start>
+<end>8.0</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>high_ball</code>
+<start>163.10006666666666</start>
+<end>176.10006666666666</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>high_ball</code>
+<start>298.00008333333335</start>
+<end>311.00008333333335</end>
+<label>
+<text>REND BBM: BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>311</ID>
+<code>high_ball</code>
+<start>552.5000833333334</start>
+<end>565.5000833333334</end>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>312</ID>
+<code>high_ball</code>
+<start>748.6001166666666</start>
+<end>761.6001166666666</end>
+<label>
+<text>REND: CP NBB TIL</text>
+</label>
+</instance>
+<instance>
+<ID>313</ID>
+<code>high_ball</code>
+<start>1218.7001166666666</start>
+<end>1231.7001166666666</end>
+<label>
+<text>REND BBM: BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>314</ID>
+<code>high_ball</code>
+<start>1670.3001</start>
+<end>1683.3001</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>315</ID>
+<code>high_ball</code>
+<start>1801.9001</start>
+<end>1814.9001</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>high_ball</code>
+<start>1870.6000833333333</start>
+<end>1883.6000833333333</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>high_ball</code>
+<start>1883.6100833333333</start>
+<end>1895.0000833333334</end>
+<label>
+<text>REND BBM: BS4 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>318</ID>
+<code>high_ball</code>
+<start>2072.100066666667</start>
+<end>2085.100066666667</end>
+<label>
+<text>REND BBM: BS3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>319</ID>
+<code>high_ball</code>
+<start>2801.9016333333334</start>
+<end>2814.9016333333334</end>
+<label>
+<text>REND BBM: BS3 TIL</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>320</ID>
+<code>high_ball</code>
+<start>2819.3000833333335</start>
+<end>2832.3000833333335</end>
+<label>
+<text>REND BBM: BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>321</ID>
+<code>high_ball</code>
+<start>3128.2000666666668</start>
+<end>3141.2000666666668</end>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>322</ID>
+<code>high_ball</code>
+<start>3512.3000833333335</start>
+<end>3525.3000833333335</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>high_ball</code>
+<start>3571.0000833333334</start>
+<end>3584.0000833333334</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>high_ball</code>
+<start>3895.3000833333335</start>
+<end>3908.3000833333335</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>high_ball</code>
+<start>3924.0000666666665</start>
+<end>3937.0000666666665</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>high_ball</code>
+<start>4083.3000666666667</start>
+<end>4096.300066666667</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>high_ball</code>
+<start>4105.800066666667</start>
+<end>4114.390083333333</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>high_ball</code>
+<start>4114.400083333333</start>
+<end>4122.400083333333</end>
+<label>
+<text>REND BBM: BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>329</ID>
+<code>high_ball</code>
+<start>4406.200133333334</start>
+<end>4419.200133333334</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>high_ball</code>
+<start>4686.600066666667</start>
+<end>4699.600066666667</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>331</ID>
+<code>high_ball</code>
+<start>4817.40005</start>
+<end>4830.40005</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>high_ball</code>
+<start>4920.9001</start>
+<end>4933.9001</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>high_ball</code>
+<start>4984.90005</start>
+<end>4997.90005</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>high_ball</code>
+<start>5059.200066666666</start>
+<end>5072.200066666666</end>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>335</ID>
+<code>hgc long_corner</code>
+<start>589.3000666666667</start>
+<end>599.2000833333333</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>336</ID>
+<code>hgc long_corner</code>
+<start>660.7001833333334</start>
+<end>669.0000833333334</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>337</ID>
+<code>hgc long_corner</code>
+<start>818.1001</start>
+<end>853.60005</end>
+<label>
+<text>REND BBM: BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>338</ID>
+<code>hgc long_corner</code>
+<start>1292.4000666666666</start>
+<end>1322.0000666666667</end>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+<label>
+<text>REND BBM: BS4 VS HGC</text>
+</label>
+</instance>
+<instance>
+<ID>339</ID>
+<code>hgc long_corner</code>
+<start>2048.1000833333333</start>
+<end>2074.9000666666666</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>DP HGC</text>
+</label>
+<label>
+<text>REND BBM: BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>340</ID>
+<code>hgc long_corner</code>
+<start>3229.6001</start>
+<end>3239.2000666666668</end>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>341</ID>
+<code>hgc long_corner</code>
+<start>3522.5000833333334</start>
+<end>3529.0000833333334</end>
+<label>
+<text>REND BBM: BW2 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>342</ID>
+<code>hgc long_corner</code>
+<start>4708.5001</start>
+<end>4717.7001666666665</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>343</ID>
+<code>tilburg long_corner</code>
+<start>444.20008333333334</start>
+<end>449.6000833333333</end>
+<label>
+<text>REND BBM: BS1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>344</ID>
+<code>tilburg long_corner</code>
+<start>908.7001</start>
+<end>915.80005</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>345</ID>
+<code>tilburg long_corner</code>
+<start>1475.9001</start>
+<end>1481.80005</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>346</ID>
+<code>tilburg long_corner</code>
+<start>1850.8001166666666</start>
+<end>1860.4001</end>
+<label>
+<text>REND BBM: BS4 TIL</text>
+</label>
+<label>
+<text>REND BBM: BS4 VS TIL</text>
+</label>
+</instance>
+<instance>
+<ID>347</ID>
+<code>tilburg long_corner</code>
+<start>2886.6000833333333</start>
+<end>2912.1001333333334</end>
+<label>
+<text>REND BBM: BS3 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>348</ID>
+<code>tilburg long_corner</code>
+<start>2919.200083333333</start>
+<end>2932.7002</end>
+<label>
+<text>REND: CP TIL</text>
+</label>
+<label>
+<text>REND: DP TIL</text>
+</label>
+<label>
+<text>REND: ASC TIL</text>
+</label>
+</instance>
+<instance>
+<ID>349</ID>
+<code>tilburg penalty_corner</code>
+<start>420.50008333333335</start>
+<end>431.50008333333335</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>tilburg penalty_corner</code>
+<start>1397.4001</start>
+<end>1408.4001</end>
+<label>
+<text>REND: GOAL TIL</text>
+</label>
+</instance>
+<instance>
+<ID>351</ID>
+<code>tilburg penalty_corner</code>
+<start>3009.3013833333334</start>
+<end>3020.3001833333333</end>
+<label>
+<text>REND: GOAL TIL</text>
+</label>
+</instance>
+<instance>
+<ID>352</ID>
+<code>start</code>
+<start>0.0</start>
+<end>2.0</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>start</code>
+<start>1042.4000666666666</start>
+<end>1045.4000666666666</end>
+</instance>
+<instance>
+<ID>354</ID>
+<code>start</code>
+<start>2803.4001333333335</start>
+<end>2806.4001333333335</end>
+</instance>
+<instance>
+<ID>355</ID>
+<code>start</code>
+<start>4071.3001</start>
+<end>4074.3001</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>tilburg</code>
+<start>1204.6089</start>
+<end>1216.00005</end>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>357</ID>
+<code>tilburg</code>
+<start>1857.4001</start>
+<end>1865.9018666666666</end>
+<label>
+<text>REND: CP NBB TIL</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>358</ID>
+<code>tilburg</code>
+<start>1897.60005</start>
+<end>1910.5000666666667</end>
+<label>
+<text>REND: CP TIL</text>
+</label>
+<label>
+<text>REND: DP TIL</text>
+</label>
+<label>
+<text>REND: GOAL TIL</text>
+</label>
+</instance>
+<instance>
+<ID>359</ID>
+<code>hgc</code>
+<start>1319.0000666666667</start>
+<end>1343.3000666666667</end>
+<label>
+<text>REND BBM: BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>360</ID>
+<code>hgc</code>
+<start>3731.8000833333335</start>
+<end>3745.2000666666668</end>
+<label>
+<text>REND: CP NBB HGC</text>
+</label>
+<label>
+<text>CP NBB HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>361</ID>
+<code>hgc</code>
+<start>3762.8000666666667</start>
+<end>3780.4000833333334</end>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+<label>
+<text>REND BBM: BS4 VS HGC</text>
+</label>
+</instance>
+<instance>
+<ID>362</ID>
+<code>hgc</code>
+<start>3780.4100833333337</start>
+<end>3803.0000666666665</end>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>363</ID>
+<code>hgc</code>
+<start>4377.700066666666</start>
+<end>4410.900066666667</end>
+<label>
+<text>REND BBM: BS1 TIL</text>
+</label>
+</instance>
+<instance>
+<ID>364</ID>
+<code>tilburg goal</code>
+<start>1393.9000666666666</start>
+<end>1408.9000666666666</end>
+</instance>
+<instance>
+<ID>365</ID>
+<code>tilburg goal</code>
+<start>1895.5000666666667</start>
+<end>1910.5000666666667</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>tilburg goal</code>
+<start>1960.2000666666668</start>
+<end>1975.2000666666668</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>tilburg goal</code>
+<start>3005.3001833333333</start>
+<end>3020.3001833333333</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>tilburg green_card</code>
+<start>1471.6001166666667</start>
+<end>1621.6001166666667</end>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 TIL</text>
+</label>
+<label>
+<text>REND BBM: BS4 TIL</text>
+</label>
+<label>
+<text>REND BBM: BS1 HGC</text>
+</label>
+<label>
+<text>REND BBM: BS4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>369</ID>
+<code>hgc cause_of_penalty_corner</code>
+<start>3166.70015</start>
+<end>3176.70015</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>hgc cause_of_penalty_corner</code>
+<start>3263.8000666666667</start>
+<end>3273.8000666666667</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>hgc cause_of_penalty_corner</code>
+<start>4546.20005</start>
+<end>4556.20005</end>
+</instance>
+<instance>
+<ID>372</ID>
+<code>hgc cause_of_penalty_corner</code>
+<start>5100.80005</start>
+<end>5110.80005</end>
+</instance>
+<instance>
+<ID>373</ID>
+<code>hgc penalty_corner</code>
+<start>3216.50005</start>
+<end>3227.50005</end>
+</instance>
+<instance>
+<ID>374</ID>
+<code>hgc penalty_corner</code>
+<start>3305.1001</start>
+<end>3316.1001</end>
+<label>
+<text>REND: GOAL HGC</text>
+</label>
+</instance>
+<instance>
+<ID>375</ID>
+<code>hgc penalty_corner</code>
+<start>4593.000116666667</start>
+<end>4604.000116666667</end>
+</instance>
+<instance>
+<ID>376</ID>
+<code>hgc penalty_corner</code>
+<start>4623.000083333333</start>
+<end>4634.000083333333</end>
+</instance>
+<instance>
+<ID>377</ID>
+<code>hgc penalty_corner</code>
+<start>5163.5000666666665</start>
+<end>5174.5000666666665</end>
+</instance>
+<instance>
+<ID>378</ID>
+<code>hgc goal</code>
+<start>3301.300116666667</start>
+<end>3316.300116666667</end>
+</instance>
+<instance>
+<ID>379</ID>
+<code>hgc goal</code>
+<start>3864.1009166666668</start>
+<end>3879.1009166666668</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ASC TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP NBB HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP NBB TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>DP HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>DP TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>EIND</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GROEN HGC</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>HOGE BAL</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>LC HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>LC TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>SC TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>VS TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>VS HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL TIL</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GROEN TIL</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL HGC</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

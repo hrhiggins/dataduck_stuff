@@ -1,0 +1,1486 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+    <ALL_INSTANCES>
+        <instance>
+            <ID>1</ID>
+            <start>3.5</start>
+            <end>25.5</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>2</ID>
+            <start>38.0666666666667</start>
+            <end>60.0666666666667</end>
+            <code>leiden ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>3</ID>
+            <start>71.2666666666667</start>
+            <end>93.2666666666667</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>4</ID>
+            <start>109.8</start>
+            <end>131.8</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>5</ID>
+            <start>156.1</start>
+            <end>178.1</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>6</ID>
+            <start>207.3</start>
+            <end>229.3</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>7</ID>
+            <start>223.266666666667</start>
+            <end>245.266666666667</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>8</ID>
+            <start>273.733333333333</start>
+            <end>295.733333333333</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>9</ID>
+            <start>315.966666666667</start>
+            <end>337.966666666667</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>10</ID>
+            <start>335.466666666667</start>
+            <end>357.466666666667</end>
+            <code>leiden ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>11</ID>
+            <start>355.266666666667</start>
+            <end>377.266666666667</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>12</ID>
+            <start>389.633333333333</start>
+            <end>411.633333333333</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>13</ID>
+            <start>423.966666666667</start>
+            <end>445.966666666667</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>14</ID>
+            <start>463.266666666667</start>
+            <end>485.266666666667</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>15</ID>
+            <start>497.833333333333</start>
+            <end>519.833333333333</end>
+            <code>leiden ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>16</ID>
+            <start>508.1</start>
+            <end>530.1</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>17</ID>
+            <start>536.633333333333</start>
+            <end>558.633333333333</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>18</ID>
+            <start>540.3</start>
+            <end>562.3</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>19</ID>
+            <start>583.9</start>
+            <end>605.9</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>20</ID>
+            <start>589.8</start>
+            <end>611.8</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>21</ID>
+            <start>629.1</start>
+            <end>651.1</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>22</ID>
+            <start>677.033333333333</start>
+            <end>699.033333333333</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>23</ID>
+            <start>696.833333333333</start>
+            <end>718.833333333333</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>24</ID>
+            <start>722.866666666667</start>
+            <end>744.866666666667</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>25</ID>
+            <start>744.233333333333</start>
+            <end>766.233333333333</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>26</ID>
+            <start>774.4</start>
+            <end>796.4</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>27</ID>
+            <start>798.966666666667</start>
+            <end>820.966666666667</end>
+            <code>leiden ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>28</ID>
+            <start>819.9</start>
+            <end>841.9</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>29</ID>
+            <start>848.033333333333</start>
+            <end>870.033333333333</end>
+            <code>leiden ball_restart_4</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>30</ID>
+            <start>896.7</start>
+            <end>918.7</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>31</ID>
+            <start>931.033333333333</start>
+            <end>953.033333333333</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>32</ID>
+            <start>954.166666666667</start>
+            <end>976.166666666667</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>33</ID>
+            <start>1011.83333333333</start>
+            <end>1033.83333333333</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>34</ID>
+            <start>1037.8</start>
+            <end>1059.8</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>35</ID>
+            <start>1083</start>
+            <end>1105</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>36</ID>
+            <start>1104.13333333333</start>
+            <end>1126.13333333333</end>
+            <code>leiden ball_restart_3</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>37</ID>
+            <start>1107.66666666667</start>
+            <end>1129.66666666667</end>
+            <code>leiden circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>38</ID>
+            <start>1152.86666666667</start>
+            <end>1174.86666666667</end>
+            <code>leiden penalty_corner</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>39</ID>
+            <start>1179.96666666667</start>
+            <end>1201.96666666667</end>
+            <code>leiden penalty_corner</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>40</ID>
+            <start>1205.2</start>
+            <end>1227.2</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>41</ID>
+            <start>1246.6</start>
+            <end>1268.6</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>42</ID>
+            <start>1349.2</start>
+            <end>1371.2</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>43</ID>
+            <start>1377.93333333333</start>
+            <end>1399.93333333333</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>44</ID>
+            <start>1424.43333333333</start>
+            <end>1446.43333333333</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>45</ID>
+            <start>1442.76666666667</start>
+            <end>1464.76666666667</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>46</ID>
+            <start>1463.86666666667</start>
+            <end>1485.86666666667</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>47</ID>
+            <start>1484.4</start>
+            <end>1506.4</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>48</ID>
+            <start>1521.5</start>
+            <end>1543.5</end>
+            <code>leiden ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>49</ID>
+            <start>1684.8</start>
+            <end>1706.8</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>50</ID>
+            <start>1707.96666666667</start>
+            <end>1729.96666666667</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>51</ID>
+            <start>1753.5</start>
+            <end>1775.5</end>
+            <code>leiden ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>52</ID>
+            <start>1758.43333333333</start>
+            <end>1780.43333333333</end>
+            <code>leiden circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>53</ID>
+            <start>1781</start>
+            <end>1803</end>
+            <code>leiden ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>54</ID>
+            <start>1801.4</start>
+            <end>1823.4</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>55</ID>
+            <start>1847.8</start>
+            <end>1869.8</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>56</ID>
+            <start>1868</start>
+            <end>1890</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>57</ID>
+            <start>1904.73333333333</start>
+            <end>1926.73333333333</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>58</ID>
+            <start>1931.96666666667</start>
+            <end>1953.96666666667</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>59</ID>
+            <start>1974.93333333333</start>
+            <end>1996.93333333333</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>60</ID>
+            <start>1987.96666666667</start>
+            <end>2009.96666666667</end>
+            <code>leiden circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>61</ID>
+            <start>2001.53333333333</start>
+            <end>2023.53333333333</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>62</ID>
+            <start>2009.3</start>
+            <end>2031.3</end>
+            <code>leiden circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>63</ID>
+            <start>2025.66666666667</start>
+            <end>2047.66666666667</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>64</ID>
+            <start>2089.4</start>
+            <end>2111.4</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>65</ID>
+            <start>2114.63333333333</start>
+            <end>2136.63333333333</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>66</ID>
+            <start>2139.83333333333</start>
+            <end>2161.83333333333</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>67</ID>
+            <start>2151.73333333333</start>
+            <end>2173.73333333333</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>68</ID>
+            <start>2162.36666666667</start>
+            <end>2184.36666666667</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>69</ID>
+            <start>2173.96666666667</start>
+            <end>2195.96666666667</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>70</ID>
+            <start>2218.8</start>
+            <end>2240.8</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>71</ID>
+            <start>2261.16666666667</start>
+            <end>2283.16666666667</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>72</ID>
+            <start>2332.36666666667</start>
+            <end>2354.36666666667</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>73</ID>
+            <start>2337.43333333333</start>
+            <end>2359.43333333333</end>
+            <code>leiden circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>74</ID>
+            <start>2351.53333333333</start>
+            <end>2373.53333333333</end>
+            <code>leiden ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>75</ID>
+            <start>2422.33333333333</start>
+            <end>2444.33333333333</end>
+            <code>leiden penalty_corner</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>76</ID>
+            <start>2429.76666666667</start>
+            <end>2451.76666666667</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>77</ID>
+            <start>2480.76666666667</start>
+            <end>2502.76666666667</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>78</ID>
+            <start>2524.56666666667</start>
+            <end>2546.56666666667</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>79</ID>
+            <start>2548.4</start>
+            <end>2570.4</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>80</ID>
+            <start>2601</start>
+            <end>2623</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>81</ID>
+            <start>2632.6</start>
+            <end>2654.6</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>82</ID>
+            <start>2648.73333333333</start>
+            <end>2670.73333333333</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>83</ID>
+            <start>2665.26666666667</start>
+            <end>2687.26666666667</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>84</ID>
+            <start>2694.06666666667</start>
+            <end>2716.06666666667</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>85</ID>
+            <start>2716.7</start>
+            <end>2738.7</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>86</ID>
+            <start>2728.8</start>
+            <end>2750.8</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>87</ID>
+            <start>2751.16666666667</start>
+            <end>2773.16666666667</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>88</ID>
+            <start>2774.5</start>
+            <end>2796.5</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>89</ID>
+            <start>2786.13333333333</start>
+            <end>2808.13333333333</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>90</ID>
+            <start>2793.6</start>
+            <end>2815.6</end>
+            <code>leiden circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>91</ID>
+            <start>2798.83333333333</start>
+            <end>2820.83333333333</end>
+            <code>leiden goal</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>92</ID>
+            <start>2819.33333333333</start>
+            <end>2841.33333333333</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>93</ID>
+            <start>2830.1</start>
+            <end>2852.1</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>94</ID>
+            <start>2868.36666666667</start>
+            <end>2890.36666666667</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>95</ID>
+            <start>2881.76666666667</start>
+            <end>2903.76666666667</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>96</ID>
+            <start>2892.4</start>
+            <end>2914.4</end>
+            <code>leiden ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>97</ID>
+            <start>2906.7</start>
+            <end>2928.7</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>98</ID>
+            <start>2925.9</start>
+            <end>2947.9</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>99</ID>
+            <start>2942.53333333333</start>
+            <end>2964.53333333333</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>100</ID>
+            <start>2944.5</start>
+            <end>2966.5</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>101</ID>
+            <start>2996.66666666667</start>
+            <end>3018.66666666667</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>102</ID>
+            <start>3015.03333333333</start>
+            <end>3037.03333333333</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>103</ID>
+            <start>3035.03333333333</start>
+            <end>3057.03333333333</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>104</ID>
+            <start>3056.6</start>
+            <end>3078.6</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>105</ID>
+            <start>3073.66666666667</start>
+            <end>3095.66666666667</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>106</ID>
+            <start>3090.83333333333</start>
+            <end>3112.83333333333</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>107</ID>
+            <start>3096.96666666667</start>
+            <end>3118.96666666667</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>108</ID>
+            <start>3109.86666666667</start>
+            <end>3131.86666666667</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>109</ID>
+            <start>3142.5</start>
+            <end>3164.5</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>110</ID>
+            <start>3185.26666666667</start>
+            <end>3207.26666666667</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>111</ID>
+            <start>3202.33333333333</start>
+            <end>3224.33333333333</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>112</ID>
+            <start>3226.03333333333</start>
+            <end>3248.03333333333</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>113</ID>
+            <start>3247.26666666667</start>
+            <end>3269.26666666667</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>114</ID>
+            <start>3250.46666666667</start>
+            <end>3272.46666666667</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>115</ID>
+            <start>3265.16666666667</start>
+            <end>3287.16666666667</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>116</ID>
+            <start>3317.43333333333</start>
+            <end>3339.43333333333</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>117</ID>
+            <start>3336.5</start>
+            <end>3358.5</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>118</ID>
+            <start>3357.46666666667</start>
+            <end>3379.46666666667</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>119</ID>
+            <start>3381.8</start>
+            <end>3403.8</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>120</ID>
+            <start>3421.3</start>
+            <end>3443.3</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>121</ID>
+            <start>3435.6</start>
+            <end>3457.6</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>122</ID>
+            <start>3445.43333333333</start>
+            <end>3467.43333333333</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>123</ID>
+            <start>3484</start>
+            <end>3506</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>124</ID>
+            <start>3569.4</start>
+            <end>3591.4</end>
+            <code>leiden circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>125</ID>
+            <start>3573.7</start>
+            <end>3595.7</end>
+            <code>leiden goal</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>126</ID>
+            <start>3598.1</start>
+            <end>3620.1</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>127</ID>
+            <start>3646.56666666667</start>
+            <end>3668.56666666667</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>128</ID>
+            <start>3670.73333333333</start>
+            <end>3692.73333333333</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>129</ID>
+            <start>3711.03333333333</start>
+            <end>3733.03333333333</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>130</ID>
+            <start>3763.06666666667</start>
+            <end>3785.06666666667</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>131</ID>
+            <start>3783.7</start>
+            <end>3805.7</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>132</ID>
+            <start>3795.26666666667</start>
+            <end>3817.26666666667</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>133</ID>
+            <start>3801.1</start>
+            <end>3823.1</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>134</ID>
+            <start>3802.96666666667</start>
+            <end>3824.96666666667</end>
+            <code>victoria goal</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>135</ID>
+            <start>3822.8</start>
+            <end>3844.8</end>
+            <code>leiden ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>136</ID>
+            <start>3853.43333333333</start>
+            <end>3875.43333333333</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>137</ID>
+            <start>3924.4</start>
+            <end>3946.4</end>
+            <code>leiden ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>138</ID>
+            <start>3963.56666666667</start>
+            <end>3985.56666666667</end>
+            <code>leiden circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>139</ID>
+            <start>3981.8</start>
+            <end>4003.8</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>140</ID>
+            <start>3993.26666666667</start>
+            <end>4015.26666666667</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>141</ID>
+            <start>4021.73333333333</start>
+            <end>4043.73333333333</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>142</ID>
+            <start>4050.1</start>
+            <end>4072.1</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>143</ID>
+            <start>4092.13333333333</start>
+            <end>4114.13333333333</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>144</ID>
+            <start>4114.53333333333</start>
+            <end>4136.53333333333</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>145</ID>
+            <start>4167.56666666667</start>
+            <end>4189.56666666667</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>146</ID>
+            <start>4188.1</start>
+            <end>4210.1</end>
+            <code>leiden circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>147</ID>
+            <start>4200.73333333333</start>
+            <end>4222.73333333333</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>148</ID>
+            <start>4215.33333333333</start>
+            <end>4237.33333333333</end>
+            <code>leiden ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>149</ID>
+            <start>4249.03333333333</start>
+            <end>4271.03333333333</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>150</ID>
+            <start>4266.33333333333</start>
+            <end>4288.33333333333</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>151</ID>
+            <start>4291.66666666667</start>
+            <end>4313.66666666667</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>152</ID>
+            <start>4301.9</start>
+            <end>4323.9</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>153</ID>
+            <start>4318.43333333333</start>
+            <end>4340.43333333333</end>
+            <code>leiden ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>154</ID>
+            <start>4339.36666666667</start>
+            <end>4361.36666666667</end>
+            <code>leiden circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>155</ID>
+            <start>4385.66666666667</start>
+            <end>4407.66666666667</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+    </ALL_INSTANCES>
+    <ROWS>
+        <row>
+            <code>BS1 VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>BS4 VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>SC VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>CP VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>Goals VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>BS 1 LEI</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>BS4 LEI</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>CP LEI</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>SC LEI</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>Goals LEI</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>BS2 VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>BS3 VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>BS2 LEI</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>BS3 LEI</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+    </ROWS>
+</file>

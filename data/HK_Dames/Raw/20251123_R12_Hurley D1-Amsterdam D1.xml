@@ -1,0 +1,4121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<info>
+<creationDate>2025-11-23T16:37:17Z</creationDate>
+<UUID>4BCADB96-C939-4F91-BDD5-66216DDF977E</UUID>
+<NAME>Upload</NAME>
+</info>
+<GLOBALMARKERS></GLOBALMARKERS>
+<ALL_INSTANCES>
+<instance>
+<ID>F73C1A64-0621-4442-A5B9-17DDE6E7A7DB</ID>
+<code>Begin Quarter</code>
+<start>2.000100835</start>
+<end>3.000100835</end>
+</instance>
+<instance>
+<ID>BDEE9BCE-6DD4-4711-B0FB-E98F60694883</ID>
+<code>Begin Quarter</code>
+<start>1177.200156011</start>
+<end>1178.200156011</end>
+</instance>
+<instance>
+<ID>473B954C-614C-42DC-A979-6BE3D2104F72</ID>
+<code>Begin Quarter</code>
+<start>2256.200099829</start>
+<end>2257.200099829</end>
+</instance>
+<instance>
+<ID>5EE60DB4-AD6F-44F2-99B9-08841FA3857A</ID>
+<code>Begin Quarter</code>
+<start>3384.300117257</start>
+<end>3385.300117257</end>
+</instance>
+<instance>
+<ID>618E72A2-AD44-4564-9AED-B1F8554CDB51</ID>
+<code>Q1</code>
+<start>0.0</start>
+<end>1046.358734</end>
+</instance>
+<instance>
+<ID>6DCAAA66-E21A-4BB6-85FB-B2B756ADEC30</ID>
+<code>Q2</code>
+<start>1177.200156011</start>
+<end>2252.300130124</end>
+</instance>
+<instance>
+<ID>BA1755C4-5CB5-482F-821F-FAA0C91B4A9B</ID>
+<code>Q3</code>
+<start>2256.200099829</start>
+<end>3268.900106838</end>
+</instance>
+<instance>
+<ID>F2FECF70-C12C-4D6D-87A5-0F5A9BAEEC25</ID>
+<code>Q4</code>
+<start>3384.300117257</start>
+<end>4257.338333333333</end>
+</instance>
+<instance>
+<ID>F74077E0-8DEB-45BC-91FE-1A7C73EAD0CE</ID>
+<code>Scheidsrechter</code>
+<start>3187.700105963</start>
+<end>3203.600072018</end>
+</instance>
+<instance>
+<ID>58F65E8F-B733-4749-A92B-050A662E401A</ID>
+<code>AMS 23m Possession</code>
+<start>92.40009947499999</start>
+<end>104.40009947499999</end>
+</instance>
+<instance>
+<ID>BE8A6F72-8B3C-4781-9F43-261E6417B470</ID>
+<code>AMS 23m Possession</code>
+<start>105.80008978</start>
+<end>117.80008978</end>
+</instance>
+<instance>
+<ID>76DAAAAD-99B2-45CD-BFB0-17ED55EA3D17</ID>
+<code>AMS 23m Possession</code>
+<start>224.80047561700002</start>
+<end>236.80047561700002</end>
+</instance>
+<instance>
+<ID>A95D01EE-5391-4CEA-9E34-10533C37FE10</ID>
+<code>AMS 23m Possession</code>
+<start>406.800219791</start>
+<end>418.800219791</end>
+</instance>
+<instance>
+<ID>EA9D238C-B5BD-437F-B523-895094863C71</ID>
+<code>AMS 23m Possession</code>
+<start>525.400134818</start>
+<end>537.400134818</end>
+</instance>
+<instance>
+<ID>5B47B932-826B-46B9-B574-9F0C77E1EA45</ID>
+<code>AMS 23m Possession</code>
+<start>574.30018765</start>
+<end>586.30018765</end>
+</instance>
+<instance>
+<ID>1F5C67CC-17CC-485E-A55F-D4DA167E6F18</ID>
+<code>AMS 23m Possession</code>
+<start>642.400084507</start>
+<end>654.400084507</end>
+</instance>
+<instance>
+<ID>C9A75779-1367-4987-A4E1-F9119E31185E</ID>
+<code>AMS 23m Possession</code>
+<start>727.300178903</start>
+<end>739.300178903</end>
+</instance>
+<instance>
+<ID>D1FB7444-DF5C-4953-A339-9E3C431D1993</ID>
+<code>AMS 23m Possession</code>
+<start>773.2001002549999</start>
+<end>785.2001002549999</end>
+</instance>
+<instance>
+<ID>09066605-B1B8-4DD3-B095-3150D203108A</ID>
+<code>AMS 23m Possession</code>
+<start>999.3001843879999</start>
+<end>1011.3001843879999</end>
+</instance>
+<instance>
+<ID>3D66FF22-3284-42B5-A2BF-E40291EC7E2E</ID>
+<code>AMS 23m Possession</code>
+<start>1025.00008645</start>
+<end>1037.00008645</end>
+</instance>
+<instance>
+<ID>3D3BE314-E003-4693-BDD4-227CD8AA59E2</ID>
+<code>AMS 23m Possession</code>
+<start>1231.100093631</start>
+<end>1243.100093631</end>
+</instance>
+<instance>
+<ID>819B0364-DE4D-4254-9327-A1672E9869A8</ID>
+<code>AMS 23m Possession</code>
+<start>1263.7004099819999</start>
+<end>1275.7004099819999</end>
+</instance>
+<instance>
+<ID>D3BD8C08-8027-496F-A786-3E95CA92CAFC</ID>
+<code>AMS 23m Possession</code>
+<start>1326.900095047</start>
+<end>1338.900095047</end>
+</instance>
+<instance>
+<ID>6625D48C-AF2B-4F29-8DEE-914B34773C5E</ID>
+<code>AMS 23m Possession</code>
+<start>1357.9008373679999</start>
+<end>1369.9008373679999</end>
+</instance>
+<instance>
+<ID>2727BA3C-51E1-47CC-A67C-846CE840C36E</ID>
+<code>AMS 23m Possession</code>
+<start>1379.400101278</start>
+<end>1391.400101278</end>
+</instance>
+<instance>
+<ID>6F706B7D-7AF0-480C-AF6E-E1021DF8415C</ID>
+<code>AMS 23m Possession</code>
+<start>1399.200104269</start>
+<end>1411.200104269</end>
+</instance>
+<instance>
+<ID>94C39C64-8621-4828-8105-65C829BC83D8</ID>
+<code>AMS 23m Possession</code>
+<start>1432.500123136</start>
+<end>1444.500123136</end>
+</instance>
+<instance>
+<ID>4A1B52C8-7F41-4B7A-841B-00440D606349</ID>
+<code>AMS 23m Possession</code>
+<start>1480.800178915</start>
+<end>1492.800178915</end>
+</instance>
+<instance>
+<ID>481F32BF-204C-44BC-9379-EA0E3C448A66</ID>
+<code>AMS 23m Possession</code>
+<start>1551.4035311149999</start>
+<end>1563.4035311149999</end>
+</instance>
+<instance>
+<ID>1309D154-91FB-4F9A-A154-9A9E3677396B</ID>
+<code>AMS 23m Possession</code>
+<start>1806.00008203</start>
+<end>1818.00008203</end>
+</instance>
+<instance>
+<ID>EAB9C485-B31A-42C2-971B-3AB516BAEC16</ID>
+<code>AMS 23m Possession</code>
+<start>1860.600068833</start>
+<end>1872.600068833</end>
+</instance>
+<instance>
+<ID>57D5285A-E22F-4793-8DD4-3C83B1EF7B27</ID>
+<code>AMS 23m Possession</code>
+<start>2129.7045570660002</start>
+<end>2141.7045570660002</end>
+</instance>
+<instance>
+<ID>048452A8-A0A2-4173-BEDC-D70A2445E84C</ID>
+<code>AMS 23m Possession</code>
+<start>2256.300388254</start>
+<end>2268.300388254</end>
+</instance>
+<instance>
+<ID>0FFD283E-2F89-492C-9D01-7891FC62A55D</ID>
+<code>AMS 23m Possession</code>
+<start>2302.700080419</start>
+<end>2314.700080419</end>
+</instance>
+<instance>
+<ID>E58C3D37-CDD2-446F-B19E-84E8235B9569</ID>
+<code>AMS 23m Possession</code>
+<start>2326.700115769</start>
+<end>2338.700115769</end>
+</instance>
+<instance>
+<ID>D41224B8-764B-423B-B8AB-28A5E2126A91</ID>
+<code>AMS 23m Possession</code>
+<start>2385.0000429280003</start>
+<end>2397.0000429280003</end>
+</instance>
+<instance>
+<ID>DBA1F4D9-624B-41D9-B3FD-A0278ADAB809</ID>
+<code>AMS 23m Possession</code>
+<start>2449.700082619</start>
+<end>2461.700082619</end>
+</instance>
+<instance>
+<ID>54D75B44-6EFA-4E98-983C-C46A89FA5FFF</ID>
+<code>AMS 23m Possession</code>
+<start>2470.303183889</start>
+<end>2482.303183889</end>
+</instance>
+<instance>
+<ID>E892274B-FE43-4D39-9482-0AC30BC96402</ID>
+<code>AMS 23m Possession</code>
+<start>2576.4000579020003</start>
+<end>2588.4000579020003</end>
+</instance>
+<instance>
+<ID>FB3CC7ED-87EB-4A4E-963D-9526BE5D48DF</ID>
+<code>AMS 23m Possession</code>
+<start>2598.3000825420004</start>
+<end>2610.3000825420004</end>
+</instance>
+<instance>
+<ID>8233D3B0-D1DE-4EA4-AAEB-5DBE4F66C07C</ID>
+<code>AMS 23m Possession</code>
+<start>2724.9000542490003</start>
+<end>2736.9000542490003</end>
+</instance>
+<instance>
+<ID>EA42D3A7-0353-4390-8360-E0D72489B7BD</ID>
+<code>AMS 23m Possession</code>
+<start>2780.0000742250004</start>
+<end>2792.0000742250004</end>
+</instance>
+<instance>
+<ID>A94B0621-A8BC-434F-A997-17225738C1C5</ID>
+<code>AMS 23m Possession</code>
+<start>2817.3000718350004</start>
+<end>2829.3000718350004</end>
+</instance>
+<instance>
+<ID>D962C500-E75E-42A0-9AF1-6CED20CB7C6A</ID>
+<code>AMS 23m Possession</code>
+<start>2833.209369692</start>
+<end>2845.209369692</end>
+</instance>
+<instance>
+<ID>7577908B-BBDC-4F4F-B54A-EDC1560FBDA3</ID>
+<code>AMS 23m Possession</code>
+<start>2947.500072021</start>
+<end>2959.500072021</end>
+</instance>
+<instance>
+<ID>5BD30B6A-F152-4AE6-85B5-2B9C8DCF20D5</ID>
+<code>AMS 23m Possession</code>
+<start>3064.900072449</start>
+<end>3076.900072449</end>
+</instance>
+<instance>
+<ID>9AC0106A-F6A0-472D-8E40-B6A2ECF87126</ID>
+<code>AMS 23m Possession</code>
+<start>3128.400095033</start>
+<end>3140.400095033</end>
+</instance>
+<instance>
+<ID>51A96BD2-0A5E-4B95-B5E6-75EEA2863810</ID>
+<code>AMS 23m Possession</code>
+<start>3174.4000816330004</start>
+<end>3186.4000816330004</end>
+</instance>
+<instance>
+<ID>A14C5068-212A-464C-A912-DCF6DB6175A2</ID>
+<code>AMS 23m Possession</code>
+<start>3190.100153104</start>
+<end>3202.100153104</end>
+</instance>
+<instance>
+<ID>6452407D-CC99-46B5-BD79-A20A19558754</ID>
+<code>AMS 23m Possession</code>
+<start>3228.400080317</start>
+<end>3240.400080317</end>
+</instance>
+<instance>
+<ID>B687D154-9609-44EF-B261-F29EB4E7D623</ID>
+<code>AMS 23m Possession</code>
+<start>3531.500105177</start>
+<end>3543.500105177</end>
+</instance>
+<instance>
+<ID>C5598A1F-0660-4AE9-AB4D-0A5A7F3ACFF1</ID>
+<code>AMS 23m Possession</code>
+<start>3568.5000555210004</start>
+<end>3580.5000555210004</end>
+</instance>
+<instance>
+<ID>CB53F7E8-5C6D-4A03-8A4D-2D1F0F4E0E06</ID>
+<code>AMS 23m Possession</code>
+<start>3837.50012345</start>
+<end>3849.50012345</end>
+</instance>
+<instance>
+<ID>3E8E5352-6D40-40B9-8666-1D682E5A639C</ID>
+<code>AMS 23m Possession</code>
+<start>3891.700670425</start>
+<end>3903.700670425</end>
+</instance>
+<instance>
+<ID>EECC5D04-72FC-45FA-ACD1-0CE6FA6019F5</ID>
+<code>AMS 23m Possession</code>
+<start>3956.700210626</start>
+<end>3968.700210626</end>
+</instance>
+<instance>
+<ID>C6D0BD7F-275C-4BB5-A417-0C8F3E54C21B</ID>
+<code>AMS 23m Possession</code>
+<start>3992.500077223</start>
+<end>4004.500077223</end>
+</instance>
+<instance>
+<ID>2F0E1D5B-82AF-4090-9BB3-3B7A1B73D5FF</ID>
+<code>AMS 23m Possession</code>
+<start>4019.1001118890003</start>
+<end>4031.1001118890003</end>
+</instance>
+<instance>
+<ID>4CEFC239-7EA1-4111-BD56-427636C9036F</ID>
+<code>AMS 23m Possession</code>
+<start>4075.80010537</start>
+<end>4087.80010537</end>
+</instance>
+<instance>
+<ID>23DC9026-51ED-4488-8C4D-8044A2FABE39</ID>
+<code>AMS 23m Possession</code>
+<start>4189.900092178</start>
+<end>4201.900092178</end>
+</instance>
+<instance>
+<ID>EA47DB9F-9A45-43D9-A874-36303C73696B</ID>
+<code>AMS 23m Possession</code>
+<start>4236.000073987</start>
+<end>4248.000073987</end>
+</instance>
+<instance>
+<ID>979236AE-BFCF-4B90-AC6C-161D48517B80</ID>
+<code>AMS ASC</code>
+<start>1863.100055447</start>
+<end>1877.100055447</end>
+</instance>
+<instance>
+<ID>2A61EF28-7580-4767-9006-7D300624D287</ID>
+<code>AMS ASC</code>
+<start>1910.3002147539999</start>
+<end>1924.3002147539999</end>
+</instance>
+<instance>
+<ID>0EC98BF5-60D4-4A42-A8A5-745623B8C761</ID>
+<code>AMS ASC</code>
+<start>1932.100106694</start>
+<end>1946.100106694</end>
+</instance>
+<instance>
+<ID>20F428AE-60FF-4D46-AC36-DF6A92465647</ID>
+<code>AMS ASC</code>
+<start>2383.800203992</start>
+<end>2397.800203992</end>
+</instance>
+<instance>
+<ID>B7A51079-89FA-423C-BE2A-7C2963C1C615</ID>
+<code>AMS BS0</code>
+<start>849.900083271</start>
+<end>872.100084867</end>
+</instance>
+<instance>
+<ID>5B22B953-CE6A-4F38-8FBD-255E799AA21C</ID>
+<code>AMS BS0</code>
+<start>1510.500123215</start>
+<end>1528.100098192</end>
+</instance>
+<instance>
+<ID>7E8A59BD-3E42-4DB9-9ABF-CB48BF3CB0F5</ID>
+<code>AMS BS0</code>
+<start>2873.60007634</start>
+<end>2890.200092936</end>
+</instance>
+<instance>
+<ID>B70DBDEF-4136-4749-BDC2-3F451592E2A4</ID>
+<code>AMS BS0</code>
+<start>2983.700212169</start>
+<end>3000.000127262</end>
+</instance>
+<instance>
+<ID>D5A0C527-FCAD-4CF6-86BF-20EF914F2B7F</ID>
+<code>AMS BS0</code>
+<start>4069.900035776</start>
+<end>4090.200060466</end>
+</instance>
+<instance>
+<ID>B16604C9-69D0-47C3-947F-C527FCC221AE</ID>
+<code>AMS BS1</code>
+<start>83.500093181</start>
+<end>112.200079155</end>
+</instance>
+<instance>
+<ID>B04E0DDB-E81B-418B-BAB9-0C0BE6EDFCF6</ID>
+<code>AMS BS1</code>
+<start>184.700088668</start>
+<end>209.000203132</end>
+</instance>
+<instance>
+<ID>35DC5CFF-A4EB-4A76-98F9-8F04A08883F2</ID>
+<code>AMS BS1</code>
+<start>402.700112532</start>
+<end>428.300083553</end>
+</instance>
+<instance>
+<ID>449E098C-A4C2-4241-AADE-BCBAB777EB47</ID>
+<code>AMS BS1</code>
+<start>510.8001854639999</start>
+<end>536.400070826</end>
+</instance>
+<instance>
+<ID>C3D9B96D-06A2-4990-86CA-842574A6762D</ID>
+<code>AMS BS1</code>
+<start>557.8000987209999</start>
+<end>588.600083441</end>
+</instance>
+<instance>
+<ID>0A39B00A-4A01-470F-83F2-BE922B9E5FDE</ID>
+<code>AMS BS1</code>
+<start>722.9033832849999</start>
+<end>731.700153642</end>
+</instance>
+<instance>
+<ID>C9183AD7-4661-46CA-B736-DA51BBC21D00</ID>
+<code>AMS BS1</code>
+<start>1711.200073146</start>
+<end>1741.400074187</end>
+</instance>
+<instance>
+<ID>97F6A38A-76BB-495C-B336-6E1AEC5A700F</ID>
+<code>AMS BS1</code>
+<start>1802.602954909</start>
+<end>1838.006131986</end>
+</instance>
+<instance>
+<ID>2E1FB439-2F19-4365-A278-D793B7089821</ID>
+<code>AMS BS1</code>
+<start>2088.9022879410004</start>
+<end>2119.704664358</end>
+</instance>
+<instance>
+<ID>EA9EC41A-8458-4842-B949-E2069F1DF007</ID>
+<code>AMS BS1</code>
+<start>2683.4000733330004</start>
+<end>2701.201962916</end>
+</instance>
+<instance>
+<ID>39977A8A-22CF-4DA7-950B-4E92524F2806</ID>
+<code>AMS BS1</code>
+<start>3045.5002068940003</start>
+<end>3055.400126824</end>
+</instance>
+<instance>
+<ID>4E5DA6D6-2897-4F3D-8CAB-059CCBAFEDF9</ID>
+<code>AMS BS1</code>
+<start>3526.6001554150002</start>
+<end>3552.700092661</end>
+</instance>
+<instance>
+<ID>93339C18-2D5E-41E7-BDC9-A525EE95C6DC</ID>
+<code>AMS BS1</code>
+<start>3640.000664693</start>
+<end>3652.200231539</end>
+</instance>
+<instance>
+<ID>CFE10020-60C6-49D2-8528-F3BC3627CEFA</ID>
+<code>AMS BS1</code>
+<start>4143.900114522</start>
+<end>4160.200054271</end>
+</instance>
+<instance>
+<ID>E07B46D7-84EF-4A84-A30C-EE7A70675615</ID>
+<code>AMS BS1</code>
+<start>4180.700114911</start>
+<end>4200.600068874</end>
+</instance>
+<instance>
+<ID>3B5E2B7E-D8D2-49B9-BB9D-C6AA3EACAE52</ID>
+<code>AMS BS2</code>
+<start>945.800138759</start>
+<end>966.70007579</end>
+</instance>
+<instance>
+<ID>D14FCB5D-F25A-4A73-A7BD-3D2BAD09DE37</ID>
+<code>AMS BS2</code>
+<start>991.600063528</start>
+<end>1003.600074914</end>
+</instance>
+<instance>
+<ID>A29B8EA5-BEBF-48C7-A5B8-8625980E5130</ID>
+<code>AMS BS2</code>
+<start>1219.8000969519999</start>
+<end>1246.602886374</end>
+</instance>
+<instance>
+<ID>8E7C474F-C89D-4A3E-B657-55E788CEE2E4</ID>
+<code>AMS BS2</code>
+<start>1481.000100605</start>
+<end>1494.400071367</end>
+</instance>
+<instance>
+<ID>8B1ABD84-5EE4-479D-B9DB-06EEE62DB219</ID>
+<code>AMS BS2</code>
+<start>1642.50007611</start>
+<end>1679.200042485</end>
+</instance>
+<instance>
+<ID>823ECFE0-2944-47D3-9187-FEAFFE68541B</ID>
+<code>AMS BS2</code>
+<start>2253.800161788</start>
+<end>2266.90008884</end>
+</instance>
+<instance>
+<ID>BEDC81B4-58B0-44E9-94C3-4994949F9326</ID>
+<code>AMS BS2</code>
+<start>2571.800147598</start>
+<end>2604.000046625</end>
+</instance>
+<instance>
+<ID>97D683B8-77EB-4C10-9A5E-CAC46B00FB94</ID>
+<code>AMS BS2</code>
+<start>2698.200098541</start>
+<end>2717.100096125</end>
+</instance>
+<instance>
+<ID>42F9CEC2-2CBF-4D72-8F0D-069489A7F4A5</ID>
+<code>AMS BS2</code>
+<start>3052.4001117400003</start>
+<end>3063.900090156</end>
+</instance>
+<instance>
+<ID>AAA257BD-5A82-4D5E-84B8-04027EE0C1D7</ID>
+<code>AMS BS2</code>
+<start>3172.300107247</start>
+<end>3196.90006763</end>
+</instance>
+<instance>
+<ID>E519448B-1284-4E07-8FF2-7C34FE9B501D</ID>
+<code>AMS BS2</code>
+<start>3381.70006984</start>
+<end>3428.500098304</end>
+</instance>
+<instance>
+<ID>D3785AD8-6360-463D-AA86-86D8D0018E8E</ID>
+<code>AMS BS2</code>
+<start>3649.200049164</start>
+<end>3657.000106096</end>
+</instance>
+<instance>
+<ID>DF895802-BBB0-45FC-A933-27DD3AA984AF</ID>
+<code>AMS BS2</code>
+<start>3692.102311555</start>
+<end>3724.900088846</end>
+</instance>
+<instance>
+<ID>128951E9-7C30-4FC8-B08E-8DB14D22A1FE</ID>
+<code>AMS BS3</code>
+<start>425.30021196900003</start>
+<end>431.400113936</end>
+</instance>
+<instance>
+<ID>278C6388-75D3-49D4-945E-5A221870408D</ID>
+<code>AMS BS3</code>
+<start>613.3000933149999</start>
+<end>625.700169992</end>
+</instance>
+<instance>
+<ID>357FA5AB-3C61-4525-AB09-22046162E16E</ID>
+<code>AMS BS3</code>
+<start>728.700050766</start>
+<end>737.600236104</end>
+</instance>
+<instance>
+<ID>5949B086-AB6B-4031-8DE0-87578C7A4E43</ID>
+<code>AMS BS3</code>
+<start>752.2001013629999</start>
+<end>784.000174736</end>
+</instance>
+<instance>
+<ID>FA15D965-13FB-47FA-A303-BD2D59C694F1</ID>
+<code>AMS BS3</code>
+<start>963.700048748</start>
+<end>974.90008254</end>
+</instance>
+<instance>
+<ID>95E77045-F048-48C6-BCF5-91C15145BC58</ID>
+<code>AMS BS3</code>
+<start>1000.6002504979999</start>
+<end>1028.500133208</end>
+</instance>
+<instance>
+<ID>58008B18-CAC5-4E2F-946C-AA3B35FD3E7E</ID>
+<code>AMS BS3</code>
+<start>1243.601149706</start>
+<end>1277.900112797</end>
+</instance>
+<instance>
+<ID>9F5D9327-C27A-4E7E-BF6E-8E4306F9FC73</ID>
+<code>AMS BS3</code>
+<start>1358.901585369</start>
+<end>1385.400071154</end>
+</instance>
+<instance>
+<ID>204C27DB-ECA3-4B38-9B8B-70269E4F2C89</ID>
+<code>AMS BS3</code>
+<start>1421.2000752449999</start>
+<end>1445.400087356</end>
+</instance>
+<instance>
+<ID>8E806CD0-15DF-4B17-8343-ACA5F758D1D4</ID>
+<code>AMS BS3</code>
+<start>1449.300124189</start>
+<end>1484.000149814</end>
+</instance>
+<instance>
+<ID>2831FE70-46E8-4215-BAAD-2E4C20310E68</ID>
+<code>AMS BS3</code>
+<start>2116.701002275</start>
+<end>2156.800508733</end>
+</instance>
+<instance>
+<ID>90831121-4409-40E7-A306-742A71520882</ID>
+<code>AMS BS3</code>
+<start>2388.1030535110003</start>
+<end>2393.800073076</end>
+</instance>
+<instance>
+<ID>3B0EF3CD-ACAD-4B6B-81EF-75DB6B187B60</ID>
+<code>AMS BS3</code>
+<start>2714.100076167</start>
+<end>2733.500182132</end>
+</instance>
+<instance>
+<ID>276E3AAD-0203-4007-86DC-57B3BEA8F7F6</ID>
+<code>AMS BS3</code>
+<start>2780.400108712</start>
+<end>2804.400046493</end>
+</instance>
+<instance>
+<ID>7783DDBB-D37B-41BF-AAF4-971C22B8D8E7</ID>
+<code>AMS BS3</code>
+<start>2896.5003485730003</start>
+<end>2914.808379097</end>
+</instance>
+<instance>
+<ID>0A9A1009-9A72-4431-80D5-BD2560D5EC28</ID>
+<code>AMS BS3</code>
+<start>2921.200087535</start>
+<end>2928.800116143</end>
+</instance>
+<instance>
+<ID>61D9EA51-B991-4DED-8526-88A2E710370D</ID>
+<code>AMS BS3</code>
+<start>3060.900095365</start>
+<end>3084.700129264</end>
+</instance>
+<instance>
+<ID>F702A07B-EA86-48D2-AF9B-9FE3F13DAB63</ID>
+<code>AMS BS3</code>
+<start>3123.000481949</start>
+<end>3136.60841671</end>
+</instance>
+<instance>
+<ID>AA1697B5-C15A-4AA0-8DD4-26063AF7E594</ID>
+<code>AMS BS3</code>
+<start>3217.900239692</start>
+<end>3255.200075379</end>
+</instance>
+<instance>
+<ID>AB7921F6-6192-47C0-B242-52896025F364</ID>
+<code>AMS BS3</code>
+<start>3572.600066505</start>
+<end>3579.500254837</end>
+</instance>
+<instance>
+<ID>79C4E34A-5144-4837-B7A1-07CD34DF1684</ID>
+<code>AMS BS3</code>
+<start>3721.9000948880002</start>
+<end>3734.900114337</end>
+</instance>
+<instance>
+<ID>3B40C674-21F9-4F7D-A8CD-95247E3CB95C</ID>
+<code>AMS BS3</code>
+<start>3892.2001225080003</start>
+<end>3910.500066853</end>
+</instance>
+<instance>
+<ID>4802DEE8-C494-4CFC-BBAE-2BD73E9FB3EC</ID>
+<code>AMS BS4</code>
+<start>109.200071072</start>
+<end>117.600110414</end>
+</instance>
+<instance>
+<ID>C3E71CB1-64A1-4BA4-95B9-3450C54B4DFC</ID>
+<code>AMS BS4</code>
+<start>227.30014870000002</start>
+<end>248.900091389</end>
+</instance>
+<instance>
+<ID>9474AF89-EA18-484F-9E66-CB397410CACE</ID>
+<code>AMS BS4</code>
+<start>1382.4001070289999</start>
+<end>1391.900114939</end>
+</instance>
+<instance>
+<ID>F644F2DA-1FB1-427F-9265-BD0E816BE306</ID>
+<code>AMS BS4</code>
+<start>2451.600114453</start>
+<end>2484.30009527</end>
+</instance>
+<instance>
+<ID>D631D8EF-B4A4-44A9-A359-5696237ADBDC</ID>
+<code>AMS BS4</code>
+<start>2601.0000990420003</start>
+<end>2607.100083855</end>
+</instance>
+<instance>
+<ID>FD7ED292-C14F-4D25-8B5D-2C171E74C4D9</ID>
+<code>AMS BS4</code>
+<start>3193.900102005</start>
+<end>3200.900140755</end>
+</instance>
+<instance>
+<ID>799236D2-129E-48D4-8331-83EB7134CECE</ID>
+<code>AMS BS4</code>
+<start>3840.800086409</start>
+<end>3849.800090977</end>
+</instance>
+<instance>
+<ID>7B73FFC5-B0AA-4C11-9F4A-025EFD5F13DA</ID>
+<code>AMS BS5</code>
+<start>585.600049691</start>
+<end>603.900113049</end>
+</instance>
+<instance>
+<ID>12BD142B-A662-4E23-AD39-5D2965B172B9</ID>
+<code>AMS BS5</code>
+<start>1835.004164402</start>
+<end>1841.300069005</end>
+</instance>
+<instance>
+<ID>60B9FF5D-72B8-4C41-B134-5531FE99E994</ID>
+<code>AMS BS5</code>
+<start>2737.5000768920004</start>
+<end>2783.400052463</end>
+</instance>
+<instance>
+<ID>42DED0F4-7926-4DB4-9E3E-2C947F9463CB</ID>
+<code>AMS BS5</code>
+<start>2937.200086113</start>
+<end>2942.201453708</end>
+</instance>
+<instance>
+<ID>3315A5BD-1B39-4636-A599-3852014DAADA</ID>
+<code>AMS BS5</code>
+<start>3081.701042097</start>
+<end>3126.000119157</end>
+</instance>
+<instance>
+<ID>BAC15426-7F83-404A-A6EA-F729F70F358B</ID>
+<code>AMS BS5</code>
+<start>3907.500171146</start>
+<end>3924.301587171</end>
+</instance>
+<instance>
+<ID>5DA960FF-ECB6-4DE3-96CE-D97D6C304D5F</ID>
+<code>AMS BS5</code>
+<start>3985.1002086390004</start>
+<end>4017.403231557</end>
+</instance>
+<instance>
+<ID>AD0D8CC3-080F-487D-8D82-7AE3DA1B4672</ID>
+<code>AMS BS5</code>
+<start>4087.2001090910003</start>
+<end>4102.00008534</end>
+</instance>
+<instance>
+<ID>A86C7780-2D1C-40A0-806D-479E951F979E</ID>
+<code>AMS BS5</code>
+<start>4212.200053624</start>
+<end>4220.600088495</end>
+</instance>
+<instance>
+<ID>7B0BBC67-4F40-4956-A001-64A6F794278D</ID>
+<code>AMS BW0</code>
+<start>38.700065908999996</start>
+<end>46.500144955</end>
+</instance>
+<instance>
+<ID>B5E869C8-EC19-4099-9CAF-99D7B4A942A1</ID>
+<code>AMS BW0</code>
+<start>451.100137039</start>
+<end>463.900127177</end>
+</instance>
+<instance>
+<ID>03B061CA-93C6-4C86-8A66-58FD8D17F231</ID>
+<code>AMS BW0</code>
+<start>909.6000476969999</start>
+<end>920.700209798</end>
+</instance>
+<instance>
+<ID>23D41A21-B7CB-44C2-9003-7B86DF8967E8</ID>
+<code>AMS BW0</code>
+<start>982.100081363</start>
+<end>994.600098945</end>
+</instance>
+<instance>
+<ID>63271D3B-6611-4A74-AEB2-00A82E637273</ID>
+<code>AMS BW0</code>
+<start>2215.300111197</start>
+<end>2228.204499135</end>
+</instance>
+<instance>
+<ID>067AF8E5-EDA6-4295-A850-DC20F288B161</ID>
+<code>AMS BW0</code>
+<start>2238.9001503580002</start>
+<end>2252.300130124</end>
+</instance>
+<instance>
+<ID>8B415B7C-4A01-430D-ABF2-0FD5F9FC971B</ID>
+<code>AMS BW0</code>
+<start>3808.705629244</start>
+<end>3825.100144964</end>
+</instance>
+<instance>
+<ID>C22FE17E-BBF5-4784-9EA8-055F28BF83EC</ID>
+<code>AMS BW1</code>
+<start>260.100097238</start>
+<end>265.002160831</end>
+</instance>
+<instance>
+<ID>49C5A033-43F0-435A-BF7F-C6A90F3DC1D8</ID>
+<code>AMS BW1</code>
+<start>441.701126025</start>
+<end>452.700113574</end>
+</instance>
+<instance>
+<ID>B19FEA81-E53F-4CC7-9B07-6C25496728DE</ID>
+<code>AMS BW1</code>
+<start>631.900098526</start>
+<end>665.000069767</end>
+</instance>
+<instance>
+<ID>65DFCD49-D05B-40C2-A33E-F408A775159D</ID>
+<code>AMS BW1</code>
+<start>704.500123553</start>
+<end>709.900111438</end>
+</instance>
+<instance>
+<ID>D32FCFFB-1A9F-4B2E-9416-F615407AC2BB</ID>
+<code>AMS BW1</code>
+<start>935.7000851759999</start>
+<end>948.800157175</end>
+</instance>
+<instance>
+<ID>77C5544F-BC9E-48EC-BC98-9AFD945001B3</ID>
+<code>AMS BW1</code>
+<start>1204.3001452859999</start>
+<end>1222.80008091</end>
+</instance>
+<instance>
+<ID>34F4C221-36ED-4C06-9DEF-53A7166EDD13</ID>
+<code>AMS BW1</code>
+<start>1320.400071571</start>
+<end>1350.302835535</end>
+</instance>
+<instance>
+<ID>DBD07D2C-E3C2-43F2-9AAC-D6A471AAADC0</ID>
+<code>AMS BW1</code>
+<start>1533.200065875</start>
+<end>1582.100113464</end>
+</instance>
+<instance>
+<ID>02B0BD7B-8001-422F-A6B4-2CF4090EB012</ID>
+<code>AMS BW1</code>
+<start>1625.4000970089999</start>
+<end>1645.500159694</end>
+</instance>
+<instance>
+<ID>378D23B5-B495-4AA2-8436-C0E505AE823B</ID>
+<code>AMS BW1</code>
+<start>2178.3000712750004</start>
+<end>2185.200074123</end>
+</instance>
+<instance>
+<ID>DC62EF24-3E83-4AC9-BB04-A82C49BADA3F</ID>
+<code>AMS BW1</code>
+<start>2650.7022490550003</start>
+<end>2663.402674347</end>
+</instance>
+<instance>
+<ID>E86656E3-D169-4C46-8AF4-29C493564CC8</ID>
+<code>AMS BW1</code>
+<start>3030.8019535340004</start>
+<end>3048.500190894</end>
+</instance>
+<instance>
+<ID>52FF34F6-B87F-44D7-90C3-0025A552A746</ID>
+<code>AMS BW1</code>
+<start>4123.900072268</start>
+<end>4131.500106797</end>
+</instance>
+<instance>
+<ID>95FBDD9F-D981-4F39-B02B-8C8C7CDECDD9</ID>
+<code>AMS BW2</code>
+<start>55.000079582</start>
+<end>61.100056294</end>
+</instance>
+<instance>
+<ID>4D8B6144-6950-4E53-B4B1-4D4CFFF0665C</ID>
+<code>AMS BW2</code>
+<start>690.300138361</start>
+<end>697.100097081</end>
+</instance>
+<instance>
+<ID>AF60CD94-FFFA-47E2-A333-5474A8B7051A</ID>
+<code>AMS BW2</code>
+<start>817.800210444</start>
+<end>837.500261313</end>
+</instance>
+<instance>
+<ID>EF50F320-A700-482F-9FC3-6BAD7A611503</ID>
+<code>AMS BW2</code>
+<start>2303.2000879</start>
+<end>2313.900098886</end>
+</instance>
+<instance>
+<ID>17205C13-DBA7-4E13-8CEA-BB363FE8EFEE</ID>
+<code>AMS BW2</code>
+<start>3157.300973068</start>
+<end>3164.300107998</end>
+</instance>
+<instance>
+<ID>F93854DB-2DBB-4F30-9430-DDFD5E4A646D</ID>
+<code>AMS BW2</code>
+<start>3446.20007678</start>
+<end>3453.206677667</end>
+</instance>
+<instance>
+<ID>44FF4F6E-49CD-425B-81F8-0CC552901E9E</ID>
+<code>AMS BW2</code>
+<start>3468.2000799360003</start>
+<end>3489.000088448</end>
+</instance>
+<instance>
+<ID>A52BBCDD-5E1E-4C7B-9E61-83DE0ECD7F07</ID>
+<code>AMS BW2</code>
+<start>3877.700117757</start>
+<end>3895.300153883</end>
+</instance>
+<instance>
+<ID>C87A55B0-0DCC-49C9-A69C-8F295DEEE1AE</ID>
+<code>AMS BW2</code>
+<start>3930.9004328230003</start>
+<end>3966.400043639</end>
+</instance>
+<instance>
+<ID>D21F9D59-7460-4368-89A0-387242ACA042</ID>
+<code>AMS BW3</code>
+<start>130.000092555</start>
+<end>147.600078101</end>
+</instance>
+<instance>
+<ID>492870E4-01FD-4A6E-A93E-AA6C5FCE8175</ID>
+<code>AMS BW3</code>
+<start>1027.900100349</start>
+<end>1036.509301395</end>
+</instance>
+<instance>
+<ID>EFBF15A3-2640-485F-B133-4DF0874DC652</ID>
+<code>AMS BW3</code>
+<start>1400.700103811</start>
+<end>1424.200163203</end>
+</instance>
+<instance>
+<ID>4E1D7B8F-1FFF-4DEC-AE68-8862E1D1594D</ID>
+<code>AMS BW3</code>
+<start>1582.400094082</start>
+<end>1589.900111892</end>
+</instance>
+<instance>
+<ID>F0263513-CE47-431B-BDFC-E036B11A359D</ID>
+<code>AMS BW3</code>
+<start>2377.6000966680003</start>
+<end>2391.103727678</end>
+</instance>
+<instance>
+<ID>D7455A04-783B-4862-A232-6552F6210EDC</ID>
+<code>AMS BW3</code>
+<start>2817.200152615</start>
+<end>2856.500063173</end>
+</instance>
+<instance>
+<ID>52B98F2E-AF00-4FA0-9A6C-79F89778D47E</ID>
+<code>AMS BW3</code>
+<start>2914.4002054800003</start>
+<end>2924.200153201</end>
+</instance>
+<instance>
+<ID>ABC6319B-E776-4DFF-9652-5BF2299322B8</ID>
+<code>AMS BW3</code>
+<start>3208.6005559</start>
+<end>3220.90007965</end>
+</instance>
+<instance>
+<ID>E38C72F5-DE65-41AB-8911-3867FDD6596B</ID>
+<code>AMS BW3</code>
+<start>4020.900163306</start>
+<end>4029.403888485</end>
+</instance>
+<instance>
+<ID>5A597B8D-F342-41EB-A2A2-E36CD66E685C</ID>
+<code>AMS BW3</code>
+<start>4238.800108095</start>
+<end>4257.338333333333</end>
+</instance>
+<instance>
+<ID>0C16746D-B018-471A-8897-9FF20C8FBCEA</ID>
+<code>AMS BW4</code>
+<start>214.50006818900002</start>
+<end>230.300109368</end>
+</instance>
+<instance>
+<ID>185AF02F-1329-47D0-A517-D3FCE2D45C78</ID>
+<code>AMS BW4</code>
+<start>738.9004309879999</start>
+<end>755.20016053</end>
+</instance>
+<instance>
+<ID>A438AE83-94D6-48F8-A1B7-208624001B6C</ID>
+<code>AMS BW4</code>
+<start>1492.800260929</start>
+<end>1499.607483281</end>
+</instance>
+<instance>
+<ID>1011F63C-8B4B-420F-943D-63CBEBE4D3F2</ID>
+<code>AMS BW5</code>
+<start>1839.700067983</start>
+<end>1873.100096072</end>
+</instance>
+<instance>
+<ID>7AB0BF0C-814E-4E10-AF3C-12DE03CC27B8</ID>
+<code>AMS BW5</code>
+<start>2315.9001195600003</start>
+<end>2345.10007511</end>
+</instance>
+<instance>
+<ID>BF94AC49-DD23-454B-8511-B9D1515DFE14</ID>
+<code>AMS BW5</code>
+<start>2484.6001514500003</start>
+<end>2489.900089826</end>
+</instance>
+<instance>
+<ID>B0572228-9D67-4E6E-A7C4-993F44AB5425</ID>
+<code>AMS BW5</code>
+<start>2733.1000765870003</start>
+<end>2740.500277559</end>
+</instance>
+<instance>
+<ID>874F6680-3778-4ADF-8C4F-D6FD4BDA5A60</ID>
+<code>AMS BW5</code>
+<start>2947.500063595</start>
+<end>2957.900049034</end>
+</instance>
+<instance>
+<ID>177B4D32-8537-49B0-908E-46CFC7330D54</ID>
+<code>AMS BW5</code>
+<start>3428.800105358</start>
+<end>3436.700092009</end>
+</instance>
+<instance>
+<ID>F1681734-F1FA-4F8B-B371-2F490DC89898</ID>
+<code>AMS BW5</code>
+<start>3823.900538103</start>
+<end>3829.600052591</end>
+</instance>
+<instance>
+<ID>459E5CAB-7463-46E4-97F7-EE69C1A98A63</ID>
+<code>AMS Cirkel Entry</code>
+<start>90.000104145</start>
+<end>116.100291456</end>
+</instance>
+<instance>
+<ID>6A849073-CFE0-4777-A91B-7ECB61A79B16</ID>
+<code>AMS Cirkel Entry</code>
+<start>208.000057314</start>
+<end>222.000057314</end>
+</instance>
+<instance>
+<ID>48122537-C7F4-4A71-A551-55E50914DF80</ID>
+<code>AMS Cirkel Entry</code>
+<start>641.100098893</start>
+<end>655.100098893</end>
+</instance>
+<instance>
+<ID>A9A37DCA-D7C8-4688-A05E-37A413E2A0D6</ID>
+<code>AMS Cirkel Entry</code>
+<start>725.5000917159999</start>
+<end>739.5000917159999</end>
+</instance>
+<instance>
+<ID>6C9DAF3F-AE0F-420B-8270-BC4A85050884</ID>
+<code>AMS Cirkel Entry</code>
+<start>770.0019961419999</start>
+<end>784.0019961419999</end>
+</instance>
+<instance>
+<ID>BB27D4CE-12FE-4F5A-91BE-21CB30240948</ID>
+<code>AMS Cirkel Entry</code>
+<start>997.400066401</start>
+<end>1011.400066401</end>
+</instance>
+<instance>
+<ID>109895EA-0CEC-4A4B-A0BD-3C68283E9581</ID>
+<code>AMS Cirkel Entry</code>
+<start>1022.506210687</start>
+<end>1036.506210687</end>
+</instance>
+<instance>
+<ID>4ECD2959-3A9F-4F91-9ECF-563DC954574A</ID>
+<code>AMS Cirkel Entry</code>
+<start>1262.300223401</start>
+<end>1276.300223401</end>
+</instance>
+<instance>
+<ID>246A88C9-A811-435C-A98F-1FC0D782F977</ID>
+<code>AMS Cirkel Entry</code>
+<start>1324.500047798</start>
+<end>1338.500047798</end>
+</instance>
+<instance>
+<ID>FF38EE68-4BAA-43FF-BCF4-465D5BD97DF0</ID>
+<code>AMS Cirkel Entry</code>
+<start>1360.10009737</start>
+<end>1374.10009737</end>
+</instance>
+<instance>
+<ID>3AD74571-54CB-4478-9492-676DD17FAECF</ID>
+<code>AMS Cirkel Entry</code>
+<start>1397.600069372</start>
+<end>1411.600069372</end>
+</instance>
+<instance>
+<ID>B9FFCDD2-7670-49B5-836D-8BD2B2462DAD</ID>
+<code>AMS Cirkel Entry</code>
+<start>1431.90009123</start>
+<end>1445.400087356</end>
+</instance>
+<instance>
+<ID>5D1161AE-E5FD-4B0A-91BF-8EAB70953C04</ID>
+<code>AMS Cirkel Entry</code>
+<start>1478.90010585</start>
+<end>1492.90010585</end>
+</instance>
+<instance>
+<ID>D10F7467-B10F-487D-B305-A77441916450</ID>
+<code>AMS Cirkel Entry</code>
+<start>1803.6000579239999</start>
+<end>1817.6000579239999</end>
+</instance>
+<instance>
+<ID>9AA654D4-2CF8-43A0-A2D3-CA7E063EEE00</ID>
+<code>AMS Cirkel Entry</code>
+<start>1859.3001894889999</start>
+<end>1873.100096072</end>
+</instance>
+<instance>
+<ID>1B583D5D-8E8F-4E8C-AADF-A39DB5E7EBB3</ID>
+<code>AMS Cirkel Entry</code>
+<start>2128.4000948890002</start>
+<end>2142.4000948890002</end>
+</instance>
+<instance>
+<ID>772D9773-7A10-4ACC-B682-7540B6003F85</ID>
+<code>AMS Cirkel Entry</code>
+<start>2380.9000893270004</start>
+<end>2393.800073076</end>
+</instance>
+<instance>
+<ID>F8F75F46-4926-4F77-A2F5-62C358AF4896</ID>
+<code>AMS Cirkel Entry</code>
+<start>2468.1000421040003</start>
+<end>2482.1000421040003</end>
+</instance>
+<instance>
+<ID>3F5C2DE4-56E6-4689-97B5-1640E256836E</ID>
+<code>AMS Cirkel Entry</code>
+<start>2575.300140667</start>
+<end>2589.300140667</end>
+</instance>
+<instance>
+<ID>22952A7A-0B8C-495A-8D07-C548EB17CA4B</ID>
+<code>AMS Cirkel Entry</code>
+<start>2777.000094027</start>
+<end>2791.000094027</end>
+</instance>
+<instance>
+<ID>D3905369-CA8F-4E2F-8D5B-720E1154E137</ID>
+<code>AMS Cirkel Entry</code>
+<start>2818.600049568</start>
+<end>2832.600049568</end>
+</instance>
+<instance>
+<ID>849FFB57-C724-474D-836E-4129C4D8DCFB</ID>
+<code>AMS Cirkel Entry</code>
+<start>2916.200114962</start>
+<end>2930.200114962</end>
+</instance>
+<instance>
+<ID>67C3DA5D-7709-401A-AD74-0E672348974E</ID>
+<code>AMS Cirkel Entry</code>
+<start>2943.8001417</start>
+<end>2957.8001417</end>
+</instance>
+<instance>
+<ID>12F7E6D1-8840-4B3B-B751-6625C513D16A</ID>
+<code>AMS Cirkel Entry</code>
+<start>3088.000105039</start>
+<end>3113.4002004820004</end>
+</instance>
+<instance>
+<ID>EB597660-0D21-494F-ADE9-344C73F689C1</ID>
+<code>AMS Cirkel Entry</code>
+<start>3173.000066353</start>
+<end>3187.000066353</end>
+</instance>
+<instance>
+<ID>7532CA19-CEE6-4A5C-A27F-47155D4D28A9</ID>
+<code>AMS Cirkel Entry</code>
+<start>3187.1019717860004</start>
+<end>3201.1019717860004</end>
+</instance>
+<instance>
+<ID>AF922919-8172-4B31-AA6F-203D819CCC62</ID>
+<code>AMS Cirkel Entry</code>
+<start>3228.2000896600002</start>
+<end>3242.2000896600002</end>
+</instance>
+<instance>
+<ID>CDB8FAB3-BE55-4FB1-9670-BB46907F0C3A</ID>
+<code>AMS Cirkel Entry</code>
+<start>3532.000163856</start>
+<end>3546.000163856</end>
+</instance>
+<instance>
+<ID>230D2907-8686-46D8-B0A7-36CDA739651B</ID>
+<code>AMS Cirkel Entry</code>
+<start>3565.000572282</start>
+<end>3579.000572282</end>
+</instance>
+<instance>
+<ID>D40C4AE1-DB66-4F2B-AF4C-7496C5C29B44</ID>
+<code>AMS Cirkel Entry</code>
+<start>3815.300124034</start>
+<end>3829.300124034</end>
+</instance>
+<instance>
+<ID>C698EC6B-1928-4EE4-81E1-D47F870297B4</ID>
+<code>AMS Cirkel Entry</code>
+<start>3835.8002944200002</start>
+<end>3849.8002944200002</end>
+</instance>
+<instance>
+<ID>D7EF6AF9-8277-4DEE-9E9A-060CF6E89896</ID>
+<code>AMS Cirkel Entry</code>
+<start>3951.5001989730004</start>
+<end>3965.5001989730004</end>
+</instance>
+<instance>
+<ID>924D99B2-D35B-43BF-8E88-50DC6298FCC3</ID>
+<code>AMS Cirkel Entry</code>
+<start>3992.9040601260003</start>
+<end>4006.9040601260003</end>
+</instance>
+<instance>
+<ID>ECE7921F-834A-4135-A7BC-D423F0767DFB</ID>
+<code>AMS Cirkel Entry</code>
+<start>4080.90004709</start>
+<end>4094.90004709</end>
+</instance>
+<instance>
+<ID>45A00915-1761-4C92-BE68-3FC42E30B292</ID>
+<code>AMS Cirkel Entry</code>
+<start>4186.900068151001</start>
+<end>4200.900068151001</end>
+</instance>
+<instance>
+<ID>B6D66673-A9DE-4C48-BC3D-901637AD42CA</ID>
+<code>AMS Cirkel Entry</code>
+<start>4207.100060136</start>
+<end>4221.100060136</end>
+</instance>
+<instance>
+<ID>118D0E47-F2C6-401F-B1B9-C3497F9D05AD</ID>
+<code>AMS Cirkel Entry</code>
+<start>4233.000577588</start>
+<end>4247.000577588</end>
+</instance>
+<instance>
+<ID>88C2549C-91C4-47E8-AE4E-48906EA9A36B</ID>
+<code>AMS Goal</code>
+<start>772.000145611</start>
+<end>789.000145611</end>
+</instance>
+<instance>
+<ID>3DE0007B-0655-4DEE-882A-780B5771FAF0</ID>
+<code>AMS Goal</code>
+<start>1265.900555838</start>
+<end>1282.900555838</end>
+</instance>
+<instance>
+<ID>066047FE-62DB-4F2E-8646-2F37E4274BB5</ID>
+<code>AMS Goal</code>
+<start>1964.300122464</start>
+<end>1981.300122464</end>
+</instance>
+<instance>
+<ID>B1054C5C-DC17-483E-9D01-AF858F9BE541</ID>
+<code>AMS Lange Corner</code>
+<start>103.400126566</start>
+<end>110.79005323199999</end>
+</instance>
+<instance>
+<ID>50A11BC5-C907-4874-AAC4-F5F2B5EA1C16</ID>
+<code>AMS Lange Corner</code>
+<start>110.800053232</start>
+<end>120.800053232</end>
+</instance>
+<instance>
+<ID>CB90DCBE-CCB7-4773-88FB-E172C3325037</ID>
+<code>AMS Lange Corner</code>
+<start>221.900052112</start>
+<end>233.900052112</end>
+</instance>
+<instance>
+<ID>E2CEDFFA-B7F3-4391-8502-330A8D4BF068</ID>
+<code>AMS Lange Corner</code>
+<start>747.000084696</start>
+<end>759.000084696</end>
+</instance>
+<instance>
+<ID>41E782C4-D657-4354-A551-9BCFC8D4B104</ID>
+<code>AMS Lange Corner</code>
+<start>1242.300068898</start>
+<end>1254.300068898</end>
+</instance>
+<instance>
+<ID>DFE3F1DC-F489-4A3D-9894-803143A3EDD0</ID>
+<code>AMS Lange Corner</code>
+<start>1371.400099453</start>
+<end>1383.400099453</end>
+</instance>
+<instance>
+<ID>2DBA1041-FE20-420F-9144-05FCBD2361B8</ID>
+<code>AMS Lange Corner</code>
+<start>1411.100107142</start>
+<end>1423.100107142</end>
+</instance>
+<instance>
+<ID>BE250C8B-B602-4CC8-B146-67C387704912</ID>
+<code>AMS Lange Corner</code>
+<start>1821.800063736</start>
+<end>1833.800063736</end>
+</instance>
+<instance>
+<ID>FD5743BE-705A-425F-9B00-DAD32BD2AB69</ID>
+<code>AMS Lange Corner</code>
+<start>2467.500091422</start>
+<end>2485.400076293</end>
+</instance>
+<instance>
+<ID>CB54FD7B-3356-44EF-8979-6CC2EE9ABCCC</ID>
+<code>AMS Lange Corner</code>
+<start>2592.300095792</start>
+<end>2604.300095792</end>
+</instance>
+<instance>
+<ID>3369C127-4381-4230-BE5B-2DAFD6950BC3</ID>
+<code>AMS Lange Corner</code>
+<start>3113.500251315</start>
+<end>3125.500251315</end>
+</instance>
+<instance>
+<ID>98FE49E9-59B9-4CC8-997D-356534BD7470</ID>
+<code>AMS Lange Corner</code>
+<start>3189.5001247</start>
+<end>3201.5001247</end>
+</instance>
+<instance>
+<ID>246C5076-8986-47FF-867A-55D7CD140AA8</ID>
+<code>AMS Possession</code>
+<start>41.700108409</start>
+<end>46.500144955</end>
+</instance>
+<instance>
+<ID>5F7DC46A-998D-4C61-817C-CABB5993AF8F</ID>
+<code>AMS Possession</code>
+<start>58.000093707</start>
+<end>61.100056294</end>
+</instance>
+<instance>
+<ID>72C112AF-3518-4098-93D8-343F4F7E1C70</ID>
+<code>AMS Possession</code>
+<start>86.500174056</start>
+<end>117.600110414</end>
+</instance>
+<instance>
+<ID>F082F13B-4102-44A0-A65F-463F6258AA77</ID>
+<code>AMS Possession</code>
+<start>133.00017168</start>
+<end>147.600078101</end>
+</instance>
+<instance>
+<ID>90CFC9AC-84EE-47F7-B452-C010441859E2</ID>
+<code>AMS Possession</code>
+<start>187.700145877</start>
+<end>209.000203132</end>
+</instance>
+<instance>
+<ID>727C12BA-835C-4F47-9A62-03570185B44F</ID>
+<code>AMS Possession</code>
+<start>217.600112856</start>
+<end>248.900091389</end>
+</instance>
+<instance>
+<ID>971524F4-F974-4B40-A4EB-6A1EF30D477E</ID>
+<code>AMS Possession</code>
+<start>263.100069904</start>
+<end>265.002160831</end>
+</instance>
+<instance>
+<ID>DE85922B-A51C-4A3C-AFB5-CAD928F28E87</ID>
+<code>AMS Possession</code>
+<start>405.700082574</start>
+<end>431.400113936</end>
+</instance>
+<instance>
+<ID>2400DA46-BC85-4721-A6E1-A8BE76E352AA</ID>
+<code>AMS Possession</code>
+<start>444.700070609</start>
+<end>452.700113574</end>
+</instance>
+<instance>
+<ID>6A8623B8-ABC2-46AF-A84A-6053A0F26382</ID>
+<code>AMS Possession</code>
+<start>454.100185831</start>
+<end>463.900127177</end>
+</instance>
+<instance>
+<ID>2E0F436A-4108-4212-88E8-83FE1FFBD955</ID>
+<code>AMS Possession</code>
+<start>513.800092381</start>
+<end>536.400070826</end>
+</instance>
+<instance>
+<ID>ABEFF5B5-56C7-40AD-9559-D1AF85D79717</ID>
+<code>AMS Possession</code>
+<start>560.800121304</start>
+<end>603.900113049</end>
+</instance>
+<instance>
+<ID>DE2DCE05-D8A5-4168-8AB9-BD5AC665D42E</ID>
+<code>AMS Possession</code>
+<start>616.300085733</start>
+<end>625.700169992</end>
+</instance>
+<instance>
+<ID>13EC09A4-3C8F-412F-9FAE-F0F14ADD35BB</ID>
+<code>AMS Possession</code>
+<start>634.900079276</start>
+<end>665.000069767</end>
+</instance>
+<instance>
+<ID>C1883D18-4C84-4B5C-B4C8-554AB9912B47</ID>
+<code>AMS Possession</code>
+<start>693.300479819</start>
+<end>697.100097081</end>
+</instance>
+<instance>
+<ID>E9D121F6-25F0-4235-98F8-0C815C6B3E7A</ID>
+<code>AMS Possession</code>
+<start>707.500168427</start>
+<end>709.900111438</end>
+</instance>
+<instance>
+<ID>7C0457E1-9E73-41D0-9C6A-168CDA7F8E11</ID>
+<code>AMS Possession</code>
+<start>725.905100535</start>
+<end>737.600236104</end>
+</instance>
+<instance>
+<ID>63803CA6-0315-45A7-9027-94B958D0E0AB</ID>
+<code>AMS Possession</code>
+<start>741.900078156</start>
+<end>784.000174736</end>
+</instance>
+<instance>
+<ID>3D519F84-8026-437E-B427-36A03E847D75</ID>
+<code>AMS Possession</code>
+<start>820.800093279</start>
+<end>837.500261313</end>
+</instance>
+<instance>
+<ID>40E72A52-7EDF-4526-82EA-3D4378E66CAC</ID>
+<code>AMS Possession</code>
+<start>852.900108646</start>
+<end>872.100084867</end>
+</instance>
+<instance>
+<ID>FD250546-BE4E-419B-9294-B106C4FBF957</ID>
+<code>AMS Possession</code>
+<start>912.600099322</start>
+<end>920.700209798</end>
+</instance>
+<instance>
+<ID>B60C639D-29C9-4AE7-98A2-CAAB0828930E</ID>
+<code>AMS Possession</code>
+<start>938.7000928</start>
+<end>974.90008254</end>
+</instance>
+<instance>
+<ID>775A09C2-8CB2-4C0C-A680-F73596507BCC</ID>
+<code>AMS Possession</code>
+<start>985.100129404</start>
+<end>1028.500133208</end>
+</instance>
+<instance>
+<ID>8F25A7FD-FBA7-40DA-8961-77D7D1726DE0</ID>
+<code>AMS Possession</code>
+<start>1030.900082642</start>
+<end>1036.509301395</end>
+</instance>
+<instance>
+<ID>A413B73E-95C5-4532-8AFF-478B78867FB7</ID>
+<code>AMS Possession</code>
+<start>1207.300095452</start>
+<end>1266.500227715</end>
+</instance>
+<instance>
+<ID>BD94AFC5-47DB-40D4-92CF-A87D2CCD6928</ID>
+<code>AMS Possession</code>
+<start>1268.700104567</start>
+<end>1277.900112797</end>
+</instance>
+<instance>
+<ID>E54A8113-AF6D-4A22-AE2E-38170481FAAC</ID>
+<code>AMS Possession</code>
+<start>1323.400148696</start>
+<end>1350.302835535</end>
+</instance>
+<instance>
+<ID>C39B2FE5-05E4-4BD8-A565-024342B2B759</ID>
+<code>AMS Possession</code>
+<start>1361.901180994</start>
+<end>1391.900114939</end>
+</instance>
+<instance>
+<ID>AB7BEFB7-1EB1-4685-9204-8CE465FBEA58</ID>
+<code>AMS Possession</code>
+<start>1403.700186102</start>
+<end>1445.400087356</end>
+</instance>
+<instance>
+<ID>6D59624C-EDD6-4867-9C99-6C54655506B5</ID>
+<code>AMS Possession</code>
+<start>1452.300173814</start>
+<end>1494.400071367</end>
+</instance>
+<instance>
+<ID>0A3A8268-9621-4C5A-9298-C2CB32631D06</ID>
+<code>AMS Possession</code>
+<start>1495.800098387</start>
+<end>1499.607483281</end>
+</instance>
+<instance>
+<ID>02DEEE19-B6B0-4685-BE3C-07B05DAE6CB1</ID>
+<code>AMS Possession</code>
+<start>1513.500111256</start>
+<end>1528.100098192</end>
+</instance>
+<instance>
+<ID>00E1AE7D-66E1-426A-BD09-4DFF9BBAC502</ID>
+<code>AMS Possession</code>
+<start>1536.200073792</start>
+<end>1582.100113464</end>
+</instance>
+<instance>
+<ID>4B162F8E-9EFE-4786-8B67-E96ACE0EAB1F</ID>
+<code>AMS Possession</code>
+<start>1585.402149957</start>
+<end>1589.900111892</end>
+</instance>
+<instance>
+<ID>46CE075D-8319-4D66-B376-8FEE98717870</ID>
+<code>AMS Possession</code>
+<start>1628.400107509</start>
+<end>1679.200042485</end>
+</instance>
+<instance>
+<ID>A109847A-0796-41E9-BF36-975E4B8B7D1C</ID>
+<code>AMS Possession</code>
+<start>1714.200951771</start>
+<end>1741.400074187</end>
+</instance>
+<instance>
+<ID>E14D5AA8-8B61-45BD-9087-88B0B5377CC5</ID>
+<code>AMS Possession</code>
+<start>1805.600741201</start>
+<end>1841.300069005</end>
+</instance>
+<instance>
+<ID>1D414855-9485-4EC6-A9CA-5596614A6A21</ID>
+<code>AMS Possession</code>
+<start>1842.7000834</start>
+<end>1873.100096072</end>
+</instance>
+<instance>
+<ID>DE18AB70-3E80-4406-BA2B-37051341E7D9</ID>
+<code>AMS Possession</code>
+<start>1914.700076724</start>
+<end>1920.806614905</end>
+</instance>
+<instance>
+<ID>507FC34F-94C4-4B83-AD5E-36CD8239A244</ID>
+<code>AMS Possession</code>
+<start>1937.800141133</start>
+<end>1942.100065486</end>
+</instance>
+<instance>
+<ID>F8B507A5-096D-419C-8F84-7127C25EA2F1</ID>
+<code>AMS Possession</code>
+<start>1967.800104235</start>
+<end>1976.300073881</end>
+</instance>
+<instance>
+<ID>0BC8837D-65D7-434B-B265-85CD88F433D5</ID>
+<code>AMS Possession</code>
+<start>2091.905198233</start>
+<end>2156.800508733</end>
+</instance>
+<instance>
+<ID>C14C6E9C-F970-4258-8843-3F9D24AA9644</ID>
+<code>AMS Possession</code>
+<start>2181.30006815</start>
+<end>2185.700083277</end>
+</instance>
+<instance>
+<ID>6DAF6ACE-424E-4C82-8E65-01E3691CB909</ID>
+<code>AMS Possession</code>
+<start>2218.300087072</start>
+<end>2228.204499135</end>
+</instance>
+<instance>
+<ID>08F08975-96EA-483F-9624-EF3E0D849016</ID>
+<code>AMS Possession</code>
+<start>2241.900117316</start>
+<end>2252.300130124</end>
+</instance>
+<instance>
+<ID>5AB0479B-5F6B-40AB-BAA5-435B1CCCA217</ID>
+<code>AMS Possession</code>
+<start>2256.800112454</start>
+<end>2266.90008884</end>
+</instance>
+<instance>
+<ID>0DCBD230-2F3B-4BD8-8648-BD475EB0C7B9</ID>
+<code>AMS Possession</code>
+<start>2306.200181233</start>
+<end>2313.900098886</end>
+</instance>
+<instance>
+<ID>54667CD9-53DD-40A7-BB1B-6D0E1BF9D727</ID>
+<code>AMS Possession</code>
+<start>2318.900083353</start>
+<end>2345.10007511</end>
+</instance>
+<instance>
+<ID>F90D1E58-9ECD-4263-A49F-4A6C1C4FF8BF</ID>
+<code>AMS Possession</code>
+<start>2380.60008021</start>
+<end>2393.800073076</end>
+</instance>
+<instance>
+<ID>C50429D2-C2A5-4B40-A226-7916B9D2300B</ID>
+<code>AMS Possession</code>
+<start>2438.900089574</start>
+<end>2445.600045069</end>
+</instance>
+<instance>
+<ID>6EFBD90A-F74A-4B2B-8AD6-1E3D8483C557</ID>
+<code>AMS Possession</code>
+<start>2454.600089537</start>
+<end>2484.30009527</end>
+</instance>
+<instance>
+<ID>58883522-535D-40A0-8CD5-20116A003D49</ID>
+<code>AMS Possession</code>
+<start>2487.600059617</start>
+<end>2489.900089826</end>
+</instance>
+<instance>
+<ID>3F5E169A-98CA-4891-A733-DFD73E05BF15</ID>
+<code>AMS Possession</code>
+<start>2574.800100431</start>
+<end>2607.100083855</end>
+</instance>
+<instance>
+<ID>9199F925-C4E1-433C-86CB-059F1BADF426</ID>
+<code>AMS Possession</code>
+<start>2653.704488596</start>
+<end>2663.402674347</end>
+</instance>
+<instance>
+<ID>7FD4C566-A9DF-4390-A5A8-B258A2A0C163</ID>
+<code>AMS Possession</code>
+<start>2686.400201459</start>
+<end>2733.500182132</end>
+</instance>
+<instance>
+<ID>66CF6CE6-360B-4545-921C-CE5F5F1BADB9</ID>
+<code>AMS Possession</code>
+<start>2736.100076671</start>
+<end>2804.400046493</end>
+</instance>
+<instance>
+<ID>72EF1D2B-84E2-4063-9AA1-5AC2505959E7</ID>
+<code>AMS Possession</code>
+<start>2820.200090948</start>
+<end>2856.500063173</end>
+</instance>
+<instance>
+<ID>A7A2901A-A671-4C67-A38D-A67BC4744EFD</ID>
+<code>AMS Possession</code>
+<start>2876.600065924</start>
+<end>2890.200092936</end>
+</instance>
+<instance>
+<ID>0DFF03F0-D71C-4B6C-8080-A0A4F3365404</ID>
+<code>AMS Possession</code>
+<start>2899.500305698</start>
+<end>2914.808379097</end>
+</instance>
+<instance>
+<ID>0B367082-88A8-4642-B2AE-E8429BDB5ACA</ID>
+<code>AMS Possession</code>
+<start>2917.400090772</start>
+<end>2928.800116143</end>
+</instance>
+<instance>
+<ID>1C860217-E3D1-4DF1-9AB3-BE17AC5FC2FD</ID>
+<code>AMS Possession</code>
+<start>2940.200100823</start>
+<end>2942.201453708</end>
+</instance>
+<instance>
+<ID>E010C05E-ED88-4EE1-AE14-308FDF713941</ID>
+<code>AMS Possession</code>
+<start>2950.500092261</start>
+<end>2957.900049034</end>
+</instance>
+<instance>
+<ID>7C234705-97ED-4AF1-82A2-C827BB9DE677</ID>
+<code>AMS Possession</code>
+<start>2986.700410376</start>
+<end>3000.000127262</end>
+</instance>
+<instance>
+<ID>5F24E2F2-1285-4A01-9C0A-E8C619BC1BF0</ID>
+<code>AMS Possession</code>
+<start>3033.804783075</start>
+<end>3136.60841671</end>
+</instance>
+<instance>
+<ID>8B734C4E-9DAD-42BF-8C5C-1C79368606CF</ID>
+<code>AMS Possession</code>
+<start>3160.300105318</start>
+<end>3164.300107998</end>
+</instance>
+<instance>
+<ID>3ACE8D30-563A-4C03-83F5-2AFCF5FB7D2A</ID>
+<code>AMS Possession</code>
+<start>3175.300782123</start>
+<end>3200.900140755</end>
+</instance>
+<instance>
+<ID>A536F065-5103-445A-937B-2B58333C8C81</ID>
+<code>AMS Possession</code>
+<start>3211.600067233</start>
+<end>3255.200075379</end>
+</instance>
+<instance>
+<ID>6CF5875A-91D5-41D8-86D3-C8B54EA8E5A8</ID>
+<code>AMS Possession</code>
+<start>3384.70011959</start>
+<end>3428.500098304</end>
+</instance>
+<instance>
+<ID>8C061090-82B6-42D7-A175-DF2B4F92C002</ID>
+<code>AMS Possession</code>
+<start>3431.800081524</start>
+<end>3436.700092009</end>
+</instance>
+<instance>
+<ID>70220263-FA3A-406F-B749-45A3B0D2DEBB</ID>
+<code>AMS Possession</code>
+<start>3449.200086447</start>
+<end>3453.206677667</end>
+</instance>
+<instance>
+<ID>9DDEA6A0-4DFA-4DEE-BDEB-B7196498ED21</ID>
+<code>AMS Possession</code>
+<start>3471.200077228</start>
+<end>3489.000088448</end>
+</instance>
+<instance>
+<ID>4B6B46F4-68D6-4269-98D7-03C795553700</ID>
+<code>AMS Possession</code>
+<start>3529.600044957</start>
+<end>3552.700092661</end>
+</instance>
+<instance>
+<ID>34775DF0-09F6-42C3-8933-696D3CBCA066</ID>
+<code>AMS Possession</code>
+<start>3575.600177339</start>
+<end>3579.500254837</end>
+</instance>
+<instance>
+<ID>028E7F44-26F2-48E2-83F0-5F3F8E71F9FB</ID>
+<code>AMS Possession</code>
+<start>3643.000683027</start>
+<end>3657.000106096</end>
+</instance>
+<instance>
+<ID>50A97EEC-4940-4DEC-BE8C-E0F2DBB1FBBB</ID>
+<code>AMS Possession</code>
+<start>3695.10007218</start>
+<end>3734.900114337</end>
+</instance>
+<instance>
+<ID>7E116C8E-49DC-493D-981E-18FC7BA63851</ID>
+<code>AMS Possession</code>
+<start>3811.707986286</start>
+<end>3825.100144964</end>
+</instance>
+<instance>
+<ID>15BB9939-F4DF-4976-8941-1FEA25A2A96D</ID>
+<code>AMS Possession</code>
+<start>3826.900126853</start>
+<end>3829.600052591</end>
+</instance>
+<instance>
+<ID>6A1CC532-514D-4F5D-B1AB-78A96250F1C2</ID>
+<code>AMS Possession</code>
+<start>3843.800043284</start>
+<end>3849.800090977</end>
+</instance>
+<instance>
+<ID>49BE0A9E-AFE6-4B0A-9B63-33BD574C43A1</ID>
+<code>AMS Possession</code>
+<start>3880.700085007</start>
+<end>3924.301587171</end>
+</instance>
+<instance>
+<ID>000BB5A4-B661-43C1-9471-5155EF0130A8</ID>
+<code>AMS Possession</code>
+<start>3933.900072448</start>
+<end>3966.400043639</end>
+</instance>
+<instance>
+<ID>595BC45C-2567-49E0-86C5-7E74ED721BC2</ID>
+<code>AMS Possession</code>
+<start>3988.100149056</start>
+<end>4017.403231557</end>
+</instance>
+<instance>
+<ID>A6571BF4-ABB0-429A-95E5-FBBE3E9F8A57</ID>
+<code>AMS Possession</code>
+<start>4023.900088514</start>
+<end>4029.403888485</end>
+</instance>
+<instance>
+<ID>2DF71888-2596-4F27-A53B-12201ED5D5C9</ID>
+<code>AMS Possession</code>
+<start>4072.904118651</start>
+<end>4102.00008534</end>
+</instance>
+<instance>
+<ID>E489F1B5-3457-4F19-B0CA-B0BD23256C5A</ID>
+<code>AMS Possession</code>
+<start>4126.900090017</start>
+<end>4131.500106797</end>
+</instance>
+<instance>
+<ID>35CBAED1-0E14-416A-A10A-88906319DCB8</ID>
+<code>AMS Possession</code>
+<start>4146.90006723</start>
+<end>4160.200054271</end>
+</instance>
+<instance>
+<ID>D72F938D-BCD6-417A-A135-82B79839B7DB</ID>
+<code>AMS Possession</code>
+<start>4183.700077453</start>
+<end>4200.600068874</end>
+</instance>
+<instance>
+<ID>D68F23F8-0C37-44C1-BA6B-D0F75E1282A7</ID>
+<code>AMS Possession</code>
+<start>4215.200100749</start>
+<end>4220.600088495</end>
+</instance>
+<instance>
+<ID>50739A32-D65C-4E60-A216-269CA1F1C037</ID>
+<code>AMS Possession</code>
+<start>4241.800274304</start>
+<end>4257.338333333333</end>
+</instance>
+<instance>
+<ID>6EF6A843-C548-485A-8303-17BB31B22556</ID>
+<code>AMS SCA</code>
+<start>1915.100190421</start>
+<end>1920.300274712</end>
+</instance>
+<instance>
+<ID>2B5AAE3F-DCAE-4721-95B1-CADFCE782CF6</ID>
+<code>AMS SCA</code>
+<start>1935.800141133</start>
+<end>1942.100065486</end>
+</instance>
+<instance>
+<ID>E89DBDF9-ADF1-4A75-877B-90BCF1FF362B</ID>
+<code>AMS SCA</code>
+<start>1965.800104235</start>
+<end>1976.300073881</end>
+</instance>
+<instance>
+<ID>56156F31-9B7A-438B-B899-A9DEC87F106C</ID>
+<code>AMS SCA</code>
+<start>2436.900089574</start>
+<end>2505.300061947</end>
+</instance>
+<instance>
+<ID>B43FEEC9-17C9-49FD-BE33-688A7FF0276D</ID>
+<code>AMS Schot</code>
+<start>95.300146191</start>
+<end>107.300146191</end>
+</instance>
+<instance>
+<ID>19230595-C701-4855-8BD7-B53C27F18F18</ID>
+<code>AMS Schot</code>
+<start>647.6000912799999</start>
+<end>659.6000912799999</end>
+</instance>
+<instance>
+<ID>4DC4DEA3-3A9E-47CD-8A7D-04B4298E4702</ID>
+<code>AMS Schot</code>
+<start>775.700110945</start>
+<end>785.000145611</end>
+</instance>
+<instance>
+<ID>042E58D7-853B-4347-A7DE-5241E42A9C54</ID>
+<code>AMS Schot</code>
+<start>1004.300114726</start>
+<end>1016.300114726</end>
+</instance>
+<instance>
+<ID>60257CB1-82FE-4D04-B0A5-E9D525276855</ID>
+<code>AMS Schot</code>
+<start>1269.700127755</start>
+<end>1278.900555838</end>
+</instance>
+<instance>
+<ID>67DB6988-F60F-470E-BC42-5F895C7620F7</ID>
+<code>AMS Schot</code>
+<start>1330.100080035</start>
+<end>1342.100080035</end>
+</instance>
+<instance>
+<ID>51DB0067-78BB-47CF-B1BE-FFBC8090DBF7</ID>
+<code>AMS Schot</code>
+<start>1403.400093016</start>
+<end>1415.400093016</end>
+</instance>
+<instance>
+<ID>F1A79349-FC59-474D-82E9-753D38FAC447</ID>
+<code>AMS Schot</code>
+<start>1811.100166485</start>
+<end>1823.100166485</end>
+</instance>
+<instance>
+<ID>BA251810-E9B0-4A21-8518-F7A67BD45E25</ID>
+<code>AMS Schot</code>
+<start>1911.5066559059999</start>
+<end>1923.5066559059999</end>
+</instance>
+<instance>
+<ID>65094695-6343-46D8-842E-193114DC41FF</ID>
+<code>AMS Schot</code>
+<start>1933.000113152</start>
+<end>1943.100106694</end>
+</instance>
+<instance>
+<ID>FFCA6FC1-1509-4550-B027-E050CB6EAD68</ID>
+<code>AMS Schot</code>
+<start>1962.900089673</start>
+<end>1969.988974369406</end>
+</instance>
+<instance>
+<ID>26B36EC3-FF61-4B70-86EC-96A39909AB21</ID>
+<code>AMS Schot</code>
+<start>1969.988974369406</start>
+<end>1977.300122464</end>
+</instance>
+<instance>
+<ID>5293F63A-3557-411C-A60A-4A9D5FFC748D</ID>
+<code>AMS Schot</code>
+<start>2434.5001063510003</start>
+<end>2446.5001063510003</end>
+</instance>
+<instance>
+<ID>77615394-7D2A-40B9-B6A5-E38F6AFD0F23</ID>
+<code>AMS Schot</code>
+<start>2787.200169535</start>
+<end>2799.200169535</end>
+</instance>
+<instance>
+<ID>BAF9F382-3D29-4932-A541-DA9C6FCA1755</ID>
+<code>AMS Schot</code>
+<start>3180.500466116</start>
+<end>3192.500466116</end>
+</instance>
+<instance>
+<ID>3ADAD869-4C7F-4376-AB47-18854A025196</ID>
+<code>AMS Schot</code>
+<start>3235.900089796</start>
+<end>3247.900089796</end>
+</instance>
+<instance>
+<ID>AC587AC8-EFCE-4F93-A452-5DF23E83547B</ID>
+<code>AMS Schot</code>
+<start>3537.9000859800003</start>
+<end>3549.9000859800003</end>
+</instance>
+<instance>
+<ID>6940676C-FDB1-46E8-9E38-3072BE2EEE7F</ID>
+<code>AMS Schot</code>
+<start>3841.5014814210003</start>
+<end>3853.5014814210003</end>
+</instance>
+<instance>
+<ID>9BB918A8-FBB6-4839-AC23-DB4113DF7908</ID>
+<code>AMS Schot</code>
+<start>4245.808291478</start>
+<end>4257.808291478</end>
+</instance>
+<instance>
+<ID>F2C6360C-08DA-4C05-A510-758A8440BBDF</ID>
+<code>HUR 23m Possession</code>
+<start>3.1000964620000016</start>
+<end>15.100096462000002</end>
+</instance>
+<instance>
+<ID>738D1BE2-8B44-4DC0-8B09-92965834E823</ID>
+<code>HUR 23m Possession</code>
+<start>31.200213823999995</start>
+<end>43.200213823999995</end>
+</instance>
+<instance>
+<ID>75F278E6-CE20-41A8-877A-3D10D01A1E9C</ID>
+<code>HUR 23m Possession</code>
+<start>54.600114919999996</start>
+<end>66.60011492</end>
+</instance>
+<instance>
+<ID>B14A555B-8013-4F9F-A543-F891955158D5</ID>
+<code>HUR 23m Possession</code>
+<start>150.300091143</start>
+<end>162.300091143</end>
+</instance>
+<instance>
+<ID>0051AEF2-8CC4-4BBE-BBDF-E4C37069EFDC</ID>
+<code>HUR 23m Possession</code>
+<start>167.900095147</start>
+<end>179.900095147</end>
+</instance>
+<instance>
+<ID>89EE00FB-4812-4DF8-8443-FFE7880E5E0C</ID>
+<code>HUR 23m Possession</code>
+<start>249.50011043199999</start>
+<end>261.500110432</end>
+</instance>
+<instance>
+<ID>7C242652-90E0-42AD-8017-35604AD322AF</ID>
+<code>HUR 23m Possession</code>
+<start>433.500188228</start>
+<end>445.500188228</end>
+</instance>
+<instance>
+<ID>EDD70F79-BAC6-4319-9FAC-698FFD421927</ID>
+<code>HUR 23m Possession</code>
+<start>486.70015642600004</start>
+<end>498.70015642600004</end>
+</instance>
+<instance>
+<ID>D54A9F51-D1F2-438E-9095-DD175B44FB96</ID>
+<code>HUR 23m Possession</code>
+<start>624.3001435059999</start>
+<end>636.3001435059999</end>
+</instance>
+<instance>
+<ID>E082957C-A5A3-4CA5-9A9D-5487D638C764</ID>
+<code>HUR 23m Possession</code>
+<start>695.4000926269999</start>
+<end>707.4000926269999</end>
+</instance>
+<instance>
+<ID>3A90E476-C9B5-4DC9-A3E0-6B8589F4969E</ID>
+<code>HUR 23m Possession</code>
+<start>924.8001289949999</start>
+<end>936.8001289949999</end>
+</instance>
+<instance>
+<ID>2C636A0F-BA70-4FBA-87BF-5FCD3274B9FD</ID>
+<code>HUR 23m Possession</code>
+<start>1194.700120593</start>
+<end>1206.700120593</end>
+</instance>
+<instance>
+<ID>F01F9024-013E-4383-9A8C-AF8BA15C31EC</ID>
+<code>HUR 23m Possession</code>
+<start>1312.70009483</start>
+<end>1324.70009483</end>
+</instance>
+<instance>
+<ID>7120E8F9-C8C5-4502-A08B-C893B933DBFF</ID>
+<code>HUR 23m Possession</code>
+<start>1615.200250467</start>
+<end>1627.200250467</end>
+</instance>
+<instance>
+<ID>FCCDDB16-7613-4D81-82B3-E5873444AD24</ID>
+<code>HUR 23m Possession</code>
+<start>1690.900094088</start>
+<end>1702.900094088</end>
+</instance>
+<instance>
+<ID>772AF636-2628-4E37-9A60-42F6D139BC02</ID>
+<code>HUR 23m Possession</code>
+<start>1759.3001969949999</start>
+<end>1771.3001969949999</end>
+</instance>
+<instance>
+<ID>A76D4DCB-2FD1-4897-953D-8CAB8F5AC501</ID>
+<code>HUR 23m Possession</code>
+<start>1785.8043476589999</start>
+<end>1797.8043476589999</end>
+</instance>
+<instance>
+<ID>145E5122-2991-476E-AD3D-10106701A493</ID>
+<code>HUR 23m Possession</code>
+<start>2017.100177734</start>
+<end>2029.100177734</end>
+</instance>
+<instance>
+<ID>F163E39C-DC22-4426-8407-D5E03CAEC6DD</ID>
+<code>HUR 23m Possession</code>
+<start>2171.9002059150002</start>
+<end>2183.9002059150002</end>
+</instance>
+<instance>
+<ID>F97C09C1-71FF-4355-AF8C-341FDF2FAE44</ID>
+<code>HUR 23m Possession</code>
+<start>2208.901610069</start>
+<end>2220.901610069</end>
+</instance>
+<instance>
+<ID>E1E88240-04C5-47F4-B5F9-1E1F96BF302E</ID>
+<code>HUR 23m Possession</code>
+<start>2229.9049054680004</start>
+<end>2241.9049054680004</end>
+</instance>
+<instance>
+<ID>87FC00DD-2139-4A74-950F-80A007F77992</ID>
+<code>HUR 23m Possession</code>
+<start>2492.00007945</start>
+<end>2504.00007945</end>
+</instance>
+<instance>
+<ID>4CC100FD-CA99-43CF-BBF5-B09FF74456D9</ID>
+<code>HUR 23m Possession</code>
+<start>2642.6001295730002</start>
+<end>2654.6001295730002</end>
+</instance>
+<instance>
+<ID>FB51B30D-D4DA-4E23-A5C6-6DF619C5799D</ID>
+<code>HUR 23m Possession</code>
+<start>2968.2001369910004</start>
+<end>2980.2001369910004</end>
+</instance>
+<instance>
+<ID>A0C02A16-7856-41C7-B0B9-3732924317F7</ID>
+<code>HUR 23m Possession</code>
+<start>2995.700079471</start>
+<end>3007.700079471</end>
+</instance>
+<instance>
+<ID>0F1DDE33-3976-4414-BFC4-E354D708DAA2</ID>
+<code>HUR 23m Possession</code>
+<start>3020.700122398</start>
+<end>3032.700122398</end>
+</instance>
+<instance>
+<ID>A6BFE6D1-A70E-415E-837B-E88FB1A0B331</ID>
+<code>HUR 23m Possession</code>
+<start>3504.4000711930003</start>
+<end>3516.4000711930003</end>
+</instance>
+<instance>
+<ID>10A7B17C-886C-4B79-833E-3B3E94439D79</ID>
+<code>HUR 23m Possession</code>
+<start>3614.800200684</start>
+<end>3626.800200684</end>
+</instance>
+<instance>
+<ID>10BDED45-F861-4E33-8CCB-51C200AE533B</ID>
+<code>HUR 23m Possession</code>
+<start>3802.800256761</start>
+<end>3814.800256761</end>
+</instance>
+<instance>
+<ID>EFC12E0E-A47F-4915-921C-37ABEFBE02C7</ID>
+<code>HUR 23m Possession</code>
+<start>4113.600209949001</start>
+<end>4125.600209949001</end>
+</instance>
+<instance>
+<ID>44AF99F0-CCB2-48B2-95AC-32C827AC92AB</ID>
+<code>HUR 23m Possession</code>
+<start>4155.400095021</start>
+<end>4167.400095021</end>
+</instance>
+<instance>
+<ID>96896EC2-FFA5-409B-B25A-1494DD127630</ID>
+<code>HUR ASC</code>
+<start>261.000057498</start>
+<end>275.000057498</end>
+</instance>
+<instance>
+<ID>F66C54D2-746A-4199-ADE0-0965B2BB6A91</ID>
+<code>HUR ASC</code>
+<start>2022.3000945879999</start>
+<end>2036.3000945879999</end>
+</instance>
+<instance>
+<ID>3E034A92-AEA4-4935-8A82-FF655E259572</ID>
+<code>HUR ASC</code>
+<start>2495.3001154890003</start>
+<end>2509.3001154890003</end>
+</instance>
+<instance>
+<ID>8DEAD1D1-C6FF-4F26-9789-F650AE582917</ID>
+<code>HUR BS0</code>
+<start>126.80478425300001</start>
+<end>133.00017168</end>
+</instance>
+<instance>
+<ID>FD5111B2-E14D-4AB1-99A2-CC9F8C7C531E</ID>
+<code>HUR BS0</code>
+<start>1399.000203065</start>
+<end>1403.700186102</end>
+</instance>
+<instance>
+<ID>26A012E0-B501-4B72-84F0-DD0C47DE65C8</ID>
+<code>HUR BS0</code>
+<start>2270.30014609</start>
+<end>2283.000165424</end>
+</instance>
+<instance>
+<ID>9658EFF5-EA20-47EF-A133-D9ECA8E59738</ID>
+<code>HUR BS0</code>
+<start>2814.8001323350004</start>
+<end>2820.200090948</end>
+</instance>
+<instance>
+<ID>13BE49C0-8AEC-4DE9-95A6-212F4F47F772</ID>
+<code>HUR BS0</code>
+<start>2853.500095924</start>
+<end>2876.600065924</end>
+</instance>
+<instance>
+<ID>3AB6113A-7AAD-41C8-8589-E328F26E3774</ID>
+<code>HUR BS0</code>
+<start>3591.70011117</start>
+<end>3604.600506754</end>
+</instance>
+<instance>
+<ID>E4D1E512-0C7C-43F3-89C0-30F42EB1FA7A</ID>
+<code>HUR BS0</code>
+<start>3921.300310505</start>
+<end>3933.900072448</end>
+</instance>
+<instance>
+<ID>C8583053-D4DF-4854-ADCD-94BB20755A56</ID>
+<code>HUR BS0</code>
+<start>4232.200192954</start>
+<end>4241.800274304</end>
+</instance>
+<instance>
+<ID>917803A0-6860-4276-BD89-47653B13CA0D</ID>
+<code>HUR BS1</code>
+<start>600.9000470069999</start>
+<end>616.300085733</end>
+</instance>
+<instance>
+<ID>F8837E49-6390-4F11-BE8E-20A54E7DEA78</ID>
+<code>HUR BS1</code>
+<start>662.00009385</start>
+<end>684.000671268</end>
+</instance>
+<instance>
+<ID>3E64F164-18C8-44B9-9D50-08625529BE65</ID>
+<code>HUR BS1</code>
+<start>971.900094248</start>
+<end>985.100129404</end>
+</instance>
+<instance>
+<ID>DEFCFAE5-6933-4252-91E8-522A8D1882CB</ID>
+<code>HUR BS1</code>
+<start>1025.5001137919999</start>
+<end>1030.900082642</end>
+</instance>
+<instance>
+<ID>B9F5735C-2249-49E1-838D-DB1FF6E21F4B</ID>
+<code>HUR BS1</code>
+<start>1347.303713452</start>
+<end>1361.901180994</end>
+</instance>
+<instance>
+<ID>9153D180-AF1B-43AC-A2E2-196A4805D9C6</ID>
+<code>HUR BS1</code>
+<start>1676.200077193</start>
+<end>1686.000368963</end>
+</instance>
+<instance>
+<ID>F7FA4739-010F-4B9E-A89C-552CFD7E560B</ID>
+<code>HUR BS1</code>
+<start>2153.80017015</start>
+<end>2165.80010015</end>
+</instance>
+<instance>
+<ID>13D21892-A21C-4095-85E8-A883E506B045</ID>
+<code>HUR BS1</code>
+<start>2801.4001789930003</start>
+<end>2817.800130086</end>
+</instance>
+<instance>
+<ID>27FE0BC0-A706-4381-AFAF-BD48ED44811A</ID>
+<code>HUR BS1</code>
+<start>2911.806004222</start>
+<end>2917.400090772</end>
+</instance>
+<instance>
+<ID>B2982971-CACA-4483-A787-197B1CCB412E</ID>
+<code>HUR BS1</code>
+<start>3252.200128379</start>
+<end>3268.900106838</end>
+</instance>
+<instance>
+<ID>08D0736C-713B-4F00-9E3D-B571F4CA3B15</ID>
+<code>HUR BS1</code>
+<start>3549.700058244</start>
+<end>3575.600177339</end>
+</instance>
+<instance>
+<ID>699D54B9-D888-40BC-95A4-53B269B530E6</ID>
+<code>HUR BS1</code>
+<start>4014.402656223</start>
+<end>4023.900088514</end>
+</instance>
+<instance>
+<ID>E32C2D45-5BFE-47D5-8D1A-B3B47986F91D</ID>
+<code>HUR BS1</code>
+<start>4099.000101048</start>
+<end>4114.700076324</end>
+</instance>
+<instance>
+<ID>316C541F-CBC2-45E9-83C7-45DE43B0B364</ID>
+<code>HUR BS2</code>
+<start>0.0</start>
+<end>17.000250958</end>
+</instance>
+<instance>
+<ID>95FDDB6E-D003-4834-B3A2-193A442F2C7D</ID>
+<code>HUR BS2</code>
+<start>144.600076476</start>
+<end>156.200143601</end>
+</instance>
+<instance>
+<ID>AD4368D6-2ADF-4E62-B5F3-2B20B4B5D218</ID>
+<code>HUR BS2</code>
+<start>245.90056293100002</start>
+<end>263.100069904</end>
+</instance>
+<instance>
+<ID>9B7D60B1-5CF2-403B-92C5-DA72A210823D</ID>
+<code>HUR BS2</code>
+<start>428.400087644</start>
+<end>444.700070609</end>
+</instance>
+<instance>
+<ID>FD37FC02-C4C4-4B9D-9F55-47410BA31521</ID>
+<code>HUR BS2</code>
+<start>681.0004516419999</start>
+<end>693.300479819</end>
+</instance>
+<instance>
+<ID>70663D8C-E425-4843-8741-0BB5657234CC</ID>
+<code>HUR BS2</code>
+<start>805.10008122</start>
+<end>820.800093279</end>
+</instance>
+<instance>
+<ID>7DD1654F-E738-4C6E-B9E0-890C8CEF8653</ID>
+<code>HUR BS2</code>
+<start>1174.900124135</start>
+<end>1207.300095452</end>
+</instance>
+<instance>
+<ID>719B3716-1A83-44C6-8A6D-574A4239ABC7</ID>
+<code>HUR BS2</code>
+<start>1296.3002716229998</start>
+<end>1323.400148696</end>
+</instance>
+<instance>
+<ID>114A9374-749C-4F5E-AED3-D9866AE888D9</ID>
+<code>HUR BS2</code>
+<start>1683.0001085049998</start>
+<end>1714.200951771</end>
+</instance>
+<instance>
+<ID>F8F685C6-5A19-4855-AABE-8693171B2451</ID>
+<code>HUR BS2</code>
+<start>1738.400091062</start>
+<end>1752.300851438</end>
+</instance>
+<instance>
+<ID>5F772789-C5FD-44D4-B763-76910A60B1D4</ID>
+<code>HUR BS2</code>
+<start>1999.201498317</start>
+<end>2021.70008515</end>
+</instance>
+<instance>
+<ID>27BC3509-2C33-49D1-9632-1F4E502DD98A</ID>
+<code>HUR BS2</code>
+<start>2162.8001934830004</start>
+<end>2181.30006815</end>
+</instance>
+<instance>
+<ID>0BE91A6B-3076-4182-B781-966C091B3898</ID>
+<code>HUR BS2</code>
+<start>2280.000141257</start>
+<end>2306.200181233</end>
+</instance>
+<instance>
+<ID>EBA4A1B3-A383-4739-B9BE-BCCC081B5D83</ID>
+<code>HUR BS2</code>
+<start>2359.900086694</start>
+<end>2380.60008021</end>
+</instance>
+<instance>
+<ID>F6AD7B18-E191-48A8-A2F6-99D99C6B6378</ID>
+<code>HUR BS2</code>
+<start>3142.7073692100003</start>
+<end>3160.300105318</end>
+</instance>
+<instance>
+<ID>A7034C69-F395-48F4-B2D7-AAD3EB5DC680</ID>
+<code>HUR BS2</code>
+<start>3461.5008780420003</start>
+<end>3471.200077228</end>
+</instance>
+<instance>
+<ID>5E5B1D22-3889-49BC-848C-FD89064899FE</ID>
+<code>HUR BS2</code>
+<start>3601.6000561710002</start>
+<end>3643.000683027</end>
+</instance>
+<instance>
+<ID>F9D4ACEA-9A04-46A3-9B14-5B5AE7F609A4</ID>
+<code>HUR BS2</code>
+<start>3664.700069972</start>
+<end>3679.800114764</end>
+</instance>
+<instance>
+<ID>FB44305D-F251-4A73-B785-960F0E9F7F21</ID>
+<code>HUR BS2</code>
+<start>3731.9000544620003</start>
+<end>3747.200083045</end>
+</instance>
+<instance>
+<ID>99F37B92-B0A9-45E3-91C3-837993F341FF</ID>
+<code>HUR BS2</code>
+<start>3861.700079661</start>
+<end>3880.700085007</end>
+</instance>
+<instance>
+<ID>ECA0A9F2-3699-4770-B716-D5C535AE3E78</ID>
+<code>HUR BS2</code>
+<start>4045.1016287760003</start>
+<end>4072.904118651</end>
+</instance>
+<instance>
+<ID>F56A07BA-03DF-4891-9566-063020F26BFF</ID>
+<code>HUR BS2</code>
+<start>4111.700712448001</start>
+<end>4126.900090017</end>
+</instance>
+<instance>
+<ID>66640114-5D26-4F4E-AC5A-CA6D2016B008</ID>
+<code>HUR BS3</code>
+<start>25.00369599</start>
+<end>41.700108409</end>
+</instance>
+<instance>
+<ID>8D63F782-7CCF-4505-B583-F97B7C587D24</ID>
+<code>HUR BS3</code>
+<start>153.200105726</start>
+<end>187.700145877</end>
+</instance>
+<instance>
+<ID>901D80CC-48AA-49E0-AE29-873700E28BC1</ID>
+<code>HUR BS3</code>
+<start>879.100082116</start>
+<end>912.600099322</end>
+</instance>
+<instance>
+<ID>C85671DC-0837-4E49-B4B5-AE1825EEC2B8</ID>
+<code>HUR BS3</code>
+<start>1616.100073725</start>
+<end>1628.400107509</end>
+</instance>
+<instance>
+<ID>F942D517-F83B-4747-B0E8-07EF7F74CDEF</ID>
+<code>HUR BS3</code>
+<start>1749.300140979</start>
+<end>1774.300094225</end>
+</instance>
+<instance>
+<ID>871E3B01-FE79-45F4-BA80-D6C686A47C1C</ID>
+<code>HUR BS3</code>
+<start>1788.300114557</start>
+<end>1805.600741201</end>
+</instance>
+<instance>
+<ID>65A5ECE3-EB7E-4021-A2E2-CC45AE030CEF</ID>
+<code>HUR BS3</code>
+<start>2018.701888109</start>
+<end>2032.300078463</end>
+</instance>
+<instance>
+<ID>31071E43-711B-460E-9489-F6E0A7A592CF</ID>
+<code>HUR BS3</code>
+<start>2201.7007371520003</start>
+<end>2218.300087072</end>
+</instance>
+<instance>
+<ID>A5EFCC57-CC55-4D84-AF0E-392F05BCD0F7</ID>
+<code>HUR BS3</code>
+<start>3676.8001002220003</start>
+<end>3695.10007218</end>
+</instance>
+<instance>
+<ID>6BCC9BE4-A03D-4DAC-AE54-20E76BA4F4B3</ID>
+<code>HUR BS3</code>
+<start>3744.200167462</start>
+<end>3811.707986286</end>
+</instance>
+<instance>
+<ID>BA6AD6D9-8F80-4D89-AB32-65521758844E</ID>
+<code>HUR BS3</code>
+<start>4157.200117104</start>
+<end>4169.701155964</end>
+</instance>
+<instance>
+<ID>ED32929F-920A-4874-827A-BF2376C97816</ID>
+<code>HUR BS4</code>
+<start>1771.300105892</start>
+<end>1791.300094682</end>
+</instance>
+<instance>
+<ID>F27966F8-A737-4348-B086-77E90A8CD699</ID>
+<code>HUR BS4</code>
+<start>3508.5070429710004</start>
+<end>3529.600044957</end>
+</instance>
+<instance>
+<ID>3B4622C9-9369-4031-BCD6-83C5613E25D1</ID>
+<code>HUR BS5</code>
+<start>14.000066333</start>
+<end>28.003416699</end>
+</instance>
+<instance>
+<ID>BA9BDC0F-990B-4106-973B-102B7E86D061</ID>
+<code>HUR BS5</code>
+<start>449.70004399100003</start>
+<end>454.100185831</end>
+</instance>
+<instance>
+<ID>69B7A72D-D775-42F5-B13C-DE18FB7EE7FD</ID>
+<code>HUR BS5</code>
+<start>2225.2042463010002</start>
+<end>2241.900117316</end>
+</instance>
+<instance>
+<ID>417C726D-5DCF-4331-9C8C-D83E324E565C</ID>
+<code>HUR BS5</code>
+<start>2660.4015565550003</start>
+<end>2686.400201459</end>
+</instance>
+<instance>
+<ID>4F8190A0-06F3-4938-B615-1D97FA256AAF</ID>
+<code>HUR BS5</code>
+<start>2997.000174262</start>
+<end>3033.804783075</end>
+</instance>
+<instance>
+<ID>52F89CBA-9EE1-4664-9163-3B42B5DCD166</ID>
+<code>HUR BS5</code>
+<start>3486.000196448</start>
+<end>3511.505410637</end>
+</instance>
+<instance>
+<ID>5E5EF7A7-861B-49AF-9A97-976AF25A1914</ID>
+<code>HUR BS5</code>
+<start>4166.70411063</start>
+<end>4183.700077453</end>
+</instance>
+<instance>
+<ID>E7442339-EE0A-43BF-BCC3-EE6B69E42182</ID>
+<code>HUR BW0</code>
+<start>206.000099965</start>
+<end>217.600112856</end>
+</instance>
+<instance>
+<ID>F9A60E55-1E73-4730-B0CD-1834AB97E043</ID>
+<code>HUR BW0</code>
+<start>1388.900076565</start>
+<end>1402.000212856</end>
+</instance>
+<instance>
+<ID>A0B59FED-B279-41D3-8258-9651F6397478</ID>
+<code>HUR BW0</code>
+<start>1838.3001033379999</start>
+<end>1842.7000834</end>
+</instance>
+<instance>
+<ID>29654CAC-9ECC-4095-872E-A6FE5FF53F79</ID>
+<code>HUR BW0</code>
+<start>2263.900066132</start>
+<end>2273.300206965</end>
+</instance>
+<instance>
+<ID>51D3B249-30BB-4150-B177-27A923349A36</ID>
+<code>HUR BW0</code>
+<start>2310.900067302</start>
+<end>2318.900083353</end>
+</instance>
+<instance>
+<ID>9799AC2A-7301-49B0-81F0-18E58196DEB7</ID>
+<code>HUR BW0</code>
+<start>2342.100079234</start>
+<end>2362.900089985</end>
+</instance>
+<instance>
+<ID>57DF4989-4840-4B14-B9AB-3CD10B5E9576</ID>
+<code>HUR BW0</code>
+<start>2486.900129784</start>
+<end>2505.300061947</end>
+</instance>
+<instance>
+<ID>92F361C6-172F-4A79-887F-D3B301EAC076</ID>
+<code>HUR BW0</code>
+<start>2730.5000938000003</start>
+<end>2736.100076671</end>
+</instance>
+<instance>
+<ID>56EC2BC1-CB65-41B0-BAFB-97294E28442F</ID>
+<code>HUR BW0</code>
+<start>2939.200061458</start>
+<end>2950.500092261</end>
+</instance>
+<instance>
+<ID>EE66DA6A-7B97-48DE-98D1-381B138F20B9</ID>
+<code>HUR BW0</code>
+<start>3133.6003035020003</start>
+<end>3145.702709626</end>
+</instance>
+<instance>
+<ID>5807054D-B2E3-466A-A7C7-C0076CF81903</ID>
+<code>HUR BW0</code>
+<start>3425.5001438870004</start>
+<end>3431.800081524</end>
+</instance>
+<instance>
+<ID>5888592B-11E9-4632-A8C8-37A32866C38B</ID>
+<code>HUR BW0</code>
+<start>3822.100082463</start>
+<end>3826.900126853</end>
+</instance>
+<instance>
+<ID>1D614E4A-DB58-496B-B1D4-D4976D05F68A</ID>
+<code>HUR BW0</code>
+<start>4026.4001898180004</start>
+<end>4048.102845692</end>
+</instance>
+<instance>
+<ID>9F5AAC8B-A741-4C40-A0F8-6AC3CBCFFA2E</ID>
+<code>HUR BW0</code>
+<start>4217.600088162</start>
+<end>4235.200080246</end>
+</instance>
+<instance>
+<ID>667A890C-B9AA-4FDA-B61A-069F78A28F9F</ID>
+<code>HUR BW1</code>
+<start>114.60011404</start>
+<end>129.800382336</end>
+</instance>
+<instance>
+<ID>E256DE82-AD73-4014-9F45-33DB2F50FC48</ID>
+<code>HUR BW1</code>
+<start>533.40009791</start>
+<end>560.800121304</end>
+</instance>
+<instance>
+<ID>90027183-B304-4122-BEE7-4F64297C2CB0</ID>
+<code>HUR BW1</code>
+<start>734.600128187</start>
+<end>741.900078156</end>
+</instance>
+<instance>
+<ID>7D1DBA2E-8492-4B66-845A-EA131839C86D</ID>
+<code>HUR BW1</code>
+<start>1033.506041978</start>
+<end>1045.605986561</end>
+</instance>
+<instance>
+<ID>EEDFAC99-67ED-42FF-B818-D06DB8EE58AE</ID>
+<code>HUR BW1</code>
+<start>1442.400105938</start>
+<end>1452.300173814</end>
+</instance>
+<instance>
+<ID>C8BEE1B7-281D-4EF6-A83D-07E5184869F7</ID>
+<code>HUR BW1</code>
+<start>1491.400068493</start>
+<end>1495.800098387</end>
+</instance>
+<instance>
+<ID>0DA344D2-7293-429C-950E-2935F9BA84D0</ID>
+<code>HUR BW1</code>
+<start>1496.602176906</start>
+<end>1513.500111256</end>
+</instance>
+<instance>
+<ID>EC3FD720-5D64-4197-A56E-2C3F4C92BDAA</ID>
+<code>HUR BW1</code>
+<start>2442.600069611</start>
+<end>2454.600089537</end>
+</instance>
+<instance>
+<ID>283D87FB-2099-40C4-90AD-894C5023C63C</ID>
+<code>HUR BW1</code>
+<start>2481.300136354</start>
+<end>2487.600059617</end>
+</instance>
+<instance>
+<ID>460E1980-8D60-4D41-8927-DE488639752B</ID>
+<code>HUR BW1</code>
+<start>2604.1001216050004</start>
+<end>2653.704488596</end>
+</instance>
+<instance>
+<ID>94C9E592-50C4-4A92-8FAF-F0A8097ADD35</ID>
+<code>HUR BW1</code>
+<start>2925.800183102</start>
+<end>2940.200100823</end>
+</instance>
+<instance>
+<ID>472D5750-8642-4D4B-8774-54261D4D6832</ID>
+<code>HUR BW1</code>
+<start>2954.9000567000003</start>
+<end>2986.700410376</end>
+</instance>
+<instance>
+<ID>BFD82F75-87FD-40B0-87B1-F581E0B32BDE</ID>
+<code>HUR BW1</code>
+<start>3197.900094172</start>
+<end>3211.600067233</end>
+</instance>
+<instance>
+<ID>923FEFB2-77F5-4B1D-A3B7-E54BBC6E4FA5</ID>
+<code>HUR BW1</code>
+<start>3433.7000758430004</start>
+<end>3449.200086447</end>
+</instance>
+<instance>
+<ID>93B9D4BC-CA38-44DB-9A58-3225E226339B</ID>
+<code>HUR BW1</code>
+<start>3576.500039129</start>
+<end>3594.800114421</end>
+</instance>
+<instance>
+<ID>DA1AB91C-0E56-4CD3-B898-022F8A2952C9</ID>
+<code>HUR BW1</code>
+<start>3826.60006655</start>
+<end>3843.800043284</end>
+</instance>
+<instance>
+<ID>0D6A44F1-EAA9-47DF-A841-FFB4680B0A61</ID>
+<code>HUR BW1</code>
+<start>3846.8001056860003</start>
+<end>3864.700087703</end>
+</instance>
+<instance>
+<ID>CE252703-F8FE-420A-BE6A-8BE9190C8DA8</ID>
+<code>HUR BW1</code>
+<start>3963.401197681</start>
+<end>3988.100149056</end>
+</instance>
+<instance>
+<ID>A7691353-98F1-4E41-95FD-BAC831D3E632</ID>
+<code>HUR BW1</code>
+<start>4197.600064749</start>
+<end>4215.200100749</end>
+</instance>
+<instance>
+<ID>110605C1-CD04-4609-BF6F-B68C79923A21</ID>
+<code>HUR BW2</code>
+<start>43.500089579999994</start>
+<end>58.000093707</end>
+</instance>
+<instance>
+<ID>E2116418-730E-4CB9-BCDB-4C999CFEE59F</ID>
+<code>HUR BW2</code>
+<start>622.700143618</start>
+<end>634.900079276</end>
+</instance>
+<instance>
+<ID>0FCE2C74-B2BA-48B4-ADA1-40CE134357EA</ID>
+<code>HUR BW2</code>
+<start>694.100088123</start>
+<end>707.500168427</end>
+</instance>
+<instance>
+<ID>3CF1D17D-3CB3-44F2-92DE-39EEFC772AE0</ID>
+<code>HUR BW2</code>
+<start>869.100068784</start>
+<end>882.100102866</end>
+</instance>
+<instance>
+<ID>BCBFF9A5-3C18-4738-8919-07EB113FB49B</ID>
+<code>HUR BW2</code>
+<start>917.700060798</start>
+<end>938.7000928</end>
+</instance>
+<instance>
+<ID>651145E9-F963-41D5-AE08-CEA727256E7A</ID>
+<code>HUR BW2</code>
+<start>1263.500115215</start>
+<end>1268.700104567</end>
+</instance>
+<instance>
+<ID>DE3CAEDB-7AE6-4582-BBAC-C31F2726F71A</ID>
+<code>HUR BW2</code>
+<start>1579.1000537979999</start>
+<end>1585.402149957</end>
+</instance>
+<instance>
+<ID>F8D24BC4-CF73-4155-8202-7B473BE18875</ID>
+<code>HUR BW2</code>
+<start>1586.900062642</start>
+<end>1619.100074184</end>
+</instance>
+<instance>
+<ID>26CD376F-F681-4863-B6F6-60A89ADF0124</ID>
+<code>HUR BW2</code>
+<start>2887.200122186</start>
+<end>2899.500305698</end>
+</instance>
+<instance>
+<ID>8EF6D088-BA48-48C7-8381-D6309FC3FC96</ID>
+<code>HUR BW2</code>
+<start>3161.300162457</start>
+<end>3175.300782123</end>
+</instance>
+<instance>
+<ID>0824B59D-379E-4EAE-8DCC-107DB4B2B652</ID>
+<code>HUR BW2</code>
+<start>3450.2012453760003</start>
+<end>3464.507047585</end>
+</instance>
+<instance>
+<ID>43FB3B1E-8CED-4F70-91DB-22C08E1A4191</ID>
+<code>HUR BW2</code>
+<start>3654.000091721</start>
+<end>3667.700159388</end>
+</instance>
+<instance>
+<ID>96F9D39F-B05C-4B92-B013-5D36E66E83EB</ID>
+<code>HUR BW3</code>
+<start>58.100142043999995</start>
+<end>86.500174056</end>
+</instance>
+<instance>
+<ID>1B5BE5AF-7EB1-4C24-8295-63CC80821742</ID>
+<code>HUR BW3</code>
+<start>460.900083635</start>
+<end>513.800092381</end>
+</instance>
+<instance>
+<ID>EAC01A05-BCDA-4D43-B549-982587D8703D</ID>
+<code>HUR BW3</code>
+<start>1525.10006215</start>
+<end>1536.200073792</end>
+</instance>
+<instance>
+<ID>69EE8CFE-942C-4EC9-A74A-66829153D368</ID>
+<code>HUR BW4</code>
+<start>262.000080998</start>
+<end>271.000085164</end>
+</instance>
+<instance>
+<ID>0A645A8B-6F46-4E7F-A31A-027784D017B5</ID>
+<code>HUR BW4</code>
+<start>706.900081563</start>
+<end>725.905100535</end>
+</instance>
+<instance>
+<ID>31F8E601-F17A-47F3-9BBF-F2857AA4D908</ID>
+<code>HUR BW5</code>
+<start>834.5000786879999</start>
+<end>852.900108646</end>
+</instance>
+<instance>
+<ID>6CDC299F-8A08-49ED-B999-CC2B75844151</ID>
+<code>HUR BW5</code>
+<start>2182.700110776</start>
+<end>2204.705840402</end>
+</instance>
+<instance>
+<ID>4C42E6E4-1D2A-4CD9-9199-466118561961</ID>
+<code>HUR BW5</code>
+<start>4128.5000582150005</start>
+<end>4146.90006723</end>
+</instance>
+<instance>
+<ID>8775CC7C-0CBB-49F3-8869-B16582FA16CA</ID>
+<code>HUR Cirkel Entry</code>
+<start>53.700108091999994</start>
+<end>67.700108092</end>
+</instance>
+<instance>
+<ID>E45C7A90-4FB3-4339-885E-587D88648264</ID>
+<code>HUR Cirkel Entry</code>
+<start>165.400098105</start>
+<end>179.400098105</end>
+</instance>
+<instance>
+<ID>8A3E2565-9CF3-4360-98E9-86777D5CA5F6</ID>
+<code>HUR Cirkel Entry</code>
+<start>246.800199276</start>
+<end>260.800199276</end>
+</instance>
+<instance>
+<ID>65169E07-2C62-4B43-893D-3BD72E7CA73D</ID>
+<code>HUR Cirkel Entry</code>
+<start>431.600073775</start>
+<end>444.700070609</end>
+</instance>
+<instance>
+<ID>5F0E53C5-4333-4FC6-AF29-74F16FF87525</ID>
+<code>HUR Cirkel Entry</code>
+<start>485.100065099</start>
+<end>499.100065099</end>
+</instance>
+<instance>
+<ID>68266DC2-A044-4D97-B3A1-EFF6AED3731D</ID>
+<code>HUR Cirkel Entry</code>
+<start>534.3001659189999</start>
+<end>548.3001659189999</end>
+</instance>
+<instance>
+<ID>7A882068-8172-4BAB-8659-DC2D8BFE403C</ID>
+<code>HUR Cirkel Entry</code>
+<start>621.7000623179999</start>
+<end>634.900079276</end>
+</instance>
+<instance>
+<ID>6EB62A0D-AF6A-4A49-A641-BE198C72BD74</ID>
+<code>HUR Cirkel Entry</code>
+<start>693.3002158459999</start>
+<end>707.3002158459999</end>
+</instance>
+<instance>
+<ID>8C19B186-84CC-4A9D-B0CD-DED6D1671A52</ID>
+<code>HUR Cirkel Entry</code>
+<start>923.2001116199999</start>
+<end>937.2001116199999</end>
+</instance>
+<instance>
+<ID>D7EEFDC4-229C-490C-AFE4-A3A9A1E0257F</ID>
+<code>HUR Cirkel Entry</code>
+<start>1193.500098692</start>
+<end>1207.500098692</end>
+</instance>
+<instance>
+<ID>0847B1D9-E942-45DE-88B7-8F5862327921</ID>
+<code>HUR Cirkel Entry</code>
+<start>1612.000173617</start>
+<end>1626.000173617</end>
+</instance>
+<instance>
+<ID>E01C038E-8B16-4235-9F41-6FC9AD72114B</ID>
+<code>HUR Cirkel Entry</code>
+<start>1689.700106021</start>
+<end>1703.700106021</end>
+</instance>
+<instance>
+<ID>E4A0D11D-FD63-4B98-9078-A3EA01085492</ID>
+<code>HUR Cirkel Entry</code>
+<start>1764.600108036</start>
+<end>1778.600108036</end>
+</instance>
+<instance>
+<ID>E692A1EC-66E3-4147-87F3-5CCBC5512491</ID>
+<code>HUR Cirkel Entry</code>
+<start>1782.402896408</start>
+<end>1796.402896408</end>
+</instance>
+<instance>
+<ID>602504E4-EC04-4523-A736-4B8226C96095</ID>
+<code>HUR Cirkel Entry</code>
+<start>2018.300161832</start>
+<end>2032.300161832</end>
+</instance>
+<instance>
+<ID>CA9206EA-0680-446E-B4F4-CCDD27978DBF</ID>
+<code>HUR Cirkel Entry</code>
+<start>2168.500085599</start>
+<end>2190.9001487090004</end>
+</instance>
+<instance>
+<ID>B8A69A87-B82C-4B6F-AF89-56A5D9739BF6</ID>
+<code>HUR Cirkel Entry</code>
+<start>2489.6001045880002</start>
+<end>2504.9001290300002</end>
+</instance>
+<instance>
+<ID>0D595136-6BBD-42C2-B4A3-A9F5E1ECA33C</ID>
+<code>HUR Cirkel Entry</code>
+<start>2640.600052626</start>
+<end>2654.600052626</end>
+</instance>
+<instance>
+<ID>C1D9FB51-D83D-45D0-94C1-0DE56624C2B5</ID>
+<code>HUR Cirkel Entry</code>
+<start>2659.500119651</start>
+<end>2673.500119651</end>
+</instance>
+<instance>
+<ID>B7BEFB2C-97E1-4423-9DE0-C605A620419C</ID>
+<code>HUR Cirkel Entry</code>
+<start>3020.400049074</start>
+<end>3033.804783075</end>
+</instance>
+<instance>
+<ID>58F1FFE6-2AFC-44E5-8811-1EF060F679E5</ID>
+<code>HUR Cirkel Entry</code>
+<start>3489.300756334</start>
+<end>3503.300756334</end>
+</instance>
+<instance>
+<ID>181531C7-2178-4131-BCBA-536CD6092E5A</ID>
+<code>HUR Cirkel Entry</code>
+<start>3503.500224165</start>
+<end>3517.500224165</end>
+</instance>
+<instance>
+<ID>84BE3E11-0887-423D-8EEE-14D6DF702151</ID>
+<code>HUR Cirkel Entry</code>
+<start>3613.30012857</start>
+<end>3627.30012857</end>
+</instance>
+<instance>
+<ID>3C6B796A-524C-4F2E-AA3E-DE2D935BAD69</ID>
+<code>HUR Cirkel Entry</code>
+<start>4112.500223544001</start>
+<end>4136.800082271</end>
+</instance>
+<instance>
+<ID>A77142FD-7A32-44C5-846D-5A003470932E</ID>
+<code>HUR Goal</code>
+<start>2537.1001017500002</start>
+<end>2554.1001017500002</end>
+</instance>
+<instance>
+<ID>54611235-4006-4DF5-BEE3-0FFDDCCF2BF7</ID>
+<code>HUR Lange Corner</code>
+<start>21.600069573</start>
+<end>33.600069573</end>
+</instance>
+<instance>
+<ID>B8541BAD-8B44-406A-A958-E79FA21B6EAE</ID>
+<code>HUR Lange Corner</code>
+<start>158.700511268</start>
+<end>170.700511268</end>
+</instance>
+<instance>
+<ID>7C0D4265-9188-4F12-B7CF-1AB30A4671DC</ID>
+<code>HUR Lange Corner</code>
+<start>1780.500168057</start>
+<end>1792.500168057</end>
+</instance>
+<instance>
+<ID>41D97535-1B09-4374-8146-4F9FECEC4E98</ID>
+<code>HUR Lange Corner</code>
+<start>2191.100054292</start>
+<end>2205.000074818</end>
+</instance>
+<instance>
+<ID>9C937F46-A530-4491-ACF4-29C655E2D199</ID>
+<code>HUR Lange Corner</code>
+<start>2448.800104361</start>
+<end>2460.800104361</end>
+</instance>
+<instance>
+<ID>8AE87795-8022-4517-BA15-F045F2098C76</ID>
+<code>HUR Lange Corner</code>
+<start>3505.200099958</start>
+<end>3517.200099958</end>
+</instance>
+<instance>
+<ID>39F0CB19-011A-404B-9275-9E1B4D5DEA59</ID>
+<code>HUR Lange Corner</code>
+<start>3839.7000578</start>
+<end>3851.7000578</end>
+</instance>
+<instance>
+<ID>7E2D0B41-4929-4DB7-B721-6334CAF58BEE</ID>
+<code>HUR Possession</code>
+<start>2.805767001</start>
+<end>41.700108409</end>
+</instance>
+<instance>
+<ID>4257273E-0A85-49AC-8E92-3EEBE260DE62</ID>
+<code>HUR Possession</code>
+<start>46.500144955</start>
+<end>58.000093707</end>
+</instance>
+<instance>
+<ID>4C55E2E4-8F3A-4564-95A4-6B64F639F97D</ID>
+<code>HUR Possession</code>
+<start>61.100056294</start>
+<end>86.500174056</end>
+</instance>
+<instance>
+<ID>91C09E3C-0E1B-4A04-8844-F6DD155C2552</ID>
+<code>HUR Possession</code>
+<start>117.600110414</start>
+<end>133.00017168</end>
+</instance>
+<instance>
+<ID>99A44455-FCF5-48C1-ABED-2A87FC0B5610</ID>
+<code>HUR Possession</code>
+<start>147.600078101</start>
+<end>187.700145877</end>
+</instance>
+<instance>
+<ID>6FAEF3FC-1FE1-4FC7-9C2E-C451877B1BB4</ID>
+<code>HUR Possession</code>
+<start>209.000203132</start>
+<end>217.600112856</end>
+</instance>
+<instance>
+<ID>279E69BC-0F63-461B-A214-FD63E5D93643</ID>
+<code>HUR Possession</code>
+<start>248.900091389</start>
+<end>263.100069904</end>
+</instance>
+<instance>
+<ID>8285DA9F-5E65-4C0C-BBAF-B6EF0C5B3572</ID>
+<code>HUR Possession</code>
+<start>265.002160831</start>
+<end>271.000085164</end>
+</instance>
+<instance>
+<ID>F866A864-18EC-451D-B674-1283F7DC68CD</ID>
+<code>HUR Possession</code>
+<start>385.100083894</start>
+<end>405.700082574</end>
+</instance>
+<instance>
+<ID>AA42CC45-23B7-4DFB-84D1-D0B17206B047</ID>
+<code>HUR Possession</code>
+<start>431.400113936</start>
+<end>444.700070609</end>
+</instance>
+<instance>
+<ID>BDD4FD15-A982-49BD-9C2F-EBA33D9CCB42</ID>
+<code>HUR Possession</code>
+<start>452.700113574</start>
+<end>454.100185831</end>
+</instance>
+<instance>
+<ID>B5CE27B1-02DC-40B3-AF66-470A7351CA0E</ID>
+<code>HUR Possession</code>
+<start>463.900127177</start>
+<end>513.800092381</end>
+</instance>
+<instance>
+<ID>B1532D9D-945B-4D20-99D1-65F6F5F2BD13</ID>
+<code>HUR Possession</code>
+<start>536.400070826</start>
+<end>560.800121304</end>
+</instance>
+<instance>
+<ID>ED4B7392-B6B9-4702-8679-64B254F3605A</ID>
+<code>HUR Possession</code>
+<start>603.900113049</start>
+<end>616.300085733</end>
+</instance>
+<instance>
+<ID>CD717D46-30A7-4839-AC08-76E1B40D1F3D</ID>
+<code>HUR Possession</code>
+<start>625.700169992</start>
+<end>634.900079276</end>
+</instance>
+<instance>
+<ID>C427FEDF-238F-4E22-9E65-0F6651BF0413</ID>
+<code>HUR Possession</code>
+<start>665.000069767</start>
+<end>693.300479819</end>
+</instance>
+<instance>
+<ID>C3312519-1FA5-4046-B289-58424E2DFDC0</ID>
+<code>HUR Possession</code>
+<start>697.100097081</start>
+<end>707.500168427</end>
+</instance>
+<instance>
+<ID>3A885020-DFFC-4A47-AB2A-3915BFB5AAA9</ID>
+<code>HUR Possession</code>
+<start>709.900111438</start>
+<end>725.905100535</end>
+</instance>
+<instance>
+<ID>F3C5A822-F6A7-4255-B2C9-5FD67FFAB45C</ID>
+<code>HUR Possession</code>
+<start>737.600236104</start>
+<end>741.900078156</end>
+</instance>
+<instance>
+<ID>3E832DF5-D8B5-4AE3-B378-AAB4F733D1DD</ID>
+<code>HUR Possession</code>
+<start>808.100082929</start>
+<end>820.800093279</end>
+</instance>
+<instance>
+<ID>68E5D8CF-158C-426A-B25D-A59046992D9A</ID>
+<code>HUR Possession</code>
+<start>837.500261313</start>
+<end>852.900108646</end>
+</instance>
+<instance>
+<ID>D2460C6D-DC12-4448-BA91-72C9D250FB1D</ID>
+<code>HUR Possession</code>
+<start>872.100084867</start>
+<end>912.600099322</end>
+</instance>
+<instance>
+<ID>DB329C57-41EB-4EC4-98E2-D2F541356634</ID>
+<code>HUR Possession</code>
+<start>920.700209798</start>
+<end>938.7000928</end>
+</instance>
+<instance>
+<ID>7093AA21-82F5-4958-AD10-7FCABA5C88BD</ID>
+<code>HUR Possession</code>
+<start>974.90008254</start>
+<end>985.100129404</end>
+</instance>
+<instance>
+<ID>9FDB3C42-4D91-4E69-AE19-E78421F7FA61</ID>
+<code>HUR Possession</code>
+<start>1028.500133208</start>
+<end>1030.900082642</end>
+</instance>
+<instance>
+<ID>41058455-84B9-4725-AA2C-FE4ADB6D3171</ID>
+<code>HUR Possession</code>
+<start>1036.509301395</start>
+<end>1045.605986561</end>
+</instance>
+<instance>
+<ID>3EF85039-D0A2-482C-A8F1-9CD72A96393D</ID>
+<code>HUR Possession</code>
+<start>1177.900154593</start>
+<end>1207.300095452</end>
+</instance>
+<instance>
+<ID>33527483-F823-4451-A34D-D395E99D88B3</ID>
+<code>HUR Possession</code>
+<start>1266.500227715</start>
+<end>1268.700104567</end>
+</instance>
+<instance>
+<ID>690F5A2E-5321-4AE9-BCC9-4F78212EB2BE</ID>
+<code>HUR Possession</code>
+<start>1299.300104831</start>
+<end>1323.400148696</end>
+</instance>
+<instance>
+<ID>3A683D99-32A8-40A0-AB39-6A4F5F43114C</ID>
+<code>HUR Possession</code>
+<start>1350.302835535</start>
+<end>1361.901180994</end>
+</instance>
+<instance>
+<ID>9DEB6DD8-7329-44B2-8214-402370354B61</ID>
+<code>HUR Possession</code>
+<start>1391.900114939</start>
+<end>1403.700186102</end>
+</instance>
+<instance>
+<ID>03BE9549-1582-4D4E-9026-E3505FA8EC44</ID>
+<code>HUR Possession</code>
+<start>1445.400087356</start>
+<end>1452.300173814</end>
+</instance>
+<instance>
+<ID>7728FB22-608C-4048-8049-AC5F73A0C7A8</ID>
+<code>HUR Possession</code>
+<start>1494.400071367</start>
+<end>1495.800098387</end>
+</instance>
+<instance>
+<ID>F37526C5-491B-4446-8BD1-E199D28006F3</ID>
+<code>HUR Possession</code>
+<start>1499.607483281</start>
+<end>1513.500111256</end>
+</instance>
+<instance>
+<ID>33C97142-66D9-4111-B824-C84DFA0C1CD3</ID>
+<code>HUR Possession</code>
+<start>1528.100098192</start>
+<end>1536.200073792</end>
+</instance>
+<instance>
+<ID>6B7D0C26-40EB-4158-8575-3780300C0E0E</ID>
+<code>HUR Possession</code>
+<start>1582.100113464</start>
+<end>1585.402149957</end>
+</instance>
+<instance>
+<ID>85BFDA90-2A75-4C7F-AFD6-B0D85E7E6C6C</ID>
+<code>HUR Possession</code>
+<start>1589.900111892</start>
+<end>1628.400107509</end>
+</instance>
+<instance>
+<ID>58274C80-19DD-4C96-B1B9-CA4DF9E79744</ID>
+<code>HUR Possession</code>
+<start>1679.200042485</start>
+<end>1714.200951771</end>
+</instance>
+<instance>
+<ID>55B812BD-7D4A-4B1E-8C41-8AE7596422F4</ID>
+<code>HUR Possession</code>
+<start>1741.400074187</start>
+<end>1805.600741201</end>
+</instance>
+<instance>
+<ID>79FE579B-3336-4C85-A9D0-371F90C74BEB</ID>
+<code>HUR Possession</code>
+<start>1841.300069005</start>
+<end>1842.7000834</end>
+</instance>
+<instance>
+<ID>2CFA34A3-EAFE-4374-BA8D-CD6C71D3C02E</ID>
+<code>HUR Possession</code>
+<start>2002.200070192</start>
+<end>2032.300078463</end>
+</instance>
+<instance>
+<ID>4C860CB0-6997-48A7-B682-DC21BAA8F2BE</ID>
+<code>HUR Possession</code>
+<start>2073.803623234</start>
+<end>2091.905198233</end>
+</instance>
+<instance>
+<ID>EBA0549B-262F-4255-811B-4AC1F79536A6</ID>
+<code>HUR Possession</code>
+<start>2156.800508733</start>
+<end>2181.30006815</end>
+</instance>
+<instance>
+<ID>08405A63-7D40-4E01-BEE3-7660E59D7D75</ID>
+<code>HUR Possession</code>
+<start>2185.700083277</start>
+<end>2218.300087072</end>
+</instance>
+<instance>
+<ID>3B77EA6C-746F-4D0D-87E4-2F240853B45C</ID>
+<code>HUR Possession</code>
+<start>2228.204499135</start>
+<end>2241.900117316</end>
+</instance>
+<instance>
+<ID>0F6D3C90-B60D-4F82-BEB6-95859DDFBCC9</ID>
+<code>HUR Possession</code>
+<start>2266.90008884</start>
+<end>2306.200181233</end>
+</instance>
+<instance>
+<ID>F91540FD-B9E0-436C-9AB4-0385F1913CBC</ID>
+<code>HUR Possession</code>
+<start>2313.900098886</start>
+<end>2318.900083353</end>
+</instance>
+<instance>
+<ID>6C7E252C-8806-45C8-87C6-E3EBD9C09280</ID>
+<code>HUR Possession</code>
+<start>2345.10007511</start>
+<end>2380.60008021</end>
+</instance>
+<instance>
+<ID>7F9CB8BC-9DAB-454B-8B5B-AEFB19B2F88F</ID>
+<code>HUR Possession</code>
+<start>2445.600045069</start>
+<end>2454.600089537</end>
+</instance>
+<instance>
+<ID>1EEF66AC-0C72-4DAC-8986-0AD8D5C84A91</ID>
+<code>HUR Possession</code>
+<start>2484.30009527</start>
+<end>2487.600059617</end>
+</instance>
+<instance>
+<ID>6A1923CC-F10D-4659-8D1E-296CBF69E352</ID>
+<code>HUR Possession</code>
+<start>2489.900089826</start>
+<end>2505.300061947</end>
+</instance>
+<instance>
+<ID>B88B6AF9-21C4-436F-A9AD-25D8AE4D7319</ID>
+<code>HUR Possession</code>
+<start>2544.500194475</start>
+<end>2549.10007125</end>
+</instance>
+<instance>
+<ID>073F8935-79EE-413D-8D47-14F620F17CEF</ID>
+<code>HUR Possession</code>
+<start>2607.100083855</start>
+<end>2653.704488596</end>
+</instance>
+<instance>
+<ID>7C65D0C2-F480-4CB9-9B52-9F9E9D98BCB2</ID>
+<code>HUR Possession</code>
+<start>2663.402674347</start>
+<end>2686.400201459</end>
+</instance>
+<instance>
+<ID>6CA84BFA-1B58-443F-BD5E-F59243699E1D</ID>
+<code>HUR Possession</code>
+<start>2733.500182132</start>
+<end>2736.100076671</end>
+</instance>
+<instance>
+<ID>F930543D-C605-4B31-9325-8DDE8EC4D018</ID>
+<code>HUR Possession</code>
+<start>2804.400046493</start>
+<end>2820.200090948</end>
+</instance>
+<instance>
+<ID>C6E23E3B-E002-4049-ADAC-65524BB516EE</ID>
+<code>HUR Possession</code>
+<start>2856.500063173</start>
+<end>2876.600065924</end>
+</instance>
+<instance>
+<ID>5E3D222A-AFED-47BE-8CA0-A9BADE123C22</ID>
+<code>HUR Possession</code>
+<start>2890.200092936</start>
+<end>2899.500305698</end>
+</instance>
+<instance>
+<ID>FFF1848F-D972-47D8-A512-591E6702DCE5</ID>
+<code>HUR Possession</code>
+<start>2914.808379097</start>
+<end>2917.400090772</end>
+</instance>
+<instance>
+<ID>4FCE1A5F-4702-4267-8623-AD5E7434A2C8</ID>
+<code>HUR Possession</code>
+<start>2928.800116143</start>
+<end>2940.200100823</end>
+</instance>
+<instance>
+<ID>7D220487-3083-499E-A80E-6C27F5E68CA5</ID>
+<code>HUR Possession</code>
+<start>2942.201453708</start>
+<end>2950.500092261</end>
+</instance>
+<instance>
+<ID>F905A2E1-FCA3-4AC1-9D82-020C2DAD129B</ID>
+<code>HUR Possession</code>
+<start>2957.900049034</start>
+<end>2986.700410376</end>
+</instance>
+<instance>
+<ID>7A4DA179-7E59-4E3C-A5F4-B0451BCFDDF8</ID>
+<code>HUR Possession</code>
+<start>3000.000127262</start>
+<end>3033.804783075</end>
+</instance>
+<instance>
+<ID>53DE449D-7031-449C-A038-2DDF027BDA02</ID>
+<code>HUR Possession</code>
+<start>3136.60841671</start>
+<end>3160.300105318</end>
+</instance>
+<instance>
+<ID>8F7BD40E-3740-41F5-B368-BE3958730B75</ID>
+<code>HUR Possession</code>
+<start>3164.300107998</start>
+<end>3175.300782123</end>
+</instance>
+<instance>
+<ID>759B5AD9-8925-489B-873D-1BD9309D06C8</ID>
+<code>HUR Possession</code>
+<start>3200.900140755</start>
+<end>3211.600067233</end>
+</instance>
+<instance>
+<ID>977AD784-88BB-4C2E-AE33-1B5EBD6C79EA</ID>
+<code>HUR Possession</code>
+<start>3255.200075379</start>
+<end>3268.900106838</end>
+</instance>
+<instance>
+<ID>06F922F8-57BA-477F-8215-28EB5EF5D390</ID>
+<code>HUR Possession</code>
+<start>3428.500098304</start>
+<end>3431.800081524</end>
+</instance>
+<instance>
+<ID>832BA0F4-F0A1-4CA0-B2F2-A73B60EC5CA1</ID>
+<code>HUR Possession</code>
+<start>3436.700092009</start>
+<end>3449.200086447</end>
+</instance>
+<instance>
+<ID>EC94FC02-A9D8-45FF-BDD5-D68095E5FC17</ID>
+<code>HUR Possession</code>
+<start>3453.206677667</start>
+<end>3471.200077228</end>
+</instance>
+<instance>
+<ID>BC9BCC45-D207-49E9-8197-02DA37923D77</ID>
+<code>HUR Possession</code>
+<start>3489.000088448</start>
+<end>3529.600044957</end>
+</instance>
+<instance>
+<ID>EEA8D888-9551-477E-A018-E6688B9271D4</ID>
+<code>HUR Possession</code>
+<start>3552.700092661</start>
+<end>3575.600177339</end>
+</instance>
+<instance>
+<ID>ABAF6F18-3CCA-4AE4-9409-DC1CDF2E325C</ID>
+<code>HUR Possession</code>
+<start>3579.500254837</start>
+<end>3643.000683027</end>
+</instance>
+<instance>
+<ID>DDC9758E-1A27-4098-9954-567056952C06</ID>
+<code>HUR Possession</code>
+<start>3657.000106096</start>
+<end>3695.10007218</end>
+</instance>
+<instance>
+<ID>637C8C9E-78CD-464F-B94A-20A445A73B36</ID>
+<code>HUR Possession</code>
+<start>3734.900114337</start>
+<end>3750.200112504</end>
+</instance>
+<instance>
+<ID>16DB0053-A23D-41B4-B4B5-62BAAC83D925</ID>
+<code>HUR Possession</code>
+<start>3797.60007729</start>
+<end>3811.707986286</end>
+</instance>
+<instance>
+<ID>F14D1378-AFDA-4EE3-90FE-88E3C692A2CD</ID>
+<code>HUR Possession</code>
+<start>3825.100144964</start>
+<end>3826.900126853</end>
+</instance>
+<instance>
+<ID>470CC94E-9537-4932-87B9-41627C5BADD7</ID>
+<code>HUR Possession</code>
+<start>3829.600052591</start>
+<end>3843.800043284</end>
+</instance>
+<instance>
+<ID>8B02DFC4-90BC-45A0-B62A-D1B3B56EF2DB</ID>
+<code>HUR Possession</code>
+<start>3849.800090977</start>
+<end>3880.700085007</end>
+</instance>
+<instance>
+<ID>B0DF7F7D-BD85-4C5F-9920-4F688DB1B5E8</ID>
+<code>HUR Possession</code>
+<start>3924.301587171</start>
+<end>3933.900072448</end>
+</instance>
+<instance>
+<ID>9ED71131-199F-4A9C-B395-A2911DD22A34</ID>
+<code>HUR Possession</code>
+<start>3966.400043639</start>
+<end>3988.100149056</end>
+</instance>
+<instance>
+<ID>F3AF7A66-6647-43E8-9244-BB158158D79D</ID>
+<code>HUR Possession</code>
+<start>4017.403231557</start>
+<end>4023.900088514</end>
+</instance>
+<instance>
+<ID>B128C610-453F-40F7-8B75-30BC59AD2F3B</ID>
+<code>HUR Possession</code>
+<start>4029.403888485</start>
+<end>4072.904118651</end>
+</instance>
+<instance>
+<ID>5B8B3D5E-48AC-4DA9-8885-C9A7D397BB37</ID>
+<code>HUR Possession</code>
+<start>4102.00008534</start>
+<end>4126.900090017</end>
+</instance>
+<instance>
+<ID>553199B0-B2FB-412D-9C33-B984F14F5716</ID>
+<code>HUR Possession</code>
+<start>4131.500106797</start>
+<end>4146.90006723</end>
+</instance>
+<instance>
+<ID>E8721B7E-65CF-4786-AF6C-6E07E48B4EA1</ID>
+<code>HUR Possession</code>
+<start>4160.200054271</start>
+<end>4183.700077453</end>
+</instance>
+<instance>
+<ID>A94B1ACD-C823-4212-A8B6-DA4807ABA371</ID>
+<code>HUR Possession</code>
+<start>4200.600068874</start>
+<end>4215.200100749</end>
+</instance>
+<instance>
+<ID>C113A709-E3D3-47D6-BC5D-20470B93A606</ID>
+<code>HUR Possession</code>
+<start>4220.600088495</start>
+<end>4241.800274304</end>
+</instance>
+<instance>
+<ID>0AE3D927-B98C-4618-BC1E-2E7904B6C12C</ID>
+<code>HUR SCA</code>
+<start>382.100083894</start>
+<end>405.700082574</end>
+</instance>
+<instance>
+<ID>63FC34FF-0D14-4626-8B7A-B0D1E7C28952</ID>
+<code>HUR SCA</code>
+<start>2070.803623234</start>
+<end>2091.905198233</end>
+</instance>
+<instance>
+<ID>F01D5D7B-98B1-485D-A7AC-E6FAF72DF211</ID>
+<code>HUR SCA</code>
+<start>2541.500194475</start>
+<end>2549.10007125</end>
+</instance>
+<instance>
+<ID>1EAF6DBF-359E-4CA0-BB26-A9C10B4E831B</ID>
+<code>HUR Schot</code>
+<start>59.800240551</start>
+<end>71.800240551</end>
+</instance>
+<instance>
+<ID>F672A02A-9BCF-47AF-94B2-1F6C34302032</ID>
+<code>HUR Schot</code>
+<start>253.60013887600002</start>
+<end>261.18585138941205</end>
+</instance>
+<instance>
+<ID>291BC5DD-30CA-433E-96A6-502A3E602267</ID>
+<code>HUR Schot</code>
+<start>261.18585138941205</start>
+<end>267.700066342</end>
+</instance>
+<instance>
+<ID>FF29E384-1052-4E80-819B-96DACEEE1476</ID>
+<code>HUR Schot</code>
+<start>380.70008756</start>
+<end>392.70008756</end>
+</instance>
+<instance>
+<ID>020F6E50-EA66-459C-970D-3D3DCE894221</ID>
+<code>HUR Schot</code>
+<start>491.500271578</start>
+<end>503.500271578</end>
+</instance>
+<instance>
+<ID>67849D38-94EF-4D23-9209-21C67E03D5F9</ID>
+<code>HUR Schot</code>
+<start>703.600106401</start>
+<end>715.600106401</end>
+</instance>
+<instance>
+<ID>487D37BC-70C2-4733-AE63-27188DA8F39E</ID>
+<code>HUR Schot</code>
+<start>1618.400108301</start>
+<end>1629.4000970089999</end>
+</instance>
+<instance>
+<ID>BF3DA352-225B-486A-8D13-6ED56E86AEDA</ID>
+<code>HUR Schot</code>
+<start>1772.100057182</start>
+<end>1784.100057182</end>
+</instance>
+<instance>
+<ID>CB3E72C6-32AB-4D4D-9AAC-C59D1908144C</ID>
+<code>HUR Schot</code>
+<start>2069.603078983</start>
+<end>2081.603078983</end>
+</instance>
+<instance>
+<ID>48A51248-B434-4D8A-B702-EE1CA70FCCE1</ID>
+<code>HUR Schot</code>
+<start>2540.900095543</start>
+<end>2550.1001017500002</end>
+</instance>
+<instance>
+<ID>08387D67-D397-4E2F-A656-F29A64EBCB57</ID>
+<code>HUR Schot</code>
+<start>3619.900058956</start>
+<end>3631.900058956</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<ID>5B68A770-7813-4B67-AC46-A3F947068404</ID>
+<code>Begin Quarter</code>
+<R>257</R>
+<G>257</G>
+<B>257</B>
+</row>
+<row>
+<ID>22161540-9AC6-4A4D-B20D-58463E694520</ID>
+<code>Q1</code>
+<R>257</R>
+<G>257</G>
+<B>257</B>
+</row>
+<row>
+<ID>C2ABBC7D-FF43-4922-B498-EE7A119AD25B</ID>
+<code>Q2</code>
+<R>257</R>
+<G>257</G>
+<B>257</B>
+</row>
+<row>
+<ID>A264E74F-731F-4811-8C51-24FF8BACC704</ID>
+<code>Q3</code>
+<R>257</R>
+<G>257</G>
+<B>257</B>
+</row>
+<row>
+<ID>3870CB1F-5203-4216-8796-5B4A3F019DB5</ID>
+<code>Q4</code>
+<R>257</R>
+<G>257</G>
+<B>257</B>
+</row>
+<row>
+<ID>4423F410-A281-4573-B17E-89653C6D3046</ID>
+<code>Scheidsrechter</code>
+<R>257</R>
+<G>257</G>
+<B>257</B>
+</row>
+<row>
+<ID>F86D1CB0-BC50-46F9-A8C0-A4656FC06435</ID>
+<code>AMS 23m Possession</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>118D560E-AC0F-4443-845F-FCCB8D4B5173</ID>
+<code>AMS ASC</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>1072A396-1362-4F57-91CF-FC35850D8B6D</ID>
+<code>AMS BS0</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>C943391E-1803-4E5A-8470-9BDCC406F8CD</ID>
+<code>AMS BS1</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>7C46EB12-72C4-40D2-8707-C8C95503F281</ID>
+<code>AMS BS2</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>FE8C927A-891C-4259-AA68-2707FEBAFFD2</ID>
+<code>AMS BS3</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>001FCB97-2EE4-43F4-8080-4207796B3359</ID>
+<code>AMS BS4</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>7B9DBB42-37A1-46B9-A633-8F70AB4CDB45</ID>
+<code>AMS BS5</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>69CB19E1-A1C9-4FA9-AF00-11E3C0FFB5A4</ID>
+<code>AMS BW0</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>D13A1066-CE4F-433E-850D-E68823E6A0F3</ID>
+<code>AMS BW1</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>DDA17C68-8A3C-4047-83CA-625F129BC594</ID>
+<code>AMS BW2</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>FCE36BCF-E7FC-4FCB-B0F2-258CF787879F</ID>
+<code>AMS BW3</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>0006D894-7467-4834-9DF1-F2BFD2C1D6C9</ID>
+<code>AMS BW4</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>8125BCDD-5CDB-4B09-A6B6-D12E8BC85D69</ID>
+<code>AMS BW5</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>3CDA94D5-C095-4CD1-AC85-FB72BBCE9671</ID>
+<code>AMS Cirkel Entry</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>96F1BE19-C942-471D-A55B-3D10BD47BDB9</ID>
+<code>AMS Goal</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>3A6EF58C-218D-49F7-A3F6-568CF0A7CEB7</ID>
+<code>AMS Lange Corner</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>D91FF58A-7AE4-47A8-BB90-B16D38DB6D51</ID>
+<code>AMS Possession</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>5215A4AA-8FBA-4A28-B871-B40842E1A6E5</ID>
+<code>AMS SCA</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>1B072189-8ADE-4BB0-A74F-7BFA9F86FC12</ID>
+<code>AMS Schot</code>
+<R>62194</R>
+<G>59367</G>
+<B>59110</B>
+</row>
+<row>
+<ID>CDE7F497-F6A4-45C6-83D4-CDB38A592D5B</ID>
+<code>HUR 23m Possession</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>AADFE02C-5111-4453-A4B5-7E8F27ED6712</ID>
+<code>HUR ASC</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>9736151B-3D36-4367-9491-6D361141CF30</ID>
+<code>HUR BS0</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>EAEB8A17-A884-4791-9FA5-883C0B7E6015</ID>
+<code>HUR BS1</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>B28B3DC0-AD44-40E3-8618-2EA5976D33BE</ID>
+<code>HUR BS2</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>2F8BDE5C-BF98-4676-9A3E-46524D4CA891</ID>
+<code>HUR BS3</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>DCC482AD-289D-49DF-BB07-933F9899479D</ID>
+<code>HUR BS4</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>B7867D72-A2B5-4860-AE47-AF9444B713FA</ID>
+<code>HUR BS5</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>A80FDD37-8B85-49FF-A8AC-9FB9E38ACFDF</ID>
+<code>HUR BW0</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>9AFA3B0B-19D1-4CEE-8DB8-C962C55B4502</ID>
+<code>HUR BW1</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>2F9D49BF-9363-41AF-8B15-4335C86AE88A</ID>
+<code>HUR BW2</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>D5A3B50F-15F1-439D-A812-5E77B4D2F6DC</ID>
+<code>HUR BW3</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>78FBE8FC-B1AF-4937-98F1-B23F54EA3DC5</ID>
+<code>HUR BW4</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>AB873FF2-6C93-4EAB-8695-B50DE1A0AB1D</ID>
+<code>HUR BW5</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>46D21CE5-0415-489A-893D-7399F2F1D3DC</ID>
+<code>HUR Cirkel Entry</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>2AC18D85-5585-4C84-9095-A6B7A475AEE6</ID>
+<code>HUR Goal</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>35867DD5-40A7-4B26-B0CD-DCF117B260B8</ID>
+<code>HUR Lange Corner</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>27EB81A4-C929-4292-A3AE-B1013C0975DA</ID>
+<code>HUR Possession</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>5500E0C5-35AE-4AA0-A3EF-CC0F14FAF8BD</ID>
+<code>HUR SCA</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+<row>
+<ID>F2F6D7DE-7522-420A-9C64-86BE9585D583</ID>
+<code>HUR Schot</code>
+<R>0</R>
+<G>47545</G>
+<B>57568</B>
+</row>
+</ROWS>
+</file>

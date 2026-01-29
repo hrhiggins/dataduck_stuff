@@ -1,0 +1,8806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>BS1 KAM</code>
+<start>338.10007675</start>
+<end>363.200077416</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KAM</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>BS1 KAM</code>
+<start>411.20012824900004</start>
+<end>470.100082499</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>BS1 KAM</code>
+<start>634.3000866140001</start>
+<end>676.700083489</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>BS1 KAM</code>
+<start>1278.20205462</start>
+<end>1291.50526333</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>BS1 KAM</code>
+<start>1390.300060782</start>
+<end>1438.200091948</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>BS1 KAM</code>
+<start>1838.6001670659998</start>
+<end>1893.100068617</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>BS1 KAM</code>
+<start>1973.7000806689998</start>
+<end>1996.200070196</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>BS1 KAM</code>
+<start>2481.200190173</start>
+<end>2514.700053965</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>BS1 KAM</code>
+<start>2756.300079516</start>
+<end>2777.400184683</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>BS1 KAM</code>
+<start>2829.600125142</start>
+<end>2857.4001681</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>BS1 KAM</code>
+<start>3002.700080343</start>
+<end>3034.800098093</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>BS1 KAM</code>
+<start>3097.600182758</start>
+<end>3140.000147369</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>BS1 KAM</code>
+<start>3300.700095438</start>
+<end>3342.20088278</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>BS1 KAM</code>
+<start>3589.8001951339998</start>
+<end>3618.000139754</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>BS1 KAM</code>
+<start>3681.200043219</start>
+<end>3695.200107677</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>BS1 KAM</code>
+<start>3882.6001629849998</start>
+<end>3891.800156069</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KAM</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>BS1 KZ</code>
+<start>476.400073082</start>
+<end>492.700095958</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>BS1 KZ</code>
+<start>539.500077823</start>
+<end>558.100115069</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>BS1 KZ</code>
+<start>906.400136409</start>
+<end>917.800146493</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>BS1 KZ</code>
+<start>1112.300088086</start>
+<end>1123.500093918</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>BS1 KZ</code>
+<start>1567.200084868</start>
+<end>1582.600062659</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>BS1 KZ</code>
+<start>2046.5000931089999</start>
+<end>2064.800077942</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>BS1 KZ</code>
+<start>2238.8001366529998</start>
+<end>2249.400126071</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>BS1 KZ</code>
+<start>2274.800085112</start>
+<end>2281.400112358</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>BS1 KZ</code>
+<start>2323.400090589</start>
+<end>2335.600104131</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>BS1 KZ</code>
+<start>2684.7000764239997</start>
+<end>2705.000414158</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KAM</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>BS1 KZ</code>
+<start>2900.100142496</start>
+<end>2922.200101331</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>BS1 KZ</code>
+<start>2950.7001276769997</start>
+<end>2968.700089051</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>BS1 KZ</code>
+<start>3344.200093906</start>
+<end>3357.500478238</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>BS1 KZ</code>
+<start>3396.200089945</start>
+<end>3419.200154945</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>BS1 KZ</code>
+<start>3419.2101549450003</start>
+<end>3428.30007219</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>BS1 KZ</code>
+<start>3470.7000918569997</start>
+<end>3497.100111023</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>BS1 KZ</code>
+<start>3545.700077404</start>
+<end>3572.400167426</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>BS1 KZ</code>
+<start>3696.400154678</start>
+<end>3709.600090553</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>BS1 KZ</code>
+<start>3801.700098947</start>
+<end>3818.600090534</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BS1 KZ</code>
+<start>3853.900109284</start>
+<end>3861.900171325</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BS1 KZ</code>
+<start>3968.700090321</start>
+<end>3995.200047108</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BS1 KZ</code>
+<start>4134.400381412001</start>
+<end>4143.000092486</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BS1 KZ</code>
+<start>4212.500080986</start>
+<end>4217.506867941</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BS2 KAM</code>
+<start>1.6002885819999997</start>
+<end>20.600116207</end>
+<label>
+<text>QUARTER: Q0</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BS2 KAM</code>
+<start>916.5000879080001</start>
+<end>927.200069784</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BS2 KAM</code>
+<start>1083.600164835</start>
+<end>1110.200074085</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BS2 KAM</code>
+<start>1765.000140073</start>
+<end>1788.600061947</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BS2 KAM</code>
+<start>2112.600181208</start>
+<end>2127.600083916</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BS2 KAM</code>
+<start>2139.4001508329998</start>
+<end>2150.100061741</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BS2 KAM</code>
+<start>2192.7010477559998</start>
+<end>2206.901599881</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BS2 KAM</code>
+<start>2715.4001341999997</start>
+<end>2735.4001961</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BS2 KAM</code>
+<start>2873.500119631</start>
+<end>2900.400096913</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BS2 KAM</code>
+<start>2919.000120465</start>
+<end>2927.800119506</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BS2 KAM</code>
+<start>3356.800083322</start>
+<end>3369.400088656</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BS2 KAM</code>
+<start>3496.200110106</start>
+<end>3502.50005094</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BS2 KAM</code>
+<start>3758.300104527</start>
+<end>3788.300096196</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>FH: FH KAM</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BS2 KAM</code>
+<start>4045.80011255</start>
+<end>4069.700088399</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BS2 KZ</code>
+<start>593.300072868</start>
+<end>609.90012891</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KZ</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BS2 KZ</code>
+<start>926.300070868</start>
+<end>955.200107233</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BS2 KZ</code>
+<start>1221.200092787</start>
+<end>1229.400084287</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BS2 KZ</code>
+<start>2093.2000989569997</start>
+<end>2111.500165749</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BS2 KZ</code>
+<start>2130.800108999</start>
+<end>2139.300086208</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BS2 KZ</code>
+<start>2174.60022299</start>
+<end>2193.700065797</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BS2 KZ</code>
+<start>3268.0000772999997</start>
+<end>3297.100062105</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KAM</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BS3 KAM</code>
+<start>494.400059875</start>
+<end>510.400070083</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BS3 KAM</code>
+<start>1119.8001876689998</start>
+<end>1154.804243918</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BS3 KAM</code>
+<start>1194.900051377</start>
+<end>1205.40012262</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BS3 KAM</code>
+<start>1908.3000841589999</start>
+<end>1937.200154526</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BS3 KAM</code>
+<start>2067.800095733</start>
+<end>2095.400128692</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BS3 KAM</code>
+<start>2207.4004933389997</start>
+<end>2236.800068237</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BS3 KAM</code>
+<start>2308.100095965</start>
+<end>2323.300087923</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KAM</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BS3 KAM</code>
+<start>2332.400083337</start>
+<end>2348.700141581</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KAM</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BS3 KAM</code>
+<start>2511.600203467</start>
+<end>2520.600119466</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KAM</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BS3 KAM</code>
+<start>2520.610119466</start>
+<end>2562.700060965</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>FH: FH KAM</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KAM</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BS3 KAM</code>
+<start>2856.700099016</start>
+<end>2865.8001716</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BS3 KAM</code>
+<start>2931.90011267</start>
+<end>2946.300098635</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KAM</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BS3 KAM</code>
+<start>3044.600195677</start>
+<end>3052.900069134</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BS3 KAM</code>
+<start>3364.803050635</start>
+<end>3375.602528258</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BS3 KAM</code>
+<start>3623.700070218</start>
+<end>3632.900188964</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BS3 KAM</code>
+<start>3886.5000855929998</start>
+<end>3912.200087361</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BS3 KZ</code>
+<start>379.20006929100003</start>
+<end>412.300109874</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KAM</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BS3 KZ</code>
+<start>1228.3000888279998</start>
+<end>1243.700075328</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BS3 KZ</code>
+<start>1287.5001045279998</start>
+<end>1314.300064574</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KZ</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BS3 KZ</code>
+<start>1578.700071921</start>
+<end>1636.700065735</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FAST: FAST RETAKE KZ</text>
+</label>
+<label>
+<text>FAST: FAST RETAKET KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BS3 KZ</code>
+<start>2787.900097017</start>
+<end>2828.70008235</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BS3 KZ</code>
+<start>2979.600123719</start>
+<end>2993.900091593</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BS3 KZ</code>
+<start>3070.000197676</start>
+<end>3084.500157049</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BS3 KZ</code>
+<start>3704.800094047</start>
+<end>3725.20008886</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BS4 KAM</code>
+<start>19.500083415000002</start>
+<end>40.400163416</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BS4 KAM</code>
+<start>40.410163415999996</start>
+<end>56.600095541</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BS4 KAM</code>
+<start>56.800191791</start>
+<end>70.300098708</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BS4 KAM</code>
+<start>76.10014616599999</start>
+<end>93.000178167</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BS4 KAM</code>
+<start>93.500114875</start>
+<end>130.600090876</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BS4 KAM</code>
+<start>132.400168958</start>
+<end>158.100065204</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KAM</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BS4 KAM</code>
+<start>260.70007057000004</start>
+<end>281.900085821</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FH: FH KAM</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BS4 KAM</code>
+<start>525.000077612</start>
+<end>538.700096448</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FH: FH KAM</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BS4 KAM</code>
+<start>1154.3000656269999</start>
+<end>1174.205834669</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BS4 KAM</code>
+<start>1174.215834669</start>
+<end>1185.203279961</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BS4 KAM</code>
+<start>1505.800067656</start>
+<end>1535.500162921</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BS4 KAM</code>
+<start>1636.9000921499999</start>
+<end>1673.600059692</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BS4 KAM</code>
+<start>1673.610059692</start>
+<end>1699.900968789</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 4 BUILD-UP KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BS4 KAM</code>
+<start>1743.300062335</start>
+<end>1750.100155239</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BS4 KAM</code>
+<start>1787.100165696</start>
+<end>1813.500128571</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BS4 KAM</code>
+<start>1995.600132779</start>
+<end>2013.600080487</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BS4 KAM</code>
+<start>2013.610080487</start>
+<end>2028.700094029</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BS4 KAM</code>
+<start>2028.710094029</start>
+<end>2045.400081942</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BS4 KAM</code>
+<start>2247.300105747</start>
+<end>2258.100119238</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BS4 KAM</code>
+<start>2260.3000762789998</start>
+<end>2271.400142653</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FH: FH KAM</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BS4 KAM</code>
+<start>2569.50007784</start>
+<end>2597.300052858</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BS4 KAM</code>
+<start>2599.600214692</start>
+<end>2618.505131575</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BS4 KAM</code>
+<start>3374.601639092</start>
+<end>3394.600075487</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FH: FH KAM</text>
+</label>
+<label>
+<text>FH: FHT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BS4 KAM</code>
+<start>4085.000117078</start>
+<end>4108.100068411</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BS4 KAM</code>
+<start>4108.110068411001</start>
+<end>4128.500105747</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>BS4 KAM</code>
+<start>4259.700086950001</start>
+<end>4266.700092427</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>BS4 KZ</code>
+<start>614.000095743</start>
+<end>627.300090864</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KAM</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>BS4 KZ</code>
+<start>765.202091243</start>
+<end>798.100077362</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>BS4 KZ</code>
+<start>798.110077362</start>
+<end>851.800137284</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>BS4 KZ</code>
+<start>1247.100149619</start>
+<end>1268.907129787</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>BS4 KZ</code>
+<start>1954.6001644429998</start>
+<end>1975.500105568</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>BS4 KZ</code>
+<start>3574.5001190499997</start>
+<end>3590.900079551</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KAM</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>BS4 KZ</code>
+<start>3729.000100402</start>
+<end>3748.400113777</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>BS4 KZ</code>
+<start>4004.301753882</start>
+<end>4023.000085884</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>BW1 KAM</code>
+<start>330.000062415</start>
+<end>342.100126206</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>BW1 KAM</code>
+<start>509.900076487</start>
+<end>524.600087695</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>BW1 KAM</code>
+<start>742.200061153</start>
+<end>754.800091288</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>BW1 KAM</code>
+<start>1264.907129787</start>
+<end>1276.406952954</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>BW1 KAM</code>
+<start>1470.600080339</start>
+<end>1507.20343924</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>BW1 KAM</code>
+<start>3080.500157049</start>
+<end>3095.400118258</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>BW1 KAM</code>
+<start>3424.30007219</start>
+<end>3467.500164981</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>BW1 KAM</code>
+<start>3744.400113777</start>
+<end>3755.600098652</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>BW1 KAM</code>
+<start>4019.000085884</start>
+<end>4044.300064175</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>BW1 KZ</code>
+<start>154.100065204</start>
+<end>164.100063031</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>BW1 KZ</code>
+<start>318.804696706</start>
+<end>334.000062415</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>BW1 KZ</code>
+<start>359.200077416</start>
+<end>378.800155874</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>BW1 KZ</code>
+<start>506.400070083</start>
+<end>513.900076487</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>BW1 KZ</code>
+<start>672.700083489</start>
+<end>682.000162863</end>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KZ</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>BW1 KZ</code>
+<start>694.400141668</start>
+<end>746.200061153</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BW1 KZ</code>
+<start>1181.203279961</start>
+<end>1195.003658294</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BW1 KZ</code>
+<start>1201.40012262</start>
+<end>1217.600057787</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BW1 KZ</code>
+<start>1434.200091948</start>
+<end>1474.600080339</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>FH: FH KZ</text>
+</label>
+<label>
+<text>FH: FHT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BW1 KZ</code>
+<start>1531.500162921</start>
+<end>1551.600091796</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BW1 KZ</code>
+<start>1746.100155239</start>
+<end>1758.800095281</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BW1 KZ</code>
+<start>1809.500128571</start>
+<end>1835.0000764</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KAM</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BW1 KZ</code>
+<start>1889.100068617</start>
+<end>1905.200242118</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BW1 KZ</code>
+<start>1933.200154526</start>
+<end>1954.90007111</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BW1 KZ</code>
+<start>2146.100061741</start>
+<end>2174.30009024</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BW1 KZ</code>
+<start>2303.100112592</start>
+<end>2312.500042717</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BW1 KZ</code>
+<start>2392.305656091</start>
+<end>2416.800090703</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BW1 KZ</code>
+<start>2773.400184683</start>
+<end>2788.100080766</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BW1 KZ</code>
+<start>2861.8001716</start>
+<end>2876.9000756</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BW1 KZ</code>
+<start>2923.800119506</start>
+<end>2935.800189757</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BW1 KZ</code>
+<start>3048.900069134</start>
+<end>3067.8000993</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BW1 KZ</code>
+<start>3498.50005094</start>
+<end>3512.600098606</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BW1 KZ</code>
+<start>3614.000139754</start>
+<end>3627.900081297</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BW1 KZ</code>
+<start>3628.900188964</start>
+<end>3682.700079219</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KAM</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BW1 KZ</code>
+<start>3784.300096196</start>
+<end>3790.800175571</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BW1 KZ</code>
+<start>3791.900089112</start>
+<end>3802.500086196</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BW1 KZ</code>
+<start>3830.900101659</start>
+<end>3850.700120742</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BW1 KZ</code>
+<start>4065.700088399</start>
+<end>4073.400170192</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL1 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BW1 KZ</code>
+<start>4074.800150579</start>
+<end>4085.100082786</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BW1 KZ</code>
+<start>4216.900110369</start>
+<end>4229.400074157</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BW1 KZ</code>
+<start>4246.800064117</start>
+<end>4260.000060034</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BW1 KZ</code>
+<start>4262.700092427</start>
+<end>4268.30007405</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BW2 KAM</code>
+<start>160.100063031</start>
+<end>174.700090947</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BW2 KAM</code>
+<start>205.10007682</start>
+<end>261.000363612</end>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KAM</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: 25 PRESS KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BW2 KAM</code>
+<start>2701.000414158</start>
+<end>2716.100074451</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KAM</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BW2 KAM</code>
+<start>3508.600098606</start>
+<end>3545.400134321</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BW2 KAM</code>
+<start>3814.600090534</start>
+<end>3834.900101659</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BW2 KAM</code>
+<start>3857.900171325</start>
+<end>3867.200089236</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BW2 KAM</code>
+<start>4139.000092486</start>
+<end>4175.400069106</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BW2 KAM</code>
+<start>4225.400074157</start>
+<end>4250.800064117</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BW2 KZ</code>
+<start>170.700090947</start>
+<end>209.10007682</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL3 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BW2 KZ</code>
+<start>2731.4001961</start>
+<end>2756.600142475</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BW3 KAM</code>
+<start>554.100115069</start>
+<end>597.700071944</end>
+<label>
+<text>PRESSSHAPE: ZONE PRESS KAM</text>
+</label>
+<label>
+<text>PRESSSHAPE: 75 PRESS KAM</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BUILD-UPSHAPE: 5 BUILD-UP KAM</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BW3 KAM</code>
+<start>677.200067502</start>
+<end>698.400141668</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BW3 KAM</code>
+<start>847.800137284</start>
+<end>905.600094368</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BW3 KAM</code>
+<start>2277.400112358</start>
+<end>2307.100112592</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BW3 KAM</code>
+<start>3786.800175571</start>
+<end>3795.900089112</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BW3 KZ</code>
+<start>3863.200089236</start>
+<end>3883.300097861</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BW4 KAM</code>
+<start>4069.400170192</start>
+<end>4078.800150579</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BW4 KAM</code>
+<start>4213.506867941</start>
+<end>4220.900110369</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BW4 KAM</code>
+<start>4262.600082508</start>
+<end>4278.24</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BW4 KZ</code>
+<start>750.800091288</start>
+<end>767.700086205</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>CHANCE KAM</code>
+<start>47.600093291</start>
+<end>55.600093291</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>CHANCE KAM</code>
+<start>1498.604192615</start>
+<end>1506.604192615</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>CHANCE KAM</code>
+<start>1664.100082318</start>
+<end>1672.100082318</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>CHANCE KAM</code>
+<start>2302.800071775</start>
+<end>2310.800071775</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>CHANCE KAM</code>
+<start>2889.900073872</start>
+<end>2897.900073872</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>CHANCE KAM</code>
+<start>2937.600121093</start>
+<end>2945.600121093</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>CHANCE KAM</code>
+<start>3333.200092905</start>
+<end>3341.200092905</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>CHANCE KZ</code>
+<start>617.60011528</start>
+<end>625.60011528</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>CHANCE KZ</code>
+<start>739.60010032</start>
+<end>747.60010032</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>CHANCE KZ</code>
+<start>1825.700294274</start>
+<end>1833.700294274</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>CP KAM</code>
+<start>19.400067915999998</start>
+<end>40.400163416</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>CP KAM</code>
+<start>40.410163415999996</start>
+<end>56.600095541</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>CP KAM</code>
+<start>70.200074125</start>
+<end>93.000178167</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>CP KAM</code>
+<start>255.800099154</start>
+<end>281.900085821</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>CP KAM</code>
+<start>345.100112208</start>
+<end>363.200077416</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>CP KAM</code>
+<start>514.500121115</start>
+<end>538.700096448</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>CP KAM</code>
+<start>655.700075655</start>
+<end>676.700083489</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>CP KAM</code>
+<start>1165.602143919</start>
+<end>1185.203279961</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>CP KAM</code>
+<start>1483.700940489</start>
+<end>1507.20343924</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>CP KAM</code>
+<start>1515.200131399</start>
+<end>1535.500162921</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>CP KAM</code>
+<start>1642.900066027</start>
+<end>1673.600059692</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>CP KAM</code>
+<start>1732.40018624</start>
+<end>1750.100155239</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>CP KAM</code>
+<start>1767.600112737</start>
+<end>1788.600061947</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>CP KAM</code>
+<start>1876.200157909</start>
+<end>1893.100068617</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>CP KAM</code>
+<start>1918.40008586</start>
+<end>1937.200154526</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>CP KAM</code>
+<start>1971.000116155</start>
+<end>1996.200070196</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>CP KAM</code>
+<start>2287.000167983</start>
+<end>2307.100112592</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>CP KAM</code>
+<start>2322.900214957</start>
+<end>2348.700141581</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>CP KAM</code>
+<start>2537.300125526</start>
+<end>2559.000075048</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>CP KAM</code>
+<start>2595.204936075</start>
+<end>2618.505131575</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>CP KAM</code>
+<start>2874.300081372</start>
+<end>2900.400096913</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>CP KAM</code>
+<start>2923.400145635</start>
+<end>2946.300098635</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>CP KAM</code>
+<start>3036.6000993</start>
+<end>3052.900069134</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>CP KAM</code>
+<start>3315.200096905</start>
+<end>3342.20088278</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>CP KAM</code>
+<start>3372.400146612</start>
+<end>3394.600075487</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>CP KAM</code>
+<start>3444.100075773</start>
+<end>3467.500164981</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>CP KAM</code>
+<start>3523.400160988</start>
+<end>3545.400134321</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>CP KAM</code>
+<start>3600.500134879</start>
+<end>3618.000139754</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>CP KAM</code>
+<start>3618.010139754</start>
+<end>3632.900188964</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>CP KAM</code>
+<start>3771.000169321</start>
+<end>3788.300096196</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>CP KAM</code>
+<start>3888.300045528</start>
+<end>3912.200087361</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>CP KAM</code>
+<start>4052.000143107</start>
+<end>4069.700088399</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>CP KAM</code>
+<start>4069.710088399</start>
+<end>4078.800150579</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>CP KAM</code>
+<start>4084.00019187</start>
+<end>4108.100068411</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>CP KAM</code>
+<start>4108.110068411001</start>
+<end>4128.500105747</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>224</ID>
+<code>CP KAM</code>
+<start>4150.700069481</start>
+<end>4175.400069106</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>CP KAM</code>
+<start>4223.400095076</start>
+<end>4250.800064117</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>CP KAM</code>
+<start>4250.810064117</start>
+<end>4266.700092427</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>CP KZ</code>
+<start>315.900084748</start>
+<end>334.000062415</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>CP KZ</code>
+<start>604.200114572</start>
+<end>627.300090864</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KAM</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>CP KZ</code>
+<start>724.300063028</start>
+<end>746.200061153</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>CP KZ</code>
+<start>771.696801607</start>
+<end>798.100077362</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>CP KZ</code>
+<start>1249.106551496</start>
+<end>1268.907129787</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>CP KZ</code>
+<start>1280.000064532</start>
+<end>1314.300064574</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>CP KZ</code>
+<start>1453.908037328</start>
+<end>1474.600080339</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>CP KZ</code>
+<start>1812.8002264</start>
+<end>1835.0000764</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KAM</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>CP KZ</code>
+<start>2389.700103661</start>
+<end>2416.800090703</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>CP KZ</code>
+<start>3550.500080426</start>
+<end>3572.400167426</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>CP KZ</code>
+<start>3572.410167426</start>
+<end>3590.900079551</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KAM</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>CP KZ</code>
+<start>3662.000059427</start>
+<end>3682.700079219</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KAM</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>CPC KAM</code>
+<start>261.300086113</start>
+<end>278.60008611300003</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>CPC KAM</code>
+<start>1679.401583623</start>
+<end>1696.701583623</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>CPC KAM</code>
+<start>2328.300073873</start>
+<end>2345.6000738730004</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>CPC KAM</code>
+<start>2598.8057677</start>
+<end>2616.1057677000003</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>CPC KAM</code>
+<start>3891.200209944</start>
+<end>3908.5002099440003</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>CPC KAM</code>
+<start>4155.200116397</start>
+<end>4172.500116397</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>CPC KZ</code>
+<start>1288.700076907</start>
+<end>1306.000076907</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>CPC KZ</code>
+<start>2395.900065328</start>
+<end>2413.200065328</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>FH KAM</code>
+<start>261.300080488</start>
+<end>281.900085821</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPC KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CPCT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>FH KAM</code>
+<start>525.90015882</start>
+<end>538.700096448</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>FH KAM</code>
+<start>2261.300115779</start>
+<end>2271.400142653</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>FH KAM</code>
+<start>2543.100086787</start>
+<end>2559.200092942</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KAM</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>FH KAM</code>
+<start>3380.90014107</start>
+<end>3394.600075487</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KZ</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>FH KAM</code>
+<start>3770.5000778599997</start>
+<end>3788.300096196</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>FH KZ</code>
+<start>765.807559576</start>
+<end>773.900076792</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>FH KZ</code>
+<start>1462.909382704</start>
+<end>1474.600080339</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>FH KZ</code>
+<start>3985.900115695</start>
+<end>3995.200047108</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>GREEN KZ</code>
+<start>2183.602192922</start>
+<end>2206.602192922</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>GREEN KZ</code>
+<start>4012.900084175</start>
+<end>4035.900084175</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>LC KAM</code>
+<start>56.800191791</start>
+<end>70.300098708</end>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>LC KAM</code>
+<start>76.10014616599999</start>
+<end>93.000178167</end>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER LEFT</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>LC KAM</code>
+<start>132.400168958</start>
+<end>158.100065204</end>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KAM</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>LC KAM</code>
+<start>1636.9000921499999</start>
+<end>1673.600059692</end>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCE KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: CHANCET KZ</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>LC KAM</code>
+<start>1743.300062335</start>
+<end>1750.100155239</end>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: CENTER RIGHT</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>LC KAM</code>
+<start>1787.100165696</start>
+<end>1813.500128571</end>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>LC KAM</code>
+<start>1995.600132779</start>
+<end>2013.600080487</end>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>LC KAM</code>
+<start>2027.200092863</start>
+<end>2045.400081942</end>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>LC KAM</code>
+<start>2569.50007784</start>
+<end>2597.300052858</end>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>LC KAM</code>
+<start>4107.700052661</start>
+<end>4128.500105747</end>
+<label>
+<text>TO ZONE: ZONE4 KAM</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KAM</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KZ</text>
+</label>
+<label>
+<text>CP LOCATION: RIGHT</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>LC KZ</code>
+<start>797.9000831540001</start>
+<end>851.800137284</end>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIAL KZ</text>
+</label>
+<label>
+<text>AERIAL: AERIALT KAM</text>
+</label>
+<label>
+<text>TO ZONE: ZONE1 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL2 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>LC KZ</code>
+<start>3574.5001190499997</start>
+<end>3590.900079551</end>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>EFFICIENCY: CP KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CPT KAM</text>
+</label>
+<label>
+<text>CP LOCATION: LEFT </text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSS KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: CP NO POSST KAM</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>LC KZ</code>
+<start>3729.000100402</start>
+<end>3748.400113777</end>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>LC KZ</code>
+<start>4004.301753882</start>
+<end>4023.000085884</end>
+<label>
+<text>TO ZONE: ZONE4 KZ</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>TO ZONE: ZONE3 KZ</text>
+</label>
+<label>
+<text>TO ZONE: ZONE2 KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25p KZ</text>
+</label>
+<label>
+<text>EFFICIENCY: 25pT KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KZ</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>PC KAM</code>
+<start>316.300078166</start>
+<end>322.804696706</end>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>PC KAM</code>
+<start>1736.100135592</start>
+<end>1745.800128509</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>PC KAM</code>
+<start>2385.00015463</start>
+<end>2396.305656091</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BL4 KAM</text>
+</label>
+<label>
+<text>BBM EFFICIENCY: BW1 KZ</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>PC KAM</code>
+<start>2651.400084591</start>
+<end>2675.900044341</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>PC KAM</code>
+<start>3947.200094674</start>
+<end>3963.600119259</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>PC KAM</code>
+<start>4209.500129258</start>
+<end>4219.600089883</end>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>PC KZ</code>
+<start>1362.100081074</start>
+<end>1374.100083782</end>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>PC KZ</code>
+<start>2455.700105673</start>
+<end>2466.800095172</end>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOT KZ</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: SOTT KAM</text>
+</label>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>SOT KAM</code>
+<start>1985.200072655</start>
+<end>1993.200072655</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>SOT KAM</code>
+<start>2652.500158424</start>
+<end>2660.500158424</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>SOT KAM</code>
+<start>4097.200157453</start>
+<end>4105.200157453</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q4</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>SOT KZ</code>
+<start>787.700062529</start>
+<end>795.700062529</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q1</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>SOT KZ</code>
+<start>1295.200076824</start>
+<end>1303.200076824</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>SOT KZ</code>
+<start>1363.60013924</start>
+<end>1371.60013924</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q2</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>SOT KZ</code>
+<start>2457.100079631</start>
+<end>2465.100079631</end>
+<label>
+<text>CIRCLEEFFICIENCY: EFFICIENCY</text>
+</label>
+<label>
+<text>QUARTER: Q3</text>
+</label>
+<label>
+<text>SCORE: KZ 0 - KAM 0</text>
+</label>
+<label>
+<text>SCORE: KZ 0</text>
+</label>
+<label>
+<text>SCORE: KAM 0</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>START</code>
+<start>2.20010479</start>
+<end>4.20010479</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>START</code>
+<start>1084.100118711</start>
+<end>1086.100118711</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>START</code>
+<start>2093.100066791</start>
+<end>2095.100066791</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>START</code>
+<start>3268.200088133</start>
+<end>3270.200088133</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>BS1 KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS2 KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS3 KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS4 KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW1 KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW2 KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW3 KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW4 KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>CHANCE KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CHANCE KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>CP KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>CPC KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CPC KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>FH KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>FH KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>GREEN KZ</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>LC KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>LC KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>PC KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>PC KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>SOT KAM</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>SOT KZ</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

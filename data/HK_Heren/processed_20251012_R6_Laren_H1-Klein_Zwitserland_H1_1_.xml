@@ -1,0 +1,2479 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>start</code>
+<start>34.400217264</start>
+<end>1033.200080332</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>start</code>
+<start>1169.000100708</start>
+<end>2071.600144164</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>start</code>
+<start>2819.300132156</start>
+<end>3955.800160124</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>start</code>
+<start>4086.300216</start>
+<end>5357.204805964</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>pause</code>
+<start>2.048159666</start>
+<end>34.400217264</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>pause</code>
+<start>904.700060166</start>
+<end>946.900075986</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>pause</code>
+<start>954.800125736</start>
+<end>970.400199486</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>pause</code>
+<start>980.000195236</start>
+<end>997.700201084</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>pause</code>
+<start>1033.200080332</start>
+<end>1169.000100708</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>pause</code>
+<start>2071.600144164</start>
+<end>2819.300132156</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>pause</code>
+<start>2843.40019074</start>
+<end>2931.500123186</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>pause</code>
+<start>3529.700153276</start>
+<end>3575.600136732</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>pause</code>
+<start>3587.400125984</start>
+<end>3606.600311004</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>pause</code>
+<start>3822.000129706</start>
+<end>3852.30011329</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>pause</code>
+<start>3955.800160124</start>
+<end>4086.300216</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>pause</code>
+<start>4144.000283248</start>
+<end>4187.90010453</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>pause</code>
+<start>4505.100117528</start>
+<end>4541.500234054</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>pause</code>
+<start>4549.100175388</start>
+<end>4592.000282386</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>pause</code>
+<start>4932.910188706</start>
+<end>4975.900105662</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>pause</code>
+<start>5031.000254914</start>
+<end>5072.000244198</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>pause</code>
+<start>5103.900110446</start>
+<end>5141.501059954</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>pause</code>
+<start>5254.604311036</start>
+<end>5294.707771464</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>umpiring</code>
+<start>3175.600288668</start>
+<end>3195.600288668</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>umpiring</code>
+<start>4107.80026225</start>
+<end>4127.80026225</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>pause</code>
+<start>2827.100151156</start>
+<end>2847.100151156</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>end</code>
+<start>1032.200080332</start>
+<end>1034.200080332</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>end</code>
+<start>2070.600144164</start>
+<end>2072.600144164</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>end</code>
+<start>3954.800160124</start>
+<end>3956.800160124</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>end</code>
+<start>5356.204805964</start>
+<end>5358.204805964</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>klein_zwitserland green_card</code>
+<start>4087.80026225</start>
+<end>4310.200079362</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>start</code>
+<start>33.400217264</start>
+<end>36.400217264</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>start</code>
+<start>1168.000100708</start>
+<end>1171.000100708</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>start</code>
+<start>2818.300132156</start>
+<end>2821.300132156</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>start</code>
+<start>4085.300216</start>
+<end>4088.300216</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>laren 23_entry</code>
+<start>47.00011793</start>
+<end>54.600184096</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>laren 23_entry</code>
+<start>140.900080762</start>
+<end>147.300202178</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>laren 23_entry</code>
+<start>387.000460096</start>
+<end>392.90005218</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>laren 23_entry</code>
+<start>569.100082412</start>
+<end>577.300082164</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>laren 23_entry</code>
+<start>793.50010575</start>
+<end>802.700300748</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>laren 23_entry</code>
+<start>864.700050248</start>
+<end>869.900134582</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>laren 23_entry</code>
+<start>1300.500128624</start>
+<end>1312.90016571</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>laren 23_entry</code>
+<start>1322.300113708</start>
+<end>1331.60017554</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>laren 23_entry</code>
+<start>1335.300588374</start>
+<end>1344.600287792</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>laren 23_entry</code>
+<start>1657.600150748</start>
+<end>1665.900082332</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>laren 23_entry</code>
+<start>1800.900148582</start>
+<end>1806.00011683</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>laren 23_entry</code>
+<start>1857.10011333</start>
+<end>1864.70012433</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>laren 23_entry</code>
+<start>1883.500106246</start>
+<end>1892.10010408</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>laren 23_entry</code>
+<start>1968.800255082</start>
+<end>1979.500229666</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>laren 23_entry</code>
+<start>2013.900288414</start>
+<end>2019.00024508</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>laren 23_entry</code>
+<start>2049.300154082</start>
+<end>2054.000107664</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>laren 23_entry</code>
+<start>2976.2004056</start>
+<end>2982.500186018</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>laren 23_entry</code>
+<start>3109.700218602</start>
+<end>3118.900085684</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>laren 23_entry</code>
+<start>3172.000228</start>
+<end>3181.000249918</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>laren 23_entry</code>
+<start>3209.301472252</start>
+<end>3214.200164834</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>laren 23_entry</code>
+<start>3381.20018025</start>
+<end>3390.500214086</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>laren 23_entry</code>
+<start>3410.300166084</start>
+<end>3416.900080252</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>laren 23_entry</code>
+<start>3514.500182942</start>
+<end>3522.700110774</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>laren 23_entry</code>
+<start>3679.000257418</start>
+<end>3688.700146498</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>laren 23_entry</code>
+<start>3897.100131956</start>
+<end>3918.900088206</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>laren 23_entry</code>
+<start>4238.300153528</start>
+<end>4244.600120196</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>laren 23_entry</code>
+<start>4328.300112278</start>
+<end>4348.100058446</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>laren 23_entry</code>
+<start>4751.70010672</start>
+<end>4758.00028647</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>laren 23_entry</code>
+<start>5082.700100612</start>
+<end>5091.500217446</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>laren 23_entry</code>
+<start>5147.503476702</start>
+<end>5152.30293237</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>laren 23_entry</code>
+<start>5184.30295712</start>
+<end>5189.20159787</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>laren 23_entry</code>
+<start>5319.207828132</start>
+<end>5330.405528964</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>laren cause_of_penalty_corner</code>
+<start>3519.700153276</start>
+<end>3529.700153276</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>laren cause_of_penalty_corner</code>
+<start>3577.400125984</start>
+<end>3587.400125984</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>laren cause_of_penalty_corner</code>
+<start>4134.000283248</start>
+<end>4144.000283248</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>laren cause_of_penalty_corner</code>
+<start>5093.900110446</start>
+<end>5103.900110446</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>laren ball_restart_1</code>
+<start>127.700098846</start>
+<end>151.200218596</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>laren ball_restart_1</code>
+<start>192.800078596</start>
+<end>247.70017043</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>laren ball_restart_1</code>
+<start>356.100204846</start>
+<end>372.500094762</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>laren ball_restart_1</code>
+<start>622.600079084</start>
+<end>651.80008025</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>laren ball_restart_1</code>
+<start>747.20006975</start>
+<end>771.50020875</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>laren ball_restart_1</code>
+<start>1027.500080582</start>
+<end>1033.200080332</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>laren ball_restart_1</code>
+<start>1198.700219208</start>
+<end>1229.70005796</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>laren ball_restart_1</code>
+<start>1537.400150748</start>
+<end>1585.600174748</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>laren ball_restart_1</code>
+<start>1617.00006583</start>
+<end>1665.900082332</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>laren ball_restart_1</code>
+<start>1772.800178664</start>
+<end>1806.00011683</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>laren ball_restart_1</code>
+<start>1939.100174248</start>
+<end>1979.500229666</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>laren ball_restart_1</code>
+<start>1985.100306414</start>
+<end>2019.00024508</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>laren ball_restart_1</code>
+<start>3338.401188918</start>
+<end>3382.600126002</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>laren ball_restart_1</code>
+<start>3766.300245914</start>
+<end>3802.700114998</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>laren ball_restart_1</code>
+<start>4280.700190112</start>
+<end>4325.000345946</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>laren ball_restart_1</code>
+<start>4371.500276028</start>
+<end>4416.300127362</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>laren ball_restart_1</code>
+<start>4783.100187052</start>
+<end>4806.200226302</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>laren ball_restart_1</code>
+<start>5221.900089204</start>
+<end>5241.100088288</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>laren ball_restart_2</code>
+<start>31.100171762000002</start>
+<end>39.600122596</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>laren ball_restart_2</code>
+<start>270.700288596</start>
+<end>283.700075514</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>laren ball_restart_2</code>
+<start>368.000094762</start>
+<end>392.90005218</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>laren ball_restart_2</code>
+<start>423.400146514</start>
+<end>490.900086012</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>laren ball_restart_2</code>
+<start>647.30008025</start>
+<end>674.500214832</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>laren ball_restart_2</code>
+<start>992.700097084</start>
+<end>1010.900151748</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>laren ball_restart_2</code>
+<start>2815.70021899</start>
+<end>2833.700136906</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>laren ball_restart_2</code>
+<start>2926.400153018</start>
+<end>2939.500148516</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>laren ball_restart_2</code>
+<start>3014.600137268</start>
+<end>3035.700100934</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>laren ball_restart_2</code>
+<start>3075.100186684</start>
+<end>3118.900085684</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>laren ball_restart_2</code>
+<start>3189.200114336</start>
+<end>3214.200164834</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>laren ball_restart_2</code>
+<start>3718.200129418</start>
+<end>3727.100095084</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>laren ball_restart_2</code>
+<start>4084.000138832</start>
+<end>4100.600081916</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>laren ball_restart_2</code>
+<start>4438.400132364</start>
+<end>4461.600155612</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>laren ball_restart_2</code>
+<start>4720.400132472</start>
+<end>4758.00028647</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>laren ball_restart_2</code>
+<start>4840.810290538</start>
+<end>4868.808278956</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>laren ball_restart_2</code>
+<start>4998.300091914</start>
+<end>5013.500161996</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>laren ball_restart_2</code>
+<start>5218.000109206</start>
+<end>5226.400089204</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>laren ball_restart_2</code>
+<start>5338.208268964</start>
+<end>5347.106343298</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>laren ball_restart_3</code>
+<start>279.200075514</start>
+<end>290.700073764</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>laren ball_restart_3</code>
+<start>767.00020875</start>
+<end>802.700300748</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>laren ball_restart_3</code>
+<start>806.500075082</start>
+<end>837.900083748</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>laren ball_restart_3</code>
+<start>837.910083748</start>
+<end>854.800152166</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>laren ball_restart_3</code>
+<start>854.810152166</start>
+<end>869.900134582</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>laren ball_restart_3</code>
+<start>1225.20005796</start>
+<end>1252.30007504</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>laren ball_restart_3</code>
+<start>1833.300109412</start>
+<end>1849.600166164</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>laren ball_restart_3</code>
+<start>2027.100103664</start>
+<end>2041.300139332</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>laren ball_restart_3</code>
+<start>2045.9003559980001</start>
+<end>2054.000107664</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>laren ball_restart_3</code>
+<start>2958.500283352</start>
+<end>2982.500186018</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>laren ball_restart_3</code>
+<start>4320.500345946</start>
+<end>4349.700126196</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>laren ball_restart_3</code>
+<start>4801.700226302</start>
+<end>4829.806667206</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>laren ball_restart_3</code>
+<start>4872.90475854</start>
+<end>4890.50507129</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>laren ball_restart_3</code>
+<start>5079.600108612</start>
+<end>5091.500217446</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>laren ball_restart_4</code>
+<start>1308.40016571</start>
+<end>1344.600287792</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>laren ball_restart_4</code>
+<start>1344.610287792</start>
+<end>1358.300166876</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>laren ball_restart_4</code>
+<start>1358.310166876</start>
+<end>1364.700140376</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>laren ball_restart_4</code>
+<start>1411.300149042</start>
+<end>1485.800177626</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>laren ball_restart_4</code>
+<start>1860.20012433</start>
+<end>1878.10010583</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>laren ball_restart_4</code>
+<start>1878.11010583</start>
+<end>1892.10010408</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>laren ball_restart_4</code>
+<start>2014.50024508</start>
+<end>2031.600103664</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>laren ball_restart_4</code>
+<start>2049.500107664</start>
+<end>2060.700135748</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>laren ball_restart_4</code>
+<start>2060.710135748</start>
+<end>2071.600144164</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>laren ball_restart_4</code>
+<start>3209.700164834</start>
+<end>3218.900210916</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>laren ball_restart_4</code>
+<start>3218.9102109160003</start>
+<end>3232.900167</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>laren ball_restart_4</code>
+<start>3232.910167</start>
+<end>3243.000213586</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>laren ball_restart_4</code>
+<start>3243.010213586</start>
+<end>3280.900137668</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>laren ball_restart_4</code>
+<start>3386.000214086</start>
+<end>3402.200274502</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>laren ball_restart_4</code>
+<start>3402.210274502</start>
+<end>3416.900080252</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>laren ball_restart_4</code>
+<start>3518.200110774</start>
+<end>3529.700079274</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>laren ball_restart_4</code>
+<start>3798.200114998</start>
+<end>3822.000199124</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>laren ball_restart_4</code>
+<start>3914.400088206</start>
+<end>3944.400226038</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>laren ball_win_1</code>
+<start>87.30015843</start>
+<end>101.400086346</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>laren ball_win_1</code>
+<start>342.20013168</start>
+<end>360.600204846</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>laren ball_win_1</code>
+<start>407.900107594</start>
+<end>427.900146514</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>laren ball_win_1</code>
+<start>537.000083164</start>
+<end>547.900134748</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>laren ball_win_1</code>
+<start>551.800063496</start>
+<end>577.300082164</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>laren ball_win_1</code>
+<start>706.600083748</start>
+<end>722.400092832</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>laren ball_win_1</code>
+<start>1013.800071916</start>
+<end>1032.000080582</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>laren ball_win_1</code>
+<start>1980.700367582</start>
+<end>1989.600306414</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>laren ball_win_1</code>
+<start>3007.700132102</start>
+<end>3019.100137268</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>laren ball_win_1</code>
+<start>3067.500137518</start>
+<end>3079.600186684</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>laren ball_win_1</code>
+<start>3760.600166414</start>
+<end>3770.800245914</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>laren ball_win_1</code>
+<start>4419.300243278</start>
+<end>4442.900132364</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>laren ball_win_1</code>
+<start>4664.000157386</start>
+<end>4681.200153886</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>laren ball_win_1</code>
+<start>4834.507420372</start>
+<end>4845.310290538</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>laren ball_win_1</code>
+<start>5072.400150196</start>
+<end>5084.100108612</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>laren ball_win_1</code>
+<start>5176.10090662</start>
+<end>5189.20159787</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>laren ball_win_2</code>
+<start>38.80007218</start>
+<end>54.600184096</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>laren ball_win_2</code>
+<start>78.10011643</start>
+<end>88.000078512</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>laren ball_win_2</code>
+<start>1292.300098792</start>
+<end>1312.90016571</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>laren ball_win_2</code>
+<start>1390.300334458</start>
+<end>1407.600180208</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>laren ball_win_2</code>
+<start>2946.000206018</start>
+<end>2963.000283352</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>laren ball_win_2</code>
+<start>3141.900510752</start>
+<end>3181.000249918</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>laren ball_win_2</code>
+<start>3454.100295442</start>
+<end>3522.700110774</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>laren ball_win_2</code>
+<start>3640.400188998</start>
+<end>3650.400127498</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>laren ball_win_2</code>
+<start>3650.4101274980003</start>
+<end>3688.700146498</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>laren ball_win_2</code>
+<start>3886.500192456</start>
+<end>3918.900088206</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>laren ball_win_2</code>
+<start>4199.900146528</start>
+<end>4244.600120196</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>laren ball_win_2</code>
+<start>5309.108431214</start>
+<end>5330.405528964</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>laren ball_win_3</code>
+<start>1827.000199164</start>
+<end>1837.800109412</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>laren ball_win_3</code>
+<start>1845.800222082</start>
+<end>1864.70012433</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>laren ball_win_3</code>
+<start>3376.100126002</start>
+<end>3390.500214086</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>laren ball_win_3</code>
+<start>3693.70033375</start>
+<end>3708.60019075</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>laren ball_win_3</code>
+<start>4864.610024204</start>
+<end>4877.40475854</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>laren ball_win_3</code>
+<start>5187.601250954</start>
+<end>5210.102918204</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>laren ball_win_4</code>
+<start>4128.3001905</start>
+<end>4144.000419</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>laren ball_win_4</code>
+<start>5086.900264614</start>
+<end>5103.90010978</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>laren circle_penetration</code>
+<start>271.500161096</start>
+<end>307.80010818</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>laren circle_penetration</code>
+<start>1390.50016221</start>
+<end>1411.90006871</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>laren circle_penetration</code>
+<start>1830.300150412</start>
+<end>1851.000327496</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>laren circle_penetration</code>
+<start>1855.500139416</start>
+<end>1881.700144164</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>laren circle_penetration</code>
+<start>3223.900112584</start>
+<end>3249.200100836</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>laren circle_penetration</code>
+<start>3381.500147668</start>
+<end>3408.300073084</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>laren circle_penetration</code>
+<start>3687.400076168</start>
+<end>3716.90011375</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>laren circle_penetration</code>
+<start>3777.700056914</start>
+<end>3805.00029825</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>laren circle_penetration</code>
+<start>3805.0102982500002</start>
+<end>3822.000199124</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>laren circle_penetration</code>
+<start>4083.3001430820004</start>
+<end>4136.700182916</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>laren circle_penetration</code>
+<start>4136.710182916</start>
+<end>4144.000419</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>laren circle_penetration</code>
+<start>4865.91115754</start>
+<end>4893.904717958</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>laren circle_penetration</code>
+<start>5081.600183612</start>
+<end>5103.90010978</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>laren circle_penetration</code>
+<start>5186.001185038</start>
+<end>5211.601330288</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>laren goal_attempt</code>
+<start>283.300086512</start>
+<end>293.300086512</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>laren goal_attempt</code>
+<start>1866.900103246</start>
+<end>1876.900103246</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>laren goal_attempt</code>
+<start>3809.700138748</start>
+<end>3817.700138748</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>laren goal_attempt</code>
+<start>3819.700076664</start>
+<end>3827.700076664</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>laren goal_attempt</code>
+<start>5198.200182622</start>
+<end>5206.200182622</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>laren goal</code>
+<start>3595.300191672</start>
+<end>3613.300191672</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>laren goal</code>
+<start>3804.000129706</start>
+<end>3822.000129706</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>laren long_corner</code>
+<start>1876.10010583</start>
+<end>1892.10010408</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>laren long_corner</code>
+<start>3241.000213586</start>
+<end>3280.900137668</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>laren long_corner</code>
+<start>3800.700114998</start>
+<end>3822.000199124</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>laren penalty_corner</code>
+<start>3571.600136732</start>
+<end>3585.600136732</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>laren penalty_corner</code>
+<start>3602.600311004</start>
+<end>3616.600311004</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>laren penalty_corner</code>
+<start>4183.90010453</start>
+<end>4197.90010453</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>laren penalty_corner</code>
+<start>5137.501059954</start>
+<end>5151.501059954</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>88.900258596</start>
+<end>93.80015843</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>120.400501096</start>
+<end>132.200098846</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>189.40030868</start>
+<end>197.300078596</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>311.500097264</start>
+<end>326.00007018</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>330.40013293</start>
+<end>343.40010118</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>409.900109512</start>
+<end>414.400107594</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>523.100067762</start>
+<end>531.90005876</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>553.500120582</start>
+<end>558.300063496</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>615.800112166</start>
+<end>627.100079084</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>703.50009375</start>
+<end>713.100083748</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>726.600126916</start>
+<end>734.100066832</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>745.800081166</start>
+<end>751.70006975</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>1014.300077998</start>
+<end>1020.300071916</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>1188.30006379</start>
+<end>1203.200219208</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>1376.300149042</start>
+<end>1390.400413124</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>1504.500241624</start>
+<end>1511.300109458</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>1523.400119624</start>
+<end>1533.10010179</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>1931.90014608</start>
+<end>1943.600174248</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>1982.600247332</start>
+<end>1987.200367582</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>3009.500298934</start>
+<end>3014.200132102</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>3061.600357434</start>
+<end>3074.000137518</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>3741.200315666</start>
+<end>3757.100161582</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>3757.200073164</start>
+<end>3767.100166414</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>4416.000335694</start>
+<end>4425.800243278</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>4479.00026253</start>
+<end>4493.200156696</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>4603.700145304</start>
+<end>4616.10011572</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>4664.000187138</start>
+<end>4670.500157386</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>4782.800235552</start>
+<end>4787.600187052</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>4916.21043504</start>
+<end>4922.809003872</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>klein_zwitserland 23_entry</code>
+<start>5175.50208962</start>
+<end>5182.60090662</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>klein_zwitserland cause_of_penalty_corner</code>
+<start>0.0</start>
+<end>2.048159666</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>klein_zwitserland cause_of_penalty_corner</code>
+<start>894.700060166</start>
+<end>904.700060166</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>klein_zwitserland cause_of_penalty_corner</code>
+<start>944.800125736</start>
+<end>954.800125736</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>klein_zwitserland cause_of_penalty_corner</code>
+<start>4495.100117528</start>
+<end>4505.100117528</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>klein_zwitserland cause_of_penalty_corner</code>
+<start>4539.100175388</start>
+<end>4549.100175388</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>klein_zwitserland cause_of_penalty_corner</code>
+<start>4922.910188706</start>
+<end>4932.910188706</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>klein_zwitserland cause_of_penalty_corner</code>
+<start>5021.000254914</start>
+<end>5031.000254914</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>klein_zwitserland cause_of_penalty_corner</code>
+<start>5244.604311036</start>
+<end>5254.604311036</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>292.60009293</start>
+<end>326.00007018</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>866.400134582</start>
+<end>904.70006675</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>1361.200140376</start>
+<end>1396.800334458</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>1813.100153666</start>
+<end>1833.500199164</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>1888.60010408</start>
+<end>1912.800159914</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>2982.10049035</start>
+<end>3014.200132102</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>3032.200100934</start>
+<end>3074.000137518</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>3115.400085684</start>
+<end>3148.400510752</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>3277.400137668</start>
+<end>3319.100150752</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>3705.10019075</start>
+<end>3722.700129418</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>3940.900226038</start>
+<end>3955.800160124</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>4124.20008975</start>
+<end>4134.8001905</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>4200.600088278</start>
+<end>4206.400146528</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>4241.100120196</start>
+<end>4285.200190112</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>4677.700153886</start>
+<end>4703.900112302</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>4760.800131554</start>
+<end>4787.600187052</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>4887.00507129</start>
+<end>4922.809003872</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>klein_zwitserland ball_restart_1</code>
+<start>5148.80293237</start>
+<end>5182.60090662</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>36.100122596</start>
+<end>45.30007218</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>55.800083012</start>
+<end>84.60011643</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>147.700218596</start>
+<end>197.300078596</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>395.500102096</start>
+<end>414.400107594</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>671.000214832</start>
+<end>685.700051</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>1007.400151748</start>
+<end>1020.300071916</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>1166.300085458</start>
+<end>1203.200219208</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>1248.80007504</start>
+<end>1298.800098792</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>1482.300177626</start>
+<end>1533.10010179</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>1582.100174748</start>
+<end>1621.50006583</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>3635.000287168</start>
+<end>3646.900188998</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>3848.30020479</start>
+<end>3862.200109124</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>4194.600092778</start>
+<end>4201.20016503</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>4201.21016503</start>
+<end>4204.100088278</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>4346.200126196</start>
+<end>4363.800255612</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>4412.800127362</start>
+<end>4425.800243278</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>klein_zwitserland ball_restart_2</code>
+<start>4458.100155612</start>
+<end>4493.200156696</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>84.500078512</start>
+<end>93.80015843</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>100.600085762</start>
+<end>132.200098846</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>487.400086012</start>
+<end>498.300127598</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>498.310127598</start>
+<end>531.90005876</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>718.900092832</start>
+<end>734.100066832</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>1703.700150414</start>
+<end>1719.700099414</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>1909.300159914</start>
+<end>1924.800453412</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>3315.600150752</start>
+<end>3342.901188918</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>3425.10021067</start>
+<end>3460.600295442</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>3723.600095084</start>
+<end>3757.100161582</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>3858.700109124</start>
+<end>3883.00022979</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>4360.300255612</start>
+<end>4376.000276028</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>4602.40009897</start>
+<end>4670.500157386</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>4700.400112302</start>
+<end>4724.900132472</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>4826.306667206</start>
+<end>4841.007420372</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>5014.500262582</start>
+<end>5031.000130498</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>klein_zwitserland ball_restart_3</code>
+<start>5237.600088288</start>
+<end>5254.600070872</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>322.50007018</start>
+<end>343.40010118</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>343.41010117999997</start>
+<end>348.70013168</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>528.40005876</start>
+<end>543.500083164</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>592.600203498</start>
+<end>627.100079084</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>682.200051</start>
+<end>713.100083748</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>730.600066832</start>
+<end>751.70006975</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>1529.60010179</start>
+<end>1541.900150748</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>1716.200099414</start>
+<end>1736.400293082</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>1736.410293082</start>
+<end>1777.300178664</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>1921.300453412</start>
+<end>1943.600174248</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>3753.600161582</start>
+<end>3767.100166414</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>3879.50022979</start>
+<end>3893.000192456</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>4489.700156696</start>
+<end>4505.100071194</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>4919.309003872</start>
+<end>4932.909999206</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>klein_zwitserland ball_restart_4</code>
+<start>5298.704648298</start>
+<end>5315.608431214</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>48.100184096</start>
+<end>59.300083012</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>284.200073764</start>
+<end>296.10009293</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>386.40005218</start>
+<end>399.000102096</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>570.800082164</start>
+<end>596.100203498</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>796.200300748</start>
+<end>811.000075082</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1401.100180208</start>
+<end>1415.800149042</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1659.400082332</start>
+<end>1707.200150414</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1799.50011683</start>
+<end>1816.600153666</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1843.100166164</start>
+<end>1852.300222082</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>1973.000229666</start>
+<end>1987.200367582</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>2976.000186018</start>
+<end>2985.60049035</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>3174.500249918</start>
+<end>3193.700114336</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>3395.700274502</start>
+<end>3404.900100168</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>3410.400080252</start>
+<end>3428.60021067</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>3682.200146498</start>
+<end>3700.20033375</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>4094.100081916</start>
+<end>4127.70008975</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>4751.50028647</start>
+<end>4764.300131554</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>5085.000217446</start>
+<end>5093.400264614</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>5182.70159787</start>
+<end>5194.101250954</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>5203.602918204</start>
+<end>5222.500109206</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>klein_zwitserland ball_win_1</code>
+<start>5323.905528964</start>
+<end>5342.708268964</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>241.20017043</start>
+<end>275.200288596</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>2034.800139332</start>
+<end>2050.400355998</end>
+</instance>
+<instance>
+<ID>331</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>4862.308278956</start>
+<end>4871.110024204</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>5007.000161996</start>
+<end>5018.000262582</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>klein_zwitserland ball_win_2</code>
+<start>5340.606343298</start>
+<end>5357.204805964</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>klein_zwitserland ball_win_3</code>
+<start>94.900086346</start>
+<end>104.100085762</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>klein_zwitserland ball_win_3</code>
+<start>2827.200136906</start>
+<end>2843.40019074</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>klein_zwitserland ball_win_3</code>
+<start>2933.000148516</start>
+<end>2952.500206018</end>
+</instance>
+<instance>
+<ID>337</ID>
+<code>klein_zwitserland ball_win_3</code>
+<start>3643.900127498</start>
+<end>3655.300160832</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>klein_zwitserland ball_win_4</code>
+<start>541.400134748</start>
+<end>558.300063496</end>
+</instance>
+<instance>
+<ID>339</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>575.000119164</start>
+<end>605.000199664</end>
+</instance>
+<instance>
+<ID>340</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>664.400108666</start>
+<end>695.800092584</end>
+</instance>
+<instance>
+<ID>341</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>1007.00005308</start>
+<end>1031.30020758</end>
+</instance>
+<instance>
+<ID>342</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>1279.400211458</start>
+<end>1298.200172626</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>1594.800359664</start>
+<end>1629.400207582</end>
+</instance>
+<instance>
+<ID>344</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>1698.900093332</start>
+<end>1723.800175914</end>
+</instance>
+<instance>
+<ID>345</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>1723.810175914</start>
+<end>1740.20018483</end>
+</instance>
+<instance>
+<ID>346</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>1754.400115498</start>
+<end>1779.70007158</end>
+</instance>
+<instance>
+<ID>347</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>1902.300106498</start>
+<end>1931.200126664</end>
+</instance>
+<instance>
+<ID>348</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>3321.8001345</start>
+<end>3367.900127668</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>3860.000603456</start>
+<end>3889.000300706</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>4269.100125946</start>
+<end>4291.700129112</end>
+</instance>
+<instance>
+<ID>351</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>4352.910495112</start>
+<end>4393.900116612</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>4480.00029353</start>
+<end>4505.100071194</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>4820.609265788</start>
+<end>4842.603205122</end>
+</instance>
+<instance>
+<ID>354</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>4913.709822122</start>
+<end>4932.909999206</end>
+</instance>
+<instance>
+<ID>355</ID>
+<code>klein_zwitserland circle_penetration</code>
+<start>5231.300072872</start>
+<end>5254.600070872</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>klein_zwitserland goal_attempt</code>
+<start>1608.800139164</start>
+<end>1616.800139164</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>klein_zwitserland goal_attempt</code>
+<start>1914.700088914</start>
+<end>1922.700088914</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>klein_zwitserland goal_attempt</code>
+<start>4364.900129362</start>
+<end>4374.900129362</end>
+</instance>
+<instance>
+<ID>359</ID>
+<code>klein_zwitserland goal</code>
+<start>965.000195236</start>
+<end>980.000195236</end>
+</instance>
+<instance>
+<ID>360</ID>
+<code>klein_zwitserland goal</code>
+<start>4968.40008233</start>
+<end>4983.40008233</end>
+</instance>
+<instance>
+<ID>361</ID>
+<code>klein_zwitserland</code>
+<start>34.400217264</start>
+<end>1033.200080332</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>klein_zwitserland</code>
+<start>1169.000100708</start>
+<end>2071.600144164</end>
+</instance>
+<instance>
+<ID>363</ID>
+<code>klein_zwitserland</code>
+<start>2819.300132156</start>
+<end>3955.800160124</end>
+</instance>
+<instance>
+<ID>364</ID>
+<code>klein_zwitserland</code>
+<start>4086.300216</start>
+<end>5357.204805964</end>
+</instance>
+<instance>
+<ID>365</ID>
+<code>klein_zwitserland penalty_corner</code>
+<start>942.900075986</start>
+<end>956.900075986</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>klein_zwitserland penalty_corner</code>
+<start>966.400199486</start>
+<end>980.400199486</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>klein_zwitserland penalty_corner</code>
+<start>4537.500234054</start>
+<end>4551.500234054</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>klein_zwitserland penalty_corner</code>
+<start>4588.000282386</start>
+<end>4602.000282386</end>
+</instance>
+<instance>
+<ID>369</ID>
+<code>klein_zwitserland penalty_corner</code>
+<start>4971.900105662</start>
+<end>4985.900105662</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>klein_zwitserland penalty_corner</code>
+<start>5068.000244198</start>
+<end>5082.000244198</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>klein_zwitserland penalty_corner</code>
+<start>5290.707771464</start>
+<end>5304.707771464</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>Q1</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q2</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q3</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q4</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>TIJDSTIL</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>ARBITRAGE</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>BLESSURE / IMPACT</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>EIND</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GROEN KZ</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>23p LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>DP LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>LC LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>SC LAR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>23p KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>DP KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC KZ</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>Speelkwart Q1</code>
+<start>23.181458950042725</start>
+<end>1024.2662698984145</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>Speelkwart Q2</code>
+<start>1149.1060248613358</start>
+<end>2187.5038063287734</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>Speelkwart Q3</code>
+<start>2190.9557909965515</start>
+<end>3136.576608991623</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>Speelkwart Q4</code>
+<start>3257.9923795461655</start>
+<end>4346.622778511048</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>Start</code>
+<start>23.181458950042725</start>
+<end>25.181458950042725</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>Start</code>
+<start>1149.1060248613358</start>
+<end>1151.1060248613358</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>Start</code>
+<start>2190.9557909965515</start>
+<end>2192.9557909965515</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>Start</code>
+<start>3257.9923795461655</start>
+<end>3259.9923795461655</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>EIND</code>
+<start>1023.1662698984146</start>
+<end>1025.1662698984146</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>EIND</code>
+<start>2186.4038063287735</start>
+<end>2188.4038063287735</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>EIND</code>
+<start>3135.476608991623</start>
+<end>3137.476608991623</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>EIND</code>
+<start>4345.522778511047</start>
+<end>4347.522778511047</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>BS1 BLO</code>
+<start>174.36823499202728</start>
+<end>207.6396700143814</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>BS1 BLO</code>
+<start>611.4691590070724</start>
+<end>631.9989379644394</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>BS1 BLO</code>
+<start>648.5496189594269</start>
+<end>693.9146729707718</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>BS1 BLO</code>
+<start>892.0795209407806</start>
+<end>915.3990459442139</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>BS1 BLO</code>
+<start>999.6489589214325</start>
+<end>1024.2662698984145</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>BS1 BLO</code>
+<start>1317.5492689609528</start>
+<end>1339.438691854477</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>BS1 BLO</code>
+<start>1521.6309669017792</start>
+<end>1555.163980960846</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>BS1 BLO</code>
+<start>1612.307121872902</start>
+<end>1622.3247828483582</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>BS1 BLO</code>
+<start>1976.0875090360641</start>
+<end>1999.1210129261017</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>BS1 BLO</code>
+<start>2119.45035636425</start>
+<end>2142.363220334053</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>BS1 BLO</code>
+<start>2446.9104610681534</start>
+<end>2466.996273159981</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>BS1 BLO</code>
+<start>2540.2534120082855</start>
+<end>2554.0187180042267</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>BS1 BLO</code>
+<start>2699.112473011017</start>
+<end>2714.660649061203</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>BS1 BLO</code>
+<start>2782.538452029228</start>
+<end>2797.940216064453</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>BS1 BLO</code>
+<start>2815.060224056244</start>
+<end>2835.9295630455017</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>BS1 BLO</code>
+<start>2835.939563045502</start>
+<end>2862.683565020561</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>BS1 BLO</code>
+<start>3129.82599902153</start>
+<end>3136.576608991623</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>BS1 BLO</code>
+<start>3421.8455505371094</start>
+<end>3456.3006014823914</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>BS1 BLO</code>
+<start>3456.3106014823916</start>
+<end>3487.4947764873505</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>BS1 BLO</code>
+<start>3736.648511528969</start>
+<end>3754.7425025701523</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>BS1 BLO</code>
+<start>3946.494152545929</start>
+<end>3957.8411045074463</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>BS1 BLO</code>
+<start>4320.352560520172</start>
+<end>4346.622778511048</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>BS2 BLO</code>
+<start>203.6396700143814</start>
+<end>232.12666296958923</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BS2 BLO</code>
+<start>814.8006879091263</start>
+<end>835.2198829650879</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BS2 BLO</code>
+<start>911.3990459442139</start>
+<end>922.5335999727249</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BS2 BLO</code>
+<start>953.1055549383163</start>
+<end>960.1560549736023</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BS2 BLO</code>
+<start>1161.7582569122314</start>
+<end>1180.2274079322815</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BS2 BLO</code>
+<start>1180.2374079322815</start>
+<end>1190.7289009094238</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BS2 BLO</code>
+<start>1384.640289902687</start>
+<end>1398.311266899109</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BS2 BLO</code>
+<start>1664.9514689445496</start>
+<end>1687.301479935646</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BS2 BLO</code>
+<start>1692.7530318498611</start>
+<end>1714.3058109283447</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BS2 BLO</code>
+<start>2190.8380850553513</start>
+<end>2208.6735540628433</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BS2 BLO</code>
+<start>2600.701725959778</start>
+<end>2623.8798019886017</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BS2 BLO</code>
+<start>2729.5005880594254</start>
+<end>2752.5664800405502</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BS2 BLO</code>
+<start>2893.9892239570618</start>
+<end>2921.499771952629</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BS2 BLO</code>
+<start>3042.9996299743652</start>
+<end>3069.5992900133133</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BS2 BLO</code>
+<start>3256.8700255155563</start>
+<end>3277.555810570717</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BS2 BLO</code>
+<start>3543.8447345495224</start>
+<end>3554.132455587387</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BS2 BLO</code>
+<start>3618.70981156826</start>
+<end>3647.3135294914246</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BS2 BLO</code>
+<start>3750.7425025701523</start>
+<end>3767.141624569893</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BS2 BLO</code>
+<start>4024.5063445568085</start>
+<end>4032.257005572319</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BS2 BLO</code>
+<start>4060.3119995594025</start>
+<end>4071.2463824748993</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BS2 BLO</code>
+<start>4193.891519546509</start>
+<end>4206.15072953701</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BS3 BLO</code>
+<start>54.80218493938446</start>
+<end>95.72463703155518</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BS3 BLO</code>
+<start>529.4231179952621</start>
+<end>547.8753499984741</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BS3 BLO</code>
+<start>1335.438691854477</start>
+<end>1374.6907988786697</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BS3 BLO</code>
+<start>2048.882591366768</start>
+<end>2062.2007273435593</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BS3 BLO</code>
+<start>2146.3145183324814</start>
+<end>2155.031870365143</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BS3 BLO</code>
+<start>2204.6735540628433</start>
+<end>2224.8974800109863</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BS3 BLO</code>
+<start>2323.7254790067673</start>
+<end>2356.146292090416</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BS3 BLO</code>
+<start>2917.499771952629</start>
+<end>2927.710396051407</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BS3 BLO</code>
+<start>3022.849382996559</start>
+<end>3031.009955048561</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BS3 BLO</code>
+<start>3273.555810570717</start>
+<end>3303.3265665769577</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BS3 BLO</code>
+<start>3483.4947764873505</start>
+<end>3516.8765724897385</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BS3 BLO</code>
+<start>3570.9857045412064</start>
+<end>3590.3437175750732</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BS3 BLO</code>
+<start>3643.3135294914246</start>
+<end>3673.9677975177765</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BS3 BLO</code>
+<start>3807.142321586609</start>
+<end>3833.425854563713</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BS3 BLO</code>
+<start>4028.257005572319</start>
+<end>4047.409476518631</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BS3 BLO</code>
+<start>4067.2463824748993</start>
+<end>4087.640571475029</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BS4 BLO</code>
+<start>228.12666296958923</start>
+<end>236.45202696323395</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BS4 BLO</code>
+<start>436.4920279979706</start>
+<end>454.9775890111923</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BS4 BLO</code>
+<start>689.9146729707718</start>
+<end>725.1983509063721</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BS4 BLO</code>
+<start>725.2083509063721</start>
+<end>734.9710639715195</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BS4 BLO</code>
+<start>1779.5734629631042</start>
+<end>1802.009626030922</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BS4 BLO</code>
+<start>1845.1220549345016</start>
+<end>1852.5708220005035</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BS4 BLO</code>
+<start>2923.710396051407</start>
+<end>2934.5284000635147</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BS4 BLO</code>
+<start>2934.538400063515</start>
+<end>2944.2627789974213</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BS4 BLO</code>
+<start>2993.8471829891205</start>
+<end>3009.0564810037613</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BS4 BLO</code>
+<start>3027.009955048561</start>
+<end>3036.610792994499</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BS4 BLO</code>
+<start>3065.5992900133133</start>
+<end>3088.048397064209</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BS4 BLO</code>
+<start>3088.058397064209</start>
+<end>3103.9213910102844</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BS4 BLO</code>
+<start>3786.3929015398026</start>
+<end>3811.142321586609</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BS4 BLO</code>
+<start>4221.7704565525055</start>
+<end>4248.124019503593</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BW1 BLO</code>
+<start>102.67652797698975</start>
+<end>116.84434795379639</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BW1 BLO</code>
+<start>138.01302695274353</start>
+<end>159.58208000659943</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BW1 BLO</code>
+<start>597.0503599643707</start>
+<end>615.4691590070724</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BW1 BLO</code>
+<start>740.6562569141388</start>
+<end>791.1298599243164</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BW1 BLO</code>
+<start>833.2539969682693</start>
+<end>844.3079459667206</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BW1 BLO</code>
+<start>872.1989248991013</start>
+<end>896.0795209407806</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BW1 BLO</code>
+<start>927.2518819570541</start>
+<end>957.1055549383163</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BW1 BLO</code>
+<start>982.4606019258499</start>
+<end>1003.6489589214325</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BW1 BLO</code>
+<start>1219.6933679580688</start>
+<end>1230.1684118509293</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BW1 BLO</code>
+<start>1232.3029608726501</start>
+<end>1244.3403829336166</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BW1 BLO</code>
+<start>1257.5407009124756</start>
+<end>1271.5581599473953</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BW1 BLO</code>
+<start>1288.328332901001</start>
+<end>1298.2388598918915</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BW1 BLO</code>
+<start>1567.301864862442</start>
+<end>1577.1676518917084</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BW1 BLO</code>
+<start>1594.0713828802109</start>
+<end>1616.307121872902</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BW1 BLO</code>
+<start>2020.22787296772</start>
+<end>2052.882591366768</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BW1 BLO</code>
+<start>2173.052256345749</start>
+<end>2187.5038063287734</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BW1 BLO</code>
+<start>2521.614506959915</start>
+<end>2544.2534120082855</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BW1 BLO</code>
+<start>2566.0548020601273</start>
+<end>2576.188941001892</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BW1 BLO</code>
+<start>2576.1989410018923</start>
+<end>2588.6408410072327</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BW1 BLO</code>
+<start>2875.236445069313</start>
+<end>2897.9892239570618</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BW1 BLO</code>
+<start>3336.346244573593</start>
+<end>3354.45117855072</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BW1 BLO</code>
+<start>3904.754760503769</start>
+<end>3918.4059755802155</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BW1 BLO</code>
+<start>4138.7442845106125</start>
+<end>4163.727529525757</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BW1 BLO</code>
+<start>4276.996098518372</start>
+<end>4290.930736541748</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>BW2 BLO</code>
+<start>1190.2963598966599</start>
+<end>1206.7479609251022</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>BW2 BLO</code>
+<start>1753.900153875351</start>
+<end>1783.5734629631042</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>BW2 BLO</code>
+<start>1821.8471130132675</start>
+<end>1849.1220549345016</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>BW2 BLO</code>
+<start>2139.6304153203964</start>
+<end>2150.3145183324814</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>BW2 BLO</code>
+<start>2400.8543560504913</start>
+<end>2412.5967251062393</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>BW2 BLO</code>
+<start>2722.229282975197</start>
+<end>2733.5005880594254</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>BW2 BLO</code>
+<start>3523.7619215250015</start>
+<end>3547.8447345495224</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>BW2 BLO</code>
+<start>3772.2006405591965</start>
+<end>3790.3929015398026</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>BW3 BLO</code>
+<start>497.7516589164734</start>
+<end>533.4231179952621</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>BW3 BLO</code>
+<start>3004.9500809907913</start>
+<end>3026.849382996559</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>BW4 BLO</code>
+<start>2620.4300130605698</start>
+<end>2646.9667080640793</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>CP BLO</code>
+<start>661.961767911911</start>
+<end>685.961767911911</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>CP BLO</code>
+<start>719.053936958313</start>
+<end>734.9710639715195</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>CP BLO</code>
+<start>1760.6021349430084</start>
+<end>1784.6021349430084</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>CP BLO</code>
+<start>1826.1821860074997</start>
+<end>1849.1220549345016</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>CP BLO</code>
+<start>2300.056484103203</start>
+<end>2317.348464012146</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>CP BLO</code>
+<start>2622.600919008255</start>
+<end>2646.600919008255</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>CP BLO</code>
+<start>2926.4289259910583</start>
+<end>2944.2627789974213</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>CP BLO</code>
+<start>3814.4930555820465</start>
+<end>3833.425854563713</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>SC BLO</code>
+<start>2979.6694810390472</start>
+<end>2991.6694810390472</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>SC BLO</code>
+<start>3868.4156094789505</start>
+<end>3880.4156094789505</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>GROEN BLO</code>
+<start>1851.7874870300293</start>
+<end>2001.7874870300293</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>GROEN KAM</code>
+<start>3430.9997255802155</start>
+<end>3580.9997255802155</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>ASB KAM</code>
+<start>3957.543687582016</start>
+<end>3967.543687582016</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BS1 KAM</code>
+<start>91.72463703155518</start>
+<end>108.67652797698975</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BS1 KAM</code>
+<start>918.5335999727249</start>
+<end>933.2518819570541</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BS1 KAM</code>
+<start>1819.8965690135956</start>
+<end>1827.8471130132675</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BS1 KAM</code>
+<start>2352.146292090416</start>
+<end>2406.8543560504913</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BS1 KAM</code>
+<start>2642.9667080640793</start>
+<end>2678.8382860422134</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BS1 KAM</code>
+<start>3299.3265665769577</start>
+<end>3324.5964674949646</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BS1 KAM</code>
+<start>3563.6178644895554</start>
+<end>3574.9857045412064</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BS1 KAM</code>
+<start>3885.751291513443</start>
+<end>3902.4033604860306</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BS1 KAM</code>
+<start>4083.640571475029</start>
+<end>4111.402690529823</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BS1 KAM</code>
+<start>4159.727529525757</start>
+<end>4181.680021524429</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BS1 KAM</code>
+<start>4244.124019503593</start>
+<end>4256.84179854393</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BS2 KAM</code>
+<start>22.13106894493103</start>
+<end>58.80218493938446</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BS2 KAM</code>
+<start>787.1298599243164</start>
+<end>818.8006879091263</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BS2 KAM</code>
+<start>1151.8235669136047</start>
+<end>1165.7582569122314</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BS2 KAM</code>
+<start>1186.7289009094238</start>
+<end>1196.2963598966599</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BS2 KAM</code>
+<start>1713.8731218576431</start>
+<end>1752.1619288921356</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BS2 KAM</code>
+<start>1752.1719288921356</start>
+<end>1759.900153875351</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BS2 KAM</code>
+<start>1995.1210129261017</start>
+<end>2023.7942680120468</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BS2 KAM</code>
+<start>2072.4497842788696</start>
+<end>2096.7394003868103</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BS2 KAM</code>
+<start>2161.7505093812943</start>
+<end>2179.052256345749</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BS2 KAM</code>
+<start>2748.5664800405502</start>
+<end>2786.538452029228</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BS2 KAM</code>
+<start>3320.5964674949646</start>
+<end>3342.346244573593</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BS2 KAM</code>
+<start>3512.8765724897385</start>
+<end>3529.7619215250015</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BS2 KAM</code>
+<start>3586.3437175750732</start>
+<end>3622.70981156826</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BS2 KAM</code>
+<start>3669.9677975177765</start>
+<end>3681.719064474106</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BS2 KAM</code>
+<start>3769.366604566574</start>
+<end>3778.2006405591965</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BS2 KAM</code>
+<start>3898.4033604860306</start>
+<end>3910.754760503769</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BS2 KAM</code>
+<start>4043.409476518631</start>
+<end>4064.3119995594025</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BS3 KAM</code>
+<start>244.25106692314148</start>
+<end>262.30148696899414</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BS3 KAM</code>
+<start>848.6059279441833</start>
+<end>873.7759939432144</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BS3 KAM</code>
+<start>1210.4491828680038</start>
+<end>1225.6933679580688</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BS3 KAM</code>
+<start>1229.1067879199982</start>
+<end>1238.3029608726501</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BS3 KAM</code>
+<start>1563.7161349058151</start>
+<end>1573.301864862442</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BS3 KAM</code>
+<start>1877.338760972023</start>
+<end>1890.6567749977112</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BS3 KAM</code>
+<start>2092.7394003868103</start>
+<end>2123.45035636425</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BS3 KAM</code>
+<start>2242.379294037819</start>
+<end>2267.315959095955</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BS3 KAM</code>
+<start>2462.996273159981</start>
+<end>2494.9006460905075</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BS3 KAM</code>
+<start>2674.8382860422134</start>
+<end>2687.5563460588455</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BS3 KAM</code>
+<start>3112.0898480415344</start>
+<end>3133.82599902153</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BS3 KAM</code>
+<start>3677.719064474106</start>
+<end>3690.393494486809</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BS3 KAM</code>
+<start>3690.403494486809</start>
+<end>3711.7940615415573</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BS3 KAM</code>
+<start>3914.4059755802155</start>
+<end>3950.494152545929</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BS3 KAM</code>
+<start>4107.402690529823</start>
+<end>4127.843078494072</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BS3 KAM</code>
+<start>4252.84179854393</start>
+<end>4270.510814547539</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BS4 KAM</code>
+<start>131.34225499629974</start>
+<end>144.01302695274353</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BS4 KAM</code>
+<start>258.30148696899414</start>
+<end>279.56748390197754</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BS4 KAM</code>
+<start>279.57748390197753</start>
+<end>292.90310990810394</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BS4 KAM</code>
+<start>566.6788949966431</start>
+<end>594.6160659790039</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BS4 KAM</code>
+<start>594.6260659790039</start>
+<end>603.0503599643707</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BS4 KAM</code>
+<start>869.7759939432144</start>
+<end>878.1989248991013</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BS4 KAM</code>
+<start>971.6253169775009</start>
+<end>980.3475660085678</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BS4 KAM</code>
+<start>980.3575660085678</start>
+<end>988.4606019258499</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BS4 KAM</code>
+<start>1240.3403829336166</start>
+<end>1263.5407009124756</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BS4 KAM</code>
+<start>1509.0957769155502</start>
+<end>1525.6309669017792</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BS4 KAM</code>
+<start>2019.7942680120468</start>
+<end>2026.22787296772</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BS4 KAM</code>
+<start>2490.9006460905075</start>
+<end>2527.614506959915</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BS4 KAM</code>
+<start>2683.5563460588455</start>
+<end>2703.112473011017</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BS4 KAM</code>
+<start>2803.475031018257</start>
+<end>2819.060224056244</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BS4 KAM</code>
+<start>3707.7940615415573</start>
+<end>3726.5466015338898</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BS4 KAM</code>
+<start>3726.55660153389</start>
+<end>3740.648511528969</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BS4 KAM</code>
+<start>4123.843078494072</start>
+<end>4138.006956577301</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BS4 KAM</code>
+<start>4138.016956577301</start>
+<end>4144.107846498489</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BS4 KAM</code>
+<start>4266.510814547539</start>
+<end>4282.996098518372</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BS4 KAM</code>
+<start>4286.930736541748</start>
+<end>4304.416411519051</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BS4 KAM</code>
+<start>4304.426411519051</start>
+<end>4324.352560520172</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BW1 KAM</code>
+<start>230.45202696323395</start>
+<end>248.25106692314148</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BW1 KAM</code>
+<start>448.9775890111923</start>
+<end>475.11410093307495</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BW1 KAM</code>
+<start>541.8753499984741</start>
+<end>570.6788949966431</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BW1 KAM</code>
+<start>728.9710639715195</start>
+<end>746.6562569141388</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>BW1 KAM</code>
+<start>1796.009626030922</start>
+<end>1823.8965690135956</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>BW1 KAM</code>
+<start>1846.5708220005035</start>
+<end>1881.338760972023</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>BW1 KAM</code>
+<start>2056.2007273435593</start>
+<end>2076.4497842788696</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>BW1 KAM</code>
+<start>2149.031870365143</start>
+<end>2165.7505093812943</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>BW1 KAM</code>
+<start>2218.8974800109863</start>
+<end>2246.379294037819</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>BW1 KAM</code>
+<start>2311.348464012146</start>
+<end>2327.7254790067673</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>BW1 KAM</code>
+<start>2617.8798019886017</start>
+<end>2626.4300130605698</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>BW1 KAM</code>
+<start>3030.610792994499</start>
+<end>3046.9996299743652</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>BW1 KAM</code>
+<start>3548.132455587387</start>
+<end>3567.6178644895554</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>BW1 KAM</code>
+<start>4200.15072953701</start>
+<end>4225.7704565525055</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>BW2 KAM</code>
+<start>625.9989379644394</start>
+<end>652.5496189594269</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>BW2 KAM</code>
+<start>954.1560549736023</start>
+<end>975.6253169775009</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>BW2 KAM</code>
+<start>1200.7479609251022</start>
+<end>1214.4491828680038</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>BW2 KAM</code>
+<start>1368.6907988786697</start>
+<end>1388.640289902687</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>BW2 KAM</code>
+<start>1681.301479935646</start>
+<end>1696.7530318498611</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>BW2 KAM</code>
+<start>1708.3058109283447</start>
+<end>1717.8731218576431</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>BW2 KAM</code>
+<start>2136.363220334053</start>
+<end>2145.6304153203964</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>BW2 KAM</code>
+<start>2406.5967251062393</start>
+<end>2450.9104610681534</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>BW2 KAM</code>
+<start>2708.660649061203</start>
+<end>2728.229282975197</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>BW2 KAM</code>
+<start>3003.0564810037613</start>
+<end>3010.9500809907913</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>BW2 KAM</code>
+<start>3097.9213910102844</start>
+<end>3116.0898480415344</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>BW3 KAM</code>
+<start>153.58208000659943</start>
+<end>178.36823499202728</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>BW3 KAM</code>
+<start>829.2198829650879</start>
+<end>839.2539969682693</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>BW3 KAM</code>
+<start>839.2639969682693</start>
+<end>852.6059279441833</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>BW3 KAM</code>
+<start>1224.1684118509293</start>
+<end>1233.1067879199982</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>BW3 KAM</code>
+<start>1265.5581599473953</start>
+<end>1294.328332901001</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>BW3 KAM</code>
+<start>1294.338332901001</start>
+<end>1321.5492689609528</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>BW3 KAM</code>
+<start>1549.163980960846</start>
+<end>1567.7161349058151</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>BW3 KAM</code>
+<start>1616.3247828483582</start>
+<end>1646.1117938756943</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>BW3 KAM</code>
+<start>2548.0187180042267</start>
+<end>2572.0548020601273</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>BW3 KAM</code>
+<start>2582.6408410072327</start>
+<end>2604.701725959778</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>BW3 KAM</code>
+<start>2791.940216064453</start>
+<end>2807.475031018257</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>BW4 KAM</code>
+<start>110.84434795379639</start>
+<end>135.34225499629974</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>BW4 KAM</code>
+<start>1571.1676518917084</start>
+<end>1600.0713828802109</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>BW4 KAM</code>
+<start>2570.188941001892</start>
+<end>2578.7524679899216</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>BW4 KAM</code>
+<start>3366.670727491379</start>
+<end>3379.3049235343933</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>BW4 KAM</code>
+<start>3951.8411045074463</start>
+<end>3967.543687582016</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>CP KAM</code>
+<start>107.08489894866943</start>
+<end>129.08489894866943</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>CP KAM</code>
+<start>129.09489894866942</start>
+<end>144.01302695274353</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>CP KAM</code>
+<start>273.102343916893</start>
+<end>292.90310990810394</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>CP KAM</code>
+<start>365.7525339126587</start>
+<end>384.2664349079132</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>CP KAM</code>
+<start>1210.66739487648</start>
+<end>1225.6933679580688</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>CP KAM</code>
+<start>1410.7152819633484</start>
+<end>1432.7152819633484</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>CP KAM</code>
+<start>1568.4523829221725</start>
+<end>1590.4523829221725</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>CP KAM</code>
+<start>1613.9588539600372</start>
+<end>1635.9588539600372</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>CP KAM</code>
+<start>1871.8724579811096</start>
+<end>1890.6567749977112</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>CP KAM</code>
+<start>2094.1509712934494</start>
+<end>2116.1509712934494</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>CP KAM</code>
+<start>2418.875120997429</start>
+<end>2440.875120997429</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>CP KAM</code>
+<start>2513.3800500631332</start>
+<end>2527.614506959915</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>CP KAM</code>
+<start>2554.3540810346603</start>
+<end>2572.0548020601273</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>CP KAM</code>
+<start>2797.6526420116425</start>
+<end>2819.060224056244</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>CP KAM</code>
+<start>3361.821056485176</start>
+<end>3379.3049235343933</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>CP KAM</code>
+<start>3685.8216695785522</start>
+<end>3707.8216695785522</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>CP KAM</code>
+<start>3919.8081945180893</start>
+<end>3941.8081945180893</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>CP KAM</code>
+<start>3948.9429515600204</start>
+<end>3967.543687582016</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>CP KAM</code>
+<start>4128.907493591309</start>
+<end>4144.107846498489</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>CP KAM</code>
+<start>4160.362332582474</start>
+<end>4181.680021524429</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>CP KAM</code>
+<start>4264.56199657917</start>
+<end>4282.996098518372</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>GOAL KAM</code>
+<start>3994.1403815746307</start>
+<end>4009.1403815746307</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>GOAL KAM</code>
+<start>4166.680021524429</start>
+<end>4181.680021524429</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>SB KAM</code>
+<start>3999.5695304870605</start>
+<end>4007.5695304870605</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>SC KAM</code>
+<start>325.37524700164795</start>
+<end>337.37524700164795</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>SC KAM</code>
+<start>355.7298609018326</start>
+<end>367.7298609018326</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>SC KAM</code>
+<start>407.0711280107498</start>
+<end>419.0711280107498</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>SC KAM</code>
+<start>1465.2557928562164</start>
+<end>1477.2557928562164</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>SC KAM</code>
+<start>1488.3426319360733</start>
+<end>1500.3426319360733</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>SC KAM</code>
+<start>1921.3193190097809</start>
+<end>1933.3193190097809</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>SC KAM</code>
+<start>1952.6187989711761</start>
+<end>1964.6187989711761</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>SC KAM</code>
+<start>3413.8280595541</start>
+<end>3425.8280595541</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>Speelkwart Q1</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Speelkwart Q2</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Speelkwart Q3</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Speelkwart Q4</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Start</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>EIND</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BS2 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BS3 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BS4 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BW1 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BW2 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BW3 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BW4 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>CP BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>SC BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>GROEN BLO</code>
+<R>36494</R>
+<G>64250</G>
+<B>0</B>
+</row>
+<row>
+<code>GROEN KAM</code>
+<R>36494</R>
+<G>64250</G>
+<B>0</B>
+</row>
+<row>
+<code>ASB KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BS1 KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BS2 KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BS3 KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BS4 KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BW1 KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BW2 KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BW3 KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BW4 KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>CP KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>GOAL KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>SB KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>SC KAM</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+</ROWS>
+</file>

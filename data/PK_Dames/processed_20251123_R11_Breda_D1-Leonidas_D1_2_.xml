@@ -1,0 +1,1781 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<info>
+<creationDate>2025-11-23T15:27:57Z</creationDate>
+<UUID>97AF2F14-BBA1-463D-85F6-6ED16BBA0450</UUID>
+<NAME>Combined Timeline</NAME>
+</info>
+<GLOBALMARKERS/>
+<ALL_INSTANCES>
+<instance>
+<ID>C3430F7C-EF76-436E-A035-194A56D5F530</ID>
+<code>start</code>
+<start>0.0</start>
+<end>2.200195428</end>
+</instance>
+<instance>
+<ID>32632F52-D8E6-4FD5-913D-59F9A88F72BC</ID>
+<code>start</code>
+<start>1075.100083332</start>
+<end>1079.100083332</end>
+</instance>
+<instance>
+<ID>DFDA49C8-F20E-4915-9581-598DE3D2D2BE</ID>
+<code>start</code>
+<start>2132.000192608</start>
+<end>2136.000192608</end>
+</instance>
+<instance>
+<ID>5F79A852-E73E-40A2-AA11-2C7F1724A92C</ID>
+<code>start</code>
+<start>3201.600081808</start>
+<end>3205.600081808</end>
+</instance>
+<instance>
+<ID>29C43668-4D3A-412F-89E1-FFA66EF35144</ID>
+<code>leonidas cause_of_penalty_corner</code>
+<start>252.900984183</start>
+<end>264.900984183</end>
+</instance>
+<instance>
+<ID>38C4849E-D6C0-4051-831C-FAC5A9E9A497</ID>
+<code>leonidas cause_of_penalty_corner</code>
+<start>1610.600066201</start>
+<end>1622.600066201</end>
+</instance>
+<instance>
+<ID>94E941F7-B6B3-4048-AD53-8A0080C3BB0D</ID>
+<code>leonidas cause_of_penalty_corner</code>
+<start>4029.300113973</start>
+<end>4041.300113973</end>
+</instance>
+<instance>
+<ID>277EC8E2-BE06-412B-8FBA-54A8FB7C712C</ID>
+<code>leonidas ball_restart_1</code>
+<start>186.4001357</start>
+<end>211.400129532</end>
+</instance>
+<instance>
+<ID>A6174C85-E808-4D9A-8E95-819EBFFACF45</ID>
+<code>leonidas ball_restart_1</code>
+<start>990.600167973</start>
+<end>1006.200066468</end>
+</instance>
+<instance>
+<ID>792B9C7F-41CC-4D0E-BD3A-5219F775580D</ID>
+<code>leonidas ball_restart_1</code>
+<start>1019.4000728840001</start>
+<end>1034.200287802</end>
+</instance>
+<instance>
+<ID>8DE9CC83-219E-466D-8902-0E3746DCFD8D</ID>
+<code>leonidas ball_restart_1</code>
+<start>1223.600093937</start>
+<end>1262.500146492</end>
+</instance>
+<instance>
+<ID>62D49B0B-0997-4D72-AFCC-F84B28F8CFAC</ID>
+<code>leonidas ball_restart_1</code>
+<start>1457.500200551</start>
+<end>1490.000258051</end>
+</instance>
+<instance>
+<ID>000968D8-643B-47FF-B635-DC869FED8402</ID>
+<code>leonidas ball_restart_1</code>
+<start>1747.700115462</start>
+<end>1795.200080535</end>
+</instance>
+<instance>
+<ID>1BE29193-EDA9-4D75-A0A2-B5045700DA93</ID>
+<code>leonidas ball_restart_1</code>
+<start>1837.600115619</start>
+<end>1875.100050574</end>
+</instance>
+<instance>
+<ID>28A80DF5-97AE-477D-9C92-1368B653D76B</ID>
+<code>leonidas ball_restart_1</code>
+<start>1905.600080365</start>
+<end>1929.900064366</end>
+</instance>
+<instance>
+<ID>5CB06A37-12D9-4F67-9227-B9D3B35A4236</ID>
+<code>leonidas ball_restart_1</code>
+<start>2119.700206483</start>
+<end>2132.405527608</end>
+</instance>
+<instance>
+<ID>5AAB0F6F-BD4F-4549-98DF-61F0498B1DFC</ID>
+<code>leonidas ball_restart_1</code>
+<start>2364.300339315</start>
+<end>2394.303765752</end>
+</instance>
+<instance>
+<ID>41FB20B3-95EA-4BA5-9405-A6DC99C79FF7</ID>
+<code>leonidas ball_restart_1</code>
+<start>2475.10010975</start>
+<end>2485.600175774</end>
+</instance>
+<instance>
+<ID>298E7D55-DAB0-4912-8590-642FEDFEDE15</ID>
+<code>leonidas ball_restart_1</code>
+<start>3035.600188079</start>
+<end>3059.500460266</end>
+</instance>
+<instance>
+<ID>DC2E174C-1C3D-4C63-A7E7-EF4292AF6BF6</ID>
+<code>leonidas ball_restart_1</code>
+<start>3268.800189707</start>
+<end>3291.400188394</end>
+</instance>
+<instance>
+<ID>6686520A-D334-44A8-98A3-A6ADFA98FB4F</ID>
+<code>leonidas ball_restart_1</code>
+<start>3344.000131644</start>
+<end>3369.500253769</end>
+</instance>
+<instance>
+<ID>3A030315-E062-43E7-9734-AE79B58DDB60</ID>
+<code>leonidas ball_restart_1</code>
+<start>3442.800116394</start>
+<end>3459.700232019</end>
+</instance>
+<instance>
+<ID>852B107C-290E-496B-9FA7-0C9784B066FE</ID>
+<code>leonidas ball_restart_1</code>
+<start>3556.800175764</start>
+<end>3576.000184051</end>
+</instance>
+<instance>
+<ID>C1BA93EB-D08B-468E-A2C4-06DC0FE657E9</ID>
+<code>leonidas ball_restart_1</code>
+<start>3617.900093144</start>
+<end>3630.400110643</end>
+</instance>
+<instance>
+<ID>A74D36AE-ADEF-4B4E-84D8-97E5C88C2479</ID>
+<code>leonidas ball_restart_1</code>
+<start>3757.400089291</start>
+<end>3778.307778729</end>
+</instance>
+<instance>
+<ID>B90A8CE3-249C-44E6-8464-29F4AE289DAC</ID>
+<code>leonidas ball_restart_1</code>
+<start>3847.800086962</start>
+<end>3861.400116305</end>
+</instance>
+<instance>
+<ID>FA234AF7-8372-4514-A411-A18E119A6909</ID>
+<code>leonidas ball_restart_1</code>
+<start>3883.600182369</start>
+<end>3904.700121619</end>
+</instance>
+<instance>
+<ID>DE5CDE95-CBF6-4684-8D8E-C6BF588869C6</ID>
+<code>leonidas ball_restart_1</code>
+<start>4293.00022574</start>
+<end>4311.300120301</end>
+</instance>
+<instance>
+<ID>75F2528A-C21E-400B-BCA7-199DE836ECC7</ID>
+<code>leonidas ball_restart_2</code>
+<start>0.0</start>
+<end>11.500108011</end>
+</instance>
+<instance>
+<ID>40673AA5-EA4B-434E-840F-13F956220DEB</ID>
+<code>leonidas ball_restart_2</code>
+<start>105.800172927</start>
+<end>144.800127552</end>
+</instance>
+<instance>
+<ID>2FFE2314-A159-4C48-9684-94DEDC475DE6</ID>
+<code>leonidas ball_restart_2</code>
+<start>217.600046677</start>
+<end>231.000100802</end>
+</instance>
+<instance>
+<ID>BA18178D-BEAB-4C22-AA6C-77A95F6D8634</ID>
+<code>leonidas ball_restart_2</code>
+<start>777.900081963</start>
+<end>807.300107687</end>
+</instance>
+<instance>
+<ID>B7C717E7-CC61-4E90-B044-E6FF3BA88F48</ID>
+<code>leonidas ball_restart_2</code>
+<start>1073.000216666</start>
+<end>1112.6002132</end>
+</instance>
+<instance>
+<ID>35F9AFEF-3AB4-4715-8406-17BDB785973E</ID>
+<code>leonidas ball_restart_2</code>
+<start>1141.300966285</start>
+<end>1164.104981701</end>
+</instance>
+<instance>
+<ID>A3814595-C40A-4B11-9205-03B6100602D4</ID>
+<code>leonidas ball_restart_2</code>
+<start>1924.900064366</start>
+<end>1968.200125032</end>
+</instance>
+<instance>
+<ID>BFDA91EA-52FB-47AD-8174-D6E92112AAE4</ID>
+<code>leonidas ball_restart_2</code>
+<start>2130.701294359</start>
+<end>2137.207024672</end>
+</instance>
+<instance>
+<ID>1D7585D5-FE82-40F6-AC1F-B73550AA1197</ID>
+<code>leonidas ball_restart_2</code>
+<start>2480.600175774</start>
+<end>2524.9000889</end>
+</instance>
+<instance>
+<ID>66550519-DDCD-479D-B49A-E79E1B36DB90</ID>
+<code>leonidas ball_restart_2</code>
+<start>3054.500460266</start>
+<end>3064.100147064</end>
+</instance>
+<instance>
+<ID>39DC59EB-1E29-4172-80B8-5947592F7808</ID>
+<code>leonidas ball_restart_2</code>
+<start>3364.500253769</start>
+<end>3385.500587018</end>
+</instance>
+<instance>
+<ID>9C8D4324-333A-4C3C-AB81-8DF5F63BAB01</ID>
+<code>leonidas ball_restart_2</code>
+<start>3899.700121619</start>
+<end>3916.200140618</end>
+</instance>
+<instance>
+<ID>6C419C1A-10B4-4BA4-9B44-CCC4C0076E84</ID>
+<code>leonidas ball_restart_2</code>
+<start>3953.000212473</start>
+<end>3997.100167609</end>
+</instance>
+<instance>
+<ID>87ADB6A9-8B68-456A-B3FC-310E927B045F</ID>
+<code>leonidas ball_restart_2</code>
+<start>4306.300120301</start>
+<end>4317.600196114</end>
+</instance>
+<instance>
+<ID>7605D0FE-A7F7-466F-81D1-424A25490123</ID>
+<code>leonidas ball_restart_3</code>
+<start>139.800127552</start>
+<end>164.20011176</end>
+</instance>
+<instance>
+<ID>9B5BB795-2E86-4349-906C-63A6CC8F9EE2</ID>
+<code>leonidas ball_restart_3</code>
+<start>429.300128039</start>
+<end>453.200121024</end>
+</instance>
+<instance>
+<ID>E3707398-EA2A-4658-8CC1-F483CCDDA786</ID>
+<code>leonidas ball_restart_3</code>
+<start>1029.200287802</start>
+<end>1057.300124551</end>
+</instance>
+<instance>
+<ID>199E2F5C-9ABC-4B81-B696-61B9B07AA110</ID>
+<code>leonidas ball_restart_3</code>
+<start>1067.700094666</start>
+<end>1075.300126083</end>
+</instance>
+<instance>
+<ID>26F8EFF8-B277-485E-9DFD-C5B5B971A85A</ID>
+<code>leonidas ball_restart_3</code>
+<start>1302.700103569</start>
+<end>1313.600106944</end>
+</instance>
+<instance>
+<ID>63475DD2-03C7-4035-82B5-AFE651A86C44</ID>
+<code>leonidas ball_restart_3</code>
+<start>2050.300117188</start>
+<end>2067.700142125</end>
+</instance>
+<instance>
+<ID>C216786D-4EDB-4D8F-90EB-AEA3487EF92E</ID>
+<code>leonidas ball_restart_3</code>
+<start>2105.400077951</start>
+<end>2113.300134295</end>
+</instance>
+<instance>
+<ID>9A83C993-9861-4197-888D-9D8B88A548AB</ID>
+<code>leonidas ball_restart_3</code>
+<start>2519.9000889</start>
+<end>2544.50016226</end>
+</instance>
+<instance>
+<ID>B864E51A-095E-439E-8C98-B1601AB271B9</ID>
+<code>leonidas ball_restart_3</code>
+<start>2805.400155907</start>
+<end>2833.20008385</end>
+</instance>
+<instance>
+<ID>A7F57BE4-3F45-4E97-B839-962A6261F707</ID>
+<code>leonidas ball_restart_3</code>
+<start>2847.700134156</start>
+<end>2898.500152912</end>
+</instance>
+<instance>
+<ID>F4C58AD1-6EF8-4716-87E4-9479A6F7B90E</ID>
+<code>leonidas ball_restart_3</code>
+<start>3101.203526752</start>
+<end>3110.800170414</end>
+</instance>
+<instance>
+<ID>FC038321-0FB6-4B7E-B883-AE9EC2C06B82</ID>
+<code>leonidas ball_restart_3</code>
+<start>3785.900101418</start>
+<end>3800.800104919</end>
+</instance>
+<instance>
+<ID>8D389031-CB60-410E-9BD8-641A40145E20</ID>
+<code>leonidas ball_restart_3</code>
+<start>4005.500436671</start>
+<end>4037.700056848</end>
+</instance>
+<instance>
+<ID>4DCFE2EE-E468-48A5-9BCE-8471947FEB23</ID>
+<code>leonidas ball_restart_3</code>
+<start>4213.300155564</start>
+<end>4222.400195314</end>
+</instance>
+<instance>
+<ID>ACB52785-CCD3-4A31-9E46-E934B32576F6</ID>
+<code>leonidas ball_restart_4</code>
+<start>233.600068927</start>
+<end>261.600079058</end>
+</instance>
+<instance>
+<ID>0A4D61F2-E69E-4718-ADB9-3E4A47058749</ID>
+<code>leonidas ball_restart_4</code>
+<start>316.400110206</start>
+<end>334.00021404</end>
+</instance>
+<instance>
+<ID>C375D53C-33F5-454A-B20C-DC3B0FAF013B</ID>
+<code>leonidas ball_restart_4</code>
+<start>493.400080905</start>
+<end>578.600109553</end>
+</instance>
+<instance>
+<ID>313B4002-F356-4E0B-9C88-F3EB9A1400C8</ID>
+<code>leonidas ball_restart_4</code>
+<start>809.000430646</start>
+<end>858.400093568</end>
+</instance>
+<instance>
+<ID>DABA9725-E91B-4BC0-8BE8-BFC8BC67C190</ID>
+<code>leonidas ball_restart_4</code>
+<start>861.000198173</start>
+<end>892.400057295</end>
+</instance>
+<instance>
+<ID>C905B26D-0670-43F1-910B-1344694393B3</ID>
+<code>leonidas ball_restart_4</code>
+<start>1261.500222951</start>
+<end>1285.60009389</end>
+</instance>
+<instance>
+<ID>96731F01-B0F9-431E-B157-2CA26265DF81</ID>
+<code>leonidas ball_restart_4</code>
+<start>1287.100141765</start>
+<end>1307.700103569</end>
+</instance>
+<instance>
+<ID>BB2F2518-8A8D-46BD-B888-93B2EE1035CB</ID>
+<code>leonidas ball_restart_4</code>
+<start>2062.700142125</start>
+<end>2090.40014503</end>
+</instance>
+<instance>
+<ID>AD75BEBB-B9FC-4901-9707-742CC2E7D212</ID>
+<code>leonidas ball_restart_4</code>
+<start>2562.100118447</start>
+<end>2611.000219198</end>
+</instance>
+<instance>
+<ID>840D6330-B639-420F-9414-860232711ABE</ID>
+<code>leonidas ball_restart_4</code>
+<start>2611.400129323</start>
+<end>2633.600175387</end>
+</instance>
+<instance>
+<ID>715D1EEC-E261-435F-BC27-6A99EE217F29</ID>
+<code>leonidas ball_restart_4</code>
+<start>2765.300161949</start>
+<end>2790.400070199</end>
+</instance>
+<instance>
+<ID>9E3C78B2-9B93-420D-AA4F-4D6F45087D54</ID>
+<code>leonidas ball_restart_4</code>
+<start>2937.600172501</start>
+<end>2966.300136374</end>
+</instance>
+<instance>
+<ID>7D7D0686-6A15-4B18-9C82-7EEFA4B28134</ID>
+<code>leonidas ball_restart_4</code>
+<start>3795.800104919</start>
+<end>3822.600077658</end>
+</instance>
+<instance>
+<ID>210655BE-EF3F-4D10-9241-9FA12E849735</ID>
+<code>leonidas ball_win_1</code>
+<start>52.800111427</start>
+<end>72.900080343</end>
+</instance>
+<instance>
+<ID>6094ECF5-716B-41F5-9994-69CCC604E56A</ID>
+<code>leonidas ball_win_1</code>
+<start>374.500187455</start>
+<end>409.800125454</end>
+</instance>
+<instance>
+<ID>35F3E9BF-F6DB-4755-8E50-557A0B7A63DF</ID>
+<code>leonidas ball_win_1</code>
+<start>2213.500095695</start>
+<end>2256.300205503</end>
+</instance>
+<instance>
+<ID>5D828920-163C-47C1-B972-EBB8B33AF3BE</ID>
+<code>leonidas ball_win_1</code>
+<start>2459.000154471</start>
+<end>2480.10010975</end>
+</instance>
+<instance>
+<ID>C85BA0E6-EFF7-459C-BED8-18ADBAEFDE50</ID>
+<code>leonidas ball_win_1</code>
+<start>2719.600323449</start>
+<end>2759.30014201</end>
+</instance>
+<instance>
+<ID>4712F900-C31C-4742-B965-9CC61636B45E</ID>
+<code>leonidas ball_win_1</code>
+<start>3008.701072999</start>
+<end>3027.600109376</end>
+</instance>
+<instance>
+<ID>9A494B42-4829-4C78-B58E-1C621D255665</ID>
+<code>leonidas ball_win_1</code>
+<start>3233.900096505</start>
+<end>3258.600193066</end>
+</instance>
+<instance>
+<ID>FDD051DD-DA21-479F-81EB-F38514DEE3AD</ID>
+<code>leonidas ball_win_1</code>
+<start>3428.800149456</start>
+<end>3447.800116394</end>
+</instance>
+<instance>
+<ID>B06AF13F-31A6-42EB-96FD-EF684A4605A2</ID>
+<code>leonidas ball_win_1</code>
+<start>3538.100167718</start>
+<end>3561.800175764</end>
+</instance>
+<instance>
+<ID>70D61601-6F65-41DB-BCDA-77AE03568317</ID>
+<code>leonidas ball_win_1</code>
+<start>3676.000298666</start>
+<end>3688.800191416</end>
+</instance>
+<instance>
+<ID>12EAFC1F-CC63-4F7C-A739-F20680F7A486</ID>
+<code>leonidas ball_win_1</code>
+<start>3721.000312456</start>
+<end>3738.400136394</end>
+</instance>
+<instance>
+<ID>2246C806-BD04-40E5-8E0B-58C64D207C1A</ID>
+<code>leonidas ball_win_1</code>
+<start>3945.000251474</start>
+<end>3958.000212473</end>
+</instance>
+<instance>
+<ID>72965A4B-EE34-4758-9645-96772B2384F5</ID>
+<code>leonidas ball_win_1</code>
+<start>4135.000138041</start>
+<end>4153.000143667</end>
+</instance>
+<instance>
+<ID>BABDA5C9-0AB2-4765-A6AF-DA654E51F8CA</ID>
+<code>leonidas ball_win_1</code>
+<start>4229.100169064</start>
+<end>4243.200193003</end>
+</instance>
+<instance>
+<ID>070E695A-A2D7-4A16-BA0D-932A8981C5A8</ID>
+<code>leonidas ball_win_1</code>
+<start>4254.700107878</start>
+<end>4267.100102503</end>
+</instance>
+<instance>
+<ID>6C1D81F2-E797-4EDE-A8F4-EC2660AE9A3E</ID>
+<code>leonidas ball_win_2</code>
+<start>91.700137469</start>
+<end>107.300101343</end>
+</instance>
+<instance>
+<ID>BB783D82-EBBB-4C1D-B67D-DA00359CF310</ID>
+<code>leonidas ball_win_2</code>
+<start>595.80010822</start>
+<end>613.90005726</end>
+</instance>
+<instance>
+<ID>0513587A-AA7D-4F16-9970-E7D44766D9B5</ID>
+<code>leonidas ball_win_2</code>
+<start>1321.900089334</start>
+<end>1335.000661353</end>
+</instance>
+<instance>
+<ID>93EC2EF8-A28B-416C-AA0C-A91198CDEFC1</ID>
+<code>leonidas ball_win_2</code>
+<start>1577.200052452</start>
+<end>1618.900091826</end>
+</instance>
+<instance>
+<ID>B7D51989-C28B-4357-A7DE-93A1FCD2BC49</ID>
+<code>leonidas ball_win_2</code>
+<start>2040.700228787</start>
+<end>2055.300117188</end>
+</instance>
+<instance>
+<ID>3C95ED15-E7B0-417A-8C69-E99740BDC5DF</ID>
+<code>leonidas ball_win_2</code>
+<start>2150.100143614</start>
+<end>2177.60015425</end>
+</instance>
+<instance>
+<ID>AA3A75A4-F835-496F-AE77-49CAF2CBC7D9</ID>
+<code>leonidas ball_win_2</code>
+<start>3775.600158974</start>
+<end>3790.900101418</end>
+</instance>
+<instance>
+<ID>2FC172B6-A91C-4228-AF7E-53C819851466</ID>
+<code>leonidas ball_win_3</code>
+<start>226.001654136</start>
+<end>238.600068927</end>
+</instance>
+<instance>
+<ID>043E2C9E-9515-4D3F-B8D5-D7CF43FAD36C</ID>
+<code>leonidas ball_win_3</code>
+<start>475.500237238</start>
+<end>494.100107655</end>
+</instance>
+<instance>
+<ID>A0C20BFB-70CF-4E68-B321-DAA674A8B839</ID>
+<code>leonidas ball_win_3</code>
+<start>913.60007993</start>
+<end>934.000109221</end>
+</instance>
+<instance>
+<ID>143E049E-89FA-40C9-91B3-B74496BF6ED0</ID>
+<code>leonidas ball_win_3</code>
+<start>1174.802106285</start>
+<end>1191.800110208</end>
+</instance>
+<instance>
+<ID>8DF8B705-BEC1-40C5-BB4A-448E2F69D2EA</ID>
+<code>leonidas ball_win_3</code>
+<start>1515.000128162</start>
+<end>1526.100081954</end>
+</instance>
+<instance>
+<ID>3E966789-3B94-4C5F-85A4-C60B82A9367B</ID>
+<code>leonidas ball_win_3</code>
+<start>2006.100070057</start>
+<end>2024.400150391</end>
+</instance>
+<instance>
+<ID>7000BE6E-FF95-4F7B-AE73-2F3352E9A48C</ID>
+<code>leonidas ball_win_3</code>
+<start>2269.700148324</start>
+<end>2283.500329199</end>
+</instance>
+<instance>
+<ID>A1E9B941-1786-4053-8D9D-C641F8018B2A</ID>
+<code>leonidas ball_win_3</code>
+<start>2790.800073344</start>
+<end>2806.000162219</end>
+</instance>
+<instance>
+<ID>863B2D59-4AA7-4137-89CA-B78AA57F4827</ID>
+<code>leonidas ball_win_3</code>
+<start>2896.600133875</start>
+<end>2942.600172501</end>
+</instance>
+<instance>
+<ID>8824C958-BBCA-4044-BB73-A98201CE4AFD</ID>
+<code>leonidas ball_win_3</code>
+<start>4190.000172378</start>
+<end>4203.200149502</end>
+</instance>
+<instance>
+<ID>CE225E4E-56C8-4467-982D-7A73B59EBF05</ID>
+<code>leonidas ball_win_4</code>
+<start>610.800076718</start>
+<end>625.702593216</end>
+</instance>
+<instance>
+<ID>18F49709-E4A7-4B6C-BF01-C291F93D0323</ID>
+<code>leonidas ball_win_4</code>
+<start>3138.600081244</start>
+<end>3151.400190621</end>
+</instance>
+<instance>
+<ID>A7276396-228A-4522-A33C-DFD05BDAF9AE</ID>
+<code>leonidas ball_win_4</code>
+<start>3459.000344043</start>
+<end>3478.400189045</end>
+</instance>
+<instance>
+<ID>A7976574-D5F7-4FF2-8975-090809D50740</ID>
+<code>leonidas circle_penetration</code>
+<start>249.400080474</start>
+<end>259.400080474</end>
+</instance>
+<instance>
+<ID>0037DCCA-A2D9-46A3-8D25-3D1AC293ADE7</ID>
+<code>leonidas circle_penetration</code>
+<start>433.000190983</start>
+<end>443.000190983</end>
+</instance>
+<instance>
+<ID>82BD9AA2-B47C-483B-9701-3FD77B93051B</ID>
+<code>leonidas circle_penetration</code>
+<start>615.900062135</start>
+<end>625.900062135</end>
+</instance>
+<instance>
+<ID>CC918568-30CE-4F3C-BA4C-00E8CF6545DB</ID>
+<code>leonidas circle_penetration</code>
+<start>799.90009548</start>
+<end>809.90009548</end>
+</instance>
+<instance>
+<ID>D53D8675-6A5B-447C-A181-4E3AE22D6DFB</ID>
+<code>leonidas circle_penetration</code>
+<start>826.900111557</start>
+<end>836.900111557</end>
+</instance>
+<instance>
+<ID>81992C49-77C4-4614-85A5-9BFD9FF2ECEE</ID>
+<code>leonidas circle_penetration</code>
+<start>1046.40011251</start>
+<end>1056.40011251</end>
+</instance>
+<instance>
+<ID>2CE28F4F-546E-4ED2-ABF5-750B94114AE4</ID>
+<code>leonidas circle_penetration</code>
+<start>1185.405462285</start>
+<end>1195.405462285</end>
+</instance>
+<instance>
+<ID>252708AA-37BE-4DAC-BF91-B6E11909580E</ID>
+<code>leonidas circle_penetration</code>
+<start>1250.600116687</start>
+<end>1260.600116687</end>
+</instance>
+<instance>
+<ID>26DBF125-9598-4F69-8775-C2BFB4C8D8A6</ID>
+<code>leonidas circle_penetration</code>
+<start>1272.200067057</start>
+<end>1282.200067057</end>
+</instance>
+<instance>
+<ID>25AEC1A9-3C8D-4203-B815-9CD4B6A55CF7</ID>
+<code>leonidas circle_penetration</code>
+<start>1609.10010491</start>
+<end>1619.10010491</end>
+</instance>
+<instance>
+<ID>EDEE4EEE-6A53-45D6-B4A6-3D055CE90C0D</ID>
+<code>leonidas circle_penetration</code>
+<start>2012.600101391</start>
+<end>2022.600101391</end>
+</instance>
+<instance>
+<ID>18EBD7F9-31E5-4AF4-A417-5C1894422326</ID>
+<code>leonidas circle_penetration</code>
+<start>2078.200110217</start>
+<end>2088.200110217</end>
+</instance>
+<instance>
+<ID>0E22057C-B364-4BF8-B3B4-28D152C5F176</ID>
+<code>leonidas circle_penetration</code>
+<start>2164.000241498</start>
+<end>2174.000241498</end>
+</instance>
+<instance>
+<ID>D81BFBD0-103D-41F6-8ACE-803006174DED</ID>
+<code>leonidas circle_penetration</code>
+<start>2886.800189072</start>
+<end>2896.800189072</end>
+</instance>
+<instance>
+<ID>BEFBFB54-8A12-4F39-9FD8-ADF4A5EE2C25</ID>
+<code>leonidas circle_penetration</code>
+<start>3463.900077919</start>
+<end>3473.900077919</end>
+</instance>
+<instance>
+<ID>4F8CD841-1634-47D2-A930-F5619FCD8EF1</ID>
+<code>leonidas circle_penetration</code>
+<start>3812.800104097</start>
+<end>3822.800104097</end>
+</instance>
+<instance>
+<ID>0718D6D0-9A7D-4897-9504-F2BBADC72CAE</ID>
+<code>leonidas circle_penetration</code>
+<start>4027.600333472</start>
+<end>4037.600333472</end>
+</instance>
+<instance>
+<ID>A913DCF9-2189-48F0-8628-B0260D3907C4</ID>
+<code>leonidas goal_attempt</code>
+<start>2160.900133686</start>
+<end>2175.900133686</end>
+</instance>
+<instance>
+<ID>6F335EB5-F3D0-47C1-BFBA-9F7AD0752E61</ID>
+<code>leonidas goal_attempt</code>
+<start>614.602874965</start>
+<end>626.602874965</end>
+</instance>
+<instance>
+<ID>03192B50-CE5C-4DF5-8970-3E09B3564427</ID>
+<code>leonidas goal_attempt</code>
+<start>1249.000171909</start>
+<end>1261.000171909</end>
+</instance>
+<instance>
+<ID>2DB110D8-B2CA-45DC-82DB-D67BA3A67543</ID>
+<code>leonidas goal_attempt</code>
+<start>1657.100082581</start>
+<end>1669.100082581</end>
+</instance>
+<instance>
+<ID>DDBFA2E6-AEB4-4902-A9A3-0F2AEF546054</ID>
+<code>leonidas goal_attempt</code>
+<start>2887.60017441</start>
+<end>2899.60017441</end>
+</instance>
+<instance>
+<ID>BBED318F-77EA-44E3-9835-D384359E244A</ID>
+<code>leonidas penalty_corner</code>
+<start>299.500145456</start>
+<end>312.500145456</end>
+</instance>
+<instance>
+<ID>9417E3BA-3C1B-46D2-8E38-AB5AA3AA9E86</ID>
+<code>leonidas penalty_corner</code>
+<start>1654.100088331</start>
+<end>1667.100088331</end>
+</instance>
+<instance>
+<ID>E30E0882-C7B8-41C2-BB64-CE01416A4A05</ID>
+<code>leonidas penalty_corner</code>
+<start>4074.300119242</start>
+<end>4087.300119242</end>
+</instance>
+<instance>
+<ID>086E36DD-A96D-4B79-89D7-84D52FCA9A28</ID>
+<code>leonidas green_card</code>
+<start>681.601503857</start>
+<end>801.601503857</end>
+</instance>
+<instance>
+<ID>24FBCEF0-EEA0-401A-AD21-3586EE6CB893</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>686.104988648</start>
+<end>698.104988648</end>
+</instance>
+<instance>
+<ID>5DDDDF6E-F65A-430C-AE60-93C6EF42536A</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>731.600068294</start>
+<end>743.600068294</end>
+</instance>
+<instance>
+<ID>BB6677E4-733D-438B-9374-48EABA9F128D</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>1376.800057145</start>
+<end>1388.800057145</end>
+</instance>
+<instance>
+<ID>44BC3FFD-9258-4C80-BB81-A6FBB7ED99CC</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>1420.101759235</start>
+<end>1432.101759235</end>
+</instance>
+<instance>
+<ID>5F7C9113-A2BA-4E94-ACA8-DEEFC432805A</ID>
+<code>breda ball_restart_1</code>
+<start>410.400057579</start>
+<end>426.200066538</end>
+</instance>
+<instance>
+<ID>040D1EDC-E97E-4424-867B-2D297AE6514E</ID>
+<code>breda ball_restart_1</code>
+<start>455.900058947</start>
+<end>483.500237238</end>
+</instance>
+<instance>
+<ID>7FF7CD23-0D92-45B5-821E-9284C24053ED</ID>
+<code>breda ball_restart_1</code>
+<start>577.500150135</start>
+<end>603.80010822</end>
+</instance>
+<instance>
+<ID>434CA4B8-BAB8-45FA-A902-E5F98789058D</ID>
+<code>breda ball_restart_1</code>
+<start>897.400050091</start>
+<end>921.60007993</end>
+</instance>
+<instance>
+<ID>06DDFF54-4336-4C68-B4DC-B52063A84303</ID>
+<code>breda ball_restart_1</code>
+<start>1059.400112374</start>
+<end>1072.700094666</end>
+</instance>
+<instance>
+<ID>A9B467B2-1966-4A43-8738-8535BE9D6CC9</ID>
+<code>breda ball_restart_1</code>
+<start>1114.901593951</start>
+<end>1143.601880993</end>
+</instance>
+<instance>
+<ID>42899467-F28A-432A-AA7C-B3A042838A2A</ID>
+<code>breda ball_restart_1</code>
+<start>1161.400295119</start>
+<end>1182.802106285</end>
+</instance>
+<instance>
+<ID>8098050E-E3E9-4A4A-9334-DEA020A4A5A8</ID>
+<code>breda ball_restart_1</code>
+<start>1315.400065584</start>
+<end>1329.900089334</end>
+</instance>
+<instance>
+<ID>08537193-1235-44D0-89D1-5005A58938BE</ID>
+<code>breda ball_restart_1</code>
+<start>1548.600100246</start>
+<end>1570.300142787</end>
+</instance>
+<instance>
+<ID>F2E30ADF-7C2C-4EF6-8DB0-74B9955AEC6A</ID>
+<code>breda ball_restart_1</code>
+<start>1677.500107631</start>
+<end>1719.300078071</end>
+</instance>
+<instance>
+<ID>4476BCA6-228D-42D9-BC93-D7EA601A9D65</ID>
+<code>breda ball_restart_1</code>
+<start>1970.300063564</start>
+<end>1989.600108814</end>
+</instance>
+<instance>
+<ID>261A945F-1C90-41E6-88C6-4727E16B2A63</ID>
+<code>breda ball_restart_1</code>
+<start>2037.900129473</start>
+<end>2048.700228787</end>
+</instance>
+<instance>
+<ID>B31A9DD3-6A41-4693-BB2B-7A885A94CA29</ID>
+<code>breda ball_restart_1</code>
+<start>2100.200165104</start>
+<end>2110.400077951</end>
+</instance>
+<instance>
+<ID>013D0D79-D731-4C28-B367-3DCB43D911FD</ID>
+<code>breda ball_restart_1</code>
+<start>2395.307839751</start>
+<end>2413.200118346</end>
+</instance>
+<instance>
+<ID>10E9F7C0-0D64-45B1-8F7A-FCE6F87B491E</ID>
+<code>breda ball_restart_1</code>
+<start>2552.50053326</start>
+<end>2567.100118447</end>
+</instance>
+<instance>
+<ID>0C0976CD-A4AF-43A3-A747-CBC96A9700BB</ID>
+<code>breda ball_restart_1</code>
+<start>2628.600175387</start>
+<end>2675.000189698</end>
+</instance>
+<instance>
+<ID>997ADE9D-84D9-4181-8F83-52B18BD39113</ID>
+<code>breda ball_restart_1</code>
+<start>2837.000260094</start>
+<end>2852.700134156</end>
+</instance>
+<instance>
+<ID>369AD5E1-CF7F-4F85-A8D0-3E5513C4D123</ID>
+<code>breda ball_restart_1</code>
+<start>2969.100127498</start>
+<end>2986.600138311</end>
+</instance>
+<instance>
+<ID>C3262F1F-4C57-4690-A169-6BA368EEF08B</ID>
+<code>breda ball_restart_1</code>
+<start>3480.10013892</start>
+<end>3534.500320539</end>
+</instance>
+<instance>
+<ID>E24C3579-68FD-49FF-B2EE-71BA248E5E6A</ID>
+<code>breda ball_restart_1</code>
+<start>3633.400154933</start>
+<end>3645.800084309</end>
+</instance>
+<instance>
+<ID>D508D738-01DA-4512-8A7C-F79F6BC3DC4F</ID>
+<code>breda ball_restart_1</code>
+<start>3825.000307532</start>
+<end>3851.300083775</end>
+</instance>
+<instance>
+<ID>E627D92E-094A-4BB3-AB60-CB061E3009BF</ID>
+<code>breda ball_restart_1</code>
+<start>4109.800119729</start>
+<end>4143.000138041</end>
+</instance>
+<instance>
+<ID>0B0BC543-D0A4-4668-B339-575A8D008C16</ID>
+<code>breda ball_restart_1</code>
+<start>4156.700114312</start>
+<end>4179.800173125</end>
+</instance>
+<instance>
+<ID>0E7A104C-9A58-4F24-A04B-167BFD4D752F</ID>
+<code>breda ball_restart_1</code>
+<start>4182.600082253</start>
+<end>4198.000172378</end>
+</instance>
+<instance>
+<ID>721FFE69-F87D-47B2-B11D-49E6B1E72F7E</ID>
+<code>breda ball_restart_2</code>
+<start>354.300083079</start>
+<end>382.500187455</end>
+</instance>
+<instance>
+<ID>6E6549B5-3BEB-4AE4-8FE7-CFECBA931493</ID>
+<code>breda ball_restart_2</code>
+<start>1492.600095059</start>
+<end>1523.000128162</end>
+</instance>
+<instance>
+<ID>36D75FBE-DDA7-4912-B63E-29EF4371D71E</ID>
+<code>breda ball_restart_2</code>
+<start>2132.207024672</start>
+<end>2158.100143614</end>
+</instance>
+<instance>
+<ID>091D543D-2ACB-41CD-90D0-2737D636DB8F</ID>
+<code>breda ball_restart_2</code>
+<start>2186.600188507</start>
+<end>2214.30035707</end>
+</instance>
+<instance>
+<ID>891C6081-0578-477D-86A8-C2C2CC533CA8</ID>
+<code>breda ball_restart_2</code>
+<start>2259.400190761</start>
+<end>2277.700148324</end>
+</instance>
+<instance>
+<ID>4EFF87C4-2D24-4F0D-AC83-5DE5D55547EE</ID>
+<code>breda ball_restart_2</code>
+<start>2287.900257936</start>
+<end>2332.500190373</end>
+</instance>
+<instance>
+<ID>472C3885-0562-47CC-B048-CDF0D80E6064</ID>
+<code>breda ball_restart_2</code>
+<start>2408.200118346</start>
+<end>2425.300099534</end>
+</instance>
+<instance>
+<ID>23C2697F-6392-43F7-A354-D26EA8AC19DF</ID>
+<code>breda ball_restart_2</code>
+<start>2670.000189698</start>
+<end>2723.300116323</end>
+</instance>
+<instance>
+<ID>C62731B4-9E00-47AF-9F95-1288BAC7CED4</ID>
+<code>breda ball_restart_2</code>
+<start>2981.600138311</start>
+<end>3016.701072999</end>
+</instance>
+<instance>
+<ID>3D81F1A0-D29E-49CA-85CF-E3827952AB77</ID>
+<code>breda ball_restart_2</code>
+<start>3059.100147064</start>
+<end>3080.413580751</end>
+</instance>
+<instance>
+<ID>AEF81591-1797-4414-82D1-858283624515</ID>
+<code>breda ball_restart_2</code>
+<start>3146.400190621</start>
+<end>3163.800116745</end>
+</instance>
+<instance>
+<ID>D20321D2-4289-4BB6-B3D3-437EFFD59564</ID>
+<code>breda ball_restart_2</code>
+<start>3201.200068183</start>
+<end>3228.400128493</end>
+</instance>
+<instance>
+<ID>0CE3751C-84F8-420B-9CDF-AA542DA50C90</ID>
+<code>breda ball_restart_2</code>
+<start>3410.500322723</start>
+<end>3436.800149456</end>
+</instance>
+<instance>
+<ID>FCF61A21-DBB3-48A2-B84B-97E166503206</ID>
+<code>breda ball_restart_2</code>
+<start>3640.800084309</start>
+<end>3684.000298666</end>
+</instance>
+<instance>
+<ID>2D1035D4-1BBA-4D9A-8421-1EF1EF6537F9</ID>
+<code>breda ball_restart_2</code>
+<start>3926.200094243</start>
+<end>3953.000251474</end>
+</instance>
+<instance>
+<ID>6240566B-909D-450E-BF8C-FB4CC9349328</ID>
+<code>breda ball_restart_2</code>
+<start>3992.100167609</start>
+<end>4010.500436671</end>
+</instance>
+<instance>
+<ID>9806F09C-B2FE-476E-8C9C-725BC7D866B2</ID>
+<code>breda ball_restart_3</code>
+<start>17.700130303</start>
+<end>60.800111427</end>
+</instance>
+<instance>
+<ID>35899EEC-2DB3-4EFF-AB2A-CB909292DD00</ID>
+<code>breda ball_restart_3</code>
+<start>967.800109621</start>
+<end>989.500108621</end>
+</instance>
+<instance>
+<ID>D1E88734-807C-4194-9080-DC87126EE83C</ID>
+<code>breda ball_restart_3</code>
+<start>1567.400053159</start>
+<end>1585.200052452</end>
+</instance>
+<instance>
+<ID>56568763-4C80-45FD-ABEE-C66050E08E04</ID>
+<code>breda ball_restart_3</code>
+<start>1805.10007216</start>
+<end>1836.600106119</end>
+</instance>
+<instance>
+<ID>7CC0B660-FD3B-4D5A-90FE-7AD7E5491B2F</ID>
+<code>breda ball_restart_3</code>
+<start>1870.100050574</start>
+<end>1910.600080365</end>
+</instance>
+<instance>
+<ID>BABD74C6-7EC1-445C-93F3-15A24B201FFD</ID>
+<code>breda ball_restart_3</code>
+<start>1984.600108814</start>
+<end>2014.100070057</end>
+</instance>
+<instance>
+<ID>A04A5CB3-C291-4243-BEBA-359100A8E670</ID>
+<code>breda ball_restart_3</code>
+<start>2420.300099534</start>
+<end>2445.300139909</end>
+</instance>
+<instance>
+<ID>E95CF781-25C5-4CA9-B807-487096C5754D</ID>
+<code>breda ball_restart_3</code>
+<start>3075.413580751</start>
+<end>3106.203526752</end>
+</instance>
+<instance>
+<ID>DE806282-458B-45F9-8AF5-D7A9613A8F00</ID>
+<code>breda ball_restart_3</code>
+<start>3158.800116745</start>
+<end>3192.100078933</end>
+</instance>
+<instance>
+<ID>DFC1F69A-21D1-4D8A-9955-225C5C04B1D2</ID>
+<code>breda ball_restart_3</code>
+<start>3223.400128493</start>
+<end>3241.900096505</end>
+</instance>
+<instance>
+<ID>5E284937-613F-4516-8ED8-FAEE28B0D8F1</ID>
+<code>breda ball_restart_3</code>
+<start>3253.600193066</start>
+<end>3273.800189707</end>
+</instance>
+<instance>
+<ID>94B7F755-DF6D-4C22-BCC2-64BA6DADE620</ID>
+<code>breda ball_restart_3</code>
+<start>3286.400188394</start>
+<end>3347.300106956</end>
+</instance>
+<instance>
+<ID>8609662D-9B52-4808-95CE-E5FC20DF9620</ID>
+<code>breda ball_restart_3</code>
+<start>3699.400178395</start>
+<end>3729.000312456</end>
+</instance>
+<instance>
+<ID>E70B0480-D6D2-44D6-8F2A-87C4829B2808</ID>
+<code>breda ball_restart_3</code>
+<start>4238.200193003</start>
+<end>4262.700107878</end>
+</instance>
+<instance>
+<ID>CC0D5DF1-5632-4867-ABEE-25B059E5578F</ID>
+<code>breda ball_restart_4</code>
+<start>677.200135107</start>
+<end>695.403179773</end>
+</instance>
+<instance>
+<ID>7FFAD16C-9039-4B5D-B870-33D6751C0334</ID>
+<code>breda ball_restart_4</code>
+<start>1716.100065279</start>
+<end>1752.700115462</end>
+</instance>
+<instance>
+<ID>8CB895DF-C2F2-40C9-AB9E-2BDDB22470A2</ID>
+<code>breda ball_restart_4</code>
+<start>2209.30035707</start>
+<end>2221.500095695</end>
+</instance>
+<instance>
+<ID>D02B266F-AF29-42A7-A57D-338629F14D81</ID>
+<code>breda ball_restart_4</code>
+<start>2334.500204999</start>
+<end>2357.800098525</end>
+</instance>
+<instance>
+<ID>911A5351-0FEF-42EF-88D0-0F4D5A6C3984</ID>
+<code>breda ball_restart_4</code>
+<start>2440.300139909</start>
+<end>2467.000154471</end>
+</instance>
+<instance>
+<ID>4489FD74-E46C-41A3-A373-D424D2916BEB</ID>
+<code>breda ball_restart_4</code>
+<start>2718.300116323</start>
+<end>2727.600323449</end>
+</instance>
+<instance>
+<ID>3620BA33-10C1-43C8-B452-39188A87C827</ID>
+<code>breda ball_restart_4</code>
+<start>3191.500245682</start>
+<end>3201.400100244</end>
+</instance>
+<instance>
+<ID>7D359736-9417-474A-968C-43B44B6BB920</ID>
+<code>breda ball_restart_4</code>
+<start>3529.500320539</start>
+<end>3546.100167718</end>
+</instance>
+<instance>
+<ID>3915B2E5-AD4D-4376-B0CC-201B8468F95A</ID>
+<code>breda ball_restart_4</code>
+<start>3603.500277299</start>
+<end>3617.900128018</end>
+</instance>
+<instance>
+<ID>D10E2042-F21F-430B-983A-77F1F2E93DBD</ID>
+<code>breda ball_restart_4</code>
+<start>3686.000267478</start>
+<end>3704.400178395</end>
+</instance>
+<instance>
+<ID>B2E29231-D11E-4A62-836F-F06C60BB780B</ID>
+<code>breda ball_restart_4</code>
+<start>3733.400136394</start>
+<end>3762.400089291</end>
+</instance>
+<instance>
+<ID>62CA98BD-A3BE-463A-A01B-BDCA10548143</ID>
+<code>breda ball_restart_4</code>
+<start>3868.100098431</start>
+<end>3883.600185431</end>
+</instance>
+<instance>
+<ID>DC76CF85-F905-40A2-BB79-33EF8D7904AE</ID>
+<code>breda ball_restart_4</code>
+<start>4276.800152942</start>
+<end>4298.00022574</end>
+</instance>
+<instance>
+<ID>81CAD260-D268-42C1-9644-AA0BB0EBEDAF</ID>
+<code>breda ball_win_1</code>
+<start>223.000100802</start>
+<end>234.001654136</end>
+</instance>
+<instance>
+<ID>B8E555E5-AA13-4560-A52F-8CA8717A1E19</ID>
+<code>breda ball_win_1</code>
+<start>326.00021404</start>
+<end>349.800104207</end>
+</instance>
+<instance>
+<ID>B5C98429-667B-4726-B7AF-1A20ABC75F44</ID>
+<code>breda ball_win_1</code>
+<start>605.90005726</start>
+<end>662.00018088</end>
+</instance>
+<instance>
+<ID>64A23721-01A3-4665-8B82-A20C6DCAE561</ID>
+<code>breda ball_win_1</code>
+<start>799.300107687</start>
+<end>814.000430646</end>
+</instance>
+<instance>
+<ID>E26F12F3-4F34-419B-BA46-FB435A461E65</ID>
+<code>breda ball_win_1</code>
+<start>1183.800110208</start>
+<end>1222.700126229</end>
+</instance>
+<instance>
+<ID>DFB68AF8-B804-4DDF-8F61-48362AE9651D</ID>
+<code>breda ball_win_1</code>
+<start>1518.100081954</start>
+<end>1547.900066204</end>
+</instance>
+<instance>
+<ID>05C2FB27-7E14-4B46-BABA-256AD51737E9</ID>
+<code>breda ball_win_1</code>
+<start>2016.400150391</start>
+<end>2042.900129473</end>
+</instance>
+<instance>
+<ID>18606B3D-805F-4B16-8FDA-42641B78641D</ID>
+<code>breda ball_win_1</code>
+<start>2067.200143719</start>
+<end>2079.800100656</end>
+</instance>
+<instance>
+<ID>24080C22-F98E-44C4-B06B-943D0C7F7DD3</ID>
+<code>breda ball_win_1</code>
+<start>2105.300134295</start>
+<end>2121.10024042</end>
+</instance>
+<instance>
+<ID>B963D80A-B11A-421B-AF3F-3F1EA1DD37EE</ID>
+<code>breda ball_win_1</code>
+<start>2386.303765752</start>
+<end>2400.307839751</end>
+</instance>
+<instance>
+<ID>1CA5CA10-C9DD-4FC3-877B-2C782C794DF2</ID>
+<code>breda ball_win_1</code>
+<start>2536.50016226</start>
+<end>2557.50053326</end>
+</instance>
+<instance>
+<ID>4FEB97A8-C08A-4973-A16B-D7845D3CC748</ID>
+<code>breda ball_win_1</code>
+<start>2782.400070199</start>
+<end>2798.800073344</end>
+</instance>
+<instance>
+<ID>72492B53-BBEF-47A7-AEEC-7016751EB391</ID>
+<code>breda ball_win_1</code>
+<start>2890.500152912</start>
+<end>2904.600133875</end>
+</instance>
+<instance>
+<ID>ABC78F64-BE5A-444E-A3F2-0DD1749E4CAE</ID>
+<code>breda ball_win_1</code>
+<start>2958.300136374</start>
+<end>2974.100127498</end>
+</instance>
+<instance>
+<ID>D69F1CBB-8557-47DA-97A4-3ED5C099CD26</ID>
+<code>breda ball_win_1</code>
+<start>3377.500587018</start>
+<end>3395.403022768</end>
+</instance>
+<instance>
+<ID>520BF8C9-66BC-4948-B0B6-750A3D27CE2D</ID>
+<code>breda ball_win_1</code>
+<start>3451.700232019</start>
+<end>3467.000344043</end>
+</instance>
+<instance>
+<ID>F5915576-F45F-42F4-8387-20AB8AF3566E</ID>
+<code>breda ball_win_1</code>
+<start>3568.000184051</start>
+<end>3608.500277299</end>
+</instance>
+<instance>
+<ID>BA96DA42-81B4-4C1E-9307-D8C070879DE9</ID>
+<code>breda ball_win_1</code>
+<start>4214.400195314</start>
+<end>4237.100169064</end>
+</instance>
+<instance>
+<ID>B7AB6E19-BF7D-481B-AB45-99881EA71599</ID>
+<code>breda ball_win_2</code>
+<start>3.500108011</start>
+<end>18.400110804</end>
+</instance>
+<instance>
+<ID>7F550B95-0DB1-4D27-BE17-BD514CED4303</ID>
+<code>breda ball_win_2</code>
+<start>64.900080343</start>
+<end>99.700137469</end>
+</instance>
+<instance>
+<ID>CDD6A848-CDB0-43D2-B316-8033C01440F3</ID>
+<code>breda ball_win_2</code>
+<start>156.20011176</start>
+<end>186.700054782</end>
+</instance>
+<instance>
+<ID>2A03751E-675A-41FC-9E86-B08A64DCFC63</ID>
+<code>breda ball_win_2</code>
+<start>926.000109221</start>
+<end>972.800109621</end>
+</instance>
+<instance>
+<ID>92362592-A8C9-4333-B448-542D99421E09</ID>
+<code>breda ball_win_2</code>
+<start>1327.000661353</start>
+<end>1384.800087978</end>
+</instance>
+<instance>
+<ID>E87782F9-BBC0-4F01-A3AD-FF9F0726E453</ID>
+<code>breda ball_win_2</code>
+<start>1787.200080535</start>
+<end>1810.10007216</end>
+</instance>
+<instance>
+<ID>D262C3B7-7889-42EC-860A-BA2E53E4378D</ID>
+<code>breda ball_win_2</code>
+<start>3102.800170414</start>
+<end>3146.600081244</end>
+</instance>
+<instance>
+<ID>88F6EF1A-4CA3-4A2F-993E-08EAA40C4E53</ID>
+<code>breda ball_win_2</code>
+<start>3908.200140618</start>
+<end>3925.500240994</end>
+</instance>
+<instance>
+<ID>2E0257D8-F17D-49BC-B199-0B894D96DA84</ID>
+<code>breda ball_win_2</code>
+<start>4195.200149502</start>
+<end>4218.300155564</end>
+</instance>
+<instance>
+<ID>33EE0B28-61CC-4985-B0AA-CEC8176744F8</ID>
+<code>breda ball_win_3</code>
+<start>163.300065949</start>
+<end>183.800090615</end>
+</instance>
+<instance>
+<ID>82C60555-136B-407F-A008-1E1591292399</ID>
+<code>breda ball_win_3</code>
+<start>3770.307778729</start>
+<end>3783.600158974</end>
+</instance>
+<instance>
+<ID>FEE1B4C1-B368-4297-BDE8-8BA352E30460</ID>
+<code>breda ball_win_3</code>
+<start>3853.400116305</start>
+<end>3873.100098431</end>
+</instance>
+<instance>
+<ID>55A13DCE-4916-4AC6-967C-774F72248BCF</ID>
+<code>breda ball_win_3</code>
+<start>4259.100102503</start>
+<end>4281.800152942</end>
+</instance>
+<instance>
+<ID>70B4856A-C135-4123-BCB9-23E4B3C1F424</ID>
+<code>breda ball_win_4</code>
+<start>998.200066468</start>
+<end>1017.20005051</end>
+</instance>
+<instance>
+<ID>608EF7F8-B0F3-4B29-987F-19D34434B28A</ID>
+<code>breda ball_win_4</code>
+<start>2221.100157575</start>
+<end>2232.300201888</end>
+</instance>
+<instance>
+<ID>956D2C77-D3A4-4F4B-B6AE-2301558E830C</ID>
+<code>breda circle_penetration</code>
+<start>683.306508732</start>
+<end>693.306508732</end>
+</instance>
+<instance>
+<ID>868CF5EE-A2F0-4711-BC83-5D5586AE0EBA</ID>
+<code>breda circle_penetration</code>
+<start>1001.700069927</start>
+<end>1011.700069927</end>
+</instance>
+<instance>
+<ID>C12EEC6C-8843-4638-93E4-FA693A83D119</ID>
+<code>breda circle_penetration</code>
+<start>1209.300072271</start>
+<end>1219.300072271</end>
+</instance>
+<instance>
+<ID>639312D0-2E55-493B-A382-9B342405A169</ID>
+<code>breda circle_penetration</code>
+<start>1374.600071978</start>
+<end>1384.600071978</end>
+</instance>
+<instance>
+<ID>935F9527-A425-4814-929F-23326A7F6C65</ID>
+<code>breda circle_penetration</code>
+<start>1731.900058988</start>
+<end>1741.900058988</end>
+</instance>
+<instance>
+<ID>7BDEA55B-C090-4702-B916-256FAAEEF8A9</ID>
+<code>breda circle_penetration</code>
+<start>1897.100066199</start>
+<end>1907.100066199</end>
+</instance>
+<instance>
+<ID>89F0471D-7C0F-4844-9A48-E119DF575B89</ID>
+<code>breda circle_penetration</code>
+<start>2213.200187446</start>
+<end>2223.200187446</end>
+</instance>
+<instance>
+<ID>476F9DB3-8E36-4FCF-9721-B79F87DC25C2</ID>
+<code>breda circle_penetration</code>
+<start>2225.000131325</start>
+<end>2235.000131325</end>
+</instance>
+<instance>
+<ID>4A87171D-99D3-4EE0-BE07-3B443827D4F1</ID>
+<code>breda circle_penetration</code>
+<start>2343.100095812</start>
+<end>2353.100095812</end>
+</instance>
+<instance>
+<ID>37D32D39-D7F8-4A48-A608-1BABA7AACF3B</ID>
+<code>breda circle_penetration</code>
+<start>3008.100114499</start>
+<end>3018.100114499</end>
+</instance>
+<instance>
+<ID>38DB164B-0987-4FD5-8687-E74C39C88C33</ID>
+<code>breda circle_penetration</code>
+<start>3259.900117629</start>
+<end>3269.900117629</end>
+</instance>
+<instance>
+<ID>66993A48-A28B-41A7-95BD-1D71148BB39A</ID>
+<code>breda circle_penetration</code>
+<start>3523.100081351</start>
+<end>3533.100081351</end>
+</instance>
+<instance>
+<ID>7F6B8096-BB3A-459B-AF31-DCAE76E1D311</ID>
+<code>breda circle_penetration</code>
+<start>3538.900142841</start>
+<end>3548.900142841</end>
+</instance>
+<instance>
+<ID>CE830774-9F2F-4923-B2BB-75B48E4BFE80</ID>
+<code>breda circle_penetration</code>
+<start>3664.800081434</start>
+<end>3674.800081434</end>
+</instance>
+<instance>
+<ID>9B59CFC1-732D-4EA3-AAB6-A0472E57FFC1</ID>
+<code>breda circle_penetration</code>
+<start>3691.000238791</start>
+<end>3701.000238791</end>
+</instance>
+<instance>
+<ID>B1A94789-9153-4A90-A86F-55C5072B8894</ID>
+<code>breda circle_penetration</code>
+<start>3747.34</start>
+<end>3757.34</end>
+</instance>
+<instance>
+<ID>27365039-D2EC-441A-8A60-BC74CA9D3E10</ID>
+<code>breda circle_penetration</code>
+<start>3871.400176368</start>
+<end>3881.400176368</end>
+</instance>
+<instance>
+<ID>D57E108D-E276-46BB-903C-A32D2B53C776</ID>
+<code>breda circle_penetration</code>
+<start>4266.900180755</start>
+<end>4276.900180755</end>
+</instance>
+<instance>
+<ID>EF70D8C4-3248-4BD9-A0E1-806897A57409</ID>
+<code>breda goal_attempt</code>
+<start>746.800073248</start>
+<end>761.800073248</end>
+</instance>
+<instance>
+<ID>CF7C4C36-8402-4E6E-85FB-B8F8BB90DFCC</ID>
+<code>breda goal_attempt</code>
+<start>1001.300077259</start>
+<end>1013.300077259</end>
+</instance>
+<instance>
+<ID>81FCB768-F3EA-4D34-ACD7-7F4A74FA286B</ID>
+<code>breda goal_attempt</code>
+<start>2341.50024021</start>
+<end>2353.50024021</end>
+</instance>
+<instance>
+<ID>42619A5C-8BC7-4309-8012-77C9EC1BB053</ID>
+<code>breda goal_attempt</code>
+<start>3258.100153768</start>
+<end>3270.100153768</end>
+</instance>
+<instance>
+<ID>3C4DDFFE-FB79-47C1-9296-4E44E8E35547</ID>
+<code>breda goal_attempt</code>
+<start>3666.300111797</start>
+<end>3678.300111797</end>
+</instance>
+<instance>
+<ID>1A7EA744-5B64-4489-92F2-F34DF77AE1DE</ID>
+<code>breda goal_attempt</code>
+<start>3745.803103541</start>
+<end>3757.803103541</end>
+</instance>
+<instance>
+<ID>C3D1A052-9C99-436C-AAB4-F54D54094454</ID>
+<code>breda penalty_corner</code>
+<start>729.900062961</start>
+<end>742.900062961</end>
+</instance>
+<instance>
+<ID>6EA09699-6C47-4774-BA5D-B766067C7ADC</ID>
+<code>breda penalty_corner</code>
+<start>750.300135831</start>
+<end>763.300135831</end>
+</instance>
+<instance>
+<ID>E3F03E4D-AE5A-435D-B6C0-CC67B1FB1FC9</ID>
+<code>breda penalty_corner</code>
+<start>1419.900067921</start>
+<end>1432.900067921</end>
+</instance>
+<instance>
+<ID>A81C1002-E3CF-4414-B6A2-A04833C32E26</ID>
+<code>breda penalty_corner</code>
+<start>1439.900098051</start>
+<end>1452.900098051</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<ID>6847E241-638E-4B04-AA0A-95A60AAA95D9</ID>
+<code>START</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<ID>4CDEBBF2-4788-4258-8489-53E03BB53787</ID>
+<code>ASC Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>C37DCEEB-FB8F-4646-8120-385BF6E125F7</ID>
+<code>BS 1 Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>1AD76EBA-5A82-48C2-A7C7-34F4D9AC70C3</ID>
+<code>BS 2 Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>0ECEDB96-C7F0-45AA-BEAD-5257DC21B1B5</ID>
+<code>BS 3 Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>E731C928-C71A-4FC3-864F-CB88122EAC81</ID>
+<code>BS 4 Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>12BC881B-889E-472F-A739-6E81C1896E3C</ID>
+<code>BW 1 Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>3D30020D-0E24-493B-9B53-EECAC642E416</ID>
+<code>BW 2 Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>6C380D2A-A1BB-42E7-8E0D-C2EFC2608BEC</ID>
+<code>BW 3 Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>CB7F1332-E37F-4AFE-9035-B119DB3F646F</ID>
+<code>BW 4 Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>D4A4BC9A-A8D7-4E98-A391-DF6612E8C1C3</ID>
+<code>CP Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>6922ED98-36F1-4E7E-B524-BCC15D983BF4</ID>
+<code>DP Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>A125D3BA-6126-4600-B239-EFCF95F7C307</ID>
+<code>DPO Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>7162A6B2-BF40-4F2B-A8BD-5CBC6F8D7269</ID>
+<code>SC Leonidas</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<ID>25D023EA-B637-4007-9F87-326133A39035</ID>
+<code>Groen Leonidas</code>
+<R>18504</R>
+<G>62708</G>
+<B>15420</B>
+</row>
+<row>
+<ID>9D32E981-A3D0-4692-8DD9-B5AEF1765593</ID>
+<code>ASC Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>CB1382DF-7B64-40F7-A32B-D06DF0989F08</ID>
+<code>BS 1 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>4DC1365D-03EE-43CA-804C-ED320A34BA42</ID>
+<code>BS 2 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>12CA96B4-859B-41D9-8380-89D7DDE1193A</ID>
+<code>BS 3 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>DD0E3AEC-FE56-49AC-85A4-C3BB17806A51</ID>
+<code>BS 4 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>94000B7E-4D41-4BFB-9D1F-A761B9B70153</ID>
+<code>BW 1 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>87CC300E-8673-40F5-A44B-D25AA81CE742</ID>
+<code>BW 2 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>9DF1A91C-FA3E-41EB-8D4D-53FC7CACD6D8</ID>
+<code>BW 3 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>FC209AE2-2525-4972-8A81-18E7DD879A04</ID>
+<code>BW 4 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>CB6398E2-0817-42B1-807A-1488C068A7B3</ID>
+<code>CP Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>E8D5942C-A6B3-4AA2-BB4B-228077580DB8</ID>
+<code>DP Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>1249363D-9557-4EA7-A58F-F48D5B30619E</ID>
+<code>DPO Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<ID>F4C880BD-CAE4-429D-AF1F-F42929319753</ID>
+<code>SC Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+</ROWS>
+</file>

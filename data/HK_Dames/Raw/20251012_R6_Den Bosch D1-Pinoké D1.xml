@@ -1,0 +1,4807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>SC PIN</code>
+<start>760.0</start>
+<end>768.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>SC PIN</code>
+<start>4661.400066666667</start>
+<end>4673.400066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: GOAL PIN</text>
+</label>
+<label>
+<text>REND: Kans PIN</text>
+</label>
+<label>
+<text>Kans PIN</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>23M PIN</code>
+<start>133.600078142</start>
+<end>143.700106511</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>23M PIN</code>
+<start>195.000142903</start>
+<end>206.100092417</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>23M PIN</code>
+<start>471.700097189</start>
+<end>483.000185412</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>23M PIN</code>
+<start>483.010185412</start>
+<end>485.700193745</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>23M PIN</code>
+<start>760.0</start>
+<end>761.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>23M PIN</code>
+<start>761.01</start>
+<end>762.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND: ASC PIN</text>
+</label>
+<label>
+<text>ASC PIN</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>23M PIN</code>
+<start>1376.20005</start>
+<end>1386.8000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>23M PIN</code>
+<start>1801.90005</start>
+<end>1814.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>23M PIN</code>
+<start>1860.60005</start>
+<end>1874.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>23M PIN</code>
+<start>2104.600033333333</start>
+<end>2129.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>23M PIN</code>
+<start>3265.9001</start>
+<end>3276.9001166666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>23M PIN</code>
+<start>3649.4000833333334</start>
+<end>3658.9001166666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>23M PIN</code>
+<start>4608.8001</start>
+<end>4620.300066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND: ASC PIN</text>
+</label>
+<label>
+<text>ASC PIN</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>ASC PIN</code>
+<start>475.700193745</start>
+<end>485.700193745</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>ASC PIN</code>
+<start>760.0</start>
+<end>762.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>ASC PIN</code>
+<start>4595.941557431838</start>
+<end>4620.300066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>BS1 PIN</code>
+<start>279.500477134</start>
+<end>305.300102426</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS3 PIN</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>BS1 PIN</code>
+<start>320.800171141</start>
+<end>331.600089391</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>BS1 PIN</code>
+<start>385.300152014</start>
+<end>408.10336934</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>BS1 PIN</code>
+<start>451.300159885</start>
+<end>462.800117552</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>BS1 PIN</code>
+<start>760.0</start>
+<end>761.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>BS1 PIN</code>
+<start>761.01</start>
+<end>762.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND: ASC PIN</text>
+</label>
+<label>
+<text>ASC PIN</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>BS1 PIN</code>
+<start>815.20005</start>
+<end>864.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: Kans PIN</text>
+</label>
+<label>
+<text>Kans PIN</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>BS1 PIN</code>
+<start>897.30005</start>
+<end>906.4000666666666</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>BS1 PIN</code>
+<start>1050.4000333333333</start>
+<end>1069.50005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>BS1 PIN</code>
+<start>1307.5000333333332</start>
+<end>1320.20005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>BS1 PIN</code>
+<start>1434.00005</start>
+<end>1452.60005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>BS1 PIN</code>
+<start>1718.70005</start>
+<end>1737.90005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>BS1 PIN</code>
+<start>1854.6000666666666</start>
+<end>1874.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>BS1 PIN</code>
+<start>3042.1000166666668</start>
+<end>3049.6000833333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>BS1 PIN</code>
+<start>3220.4000833333334</start>
+<end>3276.9001166666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>BS1 PIN</code>
+<start>3798.3000666666667</start>
+<end>3805.20005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>BS1 PIN</code>
+<start>4195.6001</start>
+<end>4202.6001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BS1 PIN</code>
+<start>4230.3000833333335</start>
+<end>4245.100016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BS1 PIN</code>
+<start>4293.6001</start>
+<end>4300.700116666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BS1 PIN</code>
+<start>4448.800066666667</start>
+<end>4456.100066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BS1 PIN</code>
+<start>4777.700083333333</start>
+<end>4784.700066666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BS1 PIN</code>
+<start>5000.900033333333</start>
+<end>5015.500033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BS1 PIN</code>
+<start>5086.30005</start>
+<end>5103.30005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BS2 PIN</code>
+<start>102.600115579</start>
+<end>116.300101188</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BS2 PIN</code>
+<start>119.8002347</start>
+<end>143.700106511</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BS2 PIN</code>
+<start>329.70009706</start>
+<end>337.900180477</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BS2 PIN</code>
+<start>760.0</start>
+<end>761.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BS2 PIN</code>
+<start>1229.00005</start>
+<end>1258.50005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BS2 PIN</code>
+<start>1362.80005</start>
+<end>1386.8000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BS2 PIN</code>
+<start>1594.10005</start>
+<end>1604.0000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BS2 PIN</code>
+<start>2092.60005</start>
+<end>2129.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BS2 PIN</code>
+<start>2990.000016666667</start>
+<end>3000.60005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BS2 PIN</code>
+<start>3381.4001166666667</start>
+<end>3397.0000333333332</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BS2 PIN</code>
+<start>3624.9001166666667</start>
+<end>3646.2000666666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BS2 PIN</code>
+<start>3648.0000333333332</start>
+<end>3658.9001166666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BS2 PIN</code>
+<start>3803.60005</start>
+<end>3815.800116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BS2 PIN</code>
+<start>4241.100016666667</start>
+<end>4251.500116666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BS2 PIN</code>
+<start>4557.700133333334</start>
+<end>4567.4001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BS2 PIN</code>
+<start>4580.000033333334</start>
+<end>4587.900083333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BS2 PIN</code>
+<start>4706.60005</start>
+<end>4722.40005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BS2 PIN</code>
+<start>4912.000016666667</start>
+<end>4922.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BS2 PIN</code>
+<start>4970.000016666667</start>
+<end>4982.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BS2 PIN</code>
+<start>5023.400066666667</start>
+<end>5036.50005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BS3 PIN</code>
+<start>1265.6000333333334</start>
+<end>1271.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BS3 PIN</code>
+<start>1492.6000333333334</start>
+<end>1499.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BS3 PIN</code>
+<start>1658.80005</start>
+<end>1680.30005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BS3 PIN</code>
+<start>4755.100066666667</start>
+<end>4761.200083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BS3 PIN</code>
+<start>4935.600033333333</start>
+<end>4941.70005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BS3 PIN</code>
+<start>5075.40005</start>
+<end>5081.30005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BS4 PIN</code>
+<start>537.400095647</start>
+<end>549.600090917</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BS4 PIN</code>
+<start>1458.40005</start>
+<end>1474.5000333333332</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BS4 PIN</code>
+<start>1510.3000666666667</start>
+<end>1533.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BS4 PIN</code>
+<start>1816.70005</start>
+<end>1824.10005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BS4 PIN</code>
+<start>1827.10005</start>
+<end>1835.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BS4 PIN</code>
+<start>1876.20005</start>
+<end>1890.7000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BS4 PIN</code>
+<start>1896.20005</start>
+<end>1905.6000666666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BS4 PIN</code>
+<start>3329.3001</start>
+<end>3349.8001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BS4 PIN</code>
+<start>3667.200083333333</start>
+<end>3674.4001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BW1 PIN</code>
+<start>58.000206416</start>
+<end>67.300113486</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BW1 PIN</code>
+<start>614.00019935</start>
+<end>631.500046975</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BW1 PIN</code>
+<start>760.0</start>
+<end>761.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BW1 PIN</code>
+<start>938.2000499999999</start>
+<end>956.60005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BW1 PIN</code>
+<start>1792.50005</start>
+<end>1814.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BW1 PIN</code>
+<start>1997.10005</start>
+<end>2011.1000333333332</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BW1 PIN</code>
+<start>2037.60005</start>
+<end>2057.000016666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BW1 PIN</code>
+<start>3065.5000833333334</start>
+<end>3076.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BW1 PIN</code>
+<start>3100.1001666666666</start>
+<end>3144.3000833333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BW1 PIN</code>
+<start>3300.9000833333334</start>
+<end>3318.2000666666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BW1 PIN</code>
+<start>4004.5001</start>
+<end>4012.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BW1 PIN</code>
+<start>4026.900083333334</start>
+<end>4034.7000499999995</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BW1 PIN</code>
+<start>4040.5001</start>
+<end>4053.3001166666672</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BW1 PIN</code>
+<start>4161.200016666667</start>
+<end>4189.300033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BW1 PIN</code>
+<start>4338.100016666667</start>
+<end>4352.900066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BW1 PIN</code>
+<start>4352.910066666667</start>
+<end>4363.300116666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BW1 PIN</code>
+<start>4418.100016666667</start>
+<end>4432.700116666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BW1 PIN</code>
+<start>4434.600083333333</start>
+<end>4442.6001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BW2 PIN</code>
+<start>1336.90005</start>
+<end>1361.20005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BW2 PIN</code>
+<start>1575.30005</start>
+<end>1589.8000666666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BW2 PIN</code>
+<start>3587.100066666667</start>
+<end>3604.300116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BW2 PIN</code>
+<start>4693.100033333333</start>
+<end>4700.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BW2 PIN</code>
+<start>4730.300066666667</start>
+<end>4746.60005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BW2 PIN</code>
+<start>5056.40005</start>
+<end>5064.5000666666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BW2 PIN</code>
+<start>5114.5000666666665</start>
+<end>5128.60005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BW3 PIN</code>
+<start>576.000209116</start>
+<end>616.30016736</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BW3 PIN</code>
+<start>760.0</start>
+<end>761.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BW3 PIN</code>
+<start>1469.5000333333332</start>
+<end>1493.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BW3 PIN</code>
+<start>1605.0000166666666</start>
+<end>1619.0000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BW3 PIN</code>
+<start>1638.2000666666668</start>
+<end>1646.7000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BW3 PIN</code>
+<start>3547.700116666667</start>
+<end>3571.4001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BW3 PIN</code>
+<start>4263.500116666666</start>
+<end>4272.300116666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BW3 PIN</code>
+<start>4606.500116666666</start>
+<end>4620.300066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND: ASC PIN</text>
+</label>
+<label>
+<text>ASC PIN</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>CP PIN</code>
+<start>129.700151225</start>
+<end>151.700151225</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>CP PIN</code>
+<start>193.100155278</start>
+<end>215.100155278</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>CP PIN</code>
+<start>469.500123855</start>
+<end>491.500123855</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: ASC PIN</text>
+</label>
+<label>
+<text>ASC PIN</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>CP PIN</code>
+<start>485.700193745</start>
+<end>491.510123855</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: ASC PIN</text>
+</label>
+<label>
+<text>ASC PIN</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>CP PIN</code>
+<start>536.300081959</start>
+<end>549.600090917</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>CP PIN</code>
+<start>760.0</start>
+<end>772.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>CP PIN</code>
+<start>833.60005</start>
+<end>855.60005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>CP PIN</code>
+<start>1801.0000166666666</start>
+<end>1814.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>CP PIN</code>
+<start>3263.5000333333332</start>
+<end>3276.9001166666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>CP PIN</code>
+<start>4607.500116666666</start>
+<end>4620.300066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: ASC PIN</text>
+</label>
+<label>
+<text>ASC PIN</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>GOAL PIN</code>
+<start>4658.400083333334</start>
+<end>4673.400083333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: Kans PIN</text>
+</label>
+<label>
+<text>Kans PIN</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>Kans PIN</code>
+<start>760.0</start>
+<end>763.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>Kans PIN</code>
+<start>832.0000333333334</start>
+<end>845.0000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>Kans PIN</code>
+<start>4660.400083333334</start>
+<end>4673.400083333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>SC DBS</code>
+<start>235.100181161</start>
+<end>247.100181161</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>SC DBS</code>
+<start>767.7000333333333</start>
+<end>775.7000666666667</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>SC DBS</code>
+<start>3729.1000166666668</start>
+<end>3741.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>SC DBS</code>
+<start>3772.6000833333333</start>
+<end>3781.4000666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>SC DBS</code>
+<start>4528.400083333334</start>
+<end>4537.100083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>SC DBS</code>
+<start>4832.90005</start>
+<end>4843.40005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>SC DBS</code>
+<start>4883.30005</start>
+<end>4892.70005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>23M DBS</code>
+<start>64.100177444</start>
+<end>84.700065601</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>23M DBS</code>
+<start>310.200140134</start>
+<end>324.800171141</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>23M DBS</code>
+<start>400.001036757</start>
+<end>408.10336934</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>23M DBS</code>
+<start>414.600126414</start>
+<end>425.50021825</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>23M DBS</code>
+<start>625.500046975</start>
+<end>643.000134391</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>23M DBS</code>
+<start>687.200121158</start>
+<end>700.900310057</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>23M DBS</code>
+<start>760.0</start>
+<end>761.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>23M DBS</code>
+<start>761.01</start>
+<end>762.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>23M DBS</code>
+<start>821.2000666666667</start>
+<end>864.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: Kans PIN</text>
+</label>
+<label>
+<text>Kans PIN</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>23M DBS</code>
+<start>874.90005</start>
+<end>887.00005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>23M DBS</code>
+<start>920.10005</start>
+<end>929.10005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>23M DBS</code>
+<start>972.2000499999999</start>
+<end>980.2000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>23M DBS</code>
+<start>1283.90005</start>
+<end>1301.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>23M DBS</code>
+<start>1416.20005</start>
+<end>1424.6000666666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>23M DBS</code>
+<start>1680.90005</start>
+<end>1694.5000666666665</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>23M DBS</code>
+<start>1967.3000499999998</start>
+<end>1976.2000666666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>23M DBS</code>
+<start>2031.50005</start>
+<end>2043.60005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>23M DBS</code>
+<start>2882.80005</start>
+<end>2902.80005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>23M DBS</code>
+<start>2909.1000166666668</start>
+<end>2922.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>23M DBS</code>
+<start>3026.4000666666666</start>
+<end>3035.600066666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>23M DBS</code>
+<start>3060.6001</start>
+<end>3071.5000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>23M DBS</code>
+<start>3169.800116666667</start>
+<end>3212.9000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>23M DBS</code>
+<start>3680.300116666667</start>
+<end>3690.200116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>23M DBS</code>
+<start>3973.8000833333335</start>
+<end>3983.6001166666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>23M DBS</code>
+<start>4021.2000666666663</start>
+<end>4032.900083333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>23M DBS</code>
+<start>4086.4001333333335</start>
+<end>4105.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>23M DBS</code>
+<start>4127.200016666667</start>
+<end>4136.500116666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>23M DBS</code>
+<start>4149.7001</start>
+<end>4160.5001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>158</ID>
+<code>23M DBS</code>
+<start>4213.4001</start>
+<end>4222.200016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>23M DBS</code>
+<start>4319.3000833333335</start>
+<end>4328.100083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>23M DBS</code>
+<start>4332.5001</start>
+<end>4344.100016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>23M DBS</code>
+<start>4411.100033333333</start>
+<end>4424.100016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>23M DBS</code>
+<start>4472.4001</start>
+<end>4486.41065</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>23M DBS</code>
+<start>4780.900116666667</start>
+<end>4794.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>ASC DBS</code>
+<start>690.900310057</start>
+<end>700.900310057</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>ASC DBS</code>
+<start>760.0</start>
+<end>762.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>ASC DBS</code>
+<start>3074.5001166666666</start>
+<end>3084.5001166666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>ASC DBS</code>
+<start>3680.200116666667</start>
+<end>3690.200116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>ASC DBS</code>
+<start>3762.4001166666667</start>
+<end>3772.4001166666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>ASC DBS</code>
+<start>4476.41065</start>
+<end>4486.41065</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>ASC DBS</code>
+<start>4784.000033333334</start>
+<end>4794.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BS1 DBS</code>
+<start>563.600085251</start>
+<end>582.000209116</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BS1 DBS</code>
+<start>760.0</start>
+<end>761.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BS1 DBS</code>
+<start>860.30005</start>
+<end>880.90005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BS1 DBS</code>
+<start>1275.10005</start>
+<end>1289.90005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BS1 DBS</code>
+<start>1334.40005</start>
+<end>1342.90005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BS1 DBS</code>
+<start>1397.30005</start>
+<end>1409.60005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BS1 DBS</code>
+<start>1543.5000333333332</start>
+<end>1552.90005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BS1 DBS</code>
+<start>3284.9000833333334</start>
+<end>3306.9000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BS1 DBS</code>
+<start>3356.700116666667</start>
+<end>3368.7001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BS1 DBS</code>
+<start>3410.4001</start>
+<end>3425.000016666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BS1 DBS</code>
+<start>3543.9001166666667</start>
+<end>3553.700116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BS1 DBS</code>
+<start>4953.30005</start>
+<end>4974.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BS1 DBS</code>
+<start>5041.100016666666</start>
+<end>5050.70005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BS1 DBS</code>
+<start>5112.400033333333</start>
+<end>5120.5000666666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BS1 DBS</code>
+<start>5133.500033333334</start>
+<end>5144.200016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BS2 DBS</code>
+<start>112.300101188</start>
+<end>123.8002347</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BS2 DBS</code>
+<start>224.600097276</start>
+<end>283.500477134</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BS2 DBS</code>
+<start>1074.0000333333332</start>
+<end>1082.00005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BS2 DBS</code>
+<start>1534.7000333333333</start>
+<end>1540.1000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BS2 DBS</code>
+<start>1624.40005</start>
+<end>1644.2000666666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BS2 DBS</code>
+<start>1647.30005</start>
+<end>1652.50005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BS2 DBS</code>
+<start>1738.70005</start>
+<end>1755.3000666666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BS2 DBS</code>
+<start>1755.3100666666667</start>
+<end>1763.30005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BS2 DBS</code>
+<start>1923.80005</start>
+<end>1945.2000333333335</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BS2 DBS</code>
+<start>2854.90005</start>
+<end>2875.60005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BS2 DBS</code>
+<start>3014.600066666667</start>
+<end>3029.4000666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BS2 DBS</code>
+<start>3430.800116666667</start>
+<end>3440.4001166666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BS2 DBS</code>
+<start>3480.800116666667</start>
+<end>3494.80015</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BS2 DBS</code>
+<start>3494.8101500000002</start>
+<end>3530.5000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BS2 DBS</code>
+<start>3584.0000333333332</start>
+<end>3593.100066666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BS2 DBS</code>
+<start>3608.700116666667</start>
+<end>3622.20005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>BS2 DBS</code>
+<start>3963.2000166666667</start>
+<end>3979.8000833333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>BS2 DBS</code>
+<start>4112.9001</start>
+<end>4133.200016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>BS2 DBS</code>
+<start>4402.600083333333</start>
+<end>4417.100033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>BS2 DBS</code>
+<start>4598.500083333333</start>
+<end>4612.500116666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>BS2 DBS</code>
+<start>4690.400066666667</start>
+<end>4699.100033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>BS2 DBS</code>
+<start>5053.000033333334</start>
+<end>5062.40005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>BS3 DBS</code>
+<start>32.100146236</start>
+<end>64.000206416</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>BS3 DBS</code>
+<start>411.700158149</start>
+<end>420.600126414</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>BS3 DBS</code>
+<start>760.0</start>
+<end>761.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>BS3 DBS</code>
+<start>1001.5000500000001</start>
+<end>1015.7000499999999</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>BS3 DBS</code>
+<start>1409.50005</start>
+<end>1422.20005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>BS3 DBS</code>
+<start>1555.8000333333334</start>
+<end>1581.30005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>BS3 DBS</code>
+<start>2874.90005</start>
+<end>2888.80005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>BS3 DBS</code>
+<start>2909.30005</start>
+<end>2915.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>BS3 DBS</code>
+<start>3147.5001</start>
+<end>3157.300116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>BS3 DBS</code>
+<start>3364.7001</start>
+<end>3370.000016666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>BS3 DBS</code>
+<start>4300.3001</start>
+<end>4325.3000833333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>BS3 DBS</code>
+<start>4428.700116666667</start>
+<end>4440.600083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>BS3 DBS</code>
+<start>4989.60005</start>
+<end>4998.100016666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>BS4 DBS</code>
+<start>612.30016736</start>
+<end>620.00019935</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>BS4 DBS</code>
+<start>671.400225783</start>
+<end>700.900310057</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>BS4 DBS</code>
+<start>760.0</start>
+<end>762.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>224</ID>
+<code>BS4 DBS</code>
+<start>933.7000499999999</start>
+<end>944.2000499999999</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>BS4 DBS</code>
+<start>967.6000333333334</start>
+<end>980.2000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>BS4 DBS</code>
+<start>1696.7000666666668</start>
+<end>1705.2000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>BS4 DBS</code>
+<start>1952.60005</start>
+<end>1976.2000666666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>BS4 DBS</code>
+<start>1976.4000500000002</start>
+<end>1983.2000666666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>BS4 DBS</code>
+<start>1992.1000333333332</start>
+<end>2003.10005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>BS4 DBS</code>
+<start>3091.8001</start>
+<end>3106.1001666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>BS4 DBS</code>
+<start>3158.7001</start>
+<end>3212.9000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>BS4 DBS</code>
+<start>3988.4000333333333</start>
+<end>3998.0000333333337</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>BS4 DBS</code>
+<start>3999.500116666666</start>
+<end>4010.5001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>BS4 DBS</code>
+<start>4018.900083333334</start>
+<end>4032.900083333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>BS4 DBS</code>
+<start>4036.2001</start>
+<end>4046.5001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>BS4 DBS</code>
+<start>4063.100033333333</start>
+<end>4105.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>BS4 DBS</code>
+<start>4137.6001166666665</start>
+<end>4160.5001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>BS4 DBS</code>
+<start>4160.5101</start>
+<end>4167.200016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>BS4 DBS</code>
+<start>4255.3001</start>
+<end>4269.500116666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>BS4 DBS</code>
+<start>4331.100066666667</start>
+<end>4344.100016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>BS4 DBS</code>
+<start>4458.4001</start>
+<end>4486.41065</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>BW1 DBS</code>
+<start>137.700106511</start>
+<end>150.700086925</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>BW1 DBS</code>
+<start>205.100102984</start>
+<end>228.600097276</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>BW1 DBS</code>
+<start>1265.9000333333333</start>
+<end>1276.20005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>BW1 DBS</code>
+<start>1446.60005</start>
+<end>1456.1000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>BW1 DBS</code>
+<start>1829.70005</start>
+<end>1847.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>BW1 DBS</code>
+<start>1899.6000666666666</start>
+<end>1919.60005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>BW1 DBS</code>
+<start>3525.5000833333334</start>
+<end>3533.100066666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>BW1 DBS</code>
+<start>3598.300116666667</start>
+<end>3610.800116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>BW1 DBS</code>
+<start>3668.4001</start>
+<end>3690.200116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>BW2 DBS</code>
+<start>177.000071496</start>
+<end>201.000142903</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>BW2 DBS</code>
+<start>331.900180477</start>
+<end>389.300152014</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>BW2 DBS</code>
+<start>760.0</start>
+<end>761.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>BW2 DBS</code>
+<start>1314.20005</start>
+<end>1320.3000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>BW2 DBS</code>
+<start>1598.0000166666666</start>
+<end>1611.0000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>BW2 DBS</code>
+<start>1640.7000333333333</start>
+<end>1649.0</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>BW2 DBS</code>
+<start>1731.90005</start>
+<end>1738.4000666666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>BW2 DBS</code>
+<start>2051.000016666667</start>
+<end>2058.4000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>BW2 DBS</code>
+<start>2994.60005</start>
+<end>3009.60005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>BW2 DBS</code>
+<start>3809.800116666667</start>
+<end>3819.000016666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>BW2 DBS</code>
+<start>4581.900083333334</start>
+<end>4597.100066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>BW2 DBS</code>
+<start>4716.40005</start>
+<end>4736.300066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>BW2 DBS</code>
+<start>4916.90005</start>
+<end>4927.70005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>BW2 DBS</code>
+<start>5058.5000666666665</start>
+<end>5072.100016666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>BW2 DBS</code>
+<start>5075.30005</start>
+<end>5087.60005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>BW3 DBS</code>
+<start>19.500228558000003</start>
+<end>28.400206558</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>BW3 DBS</code>
+<start>299.300102426</start>
+<end>324.800171141</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>BW3 DBS</code>
+<start>760.0</start>
+<end>761.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>BW3 DBS</code>
+<start>900.4000666666667</start>
+<end>929.10005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>BW3 DBS</code>
+<start>1674.30005</start>
+<end>1694.5000666666665</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>BW3 DBS</code>
+<start>1786.9000333333333</start>
+<end>1798.50005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>BW3 DBS</code>
+<start>3024.4000666666666</start>
+<end>3035.600066666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>BW3 DBS</code>
+<start>3070.1000166666668</start>
+<end>3084.5001166666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>BW3 DBS</code>
+<start>4196.6001</start>
+<end>4222.200016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>BW3 DBS</code>
+<start>4245.500116666666</start>
+<end>4253.300116666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>BW3 DBS</code>
+<start>4266.300116666667</start>
+<end>4284.4001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>BW3 DBS</code>
+<start>4755.200083333333</start>
+<end>4765.30005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>BW3 DBS</code>
+<start>4778.700066666666</start>
+<end>4794.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>BW3 DBS</code>
+<start>5009.500033333334</start>
+<end>5019.600033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>BW4 DBS</code>
+<start>431.600289434</start>
+<end>444.201088677</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>BW4 DBS</code>
+<start>4006.000016666667</start>
+<end>4015.400066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>BW4 DBS</code>
+<start>4047.3001166666672</start>
+<end>4061.2000333333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>BW4 DBS</code>
+<start>4346.900066666667</start>
+<end>4354.7000333333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>CP DBS</code>
+<start>307.700251634</start>
+<end>329.700251634</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>CP DBS</code>
+<start>410.700087915</start>
+<end>432.700087915</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>CP DBS</code>
+<start>684.000265116</start>
+<end>706.000265116</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>CP DBS</code>
+<start>760.0</start>
+<end>772.01</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>CP DBS</code>
+<start>916.7000499999999</start>
+<end>929.10005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>CP DBS</code>
+<start>1281.2000166666667</start>
+<end>1301.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>CP DBS</code>
+<start>1676.20005</start>
+<end>1686.90005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>CP DBS</code>
+<start>2878.90005</start>
+<end>2900.90005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>292</ID>
+<code>CP DBS</code>
+<start>2910.90005</start>
+<end>2922.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>293</ID>
+<code>CP DBS</code>
+<start>3972.7001333333333</start>
+<end>3983.6001166666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>294</ID>
+<code>CP DBS</code>
+<start>4017.600066666667</start>
+<end>4032.900083333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>CP DBS</code>
+<start>4083.6000999999997</start>
+<end>4105.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>CP DBS</code>
+<start>4408.000033333334</start>
+<end>4424.100016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>CP DBS</code>
+<start>4473.800133333333</start>
+<end>4486.41065</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>CP DBS</code>
+<start>4779.500050000001</start>
+<end>4794.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>299</ID>
+<code>GOAL DBS</code>
+<start>4522.100083333333</start>
+<end>4537.100083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>300</ID>
+<code>GOAL DBS</code>
+<start>4878.400033333333</start>
+<end>4892.70005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>301</ID>
+<code>Kans DBS</code>
+<start>60.500103666</start>
+<end>73.500103666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>Kans DBS</code>
+<start>428.800755468</start>
+<end>441.800755468</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>303</ID>
+<code>Kans DBS</code>
+<start>760.0</start>
+<end>763.0</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>Kans DBS</code>
+<start>1287.80005</start>
+<end>1300.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>305</ID>
+<code>Kans DBS</code>
+<start>1676.70005</start>
+<end>1689.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>306</ID>
+<code>Kans DBS</code>
+<start>4524.100083333333</start>
+<end>4537.100083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>307</ID>
+<code>Kans DBS</code>
+<start>4880.400033333333</start>
+<end>4892.70005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>308</ID>
+<code>SPECIAL BB</code>
+<start>3486.1000166666668</start>
+<end>3506.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>309</ID>
+<code>SPECIAL BB</code>
+<start>3686.20135</start>
+<end>3706.20135</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>310</ID>
+<code>SPECIAL BB</code>
+<start>4049.900083333334</start>
+<end>4069.900083333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>311</ID>
+<code>EIND</code>
+<start>1080.90005</start>
+<end>1082.90005</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>EIND</code>
+<start>2130.100033333333</start>
+<end>2132.100033333333</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>EIND</code>
+<start>3840.2000166666667</start>
+<end>3842.2000166666667</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>EIND</code>
+<start>5154.600033333333</start>
+<end>5156.600033333333</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>GEEL PIN</code>
+<start>460.68</start>
+<end>480.68</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>316</ID>
+<code>GEEL PIN</code>
+<start>480.69</start>
+<end>780.6800000000001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>317</ID>
+<code>GROEN DBS</code>
+<start>1022.7000333333333</start>
+<end>1172.7000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BS1 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>318</ID>
+<code>START</code>
+<start>760.0</start>
+<end>762.0</end>
+<label>
+<text>Q0</text>
+</label>
+</instance>
+<instance>
+<ID>319</ID>
+<code>START</code>
+<start>1230.5000333333332</start>
+<end>1233.5000333333332</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>REND BBM: BS2 PIN</text>
+</label>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>320</ID>
+<code>START</code>
+<start>2851.2000333333335</start>
+<end>2854.2000333333335</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>321</ID>
+<code>START</code>
+<start>3963.700116666667</start>
+<end>3966.700116666667</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>322</ID>
+<code>SPECIAL NBB</code>
+<start>3686.000016666667</start>
+<end>3706.000016666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>323</ID>
+<code>GAMETIME</code>
+<start>-5.0</start>
+<end>5165.70005</end>
+<label>
+<text>Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 PIN</text>
+</label>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS1 PIN</text>
+</label>
+<label>
+<text>REND: ASC PIN</text>
+</label>
+<label>
+<text>ASC PIN</text>
+</label>
+<label>
+<text>REND: Kans PIN</text>
+</label>
+<label>
+<text>Kans PIN</text>
+</label>
+<label>
+<text>REND BBM: BS4 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>REND BBM: BS3 PIN</text>
+</label>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND: GOAL PIN</text>
+</label>
+</instance>
+<instance>
+<ID>324</ID>
+<code>Q1</code>
+<start>-5.0</start>
+<end>1082.90005</end>
+<label>
+<text>REND BBM: BS2 PIN</text>
+</label>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS1 PIN</text>
+</label>
+<label>
+<text>REND: ASC PIN</text>
+</label>
+<label>
+<text>ASC PIN</text>
+</label>
+<label>
+<text>REND: Kans PIN</text>
+</label>
+<label>
+<text>Kans PIN</text>
+</label>
+<label>
+<text>REND BBM: BS4 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>325</ID>
+<code>Q2</code>
+<start>1231.5000333333332</start>
+<end>2132.100033333333</end>
+<label>
+<text>REND BBM: BS2 PIN</text>
+</label>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BS3 PIN</text>
+</label>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 PIN</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 PIN</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+</instance>
+<instance>
+<ID>326</ID>
+<code>Q3</code>
+<start>2852.2000333333335</start>
+<end>3842.2000166666667</end>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BS2 PIN</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 PIN</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 PIN</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+</instance>
+<instance>
+<ID>327</ID>
+<code>Q4</code>
+<start>3964.700116666667</start>
+<end>5156.600033333333</end>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 PIN</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 PIN</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS2 PIN</text>
+</label>
+<label>
+<text>REND BBM: BW3 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>REND: CP PIN</text>
+</label>
+<label>
+<text>CP PIN</text>
+</label>
+<label>
+<text>REND: ASC PIN</text>
+</label>
+<label>
+<text>ASC PIN</text>
+</label>
+<label>
+<text>REND: GOAL PIN</text>
+</label>
+<label>
+<text>REND: Kans PIN</text>
+</label>
+<label>
+<text>Kans PIN</text>
+</label>
+<label>
+<text>REND BBM: BW2 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS3 PIN</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>SC PIN</code>
+<R>65536</R>
+<G>12079</G>
+<B>37522</B>
+</row>
+<row>
+<code>23M PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>Kans PIN</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC DBS</code>
+<R>0</R>
+<G>64250</G>
+<B>37522</B>
+</row>
+<row>
+<code>23M DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>Kans DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>SPECIAL BB</code>
+<R>0</R>
+<G>63993</G>
+<B>0</B>
+</row>
+<row>
+<code>EIND</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GEEL PIN</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GROEN DBS</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>SPECIAL NBB</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>GAMETIME</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q1</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q2</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q3</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q4</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

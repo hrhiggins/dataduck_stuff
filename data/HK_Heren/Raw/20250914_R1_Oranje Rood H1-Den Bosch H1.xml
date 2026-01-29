@@ -1,0 +1,3211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>ARBITRAGE</code>
+<start>1369.4000333333333</start>
+<end>1389.4000333333333</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>ARBITRAGE</code>
+<start>2059.8000333333334</start>
+<end>2079.8000333333334</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>ARBITRAGE</code>
+<start>2282.00005</start>
+<end>2302.00005</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>ASC DBO</code>
+<start>993.8000333333333</start>
+<end>1003.8000333333333</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>ASC DBO</code>
+<start>1687.6000333333334</start>
+<end>1697.6000333333334</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>ASC DBO</code>
+<start>1734.6000333333334</start>
+<end>1744.6000333333334</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>ASC DBO</code>
+<start>4238.900033333333</start>
+<end>4248.900033333333</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>ASC DBO</code>
+<start>4412.900033333333</start>
+<end>4422.900033333333</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>ASC DBO</code>
+<start>4789.8001</start>
+<end>4799.8001</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>ASC DBO</code>
+<start>4843.70325</start>
+<end>4853.70325</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>ASC OR</code>
+<start>3853.9000333333333</start>
+<end>3863.9000333333333</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>ASC OR</code>
+<start>4993.000033333334</start>
+<end>5003.000033333334</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>BB DBO</code>
+<start>160.90003333333334</start>
+<end>173.10003333333333</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>BB DBO</code>
+<start>173.11003333333332</start>
+<end>185.60003333333333</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>BB DBO</code>
+<start>234.30003333333335</start>
+<end>246.10005</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>BB DBO</code>
+<start>298.90003333333334</start>
+<end>320.40003333333334</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>BB DBO</code>
+<start>356.70005</start>
+<end>389.10005</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>BB DBO</code>
+<start>417.71008333333333</start>
+<end>439.80008333333336</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>BB DBO</code>
+<start>441.6001</start>
+<end>460.30005</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>BB DBO</code>
+<start>463.3001</start>
+<end>482.3000666666667</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>BB DBO</code>
+<start>510.90003333333334</start>
+<end>611.5000333333334</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>BB DBO</code>
+<start>635.8000333333333</start>
+<end>651.2000333333333</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>BB DBO</code>
+<start>661.3000333333333</start>
+<end>675.30005</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>BB DBO</code>
+<start>725.60005</start>
+<end>764.2000333333333</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>BB DBO</code>
+<start>764.2100333333333</start>
+<end>807.5000333333334</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>BB DBO</code>
+<start>807.5100333333334</start>
+<end>817.5000333333334</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>BB DBO</code>
+<start>877.4000333333333</start>
+<end>908.5000333333334</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>BB DBO</code>
+<start>913.8000333333333</start>
+<end>973.2000333333333</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>BB DBO</code>
+<start>1061.1000333333334</start>
+<end>1101.1000333333334</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>BB DBO</code>
+<start>1101.1100333333334</start>
+<end>1109.60005</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>BB DBO</code>
+<start>1109.61005</start>
+<end>1121.7000166666667</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>BB DBO</code>
+<start>1121.7100166666667</start>
+<end>1129.7000333333333</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>BB DBO</code>
+<start>1129.7100333333333</start>
+<end>1139.5000333333332</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>BB DBO</code>
+<start>1139.5100333333332</start>
+<end>1146.3000333333334</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>BB DBO</code>
+<start>1305.5000333333332</start>
+<end>1321.4000333333333</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BB DBO</code>
+<start>1328.8000333333334</start>
+<end>1349.4033333333334</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BB DBO</code>
+<start>1358.6000666666666</start>
+<end>1414.80005</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BB DBO</code>
+<start>1414.81005</start>
+<end>1423.0000333333332</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BB DBO</code>
+<start>1423.0100333333332</start>
+<end>1454.30165</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BB DBO</code>
+<start>1494.8000666666667</start>
+<end>1499.80005</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BB DBO</code>
+<start>1563.4000333333333</start>
+<end>1575.3000333333334</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BB DBO</code>
+<start>1613.7001</start>
+<end>1697.6000333333334</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BB DBO</code>
+<start>1732.7000333333333</start>
+<end>1744.6000333333334</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BB DBO</code>
+<start>1768.1000333333334</start>
+<end>1803.6000333333334</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BB DBO</code>
+<start>1808.1000333333334</start>
+<end>1816.1009166666668</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BB DBO</code>
+<start>1827.3000333333334</start>
+<end>1860.2000333333333</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BB DBO</code>
+<start>1889.7000333333333</start>
+<end>1925.7000333333333</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BB DBO</code>
+<start>1935.5000333333332</start>
+<end>1948.6000333333334</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BB DBO</code>
+<start>1956.90005</start>
+<end>1978.7000166666667</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BB DBO</code>
+<start>1998.8001166666666</start>
+<end>2033.70005</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BB DBO</code>
+<start>2036.80005</start>
+<end>2045.60005</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BB DBO</code>
+<start>2096.00005</start>
+<end>2114.00005</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BB DBO</code>
+<start>2122.100033333333</start>
+<end>2156.50005</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BB DBO</code>
+<start>2197.3000333333334</start>
+<end>2204.2000333333335</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BB DBO</code>
+<start>2238.2000333333335</start>
+<end>2280.0000333333332</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BB DBO</code>
+<start>2336.3000333333334</start>
+<end>2354.70005</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BB DBO</code>
+<start>3139.8000333333334</start>
+<end>3212.8000333333334</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BB DBO</code>
+<start>3232.4000333333333</start>
+<end>3251.304166666667</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BB DBO</code>
+<start>3257.4000333333333</start>
+<end>3298.2000333333335</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BB DBO</code>
+<start>3303.9000333333333</start>
+<end>3319.90005</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BB DBO</code>
+<start>3355.0000333333332</start>
+<end>3416.40005</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BB DBO</code>
+<start>3427.4000333333333</start>
+<end>3481.4000833333334</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BB DBO</code>
+<start>3538.7000333333335</start>
+<end>3559.600033333333</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BB DBO</code>
+<start>3633.3000333333334</start>
+<end>3669.3000666666667</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BB DBO</code>
+<start>3702.70005</start>
+<end>3761.50005</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BB DBO</code>
+<start>3786.50005</start>
+<end>3793.4000666666666</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BB DBO</code>
+<start>3797.81155</start>
+<end>3816.0001</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BB DBO</code>
+<start>3844.4000833333334</start>
+<end>3855.10005</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BB DBO</code>
+<start>3940.7000166666667</start>
+<end>3961.9000666666666</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BB DBO</code>
+<start>3976.0000333333332</start>
+<end>3977.40005</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BB DBO</code>
+<start>3983.9000333333333</start>
+<end>3988.64755</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BB DBO</code>
+<start>4004.20005</start>
+<end>4005.8000333333334</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BB DBO</code>
+<start>4014.2000333333335</start>
+<end>4059.2000333333335</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BB DBO</code>
+<start>4067.7000333333335</start>
+<end>4094.0000333333332</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BB DBO</code>
+<start>4100.30005</start>
+<end>4107.900033333333</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BB DBO</code>
+<start>4235.600033333333</start>
+<end>4248.900033333333</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BB DBO</code>
+<start>4287.800033333333</start>
+<end>4330.900033333333</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BB DBO</code>
+<start>4338.600033333333</start>
+<end>4355.30005</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BB DBO</code>
+<start>4405.000016666667</start>
+<end>4422.900033333333</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BB DBO</code>
+<start>4463.800033333333</start>
+<end>4470.400033333333</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BB DBO</code>
+<start>4513.2000333333335</start>
+<end>4527.500033333334</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BB DBO</code>
+<start>4534.1001166666665</start>
+<end>4544.400033333333</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BB DBO</code>
+<start>4566.500083333333</start>
+<end>4617.000033333334</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BB DBO</code>
+<start>4655.800033333333</start>
+<end>4683.000033333334</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BB DBO</code>
+<start>4736.800033333333</start>
+<end>4749.500033333334</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BB DBO</code>
+<start>4766.000033333334</start>
+<end>4799.800033333333</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BB DBO</code>
+<start>4842.800033333333</start>
+<end>4853.701366666666</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BB DBO</code>
+<start>4876.100033333333</start>
+<end>4883.400033333333</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BB DBO</code>
+<start>4935.2000333333335</start>
+<end>4955.300033333333</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BB DBO</code>
+<start>4969.7000333333335</start>
+<end>4990.7000333333335</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BB DBO</code>
+<start>5068.800033333333</start>
+<end>5111.600033333333</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BB DBO</code>
+<start>5119.400033333333</start>
+<end>5134.100033333333</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BB DBO</code>
+<start>5162.900033333333</start>
+<end>5171.100033333333</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BB DBO</code>
+<start>5187.600033333333</start>
+<end>5200.000033333334</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BB DBO</code>
+<start>5254.600033333333</start>
+<end>5281.000033333334</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BB DBO</code>
+<start>5304.600033333333</start>
+<end>5332.600033333333</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BB OR</code>
+<start>121.80005</start>
+<end>178.20003333333332</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BB OR</code>
+<start>181.10003333333333</start>
+<end>219.60003333333333</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BB OR</code>
+<start>219.61003333333332</start>
+<end>237.80003333333335</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BB OR</code>
+<start>246.11005</start>
+<end>302.40003333333334</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BB OR</code>
+<start>315.90003333333334</start>
+<end>360.20005</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BB OR</code>
+<start>384.60005</start>
+<end>417.70008333333334</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BB OR</code>
+<start>433.30008333333336</start>
+<end>448.1001</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BB OR</code>
+<start>500.20005</start>
+<end>517.4000333333333</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BB OR</code>
+<start>607.0000333333334</start>
+<end>639.3000333333333</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BB OR</code>
+<start>646.7000333333333</start>
+<end>667.8000333333333</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BB OR</code>
+<start>811.0000333333334</start>
+<end>880.9000333333333</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BB OR</code>
+<start>892.0000333333334</start>
+<end>901.2000333333333</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BB OR</code>
+<start>902.0000333333334</start>
+<end>917.3000333333333</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>BB OR</code>
+<start>966.7000333333333</start>
+<end>1003.8000333333333</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>BB OR</code>
+<start>1283.5000333333332</start>
+<end>1309.0000333333332</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>BB OR</code>
+<start>1314.9000333333333</start>
+<end>1335.3000333333334</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>BB OR</code>
+<start>1342.9033333333334</start>
+<end>1365.1000666666666</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>BB OR</code>
+<start>1449.80165</start>
+<end>1566.9000333333333</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>BB OR</code>
+<start>1568.3000333333334</start>
+<end>1582.9000333333333</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>BB OR</code>
+<start>1803.6000333333334</start>
+<end>1808.1000333333334</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>BB OR</code>
+<start>1816.1009166666668</start>
+<end>1827.3000333333334</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>BB OR</code>
+<start>1860.2000333333333</start>
+<end>1889.7000333333333</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>BB OR</code>
+<start>1925.7000333333333</start>
+<end>1935.5000333333332</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>BB OR</code>
+<start>1948.6000333333334</start>
+<end>1956.90005</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>BB OR</code>
+<start>1978.7000166666667</start>
+<end>1998.8001166666666</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>BB OR</code>
+<start>2033.70005</start>
+<end>2036.80005</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>BB OR</code>
+<start>2045.60005</start>
+<end>2096.00005</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>BB OR</code>
+<start>2114.00005</start>
+<end>2122.100033333333</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>BB OR</code>
+<start>2156.50005</start>
+<end>2197.3000333333334</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>BB OR</code>
+<start>2204.2000333333335</start>
+<end>2238.2000333333335</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>BB OR</code>
+<start>2280.0000333333332</start>
+<end>2336.3000333333334</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>BB OR</code>
+<start>2354.70005</start>
+<end>2360.4000333333333</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>BB OR</code>
+<start>3212.8000333333334</start>
+<end>3232.4000333333333</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>BB OR</code>
+<start>3251.304166666667</start>
+<end>3257.4000333333333</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>BB OR</code>
+<start>3298.2000333333335</start>
+<end>3303.9000333333333</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>BB OR</code>
+<start>3319.90005</start>
+<end>3355.0000333333332</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>BB OR</code>
+<start>3416.40005</start>
+<end>3427.4000333333333</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BB OR</code>
+<start>3481.4000833333334</start>
+<end>3538.7000333333335</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BB OR</code>
+<start>3559.600033333333</start>
+<end>3633.3000333333334</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BB OR</code>
+<start>3669.3000666666667</start>
+<end>3702.70005</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BB OR</code>
+<start>3761.50005</start>
+<end>3786.50005</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BB OR</code>
+<start>3793.4000666666666</start>
+<end>3797.81155</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BB OR</code>
+<start>3816.0001</start>
+<end>3844.4000833333334</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BB OR</code>
+<start>3855.10005</start>
+<end>3863.9000166666665</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BB OR</code>
+<start>3906.8000333333334</start>
+<end>3913.600033333333</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BB OR</code>
+<start>3961.9000666666666</start>
+<end>3976.0000333333332</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BB OR</code>
+<start>3977.40005</start>
+<end>3983.9000333333333</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BB OR</code>
+<start>3988.64755</start>
+<end>4004.20005</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BB OR</code>
+<start>4005.8000333333334</start>
+<end>4014.2000333333335</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BB OR</code>
+<start>4059.2000333333335</start>
+<end>4067.7000333333335</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BB OR</code>
+<start>4094.0000333333332</start>
+<end>4100.30005</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BB OR</code>
+<start>4107.900033333333</start>
+<end>4113.30005</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BB OR</code>
+<start>4330.900033333333</start>
+<end>4338.600033333333</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BB OR</code>
+<start>4355.30005</start>
+<end>4405.000016666667</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BB OR</code>
+<start>4470.400033333333</start>
+<end>4513.2000333333335</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BB OR</code>
+<start>4527.500033333334</start>
+<end>4534.1001166666665</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BB OR</code>
+<start>4544.400033333333</start>
+<end>4566.500083333333</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BB OR</code>
+<start>4617.000033333334</start>
+<end>4655.800033333333</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BB OR</code>
+<start>4683.000033333334</start>
+<end>4736.800033333333</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BB OR</code>
+<start>4749.500033333334</start>
+<end>4766.000033333334</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BB OR</code>
+<start>4883.400033333333</start>
+<end>4935.2000333333335</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BB OR</code>
+<start>4955.300033333333</start>
+<end>4969.7000333333335</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BB OR</code>
+<start>4990.7000333333335</start>
+<end>5003.000033333334</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BB OR</code>
+<start>5043.300033333333</start>
+<end>5048.000033333334</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BB OR</code>
+<start>5065.500033333334</start>
+<end>5068.800033333333</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BB OR</code>
+<start>5111.600033333333</start>
+<end>5119.400033333333</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BB OR</code>
+<start>5134.100033333333</start>
+<end>5162.900033333333</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BB OR</code>
+<start>5171.100033333333</start>
+<end>5187.600033333333</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BB OR</code>
+<start>5200.000033333334</start>
+<end>5254.600033333333</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BB OR</code>
+<start>5281.000033333334</start>
+<end>5304.600033333333</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BB OR</code>
+<start>5332.600033333333</start>
+<end>5335.300033333333</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BLESSURE / IMPACT</code>
+<start>1623.9000333333333</start>
+<end>1643.9000333333333</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BS1 DBO</code>
+<start>234.30003333333335</start>
+<end>246.10005</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BS1 DBO</code>
+<start>298.90003333333334</start>
+<end>310.0000333333333</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BS1 DBO</code>
+<start>356.70005</start>
+<end>380.80005</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BS1 DBO</code>
+<start>417.71008333333333</start>
+<end>439.80008333333336</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BS1 DBO</code>
+<start>877.4000333333333</start>
+<end>896.5000333333334</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BS1 DBO</code>
+<start>1061.1000333333334</start>
+<end>1101.1000333333334</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BS1 DBO</code>
+<start>1305.5000333333332</start>
+<end>1321.4000333333333</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BS1 DBO</code>
+<start>1494.8000666666667</start>
+<end>1499.80005</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BS1 DBO</code>
+<start>1563.4000333333333</start>
+<end>1574.8000333333334</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BS1 DBO</code>
+<start>1823.3000333333334</start>
+<end>1859.7000333333333</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BS1 DBO</code>
+<start>2193.3000333333334</start>
+<end>2203.7000333333335</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BS1 DBO</code>
+<start>2234.2000333333335</start>
+<end>2269.90065</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BS1 DBO</code>
+<start>3351.0000333333332</start>
+<end>3378.80005</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BS1 DBO</code>
+<start>3547.90005</start>
+<end>3559.100033333333</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BS1 DBO</code>
+<start>3643.5000333333332</start>
+<end>3668.7000666666668</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BS1 DBO</code>
+<start>4509.100033333333</start>
+<end>4527.000033333334</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BS1 DBO</code>
+<start>4562.50005</start>
+<end>4572.400033333333</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BS1 DBO</code>
+<start>4651.80005</start>
+<end>4665.2000333333335</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BS1 DBO</code>
+<start>4665.210033333334</start>
+<end>4682.500033333334</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BS1 DBO</code>
+<start>4732.800066666667</start>
+<end>4749.000033333334</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BS1 DBO</code>
+<start>4931.2000333333335</start>
+<end>4952.600033333333</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BS1 DBO</code>
+<start>4965.7000333333335</start>
+<end>4990.2000333333335</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BS1 DBO</code>
+<start>5064.80005</start>
+<end>5106.900033333333</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BS1 DBO</code>
+<start>5158.90005</start>
+<end>5170.600033333333</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BS1 DBO</code>
+<start>5183.600033333333</start>
+<end>5199.500033333334</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BS1 DBO</code>
+<start>5250.600033333333</start>
+<end>5280.5085</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BS1 OR</code>
+<start>246.11005</start>
+<end>285.20003333333335</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BS1 OR</code>
+<start>315.90003333333334</start>
+<end>345.30005</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BS1 OR</code>
+<start>384.60005</start>
+<end>417.70008333333334</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BS1 OR</code>
+<start>607.0000333333334</start>
+<end>639.3000333333333</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BS1 OR</code>
+<start>646.7000333333333</start>
+<end>667.8000333333333</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BS1 OR</code>
+<start>817.0000333333334</start>
+<end>842.1000333333334</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BS1 OR</code>
+<start>1798.6000333333334</start>
+<end>1807.6000333333334</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BS1 OR</code>
+<start>1855.2000333333333</start>
+<end>1877.3000333333334</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>BS1 OR</code>
+<start>2109.0000666666665</start>
+<end>2121.600033333333</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>BS1 OR</code>
+<start>2154.600033333333</start>
+<end>2173.80005</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>BS1 OR</code>
+<start>2349.7000333333335</start>
+<end>2360.4000333333333</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>BS1 OR</code>
+<start>3219.600033333333</start>
+<end>3231.8000333333334</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>BS1 OR</code>
+<start>3314.90005</start>
+<end>3354.5000333333332</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>BS1 OR</code>
+<start>3554.600033333333</start>
+<end>3593.4000333333333</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>BS1 OR</code>
+<start>3811.00005</start>
+<end>3843.9000333333333</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>BS1 OR</code>
+<start>3956.90005</start>
+<end>3975.5000333333332</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>BS1 OR</code>
+<start>4089.0000333333332</start>
+<end>4099.800033333333</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>BS1 OR</code>
+<start>4350.308616666666</start>
+<end>4404.50005</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>BS1 OR</code>
+<start>4612.00005</start>
+<end>4655.30005</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>BS1 OR</code>
+<start>4878.400033333333</start>
+<end>4894.2000333333335</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>BS1 OR</code>
+<start>5243.500016666667</start>
+<end>5254.100033333333</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>BS1 OR</code>
+<start>5276.0085</start>
+<end>5293.900033333333</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>BS2 DBO</code>
+<start>635.8000333333333</start>
+<end>651.2000333333333</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>BS2 DBO</code>
+<start>1387.6000333333334</start>
+<end>1414.80005</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>BS2 DBO</code>
+<start>1609.7000666666668</start>
+<end>1653.2069833333333</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>BS2 DBO</code>
+<start>2032.80005</start>
+<end>2045.1000333333334</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>BS2 DBO</code>
+<start>2099.100066666667</start>
+<end>2113.5000666666665</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>BS2 DBO</code>
+<start>3135.8000333333334</start>
+<end>3212.3000333333334</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>BS2 DBO</code>
+<start>3710.3000333333334</start>
+<end>3761.0000666666665</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>BS2 DBO</code>
+<start>3936.7000666666668</start>
+<end>3961.40005</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>BS2 DBO</code>
+<start>4231.600033333333</start>
+<end>4248.900033333333</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>BS2 OR</code>
+<start>121.80005</start>
+<end>167.40003333333334</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>BS2 OR</code>
+<start>500.20005</start>
+<end>517.4000333333333</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>BS2 OR</code>
+<start>892.0000333333334</start>
+<end>901.2000333333333</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>BS2 OR</code>
+<start>1283.5000333333332</start>
+<end>1309.0000333333332</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>BS2 OR</code>
+<start>1449.80165</start>
+<end>1498.3000666666667</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>BS2 OR</code>
+<start>1872.8000333333334</start>
+<end>1889.2000166666667</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>BS2 OR</code>
+<start>1974.2000166666667</start>
+<end>1983.8183833333333</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>BS2 OR</code>
+<start>1983.8283833333332</start>
+<end>1998.30005</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>BS2 OR</code>
+<start>2044.50005</start>
+<end>2079.4000333333333</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>BS2 OR</code>
+<start>2305.50005</start>
+<end>2335.8000333333334</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>BS2 OR</code>
+<start>3476.40005</start>
+<end>3531.3157833333335</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>BS2 OR</code>
+<start>3664.2000666666668</start>
+<end>3698.227033333333</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>BS2 OR</code>
+<start>3756.5000666666665</start>
+<end>3786.0000833333334</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>BS2 OR</code>
+<start>4678.000033333334</start>
+<end>4736.300066666667</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>BS2 OR</code>
+<start>4744.500033333334</start>
+<end>4763.30005</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>BS2 OR</code>
+<start>5289.400033333333</start>
+<end>5304.100033333333</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>BS3 DBO</code>
+<start>306.5000333333333</start>
+<end>320.40003333333334</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>BS3 DBO</code>
+<start>377.30005</start>
+<end>389.10005</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>BS3 DBO</code>
+<start>725.60005</start>
+<end>741.1000333333334</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>BS3 DBO</code>
+<start>913.8000333333333</start>
+<end>951.00005</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>BS3 DBO</code>
+<start>2266.40065</start>
+<end>2279.5000666666665</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>BS3 DBO</code>
+<start>4028.8000333333334</start>
+<end>4058.7000333333335</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>BS3 DBO</code>
+<start>4334.600033333333</start>
+<end>4354.808616666666</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>BS3 DBO</code>
+<start>4401.00005</start>
+<end>4422.900033333333</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>BS3 DBO</code>
+<start>4536.600033333333</start>
+<end>4543.800033333333</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>BS3 DBO</code>
+<start>4568.900033333333</start>
+<end>4603.515783333333</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>BS3 DBO</code>
+<start>4949.100033333333</start>
+<end>4954.800033333333</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>BS3 OR</code>
+<start>181.10003333333333</start>
+<end>219.60003333333333</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>BS3 OR</code>
+<start>219.61003333333332</start>
+<end>237.80003333333335</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>BS3 OR</code>
+<start>837.6000333333334</start>
+<end>880.9000333333333</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>BS3 OR</code>
+<start>978.8000333333333</start>
+<end>1003.8000333333333</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>BS3 OR</code>
+<start>4889.7000333333335</start>
+<end>4905.500033333334</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>BS3 OR</code>
+<start>4905.510033333334</start>
+<end>4921.800033333333</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>BS3 OR</code>
+<start>4921.810033333333</start>
+<end>4934.7000333333335</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>BS3 OR</code>
+<start>5129.10005</start>
+<end>5144.172533333333</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>BS4 DBO</code>
+<start>463.3001</start>
+<end>482.3000666666667</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>BS4 DBO</code>
+<start>550.20025</start>
+<end>611.5000333333334</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>BS4 DBO</code>
+<start>737.6000333333334</start>
+<end>764.2000333333333</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>BS4 DBO</code>
+<start>764.2100333333333</start>
+<end>807.5000333333334</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>BS4 DBO</code>
+<start>807.5100333333334</start>
+<end>817.5000333333334</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>BS4 DBO</code>
+<start>947.50005</start>
+<end>973.2000333333333</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>BS4 DBO</code>
+<start>1101.1100333333334</start>
+<end>1109.60005</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>BS4 DBO</code>
+<start>1109.61005</start>
+<end>1121.7000166666667</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>BS4 DBO</code>
+<start>1121.7100166666667</start>
+<end>1129.7000333333333</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>BS4 DBO</code>
+<start>1129.7100333333333</start>
+<end>1139.5000333333332</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>BS4 DBO</code>
+<start>1139.5100333333332</start>
+<end>1146.3000333333334</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>BS4 DBO</code>
+<start>1414.81005</start>
+<end>1423.0000333333332</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>BS4 DBO</code>
+<start>1423.0100333333332</start>
+<end>1454.30165</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>BS4 DBO</code>
+<start>1649.7069833333333</start>
+<end>1697.6000333333334</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>BS4 DBO</code>
+<start>1773.3000333333334</start>
+<end>1803.1000333333334</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>BS4 DBO</code>
+<start>1901.6000333333334</start>
+<end>1925.2000333333333</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>BS4 DBO</code>
+<start>2017.2142</start>
+<end>2033.2000666666668</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>BS4 DBO</code>
+<start>3237.9000666666666</start>
+<end>3250.8000333333334</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>BS4 DBO</code>
+<start>3299.9000333333333</start>
+<end>3319.40005</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>BS4 DBO</code>
+<start>3375.30005</start>
+<end>3399.1092</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>BS4 DBO</code>
+<start>3399.1192</start>
+<end>3415.9000333333333</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>BS4 DBO</code>
+<start>3449.33895</start>
+<end>3454.4000333333333</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>BS4 DBO</code>
+<start>3454.4100333333336</start>
+<end>3467.0041666666666</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>BS4 DBO</code>
+<start>3467.014166666667</start>
+<end>3480.90005</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>BS4 DBO</code>
+<start>4292.900033333333</start>
+<end>4309.600033333333</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>BS4 DBO</code>
+<start>4309.610033333333</start>
+<end>4330.400033333333</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>BS4 DBO</code>
+<start>4600.015783333333</start>
+<end>4616.50005</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>BS4 DBO</code>
+<start>4778.400033333333</start>
+<end>4791.100033333333</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>BS4 DBO</code>
+<start>4791.110033333333</start>
+<end>4799.800033333333</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>BS4 DBO</code>
+<start>5103.400033333333</start>
+<end>5111.100033333333</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>BS4 DBO</code>
+<start>5312.600016666666</start>
+<end>5324.7000333333335</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>BS4 DBO</code>
+<start>5324.710033333334</start>
+<end>5332.100033333333</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>BS4 OR</code>
+<start>280.70003333333335</start>
+<end>302.40003333333334</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>BS4 OR</code>
+<start>340.80005</start>
+<end>360.20005</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>BS4 OR</code>
+<start>1531.70005</start>
+<end>1566.9000333333333</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>BS4 OR</code>
+<start>2074.9000333333333</start>
+<end>2095.5000333333332</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>BS4 OR</code>
+<start>2169.30005</start>
+<end>2196.8000333333334</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>BS4 OR</code>
+<start>3526.8157833333335</start>
+<end>3538.2219833333334</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>BS4 OR</code>
+<start>3588.9000333333333</start>
+<end>3616.9000333333333</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>BS4 OR</code>
+<start>3616.9100333333336</start>
+<end>3624.7099166666667</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>BS4 OR</code>
+<start>3624.719916666667</start>
+<end>3627.2000333333335</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>BS4 OR</code>
+<start>3627.2100333333337</start>
+<end>3632.9000333333333</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>BS4 OR</code>
+<start>3693.727033333333</start>
+<end>3702.2000333333335</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>BS4 OR</code>
+<start>4490.600033333333</start>
+<end>4512.600033333333</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>BS4 OR</code>
+<start>4964.0000666666665</start>
+<end>4969.2000333333335</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>BS4 OR</code>
+<start>5060.500033333334</start>
+<end>5068.30005</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>BS4 OR</code>
+<start>5139.672533333333</start>
+<end>5162.40005</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>BW1 DBO</code>
+<start>160.90003333333334</start>
+<end>173.10003333333333</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>BW1 DBO</code>
+<start>173.11003333333332</start>
+<end>185.60003333333333</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>BW1 DBO</code>
+<start>441.6001</start>
+<end>460.30005</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>BW1 DBO</code>
+<start>1328.8000333333334</start>
+<end>1349.4033333333334</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>BW1 DBO</code>
+<start>1358.6000666666666</start>
+<end>1391.1000333333334</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>BW1 DBO</code>
+<start>1991.80005</start>
+<end>2020.7142</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>BW1 DBO</code>
+<start>2089.0000333333332</start>
+<end>2102.600066666667</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>BW1 DBO</code>
+<start>2329.3000333333334</start>
+<end>2354.2000333333335</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>BW1 DBO</code>
+<start>3531.7219833333334</start>
+<end>3551.40005</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>BW1 DBO</code>
+<start>3626.4000333333333</start>
+<end>3647.0000333333332</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>BW1 DBO</code>
+<start>3695.7000333333335</start>
+<end>3713.8000333333334</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>BW1 DBO</code>
+<start>3779.5000833333334</start>
+<end>3792.9001166666667</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>BW1 DBO</code>
+<start>3837.4000333333333</start>
+<end>3854.60005</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>BW1 DBO</code>
+<start>4007.2000333333335</start>
+<end>4032.3000333333334</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>BW1 DBO</code>
+<start>4756.80005</start>
+<end>4781.900033333333</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>BW1 OR</code>
+<start>811.0000333333334</start>
+<end>821.5000333333334</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>BW1 OR</code>
+<start>902.0000333333334</start>
+<end>917.3000333333333</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>BW1 OR</code>
+<start>966.7000333333333</start>
+<end>983.3000333333333</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>BW1 OR</code>
+<start>1342.9033333333334</start>
+<end>1365.1000666666666</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>BW1 OR</code>
+<start>1809.1000333333334</start>
+<end>1826.8000333333334</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>BW1 OR</code>
+<start>1918.7000333333333</start>
+<end>1935.0000333333332</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>BW1 OR</code>
+<start>1941.6000333333334</start>
+<end>1956.4000833333334</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>BW1 OR</code>
+<start>2026.7000666666668</start>
+<end>2036.30005</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>BW1 OR</code>
+<start>2038.6000333333334</start>
+<end>2049.00005</end>
+</instance>
+<instance>
+<ID>331</ID>
+<code>BW1 OR</code>
+<start>2149.50005</start>
+<end>2159.100033333333</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>BW1 OR</code>
+<start>2273.0000666666665</start>
+<end>2310.00005</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>BW1 OR</code>
+<start>3205.8000333333334</start>
+<end>3224.100033333333</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>BW1 OR</code>
+<start>3244.3000333333334</start>
+<end>3256.9000333333333</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>BW1 OR</code>
+<start>3409.4000333333333</start>
+<end>3426.9000333333333</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>BW1 OR</code>
+<start>4052.2000333333335</start>
+<end>4067.2000333333335</end>
+</instance>
+<instance>
+<ID>337</ID>
+<code>BW1 OR</code>
+<start>4100.900033333333</start>
+<end>4113.30005</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>BW1 OR</code>
+<start>4323.900033333333</start>
+<end>4338.100033333333</end>
+</instance>
+<instance>
+<ID>339</ID>
+<code>BW1 OR</code>
+<start>4463.4000166666665</start>
+<end>4495.100033333333</end>
+</instance>
+<instance>
+<ID>340</ID>
+<code>BW1 OR</code>
+<start>4520.500033333334</start>
+<end>4533.600033333333</end>
+</instance>
+<instance>
+<ID>341</ID>
+<code>BW1 OR</code>
+<start>4948.300033333333</start>
+<end>4968.5000666666665</end>
+</instance>
+<instance>
+<ID>342</ID>
+<code>BW1 OR</code>
+<start>4983.7000333333335</start>
+<end>5003.000033333334</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>BW1 OR</code>
+<start>5104.600033333333</start>
+<end>5118.900033333333</end>
+</instance>
+<instance>
+<ID>344</ID>
+<code>BW1 OR</code>
+<start>5193.000033333334</start>
+<end>5248.000016666667</end>
+</instance>
+<instance>
+<ID>345</ID>
+<code>BW1 OR</code>
+<start>5325.600033333333</start>
+<end>5335.300033333333</end>
+</instance>
+<instance>
+<ID>346</ID>
+<code>BW2 DBO</code>
+<start>510.90003333333334</start>
+<end>553.70025</end>
+</instance>
+<instance>
+<ID>347</ID>
+<code>BW2 DBO</code>
+<start>894.7000333333333</start>
+<end>908.5000333333334</end>
+</instance>
+<instance>
+<ID>348</ID>
+<code>BW2 DBO</code>
+<start>1882.7000166666667</start>
+<end>1905.1000333333334</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>BW2 DBO</code>
+<start>2115.100033333333</start>
+<end>2156.00005</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>BW2 DBO</code>
+<start>3420.4000333333333</start>
+<end>3452.83895</end>
+</instance>
+<instance>
+<ID>351</ID>
+<code>BW2 DBO</code>
+<start>3969.0000333333332</start>
+<end>3976.9000333333333</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>BW2 DBO</code>
+<start>3977.00005</start>
+<end>3988.10005</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>BW2 DBO</code>
+<start>5112.400033333333</start>
+<end>5133.60005</end>
+</instance>
+<instance>
+<ID>354</ID>
+<code>BW2 OR</code>
+<start>1493.30005</start>
+<end>1536.20005</end>
+</instance>
+<instance>
+<ID>355</ID>
+<code>BW2 OR</code>
+<start>1971.70135</start>
+<end>1978.7000166666667</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>BW2 OR</code>
+<start>2197.2000333333335</start>
+<end>2237.7000333333335</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>BW2 OR</code>
+<start>3291.2000333333335</start>
+<end>3303.4000333333333</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>BW2 OR</code>
+<start>3786.4001166666667</start>
+<end>3797.3001</end>
+</instance>
+<instance>
+<ID>359</ID>
+<code>BW2 OR</code>
+<start>3981.60005</start>
+<end>4003.7000333333335</end>
+</instance>
+<instance>
+<ID>360</ID>
+<code>BW2 OR</code>
+<start>4003.7100333333337</start>
+<end>4013.7000333333335</end>
+</instance>
+<instance>
+<ID>361</ID>
+<code>BW2 OR</code>
+<start>4537.300033333333</start>
+<end>4566.00005</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>BW2 OR</code>
+<start>5164.100033333333</start>
+<end>5187.100033333333</end>
+</instance>
+<instance>
+<ID>363</ID>
+<code>BW3 DBO</code>
+<start>661.3000333333333</start>
+<end>675.30005</end>
+</instance>
+<instance>
+<ID>364</ID>
+<code>BW3 DBO</code>
+<start>1928.5000333333332</start>
+<end>1948.1000333333334</end>
+</instance>
+<instance>
+<ID>365</ID>
+<code>BW3 DBO</code>
+<start>1949.9000833333334</start>
+<end>1978.20135</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>BW3 DBO</code>
+<start>3225.3000333333334</start>
+<end>3241.4000666666666</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>BW3 DBO</code>
+<start>3250.4000333333333</start>
+<end>3297.7000333333335</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>BW3 DBO</code>
+<start>3790.8001</start>
+<end>3815.50005</end>
+</instance>
+<instance>
+<ID>369</ID>
+<code>BW3 DBO</code>
+<start>3997.2000333333335</start>
+<end>4005.3071833333333</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>BW3 DBO</code>
+<start>4060.7000333333335</start>
+<end>4093.5000333333332</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>BW3 DBO</code>
+<start>4093.5100333333335</start>
+<end>4107.400033333333</end>
+</instance>
+<instance>
+<ID>372</ID>
+<code>BW3 DBO</code>
+<start>4527.100033333333</start>
+<end>4540.100033333333</end>
+</instance>
+<instance>
+<ID>373</ID>
+<code>BW3 DBO</code>
+<start>5297.600033333333</start>
+<end>5316.100016666666</end>
+</instance>
+<instance>
+<ID>374</ID>
+<code>BW3 OR</code>
+<start>433.30008333333336</start>
+<end>448.1001</end>
+</instance>
+<instance>
+<ID>375</ID>
+<code>BW3 OR</code>
+<start>1314.9000333333333</start>
+<end>1335.3000333333334</end>
+</instance>
+<instance>
+<ID>376</ID>
+<code>BW3 OR</code>
+<start>1568.3000333333334</start>
+<end>1582.9000333333333</end>
+</instance>
+<instance>
+<ID>377</ID>
+<code>BW3 OR</code>
+<start>3848.10005</start>
+<end>3863.9000166666665</end>
+</instance>
+<instance>
+<ID>378</ID>
+<code>BW3 OR</code>
+<start>3970.4000333333333</start>
+<end>3983.50005</end>
+</instance>
+<instance>
+<ID>379</ID>
+<code>BW4 DBO</code>
+<start>1801.1000333333334</start>
+<end>1815.6000333333334</end>
+</instance>
+<instance>
+<ID>380</ID>
+<code>BW4 OR</code>
+<start>166.60003333333333</start>
+<end>178.20003333333332</end>
+</instance>
+<instance>
+<ID>381</ID>
+<code>CP DBO</code>
+<start>440.2001</start>
+<end>482.3000666666667</end>
+</instance>
+<instance>
+<ID>382</ID>
+<code>CP DBO</code>
+<start>533.5000333333334</start>
+<end>554.3047333333334</end>
+</instance>
+<instance>
+<ID>383</ID>
+<code>CP DBO</code>
+<start>586.1000333333334</start>
+<end>614.80035</end>
+</instance>
+<instance>
+<ID>384</ID>
+<code>CP DBO</code>
+<start>634.1000333333334</start>
+<end>667.0000333333334</end>
+</instance>
+<instance>
+<ID>385</ID>
+<code>CP DBO</code>
+<start>719.3000333333333</start>
+<end>745.5000333333334</end>
+</instance>
+<instance>
+<ID>386</ID>
+<code>CP DBO</code>
+<start>795.6000333333334</start>
+<end>824.5000333333334</end>
+</instance>
+<instance>
+<ID>387</ID>
+<code>CP DBO</code>
+<start>890.0000333333334</start>
+<end>911.0000333333334</end>
+</instance>
+<instance>
+<ID>388</ID>
+<code>CP DBO</code>
+<start>955.7000333333333</start>
+<end>978.5000333333334</end>
+</instance>
+<instance>
+<ID>389</ID>
+<code>CP DBO</code>
+<start>1080.4000333333333</start>
+<end>1104.6000333333334</end>
+</instance>
+<instance>
+<ID>390</ID>
+<code>CP DBO</code>
+<start>1125.4100333333333</start>
+<end>1145.2000333333333</end>
+</instance>
+<instance>
+<ID>391</ID>
+<code>CP DBO</code>
+<start>1330.2000333333333</start>
+<end>1352.7000333333333</end>
+</instance>
+<instance>
+<ID>392</ID>
+<code>CP DBO</code>
+<start>1417.8001</start>
+<end>1456.10005</end>
+</instance>
+<instance>
+<ID>393</ID>
+<code>CP DBO</code>
+<start>1670.7000333333333</start>
+<end>1697.6000333333334</end>
+</instance>
+<instance>
+<ID>394</ID>
+<code>CP DBO</code>
+<start>1765.8000333333334</start>
+<end>1806.8000333333334</end>
+</instance>
+<instance>
+<ID>395</ID>
+<code>CP DBO</code>
+<start>1881.2000333333333</start>
+<end>1909.41215</end>
+</instance>
+<instance>
+<ID>396</ID>
+<code>CP DBO</code>
+<start>1909.42215</start>
+<end>1927.6000333333334</end>
+</instance>
+<instance>
+<ID>397</ID>
+<code>CP DBO</code>
+<start>1927.6100333333334</start>
+<end>1955.5000666666667</end>
+</instance>
+<instance>
+<ID>398</ID>
+<code>CP DBO</code>
+<start>1998.20005</start>
+<end>2034.30005</end>
+</instance>
+<instance>
+<ID>399</ID>
+<code>CP DBO</code>
+<start>2034.31005</start>
+<end>2048.60005</end>
+</instance>
+<instance>
+<ID>400</ID>
+<code>CP DBO</code>
+<start>2097.2000333333335</start>
+<end>2115.8000833333335</end>
+</instance>
+<instance>
+<ID>401</ID>
+<code>CP DBO</code>
+<start>3194.2000333333335</start>
+<end>3223.600033333333</end>
+</instance>
+<instance>
+<ID>402</ID>
+<code>CP DBO</code>
+<start>3223.6100333333334</start>
+<end>3241.20005</end>
+</instance>
+<instance>
+<ID>403</ID>
+<code>CP DBO</code>
+<start>3241.21005</start>
+<end>3252.2000333333335</end>
+</instance>
+<instance>
+<ID>404</ID>
+<code>CP DBO</code>
+<start>3291.110183333333</start>
+<end>3318.7000166666667</end>
+</instance>
+<instance>
+<ID>405</ID>
+<code>CP DBO</code>
+<start>3346.0000333333332</start>
+<end>3378.100033333333</end>
+</instance>
+<instance>
+<ID>406</ID>
+<code>CP DBO</code>
+<start>3378.1100333333334</start>
+<end>3399.0000333333332</end>
+</instance>
+<instance>
+<ID>407</ID>
+<code>CP DBO</code>
+<start>3445.4000333333333</start>
+<end>3466.8000333333334</end>
+</instance>
+<instance>
+<ID>408</ID>
+<code>CP DBO</code>
+<start>3788.60005</start>
+<end>3814.9000666666666</end>
+</instance>
+<instance>
+<ID>409</ID>
+<code>CP DBO</code>
+<start>4041.5000333333332</start>
+<end>4066.2000333333335</end>
+</instance>
+<instance>
+<ID>410</ID>
+<code>CP DBO</code>
+<start>4225.300033333333</start>
+<end>4248.900033333333</end>
+</instance>
+<instance>
+<ID>411</ID>
+<code>CP DBO</code>
+<start>4315.900033333333</start>
+<end>4331.600033333333</end>
+</instance>
+<instance>
+<ID>412</ID>
+<code>CP DBO</code>
+<start>4331.610033333333</start>
+<end>4354.60005</end>
+</instance>
+<instance>
+<ID>413</ID>
+<code>CP DBO</code>
+<start>4394.900033333333</start>
+<end>4422.900033333333</end>
+</instance>
+<instance>
+<ID>414</ID>
+<code>CP DBO</code>
+<start>4781.00005</start>
+<end>4799.800033333333</end>
+</instance>
+<instance>
+<ID>415</ID>
+<code>CP DBO</code>
+<start>4835.9001</start>
+<end>4853.701366666666</end>
+</instance>
+<instance>
+<ID>416</ID>
+<code>CP DBO</code>
+<start>5251.300033333333</start>
+<end>5280.400033333333</end>
+</instance>
+<instance>
+<ID>417</ID>
+<code>DP DBO</code>
+<start>452.50005</start>
+<end>462.50005</end>
+</instance>
+<instance>
+<ID>418</ID>
+<code>DP DBO</code>
+<start>472.6000666666667</start>
+<end>482.6000666666667</end>
+</instance>
+<instance>
+<ID>419</ID>
+<code>DP DBO</code>
+<start>596.4000333333333</start>
+<end>606.4000333333333</end>
+</instance>
+<instance>
+<ID>420</ID>
+<code>DP DBO</code>
+<start>1435.6000333333334</start>
+<end>1445.6000333333334</end>
+</instance>
+<instance>
+<ID>421</ID>
+<code>DP DBO</code>
+<start>2010.00005</start>
+<end>2020.00005</end>
+</instance>
+<instance>
+<ID>422</ID>
+<code>DP DBO</code>
+<start>2107.306433333333</start>
+<end>2117.306433333333</end>
+</instance>
+<instance>
+<ID>423</ID>
+<code>DP DBO</code>
+<start>3228.9000333333333</start>
+<end>3236.9000333333333</end>
+</instance>
+<instance>
+<ID>424</ID>
+<code>DP DBO</code>
+<start>3365.3000333333334</start>
+<end>3373.3000333333334</end>
+</instance>
+<instance>
+<ID>425</ID>
+<code>DP DBO</code>
+<start>4338.000033333334</start>
+<end>4346.000033333334</end>
+</instance>
+<instance>
+<ID>426</ID>
+<code>CP NBB DBO</code>
+<start>937.7000333333333</start>
+<end>948.7000333333333</end>
+</instance>
+<instance>
+<ID>427</ID>
+<code>CP NBB DBO</code>
+<start>1104.6100333333334</start>
+<end>1125.4000333333333</end>
+</instance>
+<instance>
+<ID>428</ID>
+<code>CP NBB DBO</code>
+<start>2341.5000333333332</start>
+<end>2352.5000333333332</end>
+</instance>
+<instance>
+<ID>429</ID>
+<code>CP NBB DBO</code>
+<start>3252.2100333333337</start>
+<end>3273.0000333333332</end>
+</instance>
+<instance>
+<ID>430</ID>
+<code>CP NBB DBO</code>
+<start>3434.2000333333335</start>
+<end>3445.2000333333335</end>
+</instance>
+<instance>
+<ID>431</ID>
+<code>CP NBB DBO</code>
+<start>4069.7000333333335</start>
+<end>4080.7000333333335</end>
+</instance>
+<instance>
+<ID>432</ID>
+<code>CP NBB DBO</code>
+<start>4098.600033333333</start>
+<end>4109.600033333333</end>
+</instance>
+<instance>
+<ID>433</ID>
+<code>CP NBB DBO</code>
+<start>4293.000033333334</start>
+<end>4304.000033333334</end>
+</instance>
+<instance>
+<ID>434</ID>
+<code>CP NBB OR</code>
+<start>1462.70005</start>
+<end>1482.30005</end>
+</instance>
+<instance>
+<ID>435</ID>
+<code>CP NBB OR</code>
+<start>4918.800033333333</start>
+<end>4929.800033333333</end>
+</instance>
+<instance>
+<ID>436</ID>
+<code>CP OR</code>
+<start>218.30003333333335</start>
+<end>237.80003333333335</end>
+</instance>
+<instance>
+<ID>437</ID>
+<code>CP OR</code>
+<start>348.2001</start>
+<end>360.20005</end>
+</instance>
+<instance>
+<ID>438</ID>
+<code>CP OR</code>
+<start>983.8000333333333</start>
+<end>1003.8000333333333</end>
+</instance>
+<instance>
+<ID>439</ID>
+<code>CP OR</code>
+<start>1286.3000333333334</start>
+<end>1307.4000333333333</end>
+</instance>
+<instance>
+<ID>440</ID>
+<code>CP OR</code>
+<start>1528.60005</start>
+<end>1563.1000333333334</end>
+</instance>
+<instance>
+<ID>441</ID>
+<code>CP OR</code>
+<start>1563.1100333333334</start>
+<end>1582.9000333333333</end>
+</instance>
+<instance>
+<ID>442</ID>
+<code>CP OR</code>
+<start>1978.60005</start>
+<end>1999.4429166666666</end>
+</instance>
+<instance>
+<ID>443</ID>
+<code>CP OR</code>
+<start>2160.600033333333</start>
+<end>2196.50005</end>
+</instance>
+<instance>
+<ID>444</ID>
+<code>CP OR</code>
+<start>2207.200083333333</start>
+<end>2237.50005</end>
+</instance>
+<instance>
+<ID>445</ID>
+<code>CP OR</code>
+<start>3332.2000333333335</start>
+<end>3359.7000333333335</end>
+</instance>
+<instance>
+<ID>446</ID>
+<code>CP OR</code>
+<start>3818.9000333333333</start>
+<end>3845.2000333333335</end>
+</instance>
+<instance>
+<ID>447</ID>
+<code>CP OR</code>
+<start>3845.2100333333337</start>
+<end>3863.9000166666665</end>
+</instance>
+<instance>
+<ID>448</ID>
+<code>CP OR</code>
+<start>3997.9243</start>
+<end>4019.5000333333332</end>
+</instance>
+<instance>
+<ID>449</ID>
+<code>CP OR</code>
+<start>4463.000033333334</start>
+<end>4513.50005</end>
+</instance>
+<instance>
+<ID>450</ID>
+<code>CP OR</code>
+<start>4981.100033333333</start>
+<end>5003.000033333334</end>
+</instance>
+<instance>
+<ID>451</ID>
+<code>CP OR</code>
+<start>5051.90005</start>
+<end>5070.100033333333</end>
+</instance>
+<instance>
+<ID>452</ID>
+<code>DP OR</code>
+<start>217.4055</start>
+<end>225.4055</end>
+</instance>
+<instance>
+<ID>453</ID>
+<code>DP OR</code>
+<start>225.41549999999998</start>
+<end>229.20003333333332</end>
+</instance>
+<instance>
+<ID>454</ID>
+<code>DP OR</code>
+<start>1572.7011666666667</start>
+<end>1580.7011666666667</end>
+</instance>
+<instance>
+<ID>455</ID>
+<code>DP OR</code>
+<start>2220.3000333333334</start>
+<end>2228.3000333333334</end>
+</instance>
+<instance>
+<ID>456</ID>
+<code>DP OR</code>
+<start>3343.2000333333335</start>
+<end>3353.2000333333335</end>
+</instance>
+<instance>
+<ID>457</ID>
+<code>DP OR</code>
+<start>4473.200083333333</start>
+<end>4483.200083333333</end>
+</instance>
+<instance>
+<ID>458</ID>
+<code>DP OR</code>
+<start>4501.100033333333</start>
+<end>4511.100033333333</end>
+</instance>
+<instance>
+<ID>459</ID>
+<code>EIND</code>
+<start>1145.3000333333334</start>
+<end>1147.3000333333334</end>
+</instance>
+<instance>
+<ID>460</ID>
+<code>EIND</code>
+<start>2359.4000333333333</start>
+<end>2361.4000333333333</end>
+</instance>
+<instance>
+<ID>461</ID>
+<code>EIND</code>
+<start>4112.30005</start>
+<end>4114.30005</end>
+</instance>
+<instance>
+<ID>462</ID>
+<code>EIND</code>
+<start>5334.300033333333</start>
+<end>5336.300033333333</end>
+</instance>
+<instance>
+<ID>463</ID>
+<code>GOAL DBO</code>
+<start>467.3000333333333</start>
+<end>482.3000333333333</end>
+</instance>
+<instance>
+<ID>464</ID>
+<code>GOAL OR</code>
+<start>1567.9000333333333</start>
+<end>1582.9000333333333</end>
+</instance>
+<instance>
+<ID>465</ID>
+<code>GOAL OR</code>
+<start>3898.60005</start>
+<end>3913.60005</end>
+</instance>
+<instance>
+<ID>466</ID>
+<code>GROEN DBO</code>
+<start>1349.4000333333333</start>
+<end>1509.4000333333333</end>
+</instance>
+<instance>
+<ID>467</ID>
+<code>GROEN DBO</code>
+<start>2039.8000333333334</start>
+<end>2199.8000333333334</end>
+</instance>
+<instance>
+<ID>468</ID>
+<code>SC DBO</code>
+<start>1728.7000333333333</start>
+<end>1742.7000333333333</end>
+</instance>
+<instance>
+<ID>469</ID>
+<code>SC DBO</code>
+<start>1764.1000333333334</start>
+<end>1778.1000333333334</end>
+</instance>
+<instance>
+<ID>470</ID>
+<code>SC DBO</code>
+<start>4283.800033333333</start>
+<end>4297.800033333333</end>
+</instance>
+<instance>
+<ID>471</ID>
+<code>SC DBO</code>
+<start>4459.800033333333</start>
+<end>4473.800033333333</end>
+</instance>
+<instance>
+<ID>472</ID>
+<code>SC DBO</code>
+<start>4838.800033333333</start>
+<end>4852.800033333333</end>
+</instance>
+<instance>
+<ID>473</ID>
+<code>SC DBO</code>
+<start>4872.100033333333</start>
+<end>4886.100033333333</end>
+</instance>
+<instance>
+<ID>474</ID>
+<code>SC OR</code>
+<start>1040.70045</start>
+<end>1054.70045</end>
+</instance>
+<instance>
+<ID>475</ID>
+<code>SC OR</code>
+<start>3902.8000333333334</start>
+<end>3916.8000333333334</end>
+</instance>
+<instance>
+<ID>476</ID>
+<code>SC OR</code>
+<start>5039.300033333333</start>
+<end>5053.300033333333</end>
+</instance>
+<instance>
+<ID>477</ID>
+<code>START</code>
+<start>124.30003333333333</start>
+<end>127.30003333333333</end>
+</instance>
+<instance>
+<ID>478</ID>
+<code>START</code>
+<start>1284.7000333333333</start>
+<end>1287.7000333333333</end>
+</instance>
+<instance>
+<ID>479</ID>
+<code>START</code>
+<start>3137.5000333333332</start>
+<end>3140.5000333333332</end>
+</instance>
+<instance>
+<ID>480</ID>
+<code>START</code>
+<start>4232.7000333333335</start>
+<end>4235.7000333333335</end>
+</instance>
+<instance>
+<ID>481</ID>
+<code>TIJDSTIL</code>
+<start>482.3000333333333</start>
+<end>505.20003333333335</end>
+</instance>
+<instance>
+<ID>482</ID>
+<code>TIJDSTIL</code>
+<start>675.3000333333333</start>
+<end>729.6000333333334</end>
+</instance>
+<instance>
+<ID>483</ID>
+<code>TIJDSTIL</code>
+<start>1146.3000333333334</start>
+<end>1285.7000333333333</end>
+</instance>
+<instance>
+<ID>484</ID>
+<code>TIJDSTIL</code>
+<start>1582.9000333333333</start>
+<end>1613.7001</end>
+</instance>
+<instance>
+<ID>485</ID>
+<code>TIJDSTIL</code>
+<start>1697.6000333333334</start>
+<end>1732.7000333333333</end>
+</instance>
+<instance>
+<ID>486</ID>
+<code>TIJDSTIL</code>
+<start>1744.6000333333334</start>
+<end>1768.1000333333334</end>
+</instance>
+<instance>
+<ID>487</ID>
+<code>TIJDSTIL</code>
+<start>2360.4000333333333</start>
+<end>3138.5000333333332</end>
+</instance>
+<instance>
+<ID>488</ID>
+<code>TIJDSTIL</code>
+<start>3863.9000333333333</start>
+<end>3906.8000333333334</end>
+</instance>
+<instance>
+<ID>489</ID>
+<code>TIJDSTIL</code>
+<start>3913.60005</start>
+<end>3940.7000166666667</end>
+</instance>
+<instance>
+<ID>490</ID>
+<code>TIJDSTIL</code>
+<start>4113.30005</start>
+<end>4233.7000333333335</end>
+</instance>
+<instance>
+<ID>491</ID>
+<code>TIJDSTIL</code>
+<start>4248.900033333333</start>
+<end>4287.800033333333</end>
+</instance>
+<instance>
+<ID>492</ID>
+<code>TIJDSTIL</code>
+<start>4422.900033333333</start>
+<end>4463.800033333333</end>
+</instance>
+<instance>
+<ID>493</ID>
+<code>TIJDSTIL</code>
+<start>4799.8001</start>
+<end>4842.800033333333</end>
+</instance>
+<instance>
+<ID>494</ID>
+<code>TIJDSTIL</code>
+<start>4853.70325</start>
+<end>4876.100033333333</end>
+</instance>
+<instance>
+<ID>495</ID>
+<code>TIJDSTIL</code>
+<start>5003.000033333334</start>
+<end>5043.300033333333</end>
+</instance>
+<instance>
+<ID>496</ID>
+<code>TIJDSTIL</code>
+<start>5048.000033333334</start>
+<end>5065.500033333334</end>
+</instance>
+<instance>
+<ID>497</ID>
+<code>TIJDSTIL</code>
+<start>5335.300033333333</start>
+<end>5372.600033333333</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ARBITRAGE</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC DBO</code>
+<R>47551</R>
+<G>52338</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BB DBO</code>
+<R>47551</R>
+<G>52338</G>
+<B>65536</B>
+</row>
+<row>
+<code>BB OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BLESSURE / IMPACT</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 DBO</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 DBO</code>
+<R>47551</R>
+<G>52338</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 DBO</code>
+<R>47551</R>
+<G>52338</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 DBO</code>
+<R>47551</R>
+<G>52338</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 DBO</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 DBO</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 DBO</code>
+<R>47551</R>
+<G>52338</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 DBO</code>
+<R>47551</R>
+<G>52338</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP DBO</code>
+<R>47037</R>
+<G>51824</G>
+<B>65095</B>
+</row>
+<row>
+<code>DP DBO</code>
+<R>47037</R>
+<G>51824</G>
+<B>65095</B>
+</row>
+<row>
+<code>CP NBB DBO</code>
+<R>47031</R>
+<G>51914</G>
+<B>65021</B>
+</row>
+<row>
+<code>CP NBB OR</code>
+<R>47031</R>
+<G>65021</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP OR</code>
+<R>47143</R>
+<G>64897</G>
+<B>52513</B>
+</row>
+<row>
+<code>DP OR</code>
+<R>47488</R>
+<G>64889</G>
+<B>52508</B>
+</row>
+<row>
+<code>EIND</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL DBO</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL OR</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GROEN DBO</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>SC DBO</code>
+<R>47031</R>
+<G>51914</G>
+<B>65021</B>
+</row>
+<row>
+<code>SC OR</code>
+<R>47031</R>
+<G>65021</G>
+<B>52428</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>TIJDSTIL</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

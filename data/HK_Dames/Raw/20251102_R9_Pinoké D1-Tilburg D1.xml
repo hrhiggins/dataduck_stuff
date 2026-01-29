@@ -1,0 +1,3217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>GAMETIME</code>
+<start>19.97390110099991</start>
+<end>5245.770951101</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>Q1</code>
+<start>19.970917767666606</start>
+<end>988.2754344343334</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>Q2</code>
+<start>1137.1709011009998</start>
+<end>2245.1751344343334</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>Q3</code>
+<start>2986.970901101</start>
+<end>4067.4710844343335</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>Q4</code>
+<start>4195.070917767666</start>
+<end>5235.375834434333</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>ARBITRAGE</code>
+<start>510.77393443433334</start>
+<end>538.7739344343333</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>ARBITRAGE</code>
+<start>882.7736177676666</start>
+<end>910.7736177676666</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>ARBITRAGE</code>
+<start>1391.1713344343334</start>
+<end>1419.1713344343334</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>ARBITRAGE</code>
+<start>1583.575201101</start>
+<end>1611.575201101</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>ARBITRAGE</code>
+<start>2067.375367767667</start>
+<end>2095.375367767667</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>ARBITRAGE</code>
+<start>3383.9730177676665</start>
+<end>3411.9730177676665</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>ARBITRAGE</code>
+<start>4196.570901101</start>
+<end>4224.570901101</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>GROEN PIN</code>
+<start>1883.2712177676667</start>
+<end>2041.2712177676667</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>START</code>
+<start>12.970917767666606</start>
+<end>23.970917767666606</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>START</code>
+<start>1130.1709011009998</start>
+<end>1141.1709011009998</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>START</code>
+<start>2979.970901101</start>
+<end>2990.970901101</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>START</code>
+<start>4188.070917767666</start>
+<end>4199.070917767666</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>TIJDSTIL</code>
+<start>531.5746677676666</start>
+<end>596.5733511010001</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>TIJDSTIL</code>
+<start>982.2754344343334</start>
+<end>992.2754344343334</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>TIJDSTIL</code>
+<start>1291.6749844343335</start>
+<end>1336.0734844343333</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>TIJDSTIL</code>
+<start>1547.2767344343333</start>
+<end>1595.2733677676665</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>TIJDSTIL</code>
+<start>1689.8751844343333</start>
+<end>1722.2753677676665</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>TIJDSTIL</code>
+<start>1798.4759344343333</start>
+<end>1828.9756677676664</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>TIJDSTIL</code>
+<start>2002.4756844343333</start>
+<end>2050.470901101</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>TIJDSTIL</code>
+<start>2239.1751344343334</start>
+<end>2249.1751344343334</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>TIJDSTIL</code>
+<start>3032.6744844343334</start>
+<end>3061.470917767667</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>TIJDSTIL</code>
+<start>3233.4751011010003</start>
+<end>3265.871201101</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>TIJDSTIL</code>
+<start>3431.5751511010003</start>
+<end>3486.470917767667</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>TIJDSTIL</code>
+<start>3514.3749011009995</start>
+<end>3566.2719011010004</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>TIJDSTIL</code>
+<start>3590.9733011010003</start>
+<end>3615.0709177676663</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>TIJDSTIL</code>
+<start>4061.4710844343335</start>
+<end>4071.4710844343335</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>TIJDSTIL</code>
+<start>4270.975517767667</start>
+<end>4297.172284434333</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>TIJDSTIL</code>
+<start>4421.375884434333</start>
+<end>4468.571367767667</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>TIJDSTIL</code>
+<start>4909.574567767667</start>
+<end>4956.373434434333</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>TIJDSTIL</code>
+<start>5205.076851101</start>
+<end>5235.170917767667</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>TIJDSTIL</code>
+<start>5229.375834434333</start>
+<end>5239.375834434333</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>ASC PIN</code>
+<start>1540.2767344343333</start>
+<end>1558.2767344343333</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>ASC PIN</code>
+<start>1995.4756844343333</start>
+<end>2013.4756844343333</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>ASC PIN</code>
+<start>4414.375884434333</start>
+<end>4432.375884434333</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BB PIN</code>
+<start>15.371501100999922</start>
+<end>45.17510110099988</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BB PIN</code>
+<start>53.770901100999936</start>
+<end>68.87618443433325</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BB PIN</code>
+<start>103.07866776766673</start>
+<end>153.47756776766664</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BB PIN</code>
+<start>156.9738344343334</start>
+<end>184.77591776766667</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BB PIN</code>
+<start>211.67380110099998</start>
+<end>232.37090110100007</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BB PIN</code>
+<start>332.875701101</start>
+<end>357.5724177676666</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BB PIN</code>
+<start>351.9764844343333</start>
+<end>416.27580110100007</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BB PIN</code>
+<start>418.27490110100007</start>
+<end>488.9741844343332</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BB PIN</code>
+<start>488.6720844343333</start>
+<end>504.8709011010001</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BB PIN</code>
+<start>604.2709177676666</start>
+<end>657.1770344343333</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BB PIN</code>
+<start>674.6709177676667</start>
+<end>760.7756344343334</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BB PIN</code>
+<start>791.1769011009999</start>
+<end>868.874251101</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BB PIN</code>
+<start>915.3771844343332</start>
+<end>941.3728511009999</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BB PIN</code>
+<start>946.8741844343333</start>
+<end>982.2733677676667</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BB PIN</code>
+<start>1132.5710511010002</start>
+<end>1175.1774011009998</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BB PIN</code>
+<start>1186.6746177676669</start>
+<end>1240.974251101</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BB PIN</code>
+<start>1248.1723677676669</start>
+<end>1284.0718344343331</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BB PIN</code>
+<start>1346.4714344343333</start>
+<end>1377.9740844343332</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BB PIN</code>
+<start>1449.3714177676666</start>
+<end>1501.0760344343335</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BB PIN</code>
+<start>1506.9746677676667</start>
+<end>1619.9768511010002</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BB PIN</code>
+<start>1655.073651101</start>
+<end>1663.6721177676668</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BB PIN</code>
+<start>1680.3751844343333</start>
+<end>1722.2753677676665</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BB PIN</code>
+<start>1728.8757344343335</start>
+<end>1753.6769844343335</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BB PIN</code>
+<start>1753.6736344343335</start>
+<end>1795.6751344343334</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BB PIN</code>
+<start>1793.0735011010001</start>
+<end>1828.9756677676664</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BB PIN</code>
+<start>1856.773051101</start>
+<end>1884.2759844343332</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BB PIN</code>
+<start>1887.7730844343332</start>
+<end>1903.0719344343333</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BB PIN</code>
+<start>1917.5744177676665</start>
+<end>1934.6738177676666</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BB PIN</code>
+<start>1931.2832844343334</start>
+<end>1980.8808677676666</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BB PIN</code>
+<start>1974.5753344343334</start>
+<end>2109.9764344343334</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BB PIN</code>
+<start>2138.7732677676668</start>
+<end>2179.3721677676667</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BB PIN</code>
+<start>2181.8761344343334</start>
+<end>2193.679701101</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BB PIN</code>
+<start>2192.076567767667</start>
+<end>2214.0771344343334</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BB PIN</code>
+<start>2987.9779844343334</start>
+<end>3007.0724677676667</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BB PIN</code>
+<start>3016.5769677676667</start>
+<end>3061.470917767667</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BB PIN</code>
+<start>3077.6712844343338</start>
+<end>3113.3737677676663</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BB PIN</code>
+<start>3111.7743011009998</start>
+<end>3154.673801101</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BB PIN</code>
+<start>3176.270917767667</start>
+<end>3215.9753511010003</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BB PIN</code>
+<start>3219.072084434333</start>
+<end>3230.5718844343337</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BB PIN</code>
+<start>3224.272351101</start>
+<end>3265.871201101</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BB PIN</code>
+<start>3280.4709344343337</start>
+<end>3314.6740011009997</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BB PIN</code>
+<start>3319.8709344343333</start>
+<end>3345.1719844343334</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BB PIN</code>
+<start>3345.472817767667</start>
+<end>3381.173167767666</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BB PIN</code>
+<start>3378.975501101</start>
+<end>3430.1731511010003</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BB PIN</code>
+<start>3499.5765677676663</start>
+<end>3519.172034434333</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BB PIN</code>
+<start>3607.0709177676663</start>
+<end>3650.5770511009996</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BB PIN</code>
+<start>3655.2748511010004</start>
+<end>3664.673851101</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BB PIN</code>
+<start>3663.2746177676663</start>
+<end>3691.5721844343334</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BB PIN</code>
+<start>3684.6732677676664</start>
+<end>3696.274034434333</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BB PIN</code>
+<start>3694.772751101</start>
+<end>3743.8709011009996</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BB PIN</code>
+<start>3750.5709011010003</start>
+<end>3809.5715677676662</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BB PIN</code>
+<start>3803.9775344343334</start>
+<end>3862.9759511009997</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BB PIN</code>
+<start>3874.076334434333</start>
+<end>3914.574534434333</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BB PIN</code>
+<start>3917.875617767667</start>
+<end>3988.775317767667</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BB PIN</code>
+<start>4017.3738511009997</start>
+<end>4027.774917767667</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BB PIN</code>
+<start>4026.273851101</start>
+<end>4070.0718844343337</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BB PIN</code>
+<start>4231.778201101</start>
+<end>4258.576901101</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BB PIN</code>
+<start>4289.172284434333</start>
+<end>4311.573217767666</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BB PIN</code>
+<start>4357.0759011009995</start>
+<end>4389.072034434334</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BB PIN</code>
+<start>4381.872634434333</start>
+<end>4503.872117767667</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BB PIN</code>
+<start>4522.274767767667</start>
+<end>4540.675001101</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BB PIN</code>
+<start>4543.377867767666</start>
+<end>4581.474017767667</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BB PIN</code>
+<start>4590.677051101</start>
+<end>4606.4730177676665</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BB PIN</code>
+<start>4603.476901101</start>
+<end>4629.170901101</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BB PIN</code>
+<start>4622.071867767667</start>
+<end>4653.070934434333</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BB PIN</code>
+<start>4678.273784434334</start>
+<end>4687.871234434333</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BB PIN</code>
+<start>4705.472901101</start>
+<end>4721.871251101</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BB PIN</code>
+<start>4723.576367767667</start>
+<end>4763.176967767667</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BB PIN</code>
+<start>4769.873667767667</start>
+<end>4792.775734434334</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BB PIN</code>
+<start>4804.874167767666</start>
+<end>4848.175101101</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>BB PIN</code>
+<start>4851.174001101</start>
+<end>4876.776884434334</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>BB PIN</code>
+<start>4875.674917767667</start>
+<end>4896.876267767667</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>BB PIN</code>
+<start>4975.673967767667</start>
+<end>5017.477184434333</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>BB PIN</code>
+<start>5021.776684434333</start>
+<end>5051.972601101</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>BB PIN</code>
+<start>5059.673201101</start>
+<end>5106.575701101</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>BB PIN</code>
+<start>5146.072067767666</start>
+<end>5193.875067767666</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>BB PIN</code>
+<start>5192.475984434333</start>
+<end>5235.170917767667</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>BS1 PIN</code>
+<start>99.07730110099988</start>
+<end>136.5743844343333</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>BS1 PIN</code>
+<start>207.67256776766658</start>
+<end>232.37386776766675</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>BS1 PIN</code>
+<start>352.5756344343333</start>
+<end>389.97098443433333</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>BS1 PIN</code>
+<start>600.271601101</start>
+<end>657.1751177676667</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>BS1 PIN</code>
+<start>1262.1767177676666</start>
+<end>1284.0736177676667</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>BS1 PIN</code>
+<start>1342.470901101</start>
+<end>1377.9827511009998</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>BS1 PIN</code>
+<start>1445.3760677676664</start>
+<end>1495.2751177676664</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>BS1 PIN</code>
+<start>1733.4739011010001</start>
+<end>1753.6733511009998</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>BS1 PIN</code>
+<start>3073.6728344343337</start>
+<end>3113.3709011009996</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>BS1 PIN</code>
+<start>3172.270917767667</start>
+<end>3215.970901101</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>BS1 PIN</code>
+<start>3404.470917767667</start>
+<end>3430.170901101</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>BS1 PIN</code>
+<start>3495.5774511010004</start>
+<end>3519.1709177676667</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>BS1 PIN</code>
+<start>3680.672684434333</start>
+<end>3696.274884434333</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>BS1 PIN</code>
+<start>3746.5730677676665</start>
+<end>3800.573784434333</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>BS1 PIN</code>
+<start>3885.2722511009997</start>
+<end>3913.372234434333</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>BS1 PIN</code>
+<start>3913.8759511010003</start>
+<end>3953.0709177676663</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>BS1 PIN</code>
+<start>4013.3709177676665</start>
+<end>4027.7757511010004</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BS1 PIN</code>
+<start>4025.2735344343337</start>
+<end>4070.0728344343333</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BS1 PIN</code>
+<start>4353.076051101</start>
+<end>4388.874317767667</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BS1 PIN</code>
+<start>4539.373534434333</start>
+<end>4581.470917767667</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BS1 PIN</code>
+<start>4971.670901101</start>
+<end>5017.476184434333</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BS2 PIN</code>
+<start>11.371401100999947</start>
+<end>35.57091776766674</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BS2 PIN</code>
+<start>377.97098443433333</start>
+<end>416.27355110100007</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BS2 PIN</code>
+<start>474.1735344343333</start>
+<end>488.97510110100006</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BS2 PIN</code>
+<start>818.4730344343334</start>
+<end>860.4758844343332</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BS2 PIN</code>
+<start>852.4858844343332</start>
+<end>868.8773511009999</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BS2 PIN</code>
+<start>942.8783344343333</start>
+<end>982.2763177676666</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BS2 PIN</code>
+<start>1128.5736677676668</start>
+<end>1175.1749677676667</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BS2 PIN</code>
+<start>1188.7718844343335</start>
+<end>1240.972251101</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BS2 PIN</code>
+<start>1508.5734844343333</start>
+<end>1558.2767344343333</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BS2 PIN</code>
+<start>1852.7775177676667</start>
+<end>1884.2825844343333</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BS2 PIN</code>
+<start>1950.3775844343331</start>
+<end>1980.8736511010002</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BS2 PIN</code>
+<start>2146.6725177676667</start>
+<end>2179.372251101</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BS2 PIN</code>
+<start>2177.8744177676667</start>
+<end>2193.6755844343334</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BS2 PIN</code>
+<start>3341.676501101</start>
+<end>3381.1735011009996</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BS2 PIN</code>
+<start>3603.0709177676663</start>
+<end>3642.5711677676663</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BS2 PIN</code>
+<start>3634.5811677676666</start>
+<end>3650.5753677676666</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BS2 PIN</code>
+<start>3788.573784434333</start>
+<end>3809.571067767667</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BS2 PIN</code>
+<start>3901.372234434333</start>
+<end>3914.5774677676663</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BS2 PIN</code>
+<start>3941.0709177676663</start>
+<end>3988.7747011009997</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BS2 PIN</code>
+<start>4285.1710677676665</start>
+<end>4311.570901101</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BS2 PIN</code>
+<start>4701.471467767667</start>
+<end>4720.476451101</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BS2 PIN</code>
+<start>5142.074217767667</start>
+<end>5177.075617767667</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BS3 PIN</code>
+<start>670.6743344343333</start>
+<end>760.7709011009999</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BS3 PIN</code>
+<start>4708.476451101</start>
+<end>4721.874267767666</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BS3 PIN</code>
+<start>4828.775067767667</start>
+<end>4848.176934434333</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BS3 PIN</code>
+<start>5056.673201101</start>
+<end>5083.472551101</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BS4 PIN</code>
+<start>23.570917767666742</start>
+<end>45.18018443433334</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BS4 PIN</code>
+<start>124.5743844343333</start>
+<end>153.47371776766659</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BS4 PIN</code>
+<start>1483.2751177676664</start>
+<end>1501.0760344343335</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BS4 PIN</code>
+<start>2076.5748177676664</start>
+<end>2109.978734434333</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BS4 PIN</code>
+<start>4406.370884434334</start>
+<end>4432.375884434333</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BS4 PIN</code>
+<start>4468.277567767666</start>
+<end>4503.871101101</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BS4 PIN</code>
+<start>4858.273534434334</start>
+<end>4876.774651101</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BS4 PIN</code>
+<start>5071.472551101</start>
+<end>5092.374967767667</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BS4 PIN</code>
+<start>5084.384967767667</start>
+<end>5106.5762844343335</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BS4 PIN</code>
+<start>5165.075617767667</start>
+<end>5193.871467767666</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BW1 PIN</code>
+<start>328.87466776766655</start>
+<end>357.57091776766674</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BW1 PIN</code>
+<start>349.58091776766673</start>
+<end>364.5756344343333</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BW1 PIN</code>
+<start>484.6730344343332</start>
+<end>504.8738344343333</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BW1 PIN</code>
+<start>787.1747344343332</start>
+<end>830.4730344343334</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BW1 PIN</code>
+<start>1244.1739677676665</start>
+<end>1274.1767177676666</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BW1 PIN</code>
+<start>1724.8763344343333</start>
+<end>1745.4739011010001</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BW1 PIN</code>
+<start>1913.5746344343333</start>
+<end>1934.6748677676665</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BW1 PIN</code>
+<start>1927.2774844343335</start>
+<end>1962.3775844343331</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BW1 PIN</code>
+<start>3012.5709177676667</start>
+<end>3044.6744844343334</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BW1 PIN</code>
+<start>3374.9774011010004</start>
+<end>3416.470917767667</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BW1 PIN</code>
+<start>3659.273484434333</start>
+<end>3691.5747344343335</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BW1 PIN</code>
+<start>3799.976667767667</start>
+<end>3849.5727844343337</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BW1 PIN</code>
+<start>3870.073534434333</start>
+<end>3897.2722511009997</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BW1 PIN</code>
+<start>4022.2738344343334</start>
+<end>4037.2735344343337</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BW1 PIN</code>
+<start>4227.7745844343335</start>
+<end>4258.574367767666</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BW1 PIN</code>
+<start>4518.275767767666</start>
+<end>4540.672051101</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BW1 PIN</code>
+<start>4586.677784434333</start>
+<end>4606.477317767667</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BW1 PIN</code>
+<start>4599.475301101</start>
+<end>4629.072434434333</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BW1 PIN</code>
+<start>4765.874567767667</start>
+<end>4792.775967767667</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BW1 PIN</code>
+<start>4800.874201101</start>
+<end>4840.775067767667</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BW1 PIN</code>
+<start>5017.776351101</start>
+<end>5051.970901101</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BW2 PIN</code>
+<start>414.2721177676667</start>
+<end>486.1735344343333</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BW2 PIN</code>
+<start>911.3709011010001</start>
+<end>941.3708844343332</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BW2 PIN</code>
+<start>1182.6709011009998</start>
+<end>1200.7718844343335</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BW2 PIN</code>
+<start>1651.0739677676665</start>
+<end>1663.6709011009998</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BW2 PIN</code>
+<start>1749.6725011009999</start>
+<end>1795.6765511009999</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BW2 PIN</code>
+<start>1970.5736677676668</start>
+<end>2013.4756844343333</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BW2 PIN</code>
+<start>2134.7770677676667</start>
+<end>2158.6725177676667</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BW2 PIN</code>
+<start>2983.977351101</start>
+<end>3007.072251101</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>BW2 PIN</code>
+<start>3277.770901101</start>
+<end>3314.672167767667</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>BW2 PIN</code>
+<start>3341.472184434333</start>
+<end>3353.676501101</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>BW2 PIN</code>
+<start>3651.2765011009997</start>
+<end>3664.675117767667</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>BW2 PIN</code>
+<start>3690.7730677676664</start>
+<end>3743.8709177676665</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>BW2 PIN</code>
+<start>3838.5727844343337</start>
+<end>3862.975251101</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>BW2 PIN</code>
+<start>4377.874317767667</start>
+<end>4418.370884434334</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>BW2 PIN</code>
+<start>4719.570901101</start>
+<end>4763.177634434333</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>BW2 PIN</code>
+<start>4871.674051101</start>
+<end>4896.874451101</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>BW2 PIN</code>
+<start>5188.476534434333</start>
+<end>5217.076851101</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>BW3 PIN</code>
+<start>49.77251776766661</start>
+<end>68.8764844343334</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>BW3 PIN</code>
+<start>152.97671776766674</start>
+<end>184.7747011009999</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>BW3 PIN</code>
+<start>1492.9734177676664</start>
+<end>1510.5734844343333</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>BW3 PIN</code>
+<start>1883.7765844343335</start>
+<end>1903.0738677676668</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>BW3 PIN</code>
+<start>2188.0718177676667</start>
+<end>2214.0751677676667</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>BW3 PIN</code>
+<start>3107.7763677676667</start>
+<end>3154.6719344343337</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>BW3 PIN</code>
+<start>3215.0709011010003</start>
+<end>3230.5742177676666</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>BW3 PIN</code>
+<start>3276.474101101</start>
+<end>3288.770901101</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>BW3 PIN</code>
+<start>3315.8709011009996</start>
+<end>3345.1754511010004</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>BW3 PIN</code>
+<start>4618.072434434333</start>
+<end>4653.072317767666</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>BW3 PIN</code>
+<start>4671.272351101</start>
+<end>4684.873117767666</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>BW3 PIN</code>
+<start>4847.176201101</start>
+<end>4870.273534434334</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>BW3 PIN</code>
+<start>5055.671801101</start>
+<end>5068.673201101</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>BW4 PIN</code>
+<start>1676.3768011010002</start>
+<end>1701.8751844343333</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>BW4 PIN</code>
+<start>1789.0734177676668</start>
+<end>1810.4759344343333</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>BW4 PIN</code>
+<start>3220.2708844343333</start>
+<end>3245.4751011010003</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>Cirkelpass PIN</code>
+<start>726.1792677676667</start>
+<end>744.1792677676667</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>CP PIN</code>
+<start>49.07660110100005</start>
+<end>68.8764844343334</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>CP PIN</code>
+<start>111.07608443433332</start>
+<end>136.5743844343333</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>CP PIN</code>
+<start>131.57401776766665</start>
+<end>153.47371776766659</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>CP PIN</code>
+<start>151.8745844343332</start>
+<end>181.8745844343332</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>CP PIN</code>
+<start>227.07600110099997</start>
+<end>248.47778443433322</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>CP PIN</code>
+<start>961.9755344343332</start>
+<end>982.2763177676666</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>CP PIN</code>
+<start>974.2863177676666</start>
+<end>999.0763344343334</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>CP PIN</code>
+<start>1148.475584434333</start>
+<end>1175.1749677676667</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>CP PIN</code>
+<start>1468.0758844343331</start>
+<end>1495.2751177676664</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>CP PIN</code>
+<start>1487.2851177676666</start>
+<end>1501.0760344343335</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>CP PIN</code>
+<start>1537.4750844343334</start>
+<end>1558.2767344343333</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>CP PIN</code>
+<start>1679.4758677676668</start>
+<end>1701.8751844343333</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>CP PIN</code>
+<start>1788.0771344343334</start>
+<end>1810.4759344343333</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>CP PIN</code>
+<start>1882.676651101</start>
+<end>1903.0738677676668</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>CP PIN</code>
+<start>1990.6753677676666</start>
+<end>2011.4756844343333</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>CP PIN</code>
+<start>2192.9774844343333</start>
+<end>2214.0751677676667</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>CP PIN</code>
+<start>3022.2734177676666</start>
+<end>3044.6744844343334</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>CP PIN</code>
+<start>3219.1754177676667</start>
+<end>3245.4751011010003</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>CP PIN</code>
+<start>4411.476551101</start>
+<end>4432.375884434333</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>CP PIN</code>
+<start>4450.571367767667</start>
+<end>4480.277567767666</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>CP PIN</code>
+<start>4658.5737177676665</start>
+<end>4682.177101101</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>CP PIN</code>
+<start>4802.074634434333</start>
+<end>4832.074634434333</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>CP PIN</code>
+<start>4841.275701101</start>
+<end>4870.273534434334</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>CP PIN</code>
+<start>4995.3749011009995</start>
+<end>5017.476184434333</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>CP PIN</code>
+<start>5195.274384434333</start>
+<end>5217.076851101</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>DP PIN</code>
+<start>158.98053443433332</start>
+<end>173.98053443433332</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>DP PIN</code>
+<start>233.47441776766664</start>
+<end>248.47441776766664</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>DP PIN</code>
+<start>975.6753677676666</start>
+<end>990.6753677676666</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>DP PIN</code>
+<start>1154.9752177676664</start>
+<end>1169.9752177676664</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>DP PIN</code>
+<start>1685.875151101</start>
+<end>1700.875151101</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>DP PIN</code>
+<start>1794.975584434333</start>
+<end>1809.975584434333</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>DP PIN</code>
+<start>2199.3760844343333</start>
+<end>2214.3760844343333</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>DP PIN</code>
+<start>3028.5724177676666</start>
+<end>3043.5724177676666</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>DP PIN</code>
+<start>3229.975551101</start>
+<end>3244.975551101</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>DP PIN</code>
+<start>4466.573501101</start>
+<end>4481.573501101</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>DP PIN</code>
+<start>4666.875084434333</start>
+<end>4681.875084434333</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>DP PIN</code>
+<start>5201.675267767667</start>
+<end>5216.675267767667</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>GOAL PIN</code>
+<start>1664.439039989889</start>
+<end>1701.8751844343333</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>GOAL PIN</code>
+<start>1773.1357677676667</start>
+<end>1810.4759344343333</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>GOAL PIN</code>
+<start>3009.506451101</start>
+<end>3044.6744844343334</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>GOAL PIN</code>
+<start>3205.9387344343336</start>
+<end>3245.4751011010003</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>GOAL PIN</code>
+<start>5163.799906656555</start>
+<end>5217.076851101</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>LC PIN</code>
+<start>124.5743844343333</start>
+<end>153.47371776766659</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>LC PIN</code>
+<start>5071.472551101</start>
+<end>5092.374967767667</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>SC PIN</code>
+<start>1583.2733677676665</start>
+<end>1603.2733677676665</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>SC PIN</code>
+<start>2038.470901101</start>
+<end>2058.470901101</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>ASC TIL</code>
+<start>524.5746677676666</start>
+<end>542.5746677676666</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>ASC TIL</code>
+<start>1284.6749844343335</start>
+<end>1302.6749844343335</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>ASC TIL</code>
+<start>3424.5751511010003</start>
+<end>3442.5751511010003</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>ASC TIL</code>
+<start>3507.3749011009995</start>
+<end>3525.3749011009995</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>ASC TIL</code>
+<start>4902.574567767667</start>
+<end>4920.574567767667</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>BB TIL</code>
+<start>37.17510110099988</start>
+<end>61.770901100999936</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>BB TIL</code>
+<start>60.876184434333254</start>
+<end>111.07866776766673</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>BB TIL</code>
+<start>145.47756776766664</start>
+<end>164.9738344343334</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>BB TIL</code>
+<start>176.77591776766667</start>
+<end>219.67380110099998</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>BB TIL</code>
+<start>224.37090110100007</start>
+<end>340.875701101</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>BB TIL</code>
+<start>349.5724177676666</start>
+<end>359.9764844343333</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>BB TIL</code>
+<start>408.27580110100007</start>
+<end>426.27490110100007</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>BB TIL</code>
+<start>480.9741844343332</start>
+<end>496.6720844343333</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>BB TIL</code>
+<start>496.8709011010001</start>
+<end>612.2709177676666</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>BB TIL</code>
+<start>649.1770344343333</start>
+<end>682.6709177676667</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>BB TIL</code>
+<start>752.7756344343334</start>
+<end>799.1769011009999</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>BB TIL</code>
+<start>860.874251101</start>
+<end>923.3771844343332</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>BB TIL</code>
+<start>933.3728511009999</start>
+<end>954.8741844343333</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>BB TIL</code>
+<start>974.2733677676667</start>
+<end>991.2754344343334</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>BB TIL</code>
+<start>1167.1774011009998</start>
+<end>1194.6746177676669</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>BB TIL</code>
+<start>1232.974251101</start>
+<end>1256.1723677676669</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>BB TIL</code>
+<start>1276.0718344343331</start>
+<end>1354.4714344343333</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>BB TIL</code>
+<start>1369.9740844343332</start>
+<end>1457.3714177676666</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>BB TIL</code>
+<start>1493.0760344343335</start>
+<end>1514.9746677676667</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>BB TIL</code>
+<start>1611.9768511010002</start>
+<end>1663.073651101</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>BB TIL</code>
+<start>1655.6721177676668</start>
+<end>1688.3751844343333</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>BB TIL</code>
+<start>1714.2753677676665</start>
+<end>1736.8757344343335</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>BB TIL</code>
+<start>1745.6769844343335</start>
+<end>1761.6736344343335</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>BB TIL</code>
+<start>1787.6751344343334</start>
+<end>1801.0735011010001</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>BB TIL</code>
+<start>1820.9756677676664</start>
+<end>1864.773051101</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>BB TIL</code>
+<start>1876.2759844343332</start>
+<end>1895.7730844343332</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>BB TIL</code>
+<start>1895.0719344343333</start>
+<end>1925.5744177676665</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>BB TIL</code>
+<start>1926.6738177676666</start>
+<end>1939.2832844343334</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>BB TIL</code>
+<start>1972.8808677676666</start>
+<end>1982.5753344343334</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>BB TIL</code>
+<start>2101.9764344343334</start>
+<end>2146.7732677676668</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>BB TIL</code>
+<start>2171.3721677676667</start>
+<end>2189.8761344343334</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>BB TIL</code>
+<start>2185.679701101</start>
+<end>2200.076567767667</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>BB TIL</code>
+<start>2206.0771344343334</start>
+<end>2248.1751344343334</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>BB TIL</code>
+<start>2982.470901101</start>
+<end>2995.9779844343334</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>BB TIL</code>
+<start>2999.0724677676667</start>
+<end>3024.5769677676667</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>BB TIL</code>
+<start>3053.470917767667</start>
+<end>3085.6712844343338</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>BB TIL</code>
+<start>3105.3737677676663</start>
+<end>3119.7743011009998</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>BB TIL</code>
+<start>3146.673801101</start>
+<end>3184.270917767667</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>BB TIL</code>
+<start>3207.9753511010003</start>
+<end>3227.072084434333</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>BB TIL</code>
+<start>3222.5718844343337</start>
+<end>3232.272351101</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>BB TIL</code>
+<start>3257.871201101</start>
+<end>3288.4709344343337</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>BB TIL</code>
+<start>3306.6740011009997</start>
+<end>3327.8709344343333</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>BB TIL</code>
+<start>3337.1719844343334</start>
+<end>3353.472817767667</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>BB TIL</code>
+<start>3373.173167767666</start>
+<end>3386.975501101</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>BB TIL</code>
+<start>3422.1731511010003</start>
+<end>3507.5765677676663</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>BB TIL</code>
+<start>3511.172034434333</start>
+<end>3615.0709177676663</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>BB TIL</code>
+<start>3642.5770511009996</start>
+<end>3663.2748511010004</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>BB TIL</code>
+<start>3656.673851101</start>
+<end>3671.2746177676663</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>BB TIL</code>
+<start>3683.5721844343334</start>
+<end>3692.6732677676664</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>BB TIL</code>
+<start>3688.274034434333</start>
+<end>3702.772751101</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>BB TIL</code>
+<start>3735.8709011009996</start>
+<end>3758.5709011010003</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>BB TIL</code>
+<start>3801.5715677676662</start>
+<end>3811.9775344343334</end>
+</instance>
+<instance>
+<ID>331</ID>
+<code>BB TIL</code>
+<start>3854.9759511009997</start>
+<end>3882.076334434333</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>BB TIL</code>
+<start>3906.574534434333</start>
+<end>3925.875617767667</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>BB TIL</code>
+<start>3980.775317767667</start>
+<end>4025.3738511009997</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>BB TIL</code>
+<start>4019.774917767667</start>
+<end>4034.273851101</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>BB TIL</code>
+<start>4062.0718844343337</start>
+<end>4070.4710844343335</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>BB TIL</code>
+<start>4190.570901101</start>
+<end>4239.778201101</end>
+</instance>
+<instance>
+<ID>337</ID>
+<code>BB TIL</code>
+<start>4250.576901101</start>
+<end>4297.172284434333</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>BB TIL</code>
+<start>4303.573217767666</start>
+<end>4365.0759011009995</end>
+</instance>
+<instance>
+<ID>339</ID>
+<code>BB TIL</code>
+<start>4381.072034434334</start>
+<end>4389.872634434333</end>
+</instance>
+<instance>
+<ID>340</ID>
+<code>BB TIL</code>
+<start>4495.872117767667</start>
+<end>4530.274767767667</end>
+</instance>
+<instance>
+<ID>341</ID>
+<code>BB TIL</code>
+<start>4532.675001101</start>
+<end>4551.377867767666</end>
+</instance>
+<instance>
+<ID>342</ID>
+<code>BB TIL</code>
+<start>4573.474017767667</start>
+<end>4598.677051101</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>BB TIL</code>
+<start>4598.4730177676665</start>
+<end>4611.476901101</end>
+</instance>
+<instance>
+<ID>344</ID>
+<code>BB TIL</code>
+<start>4621.170901101</start>
+<end>4630.071867767667</end>
+</instance>
+<instance>
+<ID>345</ID>
+<code>BB TIL</code>
+<start>4645.070934434333</start>
+<end>4686.273784434334</end>
+</instance>
+<instance>
+<ID>346</ID>
+<code>BB TIL</code>
+<start>4679.871234434333</start>
+<end>4713.472901101</end>
+</instance>
+<instance>
+<ID>347</ID>
+<code>BB TIL</code>
+<start>4713.871251101</start>
+<end>4731.576367767667</end>
+</instance>
+<instance>
+<ID>348</ID>
+<code>BB TIL</code>
+<start>4755.176967767667</start>
+<end>4777.873667767667</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>BB TIL</code>
+<start>4784.775734434334</start>
+<end>4812.874167767666</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>BB TIL</code>
+<start>4840.175101101</start>
+<end>4859.174001101</end>
+</instance>
+<instance>
+<ID>351</ID>
+<code>BB TIL</code>
+<start>4868.776884434334</start>
+<end>4883.674917767667</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>BB TIL</code>
+<start>4888.876267767667</start>
+<end>4983.673967767667</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>BB TIL</code>
+<start>5009.477184434333</start>
+<end>5029.776684434333</end>
+</instance>
+<instance>
+<ID>354</ID>
+<code>BB TIL</code>
+<start>5043.972601101</start>
+<end>5067.673201101</end>
+</instance>
+<instance>
+<ID>355</ID>
+<code>BB TIL</code>
+<start>5098.575701101</start>
+<end>5154.072067767666</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>BB TIL</code>
+<start>5185.875067767666</start>
+<end>5200.475984434333</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>BB TIL</code>
+<start>5227.170917767667</start>
+<end>5238.375834434333</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>BS1 TIL</code>
+<start>33.18018443433334</start>
+<end>61.77251776766661</end>
+</instance>
+<instance>
+<ID>359</ID>
+<code>BS1 TIL</code>
+<start>56.876484434333406</start>
+<end>94.07356776766665</end>
+</instance>
+<instance>
+<ID>360</ID>
+<code>BS1 TIL</code>
+<start>141.47371776766659</start>
+<end>164.97671776766674</end>
+</instance>
+<instance>
+<ID>361</ID>
+<code>BS1 TIL</code>
+<start>172.7747011009999</start>
+<end>193.37216776766672</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>BS1 TIL</code>
+<start>645.1751177676667</start>
+<end>682.6743344343333</end>
+</instance>
+<instance>
+<ID>363</ID>
+<code>BS1 TIL</code>
+<start>748.7709011009999</start>
+<end>799.1747344343332</end>
+</instance>
+<instance>
+<ID>364</ID>
+<code>BS1 TIL</code>
+<start>863.0756344343333</start>
+<end>917.371651101</end>
+</instance>
+<instance>
+<ID>365</ID>
+<code>BS1 TIL</code>
+<start>1163.1749677676667</start>
+<end>1194.6709011009998</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>BS1 TIL</code>
+<start>1607.973851101</start>
+<end>1637.474701101</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>BS1 TIL</code>
+<start>1783.6765511009999</start>
+<end>1801.0734177676668</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>BS1 TIL</code>
+<start>2097.978734434333</start>
+<end>2136.1778177676665</end>
+</instance>
+<instance>
+<ID>369</ID>
+<code>BS1 TIL</code>
+<start>2202.0751677676667</start>
+<end>2248.2751344343333</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>BS1 TIL</code>
+<start>3101.3709011009996</start>
+<end>3119.7763677676667</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>BS1 TIL</code>
+<start>3142.6719344343337</start>
+<end>3184.270917767667</end>
+</instance>
+<instance>
+<ID>372</ID>
+<code>BS1 TIL</code>
+<start>3203.970901101</start>
+<end>3227.0709011010003</end>
+</instance>
+<instance>
+<ID>373</ID>
+<code>BS1 TIL</code>
+<start>3302.672167767667</start>
+<end>3327.8709011009996</end>
+</instance>
+<instance>
+<ID>374</ID>
+<code>BS1 TIL</code>
+<start>3684.274884434333</start>
+<end>3702.7730677676664</end>
+</instance>
+<instance>
+<ID>375</ID>
+<code>BS1 TIL</code>
+<start>4491.871101101</start>
+<end>4514.775067767667</end>
+</instance>
+<instance>
+<ID>376</ID>
+<code>BS1 TIL</code>
+<start>4751.177634434333</start>
+<end>4777.874567767667</end>
+</instance>
+<instance>
+<ID>377</ID>
+<code>BS1 TIL</code>
+<start>5005.476184434333</start>
+<end>5029.776351101</end>
+</instance>
+<instance>
+<ID>378</ID>
+<code>BS1 TIL</code>
+<start>5039.970901101</start>
+<end>5067.671801101</end>
+</instance>
+<instance>
+<ID>379</ID>
+<code>BS1 TIL</code>
+<start>5094.5762844343335</start>
+<end>5137.572317767666</end>
+</instance>
+<instance>
+<ID>380</ID>
+<code>BS2 TIL</code>
+<start>82.07356776766665</start>
+<end>102.17226776766665</end>
+</instance>
+<instance>
+<ID>381</ID>
+<code>BS2 TIL</code>
+<start>267.1731844343333</start>
+<end>311.3713844343333</end>
+</instance>
+<instance>
+<ID>382</ID>
+<code>BS2 TIL</code>
+<start>905.371651101</start>
+<end>923.3709011010001</end>
+</instance>
+<instance>
+<ID>383</ID>
+<code>BS2 TIL</code>
+<start>1710.2711344343334</start>
+<end>1736.8763344343333</end>
+</instance>
+<instance>
+<ID>384</ID>
+<code>BS2 TIL</code>
+<start>1816.9764011010002</start>
+<end>1842.3717011009999</end>
+</instance>
+<instance>
+<ID>385</ID>
+<code>BS2 TIL</code>
+<start>1834.381701101</start>
+<end>1864.7775177676667</end>
+</instance>
+<instance>
+<ID>386</ID>
+<code>BS2 TIL</code>
+<start>1905.7757844343332</start>
+<end>1925.5746344343333</end>
+</instance>
+<instance>
+<ID>387</ID>
+<code>BS2 TIL</code>
+<start>2124.1778177676665</start>
+<end>2146.7770677676667</end>
+</instance>
+<instance>
+<ID>388</ID>
+<code>BS2 TIL</code>
+<start>2167.372251101</start>
+<end>2189.8744177676667</end>
+</instance>
+<instance>
+<ID>389</ID>
+<code>BS2 TIL</code>
+<start>2978.470917767667</start>
+<end>2995.977351101</end>
+</instance>
+<instance>
+<ID>390</ID>
+<code>BS2 TIL</code>
+<start>3049.470917767667</start>
+<end>3085.6728344343337</end>
+</instance>
+<instance>
+<ID>391</ID>
+<code>BS2 TIL</code>
+<start>3253.8709011009996</start>
+<end>3288.474101101</end>
+</instance>
+<instance>
+<ID>392</ID>
+<code>BS2 TIL</code>
+<start>3333.1754511010004</start>
+<end>3353.472184434333</end>
+</instance>
+<instance>
+<ID>393</ID>
+<code>BS2 TIL</code>
+<start>4058.0728344343333</start>
+<end>4070.571084434334</end>
+</instance>
+<instance>
+<ID>394</ID>
+<code>BS2 TIL</code>
+<start>4186.572734434333</start>
+<end>4219.279151101</end>
+</instance>
+<instance>
+<ID>395</ID>
+<code>BS2 TIL</code>
+<start>4211.289151101</start>
+<end>4233.072717767666</end>
+</instance>
+<instance>
+<ID>396</ID>
+<code>BS2 TIL</code>
+<start>4313.072117767667</start>
+<end>4340.472584434333</end>
+</instance>
+<instance>
+<ID>397</ID>
+<code>BS2 TIL</code>
+<start>4502.775067767667</start>
+<end>4530.275767767666</end>
+</instance>
+<instance>
+<ID>398</ID>
+<code>BS2 TIL</code>
+<start>5125.572317767666</start>
+<end>5154.074217767667</end>
+</instance>
+<instance>
+<ID>399</ID>
+<code>BS2 TIL</code>
+<start>5181.871467767666</start>
+<end>5200.476534434333</end>
+</instance>
+<instance>
+<ID>400</ID>
+<code>BS2 TIL</code>
+<start>5223.172701101</start>
+<end>5238.475834434334</end>
+</instance>
+<instance>
+<ID>401</ID>
+<code>BS3 TIL</code>
+<start>90.17226776766665</start>
+<end>111.07730110099988</end>
+</instance>
+<instance>
+<ID>402</ID>
+<code>BS3 TIL</code>
+<start>181.37216776766672</start>
+<end>219.67256776766658</end>
+</instance>
+<instance>
+<ID>403</ID>
+<code>BS3 TIL</code>
+<start>299.3713844343333</start>
+<end>331.0770344343332</end>
+</instance>
+<instance>
+<ID>404</ID>
+<code>BS3 TIL</code>
+<start>1387.7761177676666</start>
+<end>1439.271301101</end>
+</instance>
+<instance>
+<ID>405</ID>
+<code>BS3 TIL</code>
+<start>1431.2813011010003</start>
+<end>1457.3760677676664</end>
+</instance>
+<instance>
+<ID>406</ID>
+<code>BS3 TIL</code>
+<start>3418.170901101</start>
+<end>3442.5751511010003</end>
+</instance>
+<instance>
+<ID>407</ID>
+<code>BS3 TIL</code>
+<start>3976.7747011009997</start>
+<end>4004.8742844343333</end>
+</instance>
+<instance>
+<ID>408</ID>
+<code>BS3 TIL</code>
+<start>3996.8842844343335</start>
+<end>4025.3709177676665</end>
+</instance>
+<instance>
+<ID>409</ID>
+<code>BS3 TIL</code>
+<start>4328.472584434333</start>
+<end>4353.1778844343335</end>
+</instance>
+<instance>
+<ID>410</ID>
+<code>BS3 TIL</code>
+<start>4569.470917767667</start>
+<end>4598.677784434333</end>
+</instance>
+<instance>
+<ID>411</ID>
+<code>BS4 TIL</code>
+<start>319.0770344343332</start>
+<end>340.87466776766655</end>
+</instance>
+<instance>
+<ID>412</ID>
+<code>BS4 TIL</code>
+<start>1228.972251101</start>
+<end>1256.1739677676665</end>
+</instance>
+<instance>
+<ID>413</ID>
+<code>BS4 TIL</code>
+<start>1374.1748344343332</start>
+<end>1399.7761177676666</end>
+</instance>
+<instance>
+<ID>414</ID>
+<code>BS4 TIL</code>
+<start>1625.474701101</start>
+<end>1645.2740677676666</end>
+</instance>
+<instance>
+<ID>415</ID>
+<code>BS4 TIL</code>
+<start>1637.2840677676668</start>
+<end>1662.6709011009998</end>
+</instance>
+<instance>
+<ID>416</ID>
+<code>BS4 TIL</code>
+<start>3485.4726344343335</start>
+<end>3507.5774511010004</end>
+</instance>
+<instance>
+<ID>417</ID>
+<code>BS4 TIL</code>
+<start>4221.072717767666</start>
+<end>4239.7745844343335</end>
+</instance>
+<instance>
+<ID>418</ID>
+<code>BS4 TIL</code>
+<start>4253.3765677676665</start>
+<end>4282.975517767667</end>
+</instance>
+<instance>
+<ID>419</ID>
+<code>BS4 TIL</code>
+<start>4341.1778844343335</start>
+<end>4365.076051101</end>
+</instance>
+<instance>
+<ID>420</ID>
+<code>BS4 TIL</code>
+<start>4528.672051101</start>
+<end>4551.373534434333</end>
+</instance>
+<instance>
+<ID>421</ID>
+<code>BW1 TIL</code>
+<start>236.47778443433322</start>
+<end>279.1731844343333</end>
+</instance>
+<instance>
+<ID>422</ID>
+<code>BW1 TIL</code>
+<start>856.8773511009999</start>
+<end>875.0756344343333</end>
+</instance>
+<instance>
+<ID>423</ID>
+<code>BW1 TIL</code>
+<start>970.2763177676666</start>
+<end>991.3754344343333</end>
+</instance>
+<instance>
+<ID>424</ID>
+<code>BW1 TIL</code>
+<start>1489.0760344343335</start>
+<end>1507.473334434333</end>
+</instance>
+<instance>
+<ID>425</ID>
+<code>BW1 TIL</code>
+<start>1670.574551101</start>
+<end>1688.3768011010002</end>
+</instance>
+<instance>
+<ID>426</ID>
+<code>BW1 TIL</code>
+<start>1872.2825844343333</start>
+<end>1895.7765844343335</end>
+</instance>
+<instance>
+<ID>427</ID>
+<code>BW1 TIL</code>
+<start>1891.0738677676668</start>
+<end>1917.7757844343332</end>
+</instance>
+<instance>
+<ID>428</ID>
+<code>BW1 TIL</code>
+<start>2181.6755844343334</start>
+<end>2200.0718177676667</end>
+</instance>
+<instance>
+<ID>429</ID>
+<code>BW1 TIL</code>
+<start>3218.5742177676666</start>
+<end>3232.2708844343333</end>
+</instance>
+<instance>
+<ID>430</ID>
+<code>BW1 TIL</code>
+<start>3638.5753677676666</start>
+<end>3663.2765011009997</end>
+</instance>
+<instance>
+<ID>431</ID>
+<code>BW1 TIL</code>
+<start>3679.5747344343335</start>
+<end>3692.672684434333</end>
+</instance>
+<instance>
+<ID>432</ID>
+<code>BW1 TIL</code>
+<start>4299.570901101</start>
+<end>4325.072117767667</end>
+</instance>
+<instance>
+<ID>433</ID>
+<code>BW1 TIL</code>
+<start>4670.177101101</start>
+<end>4686.272351101</end>
+</instance>
+<instance>
+<ID>434</ID>
+<code>BW1 TIL</code>
+<start>4709.874267767666</start>
+<end>4731.570901101</end>
+</instance>
+<instance>
+<ID>435</ID>
+<code>BW1 TIL</code>
+<start>4780.775967767667</start>
+<end>4812.874201101</end>
+</instance>
+<instance>
+<ID>436</ID>
+<code>BW1 TIL</code>
+<start>4836.176934434333</start>
+<end>4859.176201101</end>
+</instance>
+<instance>
+<ID>437</ID>
+<code>BW1 TIL</code>
+<start>4864.774651101</start>
+<end>4883.674051101</end>
+</instance>
+<instance>
+<ID>438</ID>
+<code>BW1 TIL</code>
+<start>4884.874451101</start>
+<end>4920.574567767667</end>
+</instance>
+<instance>
+<ID>439</ID>
+<code>BW2 TIL</code>
+<start>220.37386776766675</start>
+<end>247.47778443433322</end>
+</instance>
+<instance>
+<ID>440</ID>
+<code>BW2 TIL</code>
+<start>404.27355110100007</start>
+<end>426.2721177676667</end>
+</instance>
+<instance>
+<ID>441</ID>
+<code>BW2 TIL</code>
+<start>929.3708844343332</start>
+<end>954.8783344343333</end>
+</instance>
+<instance>
+<ID>442</ID>
+<code>BW2 TIL</code>
+<start>1365.9827511009998</start>
+<end>1386.1748344343332</end>
+</instance>
+<instance>
+<ID>443</ID>
+<code>BW2 TIL</code>
+<start>1497.675901101</start>
+<end>1511.9734177676664</end>
+</instance>
+<instance>
+<ID>444</ID>
+<code>BW2 TIL</code>
+<start>1922.6748677676665</start>
+<end>1939.2774844343335</end>
+</instance>
+<instance>
+<ID>445</ID>
+<code>BW2 TIL</code>
+<start>2995.072251101</start>
+<end>3024.5709177676667</end>
+</instance>
+<instance>
+<ID>446</ID>
+<code>BW2 TIL</code>
+<start>3731.8709177676665</start>
+<end>3758.5730677676665</end>
+</instance>
+<instance>
+<ID>447</ID>
+<code>BW2 TIL</code>
+<start>3797.571067767667</start>
+<end>3811.976667767667</end>
+</instance>
+<instance>
+<ID>448</ID>
+<code>BW2 TIL</code>
+<start>3850.975251101</start>
+<end>3882.073534434333</end>
+</instance>
+<instance>
+<ID>449</ID>
+<code>BW2 TIL</code>
+<start>4377.070917767666</start>
+<end>4389.874317767667</end>
+</instance>
+<instance>
+<ID>450</ID>
+<code>BW2 TIL</code>
+<start>4617.170901101</start>
+<end>4630.072434434333</end>
+</instance>
+<instance>
+<ID>451</ID>
+<code>BW2 TIL</code>
+<start>4641.072317767666</start>
+<end>4681.177101101</end>
+</instance>
+<instance>
+<ID>452</ID>
+<code>BW2 TIL</code>
+<start>4675.873117767666</start>
+<end>4713.471467767667</end>
+</instance>
+<instance>
+<ID>453</ID>
+<code>BW3 TIL</code>
+<start>476.97510110100006</start>
+<end>496.6730344343332</end>
+</instance>
+<instance>
+<ID>454</ID>
+<code>BW3 TIL</code>
+<start>492.8738344343333</start>
+<end>542.5746677676666</end>
+</instance>
+<instance>
+<ID>455</ID>
+<code>BW3 TIL</code>
+<start>1272.0736177676667</start>
+<end>1302.6749844343335</end>
+</instance>
+<instance>
+<ID>456</ID>
+<code>BW3 TIL</code>
+<start>1651.6709011009998</start>
+<end>1681.574551101</end>
+</instance>
+<instance>
+<ID>457</ID>
+<code>BW3 TIL</code>
+<start>1741.6733511009998</start>
+<end>1761.6725011009999</end>
+</instance>
+<instance>
+<ID>458</ID>
+<code>BW3 TIL</code>
+<start>1968.8736511010002</start>
+<end>1982.5736677676668</end>
+</instance>
+<instance>
+<ID>459</ID>
+<code>BW3 TIL</code>
+<start>3369.1735011009996</start>
+<end>3386.9774011010004</end>
+</instance>
+<instance>
+<ID>460</ID>
+<code>BW3 TIL</code>
+<start>3507.1709177676667</start>
+<end>3525.3749011009995</end>
+</instance>
+<instance>
+<ID>461</ID>
+<code>BW3 TIL</code>
+<start>3652.675117767667</start>
+<end>3671.273484434333</end>
+</instance>
+<instance>
+<ID>462</ID>
+<code>BW3 TIL</code>
+<start>3902.5774677676663</start>
+<end>3925.8759511010003</end>
+</instance>
+<instance>
+<ID>463</ID>
+<code>BW3 TIL</code>
+<start>4015.7757511010004</start>
+<end>4034.2738344343334</end>
+</instance>
+<instance>
+<ID>464</ID>
+<code>BW3 TIL</code>
+<start>4246.574367767666</start>
+<end>4265.3765677676665</end>
+</instance>
+<instance>
+<ID>465</ID>
+<code>BW3 TIL</code>
+<start>4594.477317767667</start>
+<end>4611.475301101</end>
+</instance>
+<instance>
+<ID>466</ID>
+<code>BW4 TIL</code>
+<start>345.57091776766674</start>
+<end>359.97600110100007</end>
+</instance>
+<instance>
+<ID>467</ID>
+<code>CP TIL</code>
+<start>476.77770110100005</start>
+<end>496.6730344343332</end>
+</instance>
+<instance>
+<ID>468</ID>
+<code>CP TIL</code>
+<start>778.8748677676667</start>
+<end>799.1747344343332</end>
+</instance>
+<instance>
+<ID>469</ID>
+<code>CP TIL</code>
+<start>1715.2780344343332</start>
+<end>1736.8763344343333</end>
+</instance>
+<instance>
+<ID>470</ID>
+<code>CP TIL</code>
+<start>3153.073401101</start>
+<end>3183.073401101</end>
+</instance>
+<instance>
+<ID>471</ID>
+<code>CP TIL</code>
+<start>3364.9731344343336</start>
+<end>3386.9774011010004</end>
+</instance>
+<instance>
+<ID>472</ID>
+<code>CP TIL</code>
+<start>3420.873551101</start>
+<end>3442.5751511010003</end>
+</instance>
+<instance>
+<ID>473</ID>
+<code>CP TIL</code>
+<start>3860.4753511010003</start>
+<end>3882.073534434333</end>
+</instance>
+<instance>
+<ID>474</ID>
+<code>CP TIL</code>
+<start>4260.476384434333</start>
+<end>4282.975517767667</end>
+</instance>
+<instance>
+<ID>475</ID>
+<code>CP TIL</code>
+<start>4336.474751101</start>
+<end>4365.076051101</end>
+</instance>
+<instance>
+<ID>476</ID>
+<code>CP TIL</code>
+<start>4510.476001101</start>
+<end>4530.275767767666</end>
+</instance>
+<instance>
+<ID>477</ID>
+<code>CP TIL</code>
+<start>4899.3709177676665</start>
+<end>4920.574567767667</end>
+</instance>
+<instance>
+<ID>478</ID>
+<code>DP TIL</code>
+<start>1334.9736677676665</start>
+<end>1349.9736677676665</end>
+</instance>
+<instance>
+<ID>479</ID>
+<code>DP TIL</code>
+<start>3159.4770177676664</start>
+<end>3174.4770177676664</end>
+</instance>
+<instance>
+<ID>480</ID>
+<code>DP TIL</code>
+<start>3427.1749344343334</start>
+<end>3442.1749344343334</end>
+</instance>
+<instance>
+<ID>481</ID>
+<code>DP TIL</code>
+<start>3587.5750344343332</start>
+<end>3602.5750344343332</end>
+</instance>
+<instance>
+<ID>482</ID>
+<code>DP TIL</code>
+<start>4266.874917767666</start>
+<end>4281.874917767666</end>
+</instance>
+<instance>
+<ID>483</ID>
+<code>DP TIL</code>
+<start>4905.673701101</start>
+<end>4920.673701101</end>
+</instance>
+<instance>
+<ID>484</ID>
+<code>DP TIL</code>
+<start>4948.574251101</start>
+<end>4962.774617767666</end>
+</instance>
+<instance>
+<ID>485</ID>
+<code>GOAL TIL</code>
+<start>3579.9733011010003</start>
+<end>3602.9733011010003</end>
+</instance>
+<instance>
+<ID>486</ID>
+<code>GOAL TIL</code>
+<start>4229.767060142667</start>
+<end>4282.975517767667</end>
+</instance>
+<instance>
+<ID>487</ID>
+<code>LC TIL</code>
+<start>1228.972251101</start>
+<end>1256.1739677676665</end>
+</instance>
+<instance>
+<ID>488</ID>
+<code>LC TIL</code>
+<start>4528.672051101</start>
+<end>4551.373534434333</end>
+</instance>
+<instance>
+<ID>489</ID>
+<code>SC TIL</code>
+<start>584.5733511010001</start>
+<end>604.5733511010001</end>
+</instance>
+<instance>
+<ID>490</ID>
+<code>SC TIL</code>
+<start>1324.0734844343333</start>
+<end>1344.0734844343333</end>
+</instance>
+<instance>
+<ID>491</ID>
+<code>SC TIL</code>
+<start>3474.470917767667</start>
+<end>3494.470917767667</end>
+</instance>
+<instance>
+<ID>492</ID>
+<code>SC TIL</code>
+<start>3554.2719011010004</start>
+<end>3574.2719011010004</end>
+</instance>
+<instance>
+<ID>493</ID>
+<code>SC TIL</code>
+<start>3580.770917767667</start>
+<end>3600.770917767667</end>
+</instance>
+<instance>
+<ID>494</ID>
+<code>SC TIL</code>
+<start>4944.373434434333</start>
+<end>4964.373434434333</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>GAMETIME</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q1</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q2</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q3</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q4</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>ARBITRAGE</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GROEN PIN</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>TIJDSTIL</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BB PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>Cirkelpass PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>DP PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>LC PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>SC PIN</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BB TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>DP TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>LC TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC TIL</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

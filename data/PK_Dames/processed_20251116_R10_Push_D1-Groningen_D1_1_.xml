@@ -1,0 +1,4591 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>groningen cause_of_penalty_corner</code>
+<start>935.8350530900001</start>
+<end>945.8350530900001</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>groningen cause_of_penalty_corner</code>
+<start>5053.635024173999</start>
+<end>5063.635024173999</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>groningen cause_of_penalty_corner</code>
+<start>5348.0455014359995</start>
+<end>5358.0455014359995</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>groningen circle_penetration</code>
+<start>264.836057188</start>
+<end>284.836057188</end>
+<label>
+<text>CP R2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>groningen circle_penetration</code>
+<start>359.935923964</start>
+<end>379.935923964</end>
+<label>
+<text>CP R1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>groningen circle_penetration</code>
+<start>1954.2345985460001</start>
+<end>1974.2345985460001</end>
+<label>
+<text>CP R2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>groningen circle_penetration</code>
+<start>1974.734688184</start>
+<end>1994.734688184</end>
+<label>
+<text>CP R1 GRO</text>
+</label>
+<label>
+<text>Kans GRO</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>groningen circle_penetration</code>
+<start>2413.5342639</start>
+<end>2432.434497118</end>
+<label>
+<text>CP R2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>groningen circle_penetration</code>
+<start>3310.13483324</start>
+<end>3331.1359759780003</end>
+<label>
+<text>CP L3 GRO</text>
+</label>
+<label>
+<text>Kans GRO</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>groningen circle_penetration</code>
+<start>3342.63446376</start>
+<end>3376.136256358</end>
+<label>
+<text>CP R2 GRO</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP L3 GRO</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>groningen circle_penetration</code>
+<start>3975.635022686</start>
+<end>3994.834588304</end>
+<label>
+<text>CP R1 GRO</text>
+</label>
+<label>
+<text>Goal GRO</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>groningen circle_penetration</code>
+<start>5046.235070545999</start>
+<end>5063.635024173999</end>
+<label>
+<text>CP R2 GRO</text>
+</label>
+<label>
+<text>ASC GRO</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>groningen circle_penetration</code>
+<start>5342.546356657999</start>
+<end>5358.0455014359995</end>
+<label>
+<text>CP R2 GRO</text>
+</label>
+<label>
+<text>ASC GRO</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>groningen goal</code>
+<start>367.637271188</start>
+<end>382.637271188</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>groningen goal</code>
+<start>3979.836133704</start>
+<end>3994.836133704</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>groningen goal_attempt</code>
+<start>1980.335187872</start>
+<end>1995.335187872</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>groningen goal_attempt</code>
+<start>3315.3348175</start>
+<end>3330.3348175</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>groningen goal_attempt</code>
+<start>5423.734467871999</start>
+<end>5438.235516264</end>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>groningen ball_restart_1</code>
+<start>171.235149836</start>
+<end>195.934984734</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>FROM BUTTON</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>groningen ball_restart_1</code>
+<start>422.734960024</start>
+<end>447.83504469999997</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>groningen ball_restart_1</code>
+<start>495.73636503399996</start>
+<end>515.035530126</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>groningen ball_restart_1</code>
+<start>582.134655634</start>
+<end>599.336184872</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>groningen ball_restart_1</code>
+<start>846.3344622760001</start>
+<end>861.935712234</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>groningen ball_restart_1</code>
+<start>1020.743121552</start>
+<end>1040.336291324</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>groningen ball_restart_1</code>
+<start>1106.634360756</start>
+<end>1142.035373052</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>groningen ball_restart_1</code>
+<start>1485.435568516</start>
+<end>1504.339080828</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>groningen ball_restart_1</code>
+<start>1624.935454616</start>
+<end>1644.9345966160001</end>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>groningen ball_restart_1</code>
+<start>1703.3403374</start>
+<end>1723.535367984</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>groningen ball_restart_1</code>
+<start>1784.536514872</start>
+<end>1793.9349011240001</end>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>groningen ball_restart_1</code>
+<start>1860.435217418</start>
+<end>1876.035375172</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>groningen ball_restart_1</code>
+<start>2056.435280324</start>
+<end>2076.33642828</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>groningen ball_restart_1</code>
+<start>2148.734535494</start>
+<end>2178.534982782</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>groningen ball_restart_1</code>
+<start>2327.335870512</start>
+<end>2361.335536096</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>groningen ball_restart_1</code>
+<start>3774.836589336</start>
+<end>3782.150143964</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>groningen ball_restart_1</code>
+<start>3855.435570946</start>
+<end>3873.434371608</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>groningen ball_restart_1</code>
+<start>3876.03483409</start>
+<end>3892.4346430680002</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>groningen ball_restart_1</code>
+<start>3941.834497682</start>
+<end>3969.8350097000002</end>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>groningen ball_restart_1</code>
+<start>4172.0346606739995</start>
+<end>4196.936353763999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>groningen ball_restart_1</code>
+<start>4216.235576057999</start>
+<end>4226.1348201579995</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 4 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>groningen ball_restart_1</code>
+<start>4250.035530288</start>
+<end>4261.436538845999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>Hoge bal GRO</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>groningen ball_restart_1</code>
+<start>4581.436695111999</start>
+<end>4596.036284694</end>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>groningen ball_restart_1</code>
+<start>4734.936833856</start>
+<end>4754.1370076759995</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>groningen ball_restart_1</code>
+<start>4815.4348880299995</start>
+<end>4832.3353858539995</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>groningen ball_restart_1</code>
+<start>5251.936613149999</start>
+<end>5261.037888616</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>groningen ball_restart_1</code>
+<start>5526.458946178</start>
+<end>5536.450673779999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>groningen ball_restart_1</code>
+<start>5543.941601728</start>
+<end>5561.245881068</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>Hoge bal GRO</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>groningen ball_restart_2</code>
+<start>192.934984734</start>
+<end>215.235633302</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>groningen ball_restart_2</code>
+<start>236.83630811199998</start>
+<end>246.63455258</end>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>groningen ball_restart_2</code>
+<start>303.83450566199997</start>
+<end>317.83474299799997</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>groningen ball_restart_2</code>
+<start>444.83504469999997</start>
+<end>460.736038594</end>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>groningen ball_restart_2</code>
+<start>668.34355293</start>
+<end>716.23597554</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>groningen ball_restart_2</code>
+<start>748.33550958</start>
+<end>758.635331588</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>Hoge bal GRO</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>groningen ball_restart_2</code>
+<start>798.034656882</start>
+<end>818.235226366</end>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>groningen ball_restart_2</code>
+<start>858.935712234</start>
+<end>881.134397292</end>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>groningen ball_restart_2</code>
+<start>1037.336291324</start>
+<end>1045.634764398</end>
+<label>
+<text>BW 4 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>groningen ball_restart_2</code>
+<start>1365.5356818120001</start>
+<end>1387.734749606</end>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>groningen ball_restart_2</code>
+<start>1390.235615224</start>
+<end>1408.934758906</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>groningen ball_restart_2</code>
+<start>1562.035817998</start>
+<end>1588.137285532</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>groningen ball_restart_2</code>
+<start>1647.939475038</start>
+<end>1660.938442208</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>groningen ball_restart_2</code>
+<start>1728.63618255</start>
+<end>1754.134889008</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>groningen ball_restart_2</code>
+<start>1894.634365378</start>
+<end>1962.436438702</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>groningen ball_restart_2</code>
+<start>2073.33642828</start>
+<end>2085.134484284</end>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>groningen ball_restart_2</code>
+<start>2358.335536096</start>
+<end>2374.835353428</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>groningen ball_restart_2</code>
+<start>2388.334327606</start>
+<end>2409.23480219</end>
+<label>
+<text>BS 3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>groningen ball_restart_2</code>
+<start>3113.238104456</start>
+<end>3124.644133122</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>groningen ball_restart_2</code>
+<start>3158.736977118</start>
+<end>3174.843837272</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>groningen ball_restart_2</code>
+<start>3264.555309354</start>
+<end>3308.941192304</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>groningen ball_restart_2</code>
+<start>3431.834462538</start>
+<end>3450.9357986</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>groningen ball_restart_2</code>
+<start>3710.234636774</start>
+<end>3730.334469184</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>groningen ball_restart_2</code>
+<start>3966.8350097000002</start>
+<end>3994.834588304</end>
+<label>
+<text>CP GRO</text>
+</label>
+<label>
+<text>CP R1 GRO</text>
+</label>
+<label>
+<text>Goal GRO</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>groningen ball_restart_2</code>
+<start>4102.835410386</start>
+<end>4117.2363162579995</end>
+<label>
+<text>BS 3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>groningen ball_restart_2</code>
+<start>4258.436538845999</start>
+<end>4267.634339957999</end>
+<label>
+<text>Hoge bal GRO</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>groningen ball_restart_2</code>
+<start>4393.434767262</start>
+<end>4415.335757731999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>groningen ball_restart_2</code>
+<start>4512.936109448</start>
+<end>4519.434939858</end>
+<label>
+<text>Hoge bal GRO</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>groningen ball_restart_2</code>
+<start>4751.1370076759995</start>
+<end>4761.636910785999</end>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>groningen ball_restart_2</code>
+<start>4974.634391099999</start>
+<end>4999.234941379999</end>
+<label>
+<text>BS 4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>groningen ball_restart_2</code>
+<start>5464.535761466</start>
+<end>5475.734467173999</end>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>groningen ball_restart_3</code>
+<start>314.83474299799997</start>
+<end>338.53647794</end>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>groningen ball_restart_3</code>
+<start>346.73480034399995</start>
+<end>382.638187508</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>CP GRO</text>
+</label>
+<label>
+<text>CP R1 GRO</text>
+</label>
+<label>
+<text>Goal GRO</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>groningen ball_restart_3</code>
+<start>938.7348785500001</start>
+<end>945.8350530900001</end>
+<label>
+<text>ASC GRO</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>groningen ball_restart_3</code>
+<start>1139.035373052</start>
+<end>1174.1349969760001</end>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>groningen ball_restart_3</code>
+<start>1188.135408564</start>
+<end>1202.635723128</end>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>groningen ball_restart_3</code>
+<start>1531.339759486</start>
+<end>1543.036718968</end>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>groningen ball_restart_3</code>
+<start>2273.435018768</start>
+<end>2298.936621028</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>groningen ball_restart_3</code>
+<start>2406.23480219</start>
+<end>2421.534856838</end>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>groningen ball_restart_3</code>
+<start>3130.945119992</start>
+<end>3148.144973648</end>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>groningen ball_restart_3</code>
+<start>3171.843837272</start>
+<end>3200.151309644</end>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>groningen ball_restart_3</code>
+<start>3528.83432688</start>
+<end>3540.135549018</end>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>groningen ball_restart_3</code>
+<start>3600.634757306</start>
+<end>3611.234297026</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>groningen ball_restart_3</code>
+<start>4114.2363162579995</start>
+<end>4131.734646328</end>
+<label>
+<text>Hoge bal GRO</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>groningen ball_restart_3</code>
+<start>5325.534580955999</start>
+<end>5340.535048809999</end>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>groningen ball_restart_3</code>
+<start>5558.245881068</start>
+<end>5576.344243224</end>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>groningen ball_restart_3</code>
+<start>5583.351611429999</start>
+<end>5594.444123636</end>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>groningen ball_restart_4</code>
+<start>713.23597554</start>
+<end>724.535643066</end>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>groningen ball_restart_4</code>
+<start>1959.436438702</start>
+<end>1982.136327898</end>
+<label>
+<text>CP GRO</text>
+</label>
+<label>
+<text>CP R2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>groningen ball_restart_4</code>
+<start>1996.834562572</start>
+<end>2010.53440912</end>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>groningen ball_restart_4</code>
+<start>2175.534982782</start>
+<end>2189.735982948</end>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>groningen ball_restart_4</code>
+<start>2418.665075866</start>
+<end>2432.434497118</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>Fom: Opponent</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP GRO</text>
+</label>
+<label>
+<text>CP R2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>groningen ball_restart_4</code>
+<start>3589.636230348</start>
+<end>3597.53542298</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>groningen ball_restart_4</code>
+<start>4996.234941379999</start>
+<end>5010.834694646</end>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>groningen ball_restart_4</code>
+<start>5149.639192993999</start>
+<end>5173.135920371999</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>groningen ball_win_1</code>
+<start>626.3359320100001</start>
+<end>642.935721198</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>groningen ball_win_1</code>
+<start>890.936426128</start>
+<end>907.034772072</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>groningen ball_win_1</code>
+<start>1611.239451576</start>
+<end>1627.935454616</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>groningen ball_win_1</code>
+<start>1764.7460429960001</start>
+<end>1787.536514872</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>groningen ball_win_1</code>
+<start>2122.435540626</start>
+<end>2139.436474912</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>groningen ball_win_1</code>
+<start>3685.834292446</start>
+<end>3697.634313154</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>groningen ball_win_1</code>
+<start>3735.53495324</start>
+<end>3764.23647092</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>groningen ball_win_1</code>
+<start>3925.434713496</start>
+<end>3944.834497682</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>groningen ball_win_1</code>
+<start>4069.635489578</start>
+<end>4105.835410386</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>groningen ball_win_1</code>
+<start>4451.836266392</start>
+<end>4467.734780876</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>groningen ball_win_1</code>
+<start>4480.53571433</start>
+<end>4515.936109448</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>groningen ball_win_1</code>
+<start>4564.135097787999</start>
+<end>4584.436695111999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>groningen ball_win_1</code>
+<start>4643.936141841999</start>
+<end>4661.135727041999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>groningen ball_win_1</code>
+<start>4774.136770266</start>
+<end>4794.236147512</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>groningen ball_win_1</code>
+<start>4944.134469434</start>
+<end>4956.13578197</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>groningen ball_win_1</code>
+<start>5199.6429868019995</start>
+<end>5214.836817965999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>groningen ball_win_1</code>
+<start>5221.8448661639995</start>
+<end>5251.337702147999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>groningen ball_win_1</code>
+<start>5259.244539427999</start>
+<end>5271.8372794199995</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>groningen ball_win_1</code>
+<start>5301.46495222</start>
+<end>5328.534580955999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>groningen ball_win_1</code>
+<start>5475.235458476</start>
+<end>5490.535755002</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>groningen ball_win_2</code>
+<start>786.13439557</start>
+<end>801.034656882</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>groningen ball_win_2</code>
+<start>1345.0344714</start>
+<end>1368.5356818120001</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>groningen ball_win_2</code>
+<start>1502.340788116</start>
+<end>1534.339759486</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>groningen ball_win_2</code>
+<start>1589.139389762</start>
+<end>1611.6359535640001</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>groningen ball_win_2</code>
+<start>2194.234537672</start>
+<end>2223.7354507200002</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>groningen ball_win_2</code>
+<start>2230.634717716</start>
+<end>2262.034319476</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>groningen ball_win_2</code>
+<start>3230.246920046</start>
+<end>3240.945339426</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>groningen ball_win_2</code>
+<start>3447.4346473240003</start>
+<end>3487.134405574</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>groningen ball_win_2</code>
+<start>3498.235610436</start>
+<end>3512.13627923</end>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>groningen ball_win_2</code>
+<start>4043.534353362</start>
+<end>4057.6344293</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>groningen ball_win_2</code>
+<start>4627.436684949999</start>
+<end>4646.435961544</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>groningen ball_win_2</code>
+<start>4672.835370848</start>
+<end>4690.035051102</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>groningen ball_win_2</code>
+<start>4953.034570928</start>
+<end>4977.634391099999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>groningen ball_win_2</code>
+<start>5439.2360712</start>
+<end>5467.535761466</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>groningen ball_win_3</code>
+<start>253.83538541399997</start>
+<end>289.834499354</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP GRO</text>
+</label>
+<label>
+<text>CP R2 GRO</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>groningen ball_win_3</code>
+<start>928.1343264120001</start>
+<end>941.7348785500001</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>groningen ball_win_3</code>
+<start>3199.04986796</start>
+<end>3211.145194876</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>groningen ball_win_3</code>
+<start>3327.7355175420003</start>
+<end>3359.734822328</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>CP GRO</text>
+</label>
+<label>
+<text>CP R2 GRO</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>groningen ball_win_3</code>
+<start>3564.73460295</start>
+<end>3586.334504388</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>groningen ball_win_3</code>
+<start>4527.136516922</start>
+<end>4547.636150685999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>groningen ball_win_3</code>
+<start>5016.535749438</start>
+<end>5063.635024173999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP GRO</text>
+</label>
+<label>
+<text>CP R2 GRO</text>
+</label>
+<label>
+<text>ASC GRO</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>groningen ball_win_3</code>
+<start>5338.245756173999</start>
+<end>5358.0455014359995</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>CP GRO</text>
+</label>
+<label>
+<text>CP R2 GRO</text>
+</label>
+<label>
+<text>ASC GRO</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>groningen ball_win_4</code>
+<start>3212.353046904</start>
+<end>3229.744090234</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>groningen ball_win_4</code>
+<start>3313.43558394</start>
+<end>3330.834341356</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP GRO</text>
+</label>
+<label>
+<text>CP R3 GRO</text>
+</label>
+<label>
+<text>CP L3 GRO</text>
+</label>
+<label>
+<text>Kans GRO</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>groningen ball_win_4</code>
+<start>3361.534652786</start>
+<end>3376.136256358</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>CP GRO</text>
+</label>
+<label>
+<text>CP L3 GRO</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>groningen ball_win_4</code>
+<start>3539.936423088</start>
+<end>3552.490916016</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>groningen penalty_corner</code>
+<start>981.334906736</start>
+<end>995.53461625</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>groningen penalty_corner</code>
+<start>5132.436834497999</start>
+<end>5147.436834497999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>groningen penalty_corner</code>
+<start>5413.636398367999</start>
+<end>5428.636398367999</end>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>groningen green_card</code>
+<start>2025.534927804</start>
+<end>2155.534927804</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>push cause_of_penalty_corner</code>
+<start>1043.1413041839999</start>
+<end>1053.1413041839999</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>push cause_of_penalty_corner</code>
+<start>1424.834719072</start>
+<end>1434.834719072</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>push cause_of_penalty_corner</code>
+<start>3779.14657831</start>
+<end>3789.14657831</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>push cause_of_penalty_corner</code>
+<start>4854.8347107419995</start>
+<end>4864.8347107419995</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>push cause_of_penalty_corner</code>
+<start>4894.1367946499995</start>
+<end>4904.1367946499995</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>push goal</code>
+<start>3393.13457745</start>
+<end>3408.13457745</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>push goal_attempt</code>
+<start>995.4434526240001</start>
+<end>1010.4434526240001</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>push goal_attempt</code>
+<start>1680.538508596</start>
+<end>1695.538508596</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>push goal_attempt</code>
+<start>3388.034611896</start>
+<end>3403.034611896</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>push goal_attempt</code>
+<start>5502.151164372</start>
+<end>5517.151164372</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>push ball_restart_1</code>
+<start>467.334424492</start>
+<end>480.734918902</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>push ball_restart_1</code>
+<start>614.834364316</start>
+<end>634.3359320100001</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>push ball_restart_1</code>
+<start>726.5349333500001</start>
+<end>751.33550958</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>push ball_restart_1</code>
+<start>992.53461625</start>
+<end>1023.743121552</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>push ball_restart_1</code>
+<start>1797.834701496</start>
+<end>1820.634348268</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>push ball_restart_1</code>
+<start>2083.634397646</start>
+<end>2130.435540626</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>push ball_restart_1</code>
+<start>2186.735982948</start>
+<end>2202.234537672</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>push ball_restart_1</code>
+<start>3226.744090234</start>
+<end>3238.246920046</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>push ball_restart_1</code>
+<start>3378.33502322</start>
+<end>3388.635982628</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>push ball_restart_1</code>
+<start>3492.53493546</start>
+<end>3506.235610436</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>push ball_restart_1</code>
+<start>3553.534480488</start>
+<end>3572.73460295</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>push ball_restart_1</code>
+<start>4128.734646328</start>
+<end>4152.536495876</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>push ball_restart_1</code>
+<start>4550.736360008</start>
+<end>4572.135097787999</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>push ball_restart_1</code>
+<start>5011.93474921</start>
+<end>5024.535749438</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>push ball_restart_1</code>
+<start>5435.236326396</start>
+<end>5447.2360712</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>push ball_restart_2</code>
+<start>145.736544526</start>
+<end>163.436543598</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>push ball_restart_2</code>
+<start>248.036601388</start>
+<end>261.835385414</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>push ball_restart_2</code>
+<start>291.23469902799997</start>
+<end>306.83450566199997</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>push ball_restart_2</code>
+<start>393.235601632</start>
+<end>425.734960024</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>push ball_restart_2</code>
+<start>477.734918902</start>
+<end>491.43471199199996</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>push ball_restart_2</code>
+<start>763.735723626</start>
+<end>794.13439557</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>push ball_restart_2</code>
+<start>912.034690004</start>
+<end>926.935051936</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>push ball_restart_2</code>
+<start>1342.2361764</start>
+<end>1353.0344714</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>push ball_restart_2</code>
+<start>1661.93820522</start>
+<end>1706.3403374</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>push ball_restart_2</code>
+<start>1831.035642528</start>
+<end>1852.935627314</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>push ball_restart_2</code>
+<start>2030.935253092</start>
+<end>2059.435280324</end>
+<label>
+<text>Groen GRO</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>push ball_restart_2</code>
+<start>2232.135103308</start>
+<end>2238.634717716</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>push ball_restart_2</code>
+<start>3308.937326874</start>
+<end>3321.43558394</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>push ball_restart_2</code>
+<start>3671.434557494</start>
+<end>3693.834292446</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Geel GRO</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>push ball_restart_2</code>
+<start>3889.4346430680002</start>
+<end>3907.035272778</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>push ball_restart_2</code>
+<start>4021.33491151</start>
+<end>4051.534353362</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>push ball_restart_2</code>
+<start>4428.436088648</start>
+<end>4437.035094966</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>push ball_restart_2</code>
+<start>4621.635880514</start>
+<end>4635.436684949999</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>push ball_restart_2</code>
+<start>4709.734716352</start>
+<end>4718.834425747999</end>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>push ball_restart_2</code>
+<start>4829.3353858539995</start>
+<end>4848.134877035999</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>push ball_restart_2</code>
+<start>5192.634778078</start>
+<end>5207.6429868019995</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>push ball_restart_3</code>
+<start>639.935721198</start>
+<end>671.34355293</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>push ball_restart_3</code>
+<start>884.0354340040001</start>
+<end>898.936426128</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>push ball_restart_3</code>
+<start>1420.636234084</start>
+<end>1434.834719072</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>push ball_restart_3</code>
+<start>1590.94148915</start>
+<end>1597.139389762</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>push ball_restart_3</code>
+<start>2316.634384644</start>
+<end>2326.234325014</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>push ball_restart_3</code>
+<start>3145.144973648</start>
+<end>3157.948882852</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>push ball_restart_3</code>
+<start>3385.635982628</start>
+<end>3408.136186532</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>Goal PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>push ball_restart_3</code>
+<start>3736.634987766</start>
+<end>3743.53495324</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>push ball_restart_3</code>
+<start>3745.534601588</start>
+<end>3756.134323104</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>push ball_restart_3</code>
+<start>4193.936353763999</start>
+<end>4208.13530138</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>push ball_restart_3</code>
+<start>4434.035094966</start>
+<end>4459.836266392</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>push ball_restart_3</code>
+<start>4593.036284694</start>
+<end>4624.635880514</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>push ball_restart_3</code>
+<start>4758.636910785999</start>
+<end>4782.136770266</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>push ball_restart_3</code>
+<start>4791.236147512</start>
+<end>4811.734372436</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>push ball_restart_3</code>
+<start>4845.134877035999</start>
+<end>4864.8347107419995</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>push ball_restart_3</code>
+<start>5211.836817965999</start>
+<end>5229.8448661639995</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>push ball_restart_3</code>
+<start>5472.734467173999</start>
+<end>5483.235458476</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>push ball_restart_4</code>
+<start>160.436543598</start>
+<end>174.235149836</end>
+<label>
+<text>BS 1 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>push ball_restart_4</code>
+<start>2136.436474912</start>
+<end>2151.734535494</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>push ball_restart_4</code>
+<start>3694.634313154</start>
+<end>3705.235559282</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>push ball_restart_4</code>
+<start>3761.23647092</start>
+<end>3771.434745414</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>push ball_restart_4</code>
+<start>3904.035272778</start>
+<end>3933.434713496</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>push ball_restart_4</code>
+<start>4068.53444842</start>
+<end>4077.635489578</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>push ball_restart_4</code>
+<start>4090.035990326</start>
+<end>4098.93584708</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>push ball_restart_4</code>
+<start>4149.536495876</start>
+<end>4159.937107476</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>push ball_restart_4</code>
+<start>4205.13530138</start>
+<end>4213.936185707999</end>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>push ball_restart_4</code>
+<start>4225.935723277999</start>
+<end>4234.9346682079995</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>push ball_restart_4</code>
+<start>4464.734780876</start>
+<end>4483.635519791999</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>push ball_restart_4</code>
+<start>4643.435961544</start>
+<end>4651.936141841999</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>push ball_restart_4</code>
+<start>4672.735372968</start>
+<end>4680.835370848</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>push ball_restart_4</code>
+<start>4953.13578197</start>
+<end>4961.034570928</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>push ball_restart_4</code>
+<start>5268.8372794199995</start>
+<end>5302.440744711999</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>push ball_restart_4</code>
+<start>5487.535755002</start>
+<end>5505.534514919999</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>push ball_restart_4</code>
+<start>5533.450673779999</start>
+<end>5541.15240982</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>push ball_win_1</code>
+<start>591.336184872</start>
+<end>615.840969274</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>push ball_win_1</code>
+<start>899.034772072</start>
+<end>915.034690004</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>push ball_win_1</code>
+<start>1746.134889008</start>
+<end>1772.7460429960001</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>push ball_win_1</code>
+<start>2002.53440912</start>
+<end>2033.935253092</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>push ball_win_1</code>
+<start>2290.936621028</start>
+<end>2319.634384644</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>push ball_win_1</code>
+<start>3203.145194876</start>
+<end>3220.353046904</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>push ball_win_1</code>
+<start>3322.834341356</start>
+<end>3335.7355175420003</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>push ball_win_1</code>
+<start>3351.734822328</start>
+<end>3369.534652786</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>push ball_win_1</code>
+<start>3479.134405574</start>
+<end>3495.53493546</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>push ball_win_1</code>
+<start>3532.135549018</start>
+<end>3547.936423088</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>push ball_win_1</code>
+<start>3578.334504388</start>
+<end>3592.636230348</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>push ball_win_1</code>
+<start>4539.636150685999</start>
+<end>4553.736360008</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>push ball_win_1</code>
+<start>5332.535048809999</start>
+<end>5346.245756173999</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>push ball_win_2</code>
+<start>330.53647794</start>
+<end>349.73480034399995</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>push ball_win_2</code>
+<start>1166.1349969760001</start>
+<end>1191.135408564</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>push ball_win_2</code>
+<start>1496.339080828</start>
+<end>1510.340788116</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>push ball_win_2</code>
+<start>1535.036718968</start>
+<end>1563.341211898</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>push ball_win_2</code>
+<start>1652.938442208</start>
+<end>1664.93820522</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>push ball_win_2</code>
+<start>2215.7354507200002</start>
+<end>2235.135103308</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>push ball_win_2</code>
+<start>3192.151309644</start>
+<end>3207.04986796</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>push ball_win_2</code>
+<start>3589.53542298</start>
+<end>3603.634757306</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>push ball_win_2</code>
+<start>4049.6344293</start>
+<end>4071.53444842</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>push ball_win_2</code>
+<start>4511.434939858</start>
+<end>4535.136516922</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>push ball_win_2</code>
+<start>4682.035051102</start>
+<end>4712.734716352</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>push ball_win_2</code>
+<start>5568.344243224</start>
+<end>5586.351611429999</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>push ball_win_3</code>
+<start>507.03553012599997</start>
+<end>521.635449314</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>push ball_win_3</code>
+<start>810.235226366</start>
+<end>838.3353307900001</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>push ball_win_3</code>
+<start>873.134397292</start>
+<end>887.0354340040001</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>push ball_win_3</code>
+<start>1379.734749606</start>
+<end>1393.235615224</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>push ball_win_3</code>
+<start>1580.137285532</start>
+<end>1593.94148915</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>push ball_win_3</code>
+<start>1603.6359535640001</start>
+<end>1619.239451576</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>push ball_win_3</code>
+<start>1636.9345966160001</start>
+<end>1650.939475038</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>push ball_win_3</code>
+<start>1715.535367984</start>
+<end>1731.63618255</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>push ball_win_3</code>
+<start>1868.035375172</start>
+<end>1897.634365378</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>push ball_win_3</code>
+<start>2254.034319476</start>
+<end>2276.435018768</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>push ball_win_3</code>
+<start>3232.945339426</start>
+<end>3267.555309354</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>push ball_win_3</code>
+<start>3442.9357986</start>
+<end>3455.4346473240003</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>push ball_win_3</code>
+<start>3722.334469184</start>
+<end>3739.634987766</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>push ball_win_3</code>
+<start>3774.150143964</start>
+<end>3789.14657831</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>push ball_win_3</code>
+<start>4653.135727041999</start>
+<end>4675.735372968</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>push ball_win_3</code>
+<start>5229.334315972</start>
+<end>5241.648518542</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>push ball_win_3</code>
+<start>5253.037888616</start>
+<end>5267.244539427999</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>push ball_win_4</code>
+<start>1037.634764398</start>
+<end>1053.1413041839999</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>push ball_win_4</code>
+<start>4218.1348201579995</start>
+<end>4228.935723277999</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>push penalty_corner</code>
+<start>558.23567312</start>
+<end>573.23567312</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>push penalty_corner</code>
+<start>1088.935887742</start>
+<end>1103.935887742</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>push penalty_corner</code>
+<start>1466.1355982100001</start>
+<end>1481.1355982100001</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>push penalty_corner</code>
+<start>3831.03461302</start>
+<end>3846.03461302</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>push penalty_corner</code>
+<start>4894.534375808</start>
+<end>4904.1367946499995</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>push penalty_corner</code>
+<start>4940.736541146</start>
+<end>4952.134469434</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>groningen yellow_card</code>
+<start>3666.235205958</start>
+<end>3976.235205958</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 GRO</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>BS 1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>push circle_penetration</code>
+<start>402.040930496</start>
+<end>422.040930496</end>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>push circle_penetration</code>
+<start>473.93491745399996</start>
+<end>491.43471199199996</end>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>push circle_penetration</code>
+<start>882.0343233980001</start>
+<end>902.0343233980001</end>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>push circle_penetration</code>
+<start>990.8428998520001</start>
+<end>1010.8428998520001</end>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>push circle_penetration</code>
+<start>1035.83969017</start>
+<end>1053.1413041839999</end>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>push circle_penetration</code>
+<start>1418.635133088</start>
+<end>1434.834719072</end>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>push circle_penetration</code>
+<start>1604.144085586</start>
+<end>1624.144085586</end>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>push circle_penetration</code>
+<start>1676.238764682</start>
+<end>1696.238764682</end>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>push circle_penetration</code>
+<start>1755.138603714</start>
+<end>1775.138603714</end>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>push circle_penetration</code>
+<start>2033.034499194</start>
+<end>2053.034499194</end>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>292</ID>
+<code>push circle_penetration</code>
+<start>3383.336108786</start>
+<end>3403.336108786</end>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>Goal PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>293</ID>
+<code>push circle_penetration</code>
+<start>3755.936631156</start>
+<end>3771.434745414</end>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>294</ID>
+<code>push circle_penetration</code>
+<start>3911.735369462</start>
+<end>3931.735369462</end>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>push circle_penetration</code>
+<start>4084.936031584</start>
+<end>4104.9360315839995</end>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>push circle_penetration</code>
+<start>4148.136377846</start>
+<end>4165.936188608</end>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>push circle_penetration</code>
+<start>4444.636274236</start>
+<end>4464.636274236</end>
+<label>
+<text>CP R2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>push circle_penetration</code>
+<start>4554.4348869079995</start>
+<end>4574.4348869079995</end>
+<label>
+<text>CP R2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>299</ID>
+<code>push circle_penetration</code>
+<start>4658.335544625999</start>
+<end>4678.335544625999</end>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>300</ID>
+<code>push circle_penetration</code>
+<start>4795.935651344</start>
+<end>4811.734372436</end>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>301</ID>
+<code>push circle_penetration</code>
+<start>4847.635445522</start>
+<end>4864.8347107419995</end>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>push circle_penetration</code>
+<start>5192.647214197999</start>
+<end>5212.647214197999</end>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>303</ID>
+<code>push circle_penetration</code>
+<start>5295.03944994</start>
+<end>5315.03944994</end>
+<label>
+<text>CP MID PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB GRO</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>push circle_penetration</code>
+<start>5497.04989744</start>
+<end>5517.04989744</end>
+<label>
+<text>CP MID PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>305</ID>
+<code>end</code>
+<start>1201.635723128</start>
+<end>1203.635723128</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>end</code>
+<start>2431.434497118</start>
+<end>2433.434497118</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>end</code>
+<start>4266.634339957999</start>
+<end>4268.634339957999</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>end</code>
+<start>5593.444123636</start>
+<end>5595.444123636</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>start</code>
+<start>146.73435315999998</start>
+<end>148.73435315999998</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>start</code>
+<start>1342.835429406</start>
+<end>1344.835429406</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>start</code>
+<start>3113.836257588</start>
+<end>3115.836257588</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>start</code>
+<start>4393.535220225999</start>
+<end>4395.535220225999</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ASC GRO</code>
+<R>30069</R>
+<G>53713</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP GRO</code>
+<R>30069</R>
+<G>53713</G>
+<B>65536</B>
+</row>
+<row>
+<code>Goal GRO</code>
+<R>30069</R>
+<G>53713</G>
+<B>65536</B>
+</row>
+<row>
+<code>Kans GRO</code>
+<R>30069</R>
+<G>53713</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS 1 GRO</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BS 2 GRO</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BS 3 GRO</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BS 4 GRO</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BW 1 GRO</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BW 2 GRO</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BW 3 GRO</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BW 4 GRO</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>SCA GRO</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>Groen GRO</code>
+<R>2570</R>
+<G>33924</G>
+<B>1542</B>
+</row>
+<row>
+<code>ASC PUSH</code>
+<R>38550</R>
+<G>54227</G>
+<B>24415</B>
+</row>
+<row>
+<code>Goal PUSH</code>
+<R>38550</R>
+<G>54227</G>
+<B>24415</B>
+</row>
+<row>
+<code>Kans PUSH</code>
+<R>38468</R>
+<G>54219</G>
+<B>24364</B>
+</row>
+<row>
+<code>BS 1 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BS 2 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BS 3 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BS 4 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BW 1 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BW 2 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BW 3 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BW 4 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>SCA PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>Geel GRO</code>
+<R>64764</R>
+<G>65536</G>
+<B>2570</B>
+</row>
+<row>
+<code>CP PUSH</code>
+<R>26268</R>
+<G>39976</G>
+<B>13658</B>
+</row>
+<row>
+<code>Einde</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Start</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

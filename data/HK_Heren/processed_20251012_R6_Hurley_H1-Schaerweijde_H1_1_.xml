@@ -1,0 +1,6811 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>hurley ball_restart_1</code>
+<start>505.400021763</start>
+<end>513.900044721</end>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>hurley ball_restart_1</code>
+<start>645.80006818</start>
+<end>663.400060354</end>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>hurley ball_restart_1</code>
+<start>755.800110506</start>
+<end>776.200105398</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>hurley ball_restart_1</code>
+<start>1016.500109669</start>
+<end>1027.300098336</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>hurley ball_restart_1</code>
+<start>1210.400082762</start>
+<end>1216.6001191379999</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>hurley ball_restart_1</code>
+<start>1578.700086063</start>
+<end>1612.30008455</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>hurley ball_restart_1</code>
+<start>1784.900112977</start>
+<end>1802.400129411</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>hurley ball_restart_1</code>
+<start>1922.30004285</start>
+<end>1938.600071517</end>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>hurley ball_restart_1</code>
+<start>1949.206122964</start>
+<end>1965.600124096</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>hurley ball_restart_1</code>
+<start>1997.500364507</start>
+<end>2010.50007034</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>hurley ball_restart_1</code>
+<start>2059.600079671</start>
+<end>2074.400075451</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>hurley ball_restart_1</code>
+<start>2323.20007827</start>
+<end>2345.200076711</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>hurley ball_restart_1</code>
+<start>2378.400121862</start>
+<end>2393.700082696</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>hurley ball_restart_1</code>
+<start>3260.500124056</start>
+<end>3297.200073917</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>hurley ball_restart_1</code>
+<start>3369.700054517</start>
+<end>3380.600116808</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>hurley ball_restart_1</code>
+<start>3484.000118304</start>
+<end>3499.900064709</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>hurley ball_restart_1</code>
+<start>3682.400083345</start>
+<end>3704.800078796</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>hurley ball_restart_1</code>
+<start>4175.000390071</start>
+<end>4199.400054531</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>hurley ball_restart_1</code>
+<start>4568.800127363</start>
+<end>4589.800055737</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>hurley ball_restart_1</code>
+<start>4638.400070828</start>
+<end>4658.600107328</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>hurley ball_restart_1</code>
+<start>4767.50011952</start>
+<end>4776.800112896</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>hurley ball_restart_1</code>
+<start>4869.800112194</start>
+<end>4882.300076718</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>hurley ball_restart_1</code>
+<start>4981.400125141</start>
+<end>5000.100094677</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>hurley ball_restart_1</code>
+<start>5023.500443042</start>
+<end>5033.401374376</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>hurley ball_restart_1</code>
+<start>5518.604819318</start>
+<end>5532.705491359</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>hurley ball_restart_1</code>
+<start>5724.200107363</start>
+<end>5767.900098068</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>hurley ball_restart_2</code>
+<start>282.800090886</start>
+<end>296.500132274</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>hurley ball_restart_2</code>
+<start>577.104061977</start>
+<end>599.404268477</end>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>hurley ball_restart_2</code>
+<start>1070.205637128</start>
+<end>1095.600367911</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>hurley ball_restart_2</code>
+<start>1338.300230971</start>
+<end>1357.200006081</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>hurley ball_restart_2</code>
+<start>2006.50007034</start>
+<end>2013.600087881</end>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>hurley ball_restart_2</code>
+<start>2255.700122477</start>
+<end>2273.00009841</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>hurley ball_restart_2</code>
+<start>3825.700082619</start>
+<end>3840.700099785</end>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>hurley ball_restart_2</code>
+<start>3903.300398097</start>
+<end>3931.800070872</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>hurley ball_restart_2</code>
+<start>4030.60006699</start>
+<end>4052.000157656</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>hurley ball_restart_2</code>
+<start>5246.300092895</start>
+<end>5268.800072135</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>hurley ball_restart_2</code>
+<start>5301.200080136</start>
+<end>5313.200066593</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>hurley ball_restart_2</code>
+<start>5369.100084903</start>
+<end>5399.500148472</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>hurley ball_restart_3</code>
+<start>292.500132274</start>
+<end>309.300124899</end>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>hurley ball_restart_3</code>
+<start>608.102316726</start>
+<end>625.00040156</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>hurley ball_restart_3</code>
+<start>905.300098667</start>
+<end>924.600109455</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>hurley ball_restart_3</code>
+<start>1023.300098336</start>
+<end>1036.707820627</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>hurley ball_restart_3</code>
+<start>1091.600367911</start>
+<end>1113.400403031</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>hurley ball_restart_3</code>
+<start>1353.200006081</start>
+<end>1375.400099307</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>hurley ball_restart_3</code>
+<start>1385.400071223</start>
+<end>1404.000485427</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>hurley ball_restart_3</code>
+<start>1404.010485427</start>
+<end>1409.900081303</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>hurley ball_restart_3</code>
+<start>1409.910081303</start>
+<end>1423.700037178</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>hurley ball_restart_3</code>
+<start>1608.30008455</start>
+<end>1636.000149935</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>hurley ball_restart_3</code>
+<start>1651.000451227</start>
+<end>1676.6001117</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>hurley ball_restart_3</code>
+<start>1676.6101117</start>
+<end>1682.300192035</end>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>hurley ball_restart_3</code>
+<start>2269.00009841</start>
+<end>2292.200096617</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>hurley ball_restart_3</code>
+<start>2389.700082696</start>
+<end>2407.700077779</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>hurley ball_restart_3</code>
+<start>3162.700082764</start>
+<end>3178.000105097</end>
+<label>
+<text>BS4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>hurley ball_restart_3</code>
+<start>3193.100073808</start>
+<end>3203.200081308</end>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>hurley ball_restart_3</code>
+<start>3376.600116808</start>
+<end>3390.000088599</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>hurley ball_restart_3</code>
+<start>3927.800070872</start>
+<end>3940.700125038</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>hurley ball_restart_3</code>
+<start>3949.800091205</start>
+<end>3964.900076455</end>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>hurley ball_restart_3</code>
+<start>4218.70004478</start>
+<end>4234.200083259</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>hurley ball_restart_3</code>
+<start>4442.100068477</start>
+<end>4454.700059561</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>hurley ball_restart_3</code>
+<start>5309.200066593</start>
+<end>5330.500162927</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>hurley ball_restart_3</code>
+<start>5528.705491359</start>
+<end>5564.405303068</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>hurley ball_restart_4</code>
+<start>421.600073274</start>
+<end>429.100110816</end>
+<label>
+<text>BS4 HUR</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>hurley ball_restart_4</code>
+<start>1032.707820627</start>
+<end>1051.805691419</end>
+<label>
+<text>BS4 HUR</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>hurley ball_restart_4</code>
+<start>1632.000149935</start>
+<end>1655.000451227</end>
+<label>
+<text>BS4 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>hurley ball_restart_4</code>
+<start>3174.000105097</start>
+<end>3185.700090181</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>hurley ball_restart_4</code>
+<start>5560.405303068</start>
+<end>5598.704765027</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>hurley ball_restart_4</code>
+<start>5600.301607151</start>
+<end>5618.500147788</end>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>hurley ball_restart_4</code>
+<start>5618.510147788</start>
+<end>5627.600059121</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>hurley ball_restart_4</code>
+<start>5627.610059121001</start>
+<end>5631.800069329</end>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>hurley ball_restart_4</code>
+<start>5765.50013186</start>
+<end>5784.600112027</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>hurley ball_restart_4</code>
+<start>5784.6101120270005</start>
+<end>5796.600109189</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>hurley ball_restart_4</code>
+<start>5801.200106272</start>
+<end>5816.600076772001</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>hurley ball_win_1</code>
+<start>357.600097232</start>
+<end>380.000139566</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>hurley ball_win_1</code>
+<start>566.305168768</start>
+<end>581.104061977</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>hurley ball_win_1</code>
+<start>743.70004627</start>
+<end>759.800110506</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>hurley ball_win_1</code>
+<start>893.0001485</start>
+<end>909.300098667</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>hurley ball_win_1</code>
+<start>964.80009508</start>
+<end>979.800109913</end>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>hurley ball_win_1</code>
+<start>1000.000191122</start>
+<end>1020.500109669</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>hurley ball_win_1</code>
+<start>1063.806346585</start>
+<end>1074.205637128</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>hurley ball_win_1</code>
+<start>1139.400090552</start>
+<end>1156.800081433</end>
+<label>
+<text>BW4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>hurley ball_win_1</code>
+<start>1169.900019767</start>
+<end>1183.600095267</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>hurley ball_win_1</code>
+<start>1493.008205532</start>
+<end>1512.007035698</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>hurley ball_win_1</code>
+<start>1516.40624649</start>
+<end>1523.804391697</end>
+<label>
+<text>BW4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>hurley ball_win_1</code>
+<start>1710.900049193</start>
+<end>1726.100103443</end>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>hurley ball_win_1</code>
+<start>1863.906272265</start>
+<end>1891.405313685</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>hurley ball_win_1</code>
+<start>2045.800065507</start>
+<end>2063.600079671</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>hurley ball_win_1</code>
+<start>3219.800061392</start>
+<end>3231.004243695</end>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>hurley ball_win_1</code>
+<start>3344.100113542</start>
+<end>3349.900066958</end>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>hurley ball_win_1</code>
+<start>3418.800099658</start>
+<end>3430.400105174</end>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>hurley ball_win_1</code>
+<start>3457.100051891</start>
+<end>3463.300064474</end>
+<label>
+<text>BW4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>hurley ball_win_1</code>
+<start>3538.800131084</start>
+<end>3546.00034131</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>hurley ball_win_1</code>
+<start>3755.90007013</start>
+<end>3763.00019163</end>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>hurley ball_win_1</code>
+<start>3764.00017013</start>
+<end>3792.10008363</end>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>hurley ball_win_1</code>
+<start>3998.900409455</start>
+<end>4017.300018198</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>hurley ball_win_1</code>
+<start>4426.900523435</start>
+<end>4446.100068477</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>hurley ball_win_1</code>
+<start>4620.200103237</start>
+<end>4625.000159524</end>
+<label>
+<text>BW4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>hurley ball_win_1</code>
+<start>4717.100047148</start>
+<end>4728.100077732</end>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>hurley ball_win_1</code>
+<start>4736.500140565</start>
+<end>4743.500178607</end>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>hurley ball_win_1</code>
+<start>4747.900114523</start>
+<end>4771.50011952</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>hurley ball_win_1</code>
+<start>4890.30008605</start>
+<end>4908.202140765</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>hurley ball_win_1</code>
+<start>5283.400038303</start>
+<end>5305.200080136</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>hurley ball_win_2</code>
+<start>399.100358983</start>
+<end>425.600073274</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>hurley ball_win_2</code>
+<start>439.000115649</start>
+<end>452.700065649</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>hurley ball_win_2</code>
+<start>600.704328518</start>
+<end>612.102316726</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>hurley ball_win_2</code>
+<start>680.800052271</start>
+<end>691.300103771</end>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>hurley ball_win_2</code>
+<start>1695.000106192</start>
+<end>1702.90008565</end>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>hurley ball_win_2</code>
+<start>3152.500163972</start>
+<end>3166.700082764</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>hurley ball_win_2</code>
+<start>3818.200057991</start>
+<end>3829.700082619</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>hurley ball_win_2</code>
+<start>4069.50012099</start>
+<end>4086.500176801</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>hurley ball_win_2</code>
+<start>4201.600104364</start>
+<end>4222.70004478</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>hurley ball_win_2</code>
+<start>4371.700032756</start>
+<end>4385.200117256</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>hurley ball_win_2</code>
+<start>5645.300080332</start>
+<end>5658.900094665</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>hurley ball_win_3</code>
+<start>673.300119104</start>
+<end>679.800048021</end>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>hurley ball_win_4</code>
+<start>5595.800044318</start>
+<end>5601.403952859</end>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>hurley ball_win_4</code>
+<start>5662.400087957</start>
+<end>5670.200053583</end>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>hurley build_up</code>
+<start>505.700061179</start>
+<end>513.900052388</end>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>hurley build_up</code>
+<start>582.104266644</start>
+<end>599.404703685</end>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>hurley build_up</code>
+<start>757.600391423</start>
+<end>776.200058564</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>hurley build_up</code>
+<start>1016.900041461</start>
+<end>1051.804875419</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>BS4 HUR</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>hurley build_up</code>
+<start>1578.820550314</start>
+<end>1682.30012345</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>BS4 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>hurley build_up</code>
+<start>1924.400050309</start>
+<end>1938.600068101</end>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>hurley build_up</code>
+<start>1949.607583173</start>
+<end>1965.600089555</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>hurley build_up</code>
+<start>1997.700066132</start>
+<end>2013.600062589</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>hurley build_up</code>
+<start>2272.40009616</start>
+<end>2292.300124492</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>hurley build_up</code>
+<start>2323.700107353</start>
+<end>2345.20005096</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>hurley build_up</code>
+<start>2379.600087154</start>
+<end>2407.700109945</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>hurley build_up</code>
+<start>3260.900056347</start>
+<end>3297.200074168</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>hurley build_up</code>
+<start>3370.00006735</start>
+<end>3390.0001721</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>hurley build_up</code>
+<start>3484.200094555</start>
+<end>3499.900103792</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>hurley build_up</code>
+<start>3682.900094095</start>
+<end>3704.80011513</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>hurley build_up</code>
+<start>3905.900084847</start>
+<end>3940.700109248</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>hurley build_up</code>
+<start>4033.100122407</start>
+<end>4052.00017324</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>hurley build_up</code>
+<start>4185.500053155</start>
+<end>4199.400052863</end>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>hurley build_up</code>
+<start>4569.100069321</start>
+<end>4589.800041654</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>hurley build_up</code>
+<start>4638.800091286</start>
+<end>4658.600111662</end>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>hurley build_up</code>
+<start>4982.300399682</start>
+<end>5000.100094677</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>hurley build_up</code>
+<start>5255.600119894</start>
+<end>5268.800042051</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>hurley build_up</code>
+<start>5518.901846151</start>
+<end>5598.706339943</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 HUR</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>hurley build_up</code>
+<start>5730.100105485</start>
+<end>5767.900049277</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>hurley press</code>
+<start>316.500147398</start>
+<end>361.600098149</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>hurley press</code>
+<start>645.80003493</start>
+<end>649.80003493</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>hurley press</code>
+<start>663.80011477</start>
+<end>677.300062396</end>
+<label>
+<text>BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>hurley press</code>
+<start>703.300061896</start>
+<end>747.800044729</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>hurley press</code>
+<start>921.900076372</start>
+<end>968.800106747</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>hurley press</code>
+<start>1048.206206461</start>
+<end>1067.806173003</end>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>hurley press</code>
+<start>1125.500085301</start>
+<end>1143.400116219</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>hurley press</code>
+<start>1457.409676082</start>
+<end>1497.006620865</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>hurley press</code>
+<start>1888.206171893</start>
+<end>1926.300075601</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>hurley press</code>
+<start>2288.600069617</start>
+<end>2327.200054602</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>hurley press</code>
+<start>2341.700108876</start>
+<end>2382.400085071</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>hurley press</code>
+<start>2404.100091987</start>
+<end>2427.600125445</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>hurley press</code>
+<start>3293.500166501</start>
+<end>3348.100060541</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>hurley press</code>
+<start>3701.100054964</start>
+<end>3759.900074213</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>hurley press</code>
+<start>3980.400109623</start>
+<end>4002.90010133</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP M</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>hurley press</code>
+<start>4018.100064907</start>
+<end>4034.600092656</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>hurley press</code>
+<start>4054.800051531</start>
+<end>4073.500113073</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>hurley press</code>
+<start>4230.600072094</start>
+<end>4239.100071718</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>hurley press</code>
+<start>4390.700121756</start>
+<end>4415.500141173</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>hurley 23_entry</code>
+<start>412.700078441</start>
+<end>424.600073274</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>hurley 23_entry</code>
+<start>611.704350102</start>
+<end>624.00040156</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>hurley 23_entry</code>
+<start>1172.800106684</start>
+<end>1182.600095267</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>hurley 23_entry</code>
+<start>1407.500087219</start>
+<end>1423.700037178</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>hurley 23_entry</code>
+<start>1499.808842864</start>
+<end>1511.007035698</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>hurley 23_entry</code>
+<start>1631.900390435</start>
+<end>1654.000451227</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>hurley 23_entry</code>
+<start>1869.605373556</start>
+<end>1890.405313685</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>hurley 23_entry</code>
+<start>3172.600070514</start>
+<end>3184.700090181</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>hurley 23_entry</code>
+<start>3272.000143681</start>
+<end>3296.200073917</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>hurley 23_entry</code>
+<start>3375.500102226</start>
+<end>3389.000088599</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>hurley 23_entry</code>
+<start>3686.400073386</start>
+<end>3703.800078796</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>hurley 23_entry</code>
+<start>3927.300119789</start>
+<end>3939.700125038</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>hurley 23_entry</code>
+<start>4371.100102673</start>
+<end>4384.200117256</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>hurley 23_entry</code>
+<start>4439.400056685</start>
+<end>4454.700059561</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>hurley 23_entry</code>
+<start>5542.006886068</start>
+<end>5563.405303068</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>hurley 23_entry</code>
+<start>5583.304896651</start>
+<end>5597.704765027</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>hurley 23_entry</code>
+<start>5647.200094957</start>
+<end>5657.900094665</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>hurley 23_entry</code>
+<start>5754.400113485</start>
+<end>5766.900098068</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>hurley 23_entry</code>
+<start>5771.200087569</start>
+<end>5784.600112027</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>hurley cause_of_penalty_corner</code>
+<start>4442.700059561</start>
+<end>4454.700059561</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>hurley circle_penetration</code>
+<start>610.800048352</start>
+<end>624.00040156</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>hurley circle_penetration</code>
+<start>1408.500098927</start>
+<end>1423.700037178</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>hurley circle_penetration</code>
+<start>1630.400042935</start>
+<end>1654.000451227</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>hurley circle_penetration</code>
+<start>1868.405192223</start>
+<end>1890.405313685</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>hurley circle_penetration</code>
+<start>4440.500070768</start>
+<end>4454.700059561</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>hurley circle_penetration</code>
+<start>5583.906373402</start>
+<end>5597.704765027</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>hurley goal_attempt</code>
+<start>1411.900048552</start>
+<end>1423.900048552</end>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>hurley goal_attempt</code>
+<start>5587.90471111</start>
+<end>5599.90471111</end>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+<label>
+<text>BW4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>hurley goal</code>
+<start>1409.700037178</start>
+<end>1425.700037178</end>
+<label>
+<text>GOAL</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>hurley goal</code>
+<start>4493.905355953</start>
+<end>4509.905355953</end>
+<label>
+<text>GOAL</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>hurley penalty_corner</code>
+<start>1234.519961137</start>
+<end>1248.519961137</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>hurley penalty_corner</code>
+<start>4501.301690203</start>
+<end>4515.301690203</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>hurley green_card</code>
+<start>2077.900060106</start>
+<end>2227.900060106</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP M</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>ASB</text>
+</label>
+<label>
+<text>SB</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+<label>
+<text>BS2 HUR</text>
+</label>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>hurley green_card</code>
+<start>3393.600076908</start>
+<end>3543.600076908</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW4 SCHA</text>
+</label>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>SC</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>hurley yellow_card</code>
+<start>4852.10006536</start>
+<end>5172.10006536</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+<label>
+<text>BS2 SCHA</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+<label>
+<text>BS3 SCHA</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>end</code>
+<start>1215.500119138</start>
+<end>1217.500119138</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>end</code>
+<start>2424.600125445</start>
+<end>2426.600125445</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>end</code>
+<start>4236.100071718</start>
+<end>4238.100071718</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>end</code>
+<start>5815.500076772</start>
+<end>5817.500076772</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>end</code>
+<start>5827.200070948</start>
+<end>5829.200070948</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>start</code>
+<start>282.500210511</start>
+<end>285.500210511</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>start</code>
+<start>1339.300072472</start>
+<end>1342.300072472</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>start</code>
+<start>3145.300083431</start>
+<end>3148.300083431</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>start</code>
+<start>4360.103165349</start>
+<end>4363.103165349</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>schaerweijde build_up</code>
+<start>316.500147398</start>
+<end>361.600098149</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>schaerweijde build_up</code>
+<start>645.80003493</start>
+<end>649.80003493</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>schaerweijde build_up</code>
+<start>663.80011477</start>
+<end>677.300062396</end>
+<label>
+<text>BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>schaerweijde build_up</code>
+<start>703.300061896</start>
+<end>747.800044729</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>schaerweijde build_up</code>
+<start>921.900076372</start>
+<end>968.800106747</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>schaerweijde build_up</code>
+<start>1048.206206461</start>
+<end>1067.806173003</end>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>schaerweijde build_up</code>
+<start>1125.500085301</start>
+<end>1143.400116219</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>schaerweijde build_up</code>
+<start>1457.409676082</start>
+<end>1497.006620865</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>schaerweijde build_up</code>
+<start>1888.206171893</start>
+<end>1926.300075601</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>schaerweijde build_up</code>
+<start>2288.600069617</start>
+<end>2327.200054602</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>schaerweijde build_up</code>
+<start>2341.700108876</start>
+<end>2382.400085071</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>schaerweijde build_up</code>
+<start>2404.100091987</start>
+<end>2427.600125445</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>schaerweijde build_up</code>
+<start>3293.500166501</start>
+<end>3348.100060541</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>schaerweijde build_up</code>
+<start>3701.100054964</start>
+<end>3759.900074213</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>schaerweijde build_up</code>
+<start>3980.400109623</start>
+<end>4002.90010133</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP M</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>schaerweijde build_up</code>
+<start>4018.100064907</start>
+<end>4034.600092656</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>schaerweijde build_up</code>
+<start>4054.800051531</start>
+<end>4073.500113073</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>schaerweijde build_up</code>
+<start>4230.600072094</start>
+<end>4239.100071718</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>schaerweijde build_up</code>
+<start>4390.700121756</start>
+<end>4415.500141173</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>schaerweijde press</code>
+<start>505.700061179</start>
+<end>513.900052388</end>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>schaerweijde press</code>
+<start>582.104266644</start>
+<end>599.404703685</end>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>schaerweijde press</code>
+<start>757.600391423</start>
+<end>776.200058564</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>224</ID>
+<code>schaerweijde press</code>
+<start>1016.900041461</start>
+<end>1051.804875419</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>BS4 HUR</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>schaerweijde press</code>
+<start>1578.820550314</start>
+<end>1682.30012345</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>BS4 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>schaerweijde press</code>
+<start>1924.400050309</start>
+<end>1938.600068101</end>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>schaerweijde press</code>
+<start>1949.607583173</start>
+<end>1965.600089555</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>schaerweijde press</code>
+<start>1997.700066132</start>
+<end>2013.600062589</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+<label>
+<text>BW2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>schaerweijde press</code>
+<start>2272.40009616</start>
+<end>2292.300124492</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>schaerweijde press</code>
+<start>2323.700107353</start>
+<end>2345.20005096</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>schaerweijde press</code>
+<start>2379.600087154</start>
+<end>2407.700109945</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>schaerweijde press</code>
+<start>3260.900056347</start>
+<end>3297.200074168</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>schaerweijde press</code>
+<start>3370.00006735</start>
+<end>3390.0001721</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>schaerweijde press</code>
+<start>3484.200094555</start>
+<end>3499.900103792</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>schaerweijde press</code>
+<start>3682.900094095</start>
+<end>3704.80011513</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>schaerweijde press</code>
+<start>3905.900084847</start>
+<end>3940.700109248</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>schaerweijde press</code>
+<start>4033.100122407</start>
+<end>4052.00017324</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>schaerweijde press</code>
+<start>4185.500053155</start>
+<end>4199.400052863</end>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>schaerweijde press</code>
+<start>4569.100069321</start>
+<end>4589.800041654</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>schaerweijde press</code>
+<start>4638.800091286</start>
+<end>4658.600111662</end>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>schaerweijde press</code>
+<start>4982.300399682</start>
+<end>5000.100094677</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>schaerweijde press</code>
+<start>5255.600119894</start>
+<end>5268.800042051</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>schaerweijde press</code>
+<start>5518.901846151</start>
+<end>5598.706339943</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 HUR</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>schaerweijde press</code>
+<start>5730.100105485</start>
+<end>5767.900049277</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>schaerweijde 23_entry</code>
+<start>327.400073399</start>
+<end>339.700102315</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>schaerweijde 23_entry</code>
+<start>445.600077358</start>
+<end>465.100068679</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>schaerweijde 23_entry</code>
+<start>511.10007397100003</start>
+<end>532.40645431</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>schaerweijde 23_entry</code>
+<start>550.405020893</start>
+<end>569.305168768</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>schaerweijde 23_entry</code>
+<start>728.000146771</start>
+<end>746.70004627</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>schaerweijde 23_entry</code>
+<start>774.60008548</start>
+<end>816.800077106</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>schaerweijde 23_entry</code>
+<start>818.300081564</start>
+<end>834.102691199</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>schaerweijde 23_entry</code>
+<start>952.700064081</start>
+<end>967.80009508</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>schaerweijde 23_entry</code>
+<start>991.00007708</start>
+<end>1003.000191122</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>schaerweijde 23_entry</code>
+<start>1130.50006801</start>
+<end>1142.400090552</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>schaerweijde 23_entry</code>
+<start>1185.000192975</start>
+<end>1201.100065767</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>schaerweijde 23_entry</code>
+<start>1464.306698999</start>
+<end>1481.000089905</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>schaerweijde 23_entry</code>
+<start>1482.305675156</start>
+<end>1496.008205532</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>schaerweijde 23_entry</code>
+<start>1558.300105199</start>
+<end>1581.700086063</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>schaerweijde 23_entry</code>
+<start>1700.500064275</start>
+<end>1713.900049193</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>schaerweijde 23_entry</code>
+<start>1724.800103692</start>
+<end>1743.605170058</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>schaerweijde 23_entry</code>
+<start>1745.803700599</start>
+<end>1769.304030703</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>schaerweijde 23_entry</code>
+<start>1803.205656627</start>
+<end>1841.608965432</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>schaerweijde 23_entry</code>
+<start>1967.400058304</start>
+<end>2000.500364507</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>schaerweijde 23_entry</code>
+<start>2024.900073673</start>
+<end>2039.800068756</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>schaerweijde 23_entry</code>
+<start>2093.905774424</start>
+<end>2105.406631674</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP M</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>schaerweijde 23_entry</code>
+<start>2309.300098743</start>
+<end>2326.20007827</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>schaerweijde 23_entry</code>
+<start>2347.200120919</start>
+<end>2360.90009896</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>schaerweijde 23_entry</code>
+<start>3206.400088433</start>
+<end>3222.800061392</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>schaerweijde 23_entry</code>
+<start>3230.203845278</start>
+<end>3245.700116882</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>schaerweijde 23_entry</code>
+<start>3307.600113416</start>
+<end>3326.100088125</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>schaerweijde 23_entry</code>
+<start>3409.100089616</start>
+<end>3421.800099658</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>schaerweijde 23_entry</code>
+<start>3429.000101841</start>
+<end>3442.900132682</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>schaerweijde 23_entry</code>
+<start>3446.500337973</start>
+<end>3460.100051891</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>schaerweijde 23_entry</code>
+<start>3515.200075083</start>
+<end>3541.800131084</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>schaerweijde 23_entry</code>
+<start>3725.900086453</start>
+<end>3738.100006129</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>schaerweijde 23_entry</code>
+<start>3746.200101922</start>
+<end>3758.90007013</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>schaerweijde 23_entry</code>
+<start>3839.800069035</start>
+<end>3870.400090827</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>schaerweijde 23_entry</code>
+<start>3990.000142247</start>
+<end>4001.900409455</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP M</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>schaerweijde 23_entry</code>
+<start>4087.200048759</start>
+<end>4101.700109958</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>schaerweijde 23_entry</code>
+<start>4418.000075977</start>
+<end>4429.900523435</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>schaerweijde 23_entry</code>
+<start>4549.600094052</start>
+<end>4571.800127363</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>schaerweijde 23_entry</code>
+<start>4588.300083487</start>
+<end>4623.200103237</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>schaerweijde 23_entry</code>
+<start>4658.500174078</start>
+<end>4674.900062786</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>schaerweijde 23_entry</code>
+<start>4725.400115731</start>
+<end>4739.500140565</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>schaerweijde 23_entry</code>
+<start>4739.510140565</start>
+<end>4750.900114523</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>schaerweijde 23_entry</code>
+<start>4789.700111771</start>
+<end>4811.600045701</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>schaerweijde 23_entry</code>
+<start>4814.100099992</start>
+<end>4832.500133784</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>schaerweijde 23_entry</code>
+<start>4913.80119514</start>
+<end>4938.100099993</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>schaerweijde 23_entry</code>
+<start>5048.801603</start>
+<end>5061.703529542</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>schaerweijde 23_entry</code>
+<start>5274.600069427</start>
+<end>5286.400038303</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>schaerweijde 23_entry</code>
+<start>5327.500068718</start>
+<end>5343.300105678</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>292</ID>
+<code>schaerweijde 23_entry</code>
+<start>5406.200100264</start>
+<end>5423.200054249</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>293</ID>
+<code>schaerweijde 23_entry</code>
+<start>5685.90006229</start>
+<end>5712.000155708</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>294</ID>
+<code>schaerweijde cause_of_penalty_stroke</code>
+<start>2145.302768532</start>
+<end>2155.302768532</end>
+<label>
+<text>ASB</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>schaerweijde cause_of_penalty_stroke</code>
+<start>3617.800108985</start>
+<end>3627.800108985</end>
+<label>
+<text>ASB</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>2093.406631674</start>
+<end>2105.406631674</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>3534.00034131</start>
+<end>3546.00034131</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>3586.70009397</start>
+<end>3598.70009397</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>299</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>4089.700109958</start>
+<end>4101.700109958</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>300</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>4662.900062786</start>
+<end>4674.900062786</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>301</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>5055.800087655</start>
+<end>5067.800087655</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>5104.407319795</start>
+<end>5116.407319795</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>303</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>5130.300103598</start>
+<end>5142.300103598</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>5157.907059917</start>
+<end>5169.907059917</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>305</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>5411.200054249</start>
+<end>5423.200054249</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>306</ID>
+<code>schaerweijde cause_of_penalty_corner</code>
+<start>5466.20006638</start>
+<end>5478.20006638</end>
+<label>
+<text>ASC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>307</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>434.600043024</start>
+<end>443.000115649</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>308</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>920.600109455</start>
+<end>946.300061622</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>309</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>1047.805691419</start>
+<end>1067.806346585</end>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>310</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>1125.100132094</start>
+<end>1143.400090552</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>311</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>1887.405313685</start>
+<end>1926.30004285</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>312</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>2288.200096617</start>
+<end>2327.20007827</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>313</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>2341.200076711</start>
+<end>2361.90009896</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>314</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>2403.700077779</start>
+<end>2424.300039862</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>315</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>3293.200073917</start>
+<end>3314.100085875</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>316</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>3700.800078796</start>
+<end>3722.100070037</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>317</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>4230.200083259</start>
+<end>4237.200071718001</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>4389.000132672</start>
+<end>4415.500141173</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>5640.30009729</start>
+<end>5649.300080332</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>320</ID>
+<code>schaerweijde ball_restart_1</code>
+<start>5792.600109189</start>
+<end>5805.200106272</end>
+<label>
+<text>BS4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>321</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>312.100091774</start>
+<end>340.700102315</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>322</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>690.700093396</start>
+<end>747.70004627</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>323</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>1371.400099307</start>
+<end>1389.400071223</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>324</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>1449.509447166</start>
+<end>1482.000089905</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>325</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>1690.400094859</start>
+<end>1699.000106192</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>326</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>1798.400129411</start>
+<end>1842.608965432</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>327</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>1961.600124096</start>
+<end>2001.500364507</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>328</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>2420.300039862</start>
+<end>2425.7001254449997</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>3144.900087765</start>
+<end>3156.500163972</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>330</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>3412.300325033</start>
+<end>3422.800099658</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>331</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>3495.900064709</start>
+<end>3542.800131084</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>332</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>4013.300018198</start>
+<end>4034.60006699</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>333</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>4048.000157656</start>
+<end>4073.50012099</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>334</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>4359.503770058</start>
+<end>4375.700032756</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>335</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>4536.300101802</start>
+<end>4554.900097551</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>336</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>4878.300076718</start>
+<end>4894.30008605</end>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>337</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>5029.401374376</start>
+<end>5062.703529542</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>338</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>5264.800072135</start>
+<end>5287.400038303</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>339</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>5326.500162927</start>
+<end>5343.300105678</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>340</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>5395.500148472</start>
+<end>5423.200054249</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>341</ID>
+<code>schaerweijde ball_restart_2</code>
+<start>5674.700095916</start>
+<end>5713.000155708</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>342</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>376.000139566</start>
+<end>398.100067399</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>398.110067399</start>
+<end>403.100358983</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>344</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>448.700065649</start>
+<end>466.100068679</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>345</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>772.200105398</start>
+<end>835.102691199</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>346</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>851.600070199</start>
+<end>874.101979782</end>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>347</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>942.300061622</start>
+<end>968.80009508</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>348</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>986.600106456</start>
+<end>1004.000191122</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>349</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>1703.300086568</start>
+<end>1714.900049193</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>350</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>1838.608965432</start>
+<end>1867.906272265</end>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>351</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>2070.400075451</start>
+<end>2099.803511065</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>2099.813511065</start>
+<end>2105.406631674</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP M</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>353</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>3310.100085875</start>
+<end>3327.100088125</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>354</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>3718.100070037</start>
+<end>3739.100006129</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>355</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>4082.500176801</start>
+<end>4101.700109958</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>356</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>4420.900061339</start>
+<end>4430.900523435</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>357</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>4550.900097551</start>
+<end>4572.800127363</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>358</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>4585.800055737</start>
+<end>4624.200103237</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>359</ID>
+<code>schaerweijde ball_restart_3</code>
+<start>4904.202140765</start>
+<end>4938.100099993</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>360</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>336.700102315</start>
+<end>361.600097232</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>361</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>462.100068679</start>
+<end>475.800096513</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>475.810096513</start>
+<end>486.300070055</end>
+</instance>
+<instance>
+<ID>363</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>486.310070055</start>
+<end>509.400021763</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>364</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>529.40645431</start>
+<end>570.305168768</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>365</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>831.102691199</start>
+<end>855.600070199</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>366</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>870.101979782</start>
+<end>883.600426125</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>883.610426125</start>
+<end>890.700104083</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>890.710104083</start>
+<end>897.0001485</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>369</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>1163.4000601</start>
+<end>1173.900019767</end>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>370</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>1198.100065767</start>
+<end>1214.400082762</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>371</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>1478.000089905</start>
+<end>1497.008205532</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>372</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>1531.200070243</start>
+<end>1547.80004774</end>
+</instance>
+<instance>
+<ID>373</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>1547.81004774</start>
+<end>1582.700086063</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>374</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>1740.605170058</start>
+<end>1769.304030703</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>375</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>1769.314030703</start>
+<end>1788.900112977</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>376</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>1934.600071517</start>
+<end>1953.206122964</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>377</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>2036.800068756</start>
+<end>2049.800065507</end>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>378</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>2357.90009896</start>
+<end>2382.400121862</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>379</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3227.004243695</start>
+<end>3245.700116882</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>380</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3245.7101168820004</start>
+<end>3264.500124056</end>
+</instance>
+<instance>
+<ID>381</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3323.100088125</start>
+<end>3332.500082416</end>
+</instance>
+<instance>
+<ID>382</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3332.5100824160004</start>
+<end>3348.100113542</end>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>383</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3426.400105174</start>
+<end>3442.900132682</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+</instance>
+<instance>
+<ID>384</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3442.910132682</start>
+<end>3461.100051891</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>385</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3469.8077971</start>
+<end>3488.000118304</end>
+</instance>
+<instance>
+<ID>386</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3735.100006129</start>
+<end>3759.90007013</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>387</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3759.9100701300003</start>
+<end>3768.00017013</end>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>388</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3788.10008363</start>
+<end>3822.200057991</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>389</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3867.400090827</start>
+<end>3883.500115077</end>
+</instance>
+<instance>
+<ID>390</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>3883.510115077</start>
+<end>3907.300398097</end>
+<label>
+<text>BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>391</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>4166.10006028</start>
+<end>4179.000390071</end>
+</instance>
+<instance>
+<ID>392</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>4808.600045701</start>
+<end>4832.500133784</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+</instance>
+<instance>
+<ID>393</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>5058.703529542</start>
+<end>5067.800087655</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>394</ID>
+<code>schaerweijde ball_restart_4</code>
+<start>5709.000155708</start>
+<end>5728.200107363</end>
+</instance>
+<instance>
+<ID>395</ID>
+<code>schaerweijde ball_win_1</code>
+<start>425.100110816</start>
+<end>438.600043024</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>396</ID>
+<code>schaerweijde ball_win_1</code>
+<start>621.00040156</start>
+<end>649.80006818</end>
+<label>
+<text>BS1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>397</ID>
+<code>schaerweijde ball_win_1</code>
+<start>975.800109913</start>
+<end>990.600106456</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>398</ID>
+<code>schaerweijde ball_win_1</code>
+<start>1179.600095267</start>
+<end>1202.100065767</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>399</ID>
+<code>schaerweijde ball_win_1</code>
+<start>1508.007035698</start>
+<end>1520.40624649</end>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>400</ID>
+<code>schaerweijde ball_win_1</code>
+<start>1678.300192035</start>
+<end>1694.400094859</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>401</ID>
+<code>schaerweijde ball_win_1</code>
+<start>3181.700090181</start>
+<end>3197.100073808</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>402</ID>
+<code>schaerweijde ball_win_1</code>
+<start>3199.200081308</start>
+<end>3223.800061392</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>403</ID>
+<code>schaerweijde ball_win_1</code>
+<start>3386.000088599</start>
+<end>3402.500153433</end>
+</instance>
+<instance>
+<ID>404</ID>
+<code>schaerweijde ball_win_1</code>
+<start>3936.700125038</start>
+<end>3953.800091205</end>
+<label>
+<text>BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>405</ID>
+<code>schaerweijde ball_win_1</code>
+<start>3960.900076455</start>
+<end>4002.900409455</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P M</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP M</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>406</ID>
+<code>schaerweijde ball_win_1</code>
+<start>4381.200117256</start>
+<end>4393.000132672</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>407</ID>
+<code>schaerweijde ball_win_1</code>
+<start>4654.600107328</start>
+<end>4674.900062786</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>408</ID>
+<code>schaerweijde ball_win_1</code>
+<start>5594.704765027</start>
+<end>5599.800044318</end>
+<label>
+<text>BW4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>409</ID>
+<code>schaerweijde ball_win_1</code>
+<start>5599.810044318</start>
+<end>5604.301607151</end>
+<label>
+<text>BS4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>410</ID>
+<code>schaerweijde ball_win_1</code>
+<start>5614.500147788</start>
+<end>5622.400063954</end>
+<label>
+<text>BS4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>411</ID>
+<code>schaerweijde ball_win_1</code>
+<start>5627.800069329</start>
+<end>5644.30009729</end>
+<label>
+<text>BS1 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>412</ID>
+<code>schaerweijde ball_win_1</code>
+<start>5654.900094665</start>
+<end>5666.400087957</end>
+<label>
+<text>BW4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>413</ID>
+<code>schaerweijde ball_win_1</code>
+<start>5666.4100879570005</start>
+<end>5678.700095916</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>414</ID>
+<code>schaerweijde ball_win_1</code>
+<start>5763.900098068</start>
+<end>5769.50013186</end>
+<label>
+<text>BS4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>415</ID>
+<code>schaerweijde ball_win_2</code>
+<start>305.300124899</start>
+<end>316.100091774</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>416</ID>
+<code>schaerweijde ball_win_2</code>
+<start>509.900044721</start>
+<end>533.40645431</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>417</ID>
+<code>schaerweijde ball_win_2</code>
+<start>659.400060354</start>
+<end>677.300119104</end>
+<label>
+<text>BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>418</ID>
+<code>schaerweijde ball_win_2</code>
+<start>677.310119104</start>
+<end>684.800052271</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>419</ID>
+<code>schaerweijde ball_win_2</code>
+<start>687.300103771</start>
+<end>694.700093396</end>
+<label>
+<text>BS2 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>420</ID>
+<code>schaerweijde ball_win_2</code>
+<start>1722.100103443</start>
+<end>1744.605170058</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>421</ID>
+<code>schaerweijde ball_win_2</code>
+<start>2009.600087881</start>
+<end>2040.800068756</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>422</ID>
+<code>schaerweijde ball_win_2</code>
+<start>3836.700099785</start>
+<end>3871.400090827</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>423</ID>
+<code>schaerweijde ball_win_2</code>
+<start>4772.800112896</start>
+<end>4812.600045701</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>424</ID>
+<code>schaerweijde ball_win_3</code>
+<start>595.404268477</start>
+<end>604.704328518</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>425</ID>
+<code>schaerweijde ball_win_3</code>
+<start>1698.90008565</start>
+<end>1707.300086568</end>
+<label>
+<text>BS3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>426</ID>
+<code>schaerweijde ball_win_3</code>
+<start>3345.900066958</start>
+<end>3373.700054517</end>
+</instance>
+<instance>
+<ID>427</ID>
+<code>schaerweijde ball_win_3</code>
+<start>4195.400054531</start>
+<end>4205.600104364</end>
+<label>
+<text>BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>428</ID>
+<code>schaerweijde ball_win_3</code>
+<start>4724.100077732</start>
+<end>4740.500140565</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P R</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>429</ID>
+<code>schaerweijde ball_win_3</code>
+<start>4740.510140565</start>
+<end>4751.900114523</end>
+<label>
+<text>23P</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>23P L</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>430</ID>
+<code>schaerweijde ball_win_4</code>
+<start>1152.800081433</start>
+<end>1167.4000601</end>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>431</ID>
+<code>schaerweijde ball_win_4</code>
+<start>1519.804391697</start>
+<end>1535.200070243</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>432</ID>
+<code>schaerweijde ball_win_4</code>
+<start>3459.300064474</start>
+<end>3473.8077971</end>
+<label>
+<text>BS4 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>433</ID>
+<code>schaerweijde ball_win_4</code>
+<start>4621.000159524</start>
+<end>4642.400070828</end>
+</instance>
+<instance>
+<ID>434</ID>
+<code>schaerweijde circle_penetration</code>
+<start>346.900114816</start>
+<end>360.600097232</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+</instance>
+<instance>
+<ID>435</ID>
+<code>schaerweijde circle_penetration</code>
+<start>550.305337601</start>
+<end>569.305168768</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>436</ID>
+<code>schaerweijde circle_penetration</code>
+<start>884.500204208</start>
+<end>896.0001485</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+</instance>
+<instance>
+<ID>437</ID>
+<code>schaerweijde circle_penetration</code>
+<start>1515.608493073</start>
+<end>1534.200070243</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+</instance>
+<instance>
+<ID>438</ID>
+<code>schaerweijde circle_penetration</code>
+<start>1558.600112657</start>
+<end>1581.700086063</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+</instance>
+<instance>
+<ID>439</ID>
+<code>schaerweijde circle_penetration</code>
+<start>1701.400094276</start>
+<end>1713.900049193</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>440</ID>
+<code>schaerweijde circle_penetration</code>
+<start>1967.700081012</start>
+<end>2000.500364507</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+</instance>
+<instance>
+<ID>441</ID>
+<code>schaerweijde circle_penetration</code>
+<start>2092.606807007</start>
+<end>2105.406631674</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>CP M</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>442</ID>
+<code>schaerweijde circle_penetration</code>
+<start>3206.900071641</start>
+<end>3222.800061392</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>443</ID>
+<code>schaerweijde circle_penetration</code>
+<start>3307.400085041</start>
+<end>3326.100088125</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>444</ID>
+<code>schaerweijde circle_penetration</code>
+<start>3527.200032626</start>
+<end>3541.800131084</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>445</ID>
+<code>schaerweijde circle_penetration</code>
+<start>3847.400127326</start>
+<end>3870.400090827</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+</instance>
+<instance>
+<ID>446</ID>
+<code>schaerweijde circle_penetration</code>
+<start>3989.700110789</start>
+<end>4001.900409455</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>CP M</text>
+</label>
+</instance>
+<instance>
+<ID>447</ID>
+<code>schaerweijde circle_penetration</code>
+<start>4417.100065602</start>
+<end>4429.900523435</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+</instance>
+<instance>
+<ID>448</ID>
+<code>schaerweijde circle_penetration</code>
+<start>4660.500112911</start>
+<end>4674.900062786</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP DL</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>449</ID>
+<code>schaerweijde circle_penetration</code>
+<start>4788.000109854</start>
+<end>4811.600045701</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP R</text>
+</label>
+</instance>
+<instance>
+<ID>450</ID>
+<code>schaerweijde circle_penetration</code>
+<start>5053.702205</start>
+<end>5067.800087655</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP DR</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>451</ID>
+<code>schaerweijde circle_penetration</code>
+<start>5326.60003576</start>
+<end>5343.300105678</end>
+<label>
+<text>CP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>CP L</text>
+</label>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>452</ID>
+<code>schaerweijde goal_attempt</code>
+<start>554.906071227</start>
+<end>566.906071227</end>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>453</ID>
+<code>schaerweijde goal_attempt</code>
+<start>1704.800096151</start>
+<end>1716.800096151</end>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>454</ID>
+<code>schaerweijde goal_attempt</code>
+<start>3211.700084391</start>
+<end>3223.700084391</end>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>455</ID>
+<code>schaerweijde goal_attempt</code>
+<start>3311.200087374</start>
+<end>3323.200087374</end>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>456</ID>
+<code>schaerweijde goal_attempt</code>
+<start>3530.400108001</start>
+<end>3542.400108001</end>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>457</ID>
+<code>schaerweijde goal_attempt</code>
+<start>4420.400042894</start>
+<end>4432.400042894</end>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>458</ID>
+<code>schaerweijde goal_attempt</code>
+<start>5332.100162053</start>
+<end>5344.100162053</end>
+<label>
+<text>DP</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>459</ID>
+<code>schaerweijde goal</code>
+<start>2217.406631786</start>
+<end>2233.406631786</end>
+<label>
+<text>GOAL</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>460</ID>
+<code>schaerweijde goal</code>
+<start>5182.604677477</start>
+<end>5198.604677477</end>
+<label>
+<text>GOAL</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>461</ID>
+<code>schaerweijde goal</code>
+<start>5329.300105678</start>
+<end>5345.300105678</end>
+<label>
+<text>GOAL</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>462</ID>
+<code>schaerweijde penalty_stroke</code>
+<start>2225.607554745</start>
+<end>2233.607554745</end>
+<label>
+<text>SB</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>463</ID>
+<code>schaerweijde penalty_stroke</code>
+<start>3661.800086795</start>
+<end>3669.800086795</end>
+<label>
+<text>SB</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>464</ID>
+<code>schaerweijde penalty_corner</code>
+<start>2142.700091702</start>
+<end>2156.700091702</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+<instance>
+<ID>465</ID>
+<code>schaerweijde penalty_corner</code>
+<start>3590.900111553</start>
+<end>3621.0900725859997</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>466</ID>
+<code>schaerweijde penalty_corner</code>
+<start>3621.100072586</start>
+<end>3633.100072586</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>ASB</text>
+</label>
+</instance>
+<instance>
+<ID>467</ID>
+<code>schaerweijde penalty_corner</code>
+<start>4140.800084784</start>
+<end>4154.800084784</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+</instance>
+<instance>
+<ID>468</ID>
+<code>schaerweijde penalty_corner</code>
+<start>4713.700095982</start>
+<end>4727.700095982</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>BW1 HUR</text>
+</label>
+<label>
+<text>BW3 SCHA</text>
+</label>
+</instance>
+<instance>
+<ID>469</ID>
+<code>schaerweijde penalty_corner</code>
+<start>5108.305816921</start>
+<end>5134.690118222</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>470</ID>
+<code>schaerweijde penalty_corner</code>
+<start>5134.700118222</start>
+<end>5146.700118222</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>ASC</text>
+</label>
+</instance>
+<instance>
+<ID>471</ID>
+<code>schaerweijde penalty_corner</code>
+<start>5156.000177962</start>
+<end>5170.000177962</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>472</ID>
+<code>schaerweijde penalty_corner</code>
+<start>5189.706914519</start>
+<end>5203.706914519</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>473</ID>
+<code>schaerweijde penalty_corner</code>
+<start>5466.20011277</start>
+<end>5480.20011277</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+<instance>
+<ID>474</ID>
+<code>schaerweijde penalty_corner</code>
+<start>5495.203122376</start>
+<end>5509.203122376</end>
+<label>
+<text>SC</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>BS1 HUR</code>
+<R>0</R>
+<G>38550</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 HUR</code>
+<R>0</R>
+<G>38550</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 HUR</code>
+<R>0</R>
+<G>38550</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 HUR</code>
+<R>0</R>
+<G>38550</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 HUR</code>
+<R>0</R>
+<G>38550</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 HUR</code>
+<R>0</R>
+<G>38550</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 HUR</code>
+<R>0</R>
+<G>38550</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 HUR</code>
+<R>0</R>
+<G>38550</G>
+<B>65536</B>
+</row>
+<row>
+<code>OPBOUW HUR</code>
+<R>0</R>
+<G>38550</G>
+<B>65536</B>
+</row>
+<row>
+<code>PRESS HUR</code>
+<R>0</R>
+<G>38550</G>
+<B>65536</B>
+</row>
+<row>
+<code>23P HUR</code>
+<R>30326</R>
+<G>54998</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC HUR</code>
+<R>30326</R>
+<G>54998</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP HUR</code>
+<R>30326</R>
+<G>54998</G>
+<B>65536</B>
+</row>
+<row>
+<code>DP HUR</code>
+<R>30326</R>
+<G>54998</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL HUR</code>
+<R>30326</R>
+<G>54998</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC HUR</code>
+<R>30326</R>
+<G>54998</G>
+<B>65536</B>
+</row>
+<row>
+<code>GROEN HUR</code>
+<R>20303</R>
+<G>36751</G>
+<B>0</B>
+</row>
+<row>
+<code>GEEL HUR</code>
+<R>65536</R>
+<G>64507</G>
+<B>0</B>
+</row>
+<row>
+<code>EIND</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>OPBOUW SCHA</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>PRESS SCHA</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>23P SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>ASB SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>ASC SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>BS1 SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>BS2 SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>BS3 SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>BS4 SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>BW1 SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>BW2 SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>BW3 SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>BW4 SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>CP SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>DP SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>GOAL SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>SB SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+<row>
+<code>SC SCHA</code>
+<R>65536</R>
+<G>32382</G>
+<B>31097</B>
+</row>
+</ROWS>
+</file>

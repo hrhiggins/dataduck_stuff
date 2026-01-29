@@ -1,0 +1,6343 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>groningen cause_of_penalty_corner</code>
+<start>1345.502928415</start>
+<end>1355.502928415</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>groningen cause_of_penalty_corner</code>
+<start>2448.200189111</start>
+<end>2458.200189111</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>groningen cause_of_penalty_corner</code>
+<start>2497.300251616</start>
+<end>2507.300251616</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>groningen cause_of_penalty_corner</code>
+<start>3038.100138636</start>
+<end>3048.100138636</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>groningen cause_of_penalty_corner</code>
+<start>3337.800115879</start>
+<end>3347.800115879</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>groningen cause_of_penalty_corner</code>
+<start>3382.000061006</start>
+<end>3392.000061006</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>757.400075413</start>
+<end>767.400075413</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>1245.202766268</start>
+<end>1255.202766268</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>groningen ball_restart_1</code>
+<start>247.000069704</start>
+<end>274.800700149</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>groningen ball_restart_1</code>
+<start>309.500120267</start>
+<end>332.302675274</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>groningen ball_restart_1</code>
+<start>332.312675274</start>
+<end>358.60276019</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>groningen ball_restart_1</code>
+<start>560.700111184</start>
+<end>580.200526637</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>groningen ball_restart_1</code>
+<start>666.400168414</start>
+<end>689.700095068</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>groningen ball_restart_1</code>
+<start>961.500068261</start>
+<end>999.900195406</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>groningen ball_restart_1</code>
+<start>999.910195406</start>
+<end>1034.800116912</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>groningen ball_restart_1</code>
+<start>1592.400149674</start>
+<end>1641.900085181</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>groningen ball_restart_1</code>
+<start>1651.100125178</start>
+<end>1669.100193229</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>groningen ball_restart_1</code>
+<start>1707.700118528</start>
+<end>1731.100172307</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>groningen ball_restart_1</code>
+<start>1872.101535271</start>
+<end>1903.600159966</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>groningen ball_restart_1</code>
+<start>1927.000243565</start>
+<end>1973.800092321</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>groningen ball_restart_1</code>
+<start>2141.700059655</start>
+<end>2155.800211253</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>groningen ball_restart_1</code>
+<start>2155.810211253</start>
+<end>2170.700098927</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>groningen ball_restart_1</code>
+<start>2265.800136086</start>
+<end>2295.400110197</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>groningen ball_restart_1</code>
+<start>2364.900070629</start>
+<end>2397.400190005</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>groningen ball_restart_1</code>
+<start>2763.100059483</start>
+<end>2799.002494681</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>groningen ball_restart_1</code>
+<start>3147.100066422</start>
+<end>3176.400111198</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>groningen ball_restart_1</code>
+<start>3223.700198837</start>
+<end>3244.9001382</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>groningen ball_restart_1</code>
+<start>3451.900318387</start>
+<end>3467.701823692</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>groningen ball_restart_1</code>
+<start>3543.600148596</start>
+<end>3572.100061786</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>groningen ball_restart_1</code>
+<start>3665.600130186</start>
+<end>3691.700122746</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>groningen ball_restart_1</code>
+<start>3755.400178627</start>
+<end>3775.800150886</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>groningen ball_restart_1</code>
+<start>4076.700108656</start>
+<end>4088.300074596</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>groningen ball_restart_1</code>
+<start>4091.600090683</start>
+<end>4112.100106895</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>hbs ball_restart_1</code>
+<start>149.500120517</start>
+<end>178.300104859</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>hbs ball_restart_1</code>
+<start>230.20013842</start>
+<end>251.000069704</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>hbs ball_restart_1</code>
+<start>376.600111145</start>
+<end>406.600105977</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>hbs ball_restart_1</code>
+<start>519.601849147</start>
+<end>540.004026904</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>hbs ball_restart_1</code>
+<start>617.200390733</start>
+<end>642.800126914</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>hbs ball_restart_1</code>
+<start>1050.900143892</start>
+<end>1072.700130279</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>hbs ball_restart_1</code>
+<start>1160.200103939</start>
+<end>1184.500117658</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>hbs ball_restart_1</code>
+<start>1458.100103346</start>
+<end>1487.200084822</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>hbs ball_restart_1</code>
+<start>1674.400410217</start>
+<end>1711.700118528</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>hbs ball_restart_1</code>
+<start>2339.500110843</start>
+<end>2357.90536931</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>hbs ball_restart_1</code>
+<start>2577.700103062</start>
+<end>2588.600112151</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>hbs ball_restart_1</code>
+<start>2848.100109259</start>
+<end>2878.300088804</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>hbs ball_restart_1</code>
+<start>3120.10009314</start>
+<end>3151.100066422</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>hbs ball_restart_1</code>
+<start>3568.100061786</start>
+<end>3604.900070198</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>hbs ball_restart_1</code>
+<start>3604.910070198</start>
+<end>3624.400695757</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>hbs ball_restart_1</code>
+<start>3717.000106374</start>
+<end>3759.400178627</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>hbs ball_restart_1</code>
+<start>3989.800120741</start>
+<end>4015.700122129</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>hbs ball_restart_1</code>
+<start>4261.900910607</start>
+<end>4280.30057518</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>groningen ball_restart_2</code>
+<start>6.600228673</start>
+<end>38.20058121</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>groningen ball_restart_2</code>
+<start>38.21058121</start>
+<end>85.900090599</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>groningen ball_restart_2</code>
+<start>85.910090599</start>
+<end>100.700099123</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>groningen ball_restart_2</code>
+<start>100.710099123</start>
+<end>107.900104882</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>groningen ball_restart_2</code>
+<start>107.910104882</start>
+<end>124.300094797</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>groningen ball_restart_2</code>
+<start>576.200526637</start>
+<end>604.400188591</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>groningen ball_restart_2</code>
+<start>688.900169253</start>
+<end>719.600133258</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>groningen ball_restart_2</code>
+<start>1317.300124861</start>
+<end>1355.502928415</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>groningen ball_restart_2</code>
+<start>1665.100193229</start>
+<end>1678.400410217</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>groningen ball_restart_2</code>
+<start>1761.800489368</start>
+<end>1781.400085386</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>groningen ball_restart_2</code>
+<start>1838.000163174</start>
+<end>1849.30009387</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>groningen ball_restart_2</code>
+<start>1849.31009387</start>
+<end>1858.701034873</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>groningen ball_restart_2</code>
+<start>2036.800135053</start>
+<end>2098.600117883</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>groningen ball_restart_2</code>
+<start>2232.000106519</start>
+<end>2247.400104353</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>groningen ball_restart_2</code>
+<start>2795.002494681</start>
+<end>2816.200101664</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>groningen ball_restart_2</code>
+<start>2893.102766966</start>
+<end>2921.100575265</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>groningen ball_restart_2</code>
+<start>2947.701364015</start>
+<end>2971.90010535</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>groningen ball_restart_2</code>
+<start>3303.100116213</start>
+<end>3327.400167878</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>groningen ball_restart_2</code>
+<start>3687.700122746</start>
+<end>3702.600154129</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>groningen ball_restart_2</code>
+<start>3702.6101541290004</start>
+<end>3721.000106374</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>groningen ball_restart_2</code>
+<start>3771.800150886</start>
+<end>3788.900157735</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>groningen ball_restart_2</code>
+<start>3788.910157735</start>
+<end>3808.300157973</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>groningen ball_restart_2</code>
+<start>3904.600115066</start>
+<end>3936.800088138</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>groningen ball_restart_2</code>
+<start>4051.000104598</start>
+<end>4061.100075693</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>groningen ball_restart_2</code>
+<start>4117.300107489</start>
+<end>4130.100123598</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>groningen ball_restart_2</code>
+<start>4149.600137291</start>
+<end>4178.800194035</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>groningen ball_restart_2</code>
+<start>4318.000264304</start>
+<end>4352.200113126</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>groningen ball_restart_2</code>
+<start>4365.600143502</start>
+<end>4375.600102697</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>hbs ball_restart_2</code>
+<start>0.0</start>
+<end>10.600228673</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>hbs ball_restart_2</code>
+<start>174.300104859</start>
+<end>197.300100615</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>hbs ball_restart_2</code>
+<start>197.31010061499998</start>
+<end>199.800109067</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>hbs ball_restart_2</code>
+<start>856.000158105</start>
+<end>895.200134935</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>hbs ball_restart_2</code>
+<start>1120.000097938</start>
+<end>1136.400144574</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW3 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>hbs ball_restart_2</code>
+<start>2537.100087724</start>
+<end>2553.800348671</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>hbs ball_restart_2</code>
+<start>2553.810348671</start>
+<end>2581.700103062</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>hbs ball_restart_2</code>
+<start>3438.700076739</start>
+<end>3455.900318387</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>hbs ball_restart_2</code>
+<start>3827.900638647</start>
+<end>3870.700126227</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>hbs ball_restart_2</code>
+<start>4220.000110412</start>
+<end>4242.100125715</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>hbs ball_restart_2</code>
+<start>4276.30057518</start>
+<end>4291.000201472</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND: GOAL HBS</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>hbs ball_restart_2</code>
+<start>4348.200113126</start>
+<end>4362.800154321</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>groningen ball_restart_3</code>
+<start>131.100106494</start>
+<end>140.10013233</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>groningen ball_restart_3</code>
+<start>214.100111258</start>
+<end>234.20013842</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>groningen ball_restart_3</code>
+<start>1030.800116912</start>
+<end>1044.600139376</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>groningen ball_restart_3</code>
+<start>1081.600110478</start>
+<end>1110.100134274</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>groningen ball_restart_3</code>
+<start>1412.400631899</start>
+<end>1426.600153716</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>groningen ball_restart_3</code>
+<start>2409.700070876</start>
+<end>2452.600108454</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>groningen ball_restart_3</code>
+<start>2689.400145874</start>
+<end>2703.400166965</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>groningen ball_restart_3</code>
+<start>2812.200101664</start>
+<end>2837.100107758</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>groningen ball_restart_3</code>
+<start>3323.400167878</start>
+<end>3344.200127423</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>groningen ball_restart_3</code>
+<start>4011.700122129</start>
+<end>4037.100080656</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>groningen ball_restart_3</code>
+<start>4174.800194035</start>
+<end>4184.900109919</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>hbs ball_restart_3</code>
+<start>444.000075948</start>
+<end>458.40032401</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>hbs ball_restart_3</code>
+<start>1190.800493513</start>
+<end>1204.900514564</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>hbs ball_restart_3</code>
+<start>1204.910514564</start>
+<end>1232.500146668</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND: DP HBS</text>
+</label>
+<label>
+<text>DP HBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>hbs ball_restart_3</code>
+<start>1637.900085181</start>
+<end>1655.100125178</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND: DP HBS</text>
+</label>
+<label>
+<text>DP HBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>hbs ball_restart_3</code>
+<start>1777.400085386</start>
+<end>1818.500179422</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>hbs ball_restart_3</code>
+<start>2707.300121345</start>
+<end>2726.80020926</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>hbs ball_restart_3</code>
+<start>2938.600113583</start>
+<end>2951.701364015</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>hbs ball_restart_3</code>
+<start>3253.100093148</start>
+<end>3280.400257004</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>hbs ball_restart_3</code>
+<start>3641.3000665</start>
+<end>3657.000198134</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>hbs ball_restart_3</code>
+<start>4033.100080656</start>
+<end>4046.400307717</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>hbs ball_restart_3</code>
+<start>4193.400099316</start>
+<end>4207.000458355</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>groningen ball_restart_4</code>
+<start>354.60276019</start>
+<end>366.400223914</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>groningen ball_restart_4</code>
+<start>366.41022391399997</start>
+<end>380.600111145</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>groningen ball_restart_4</code>
+<start>413.900081531</start>
+<end>429.500163891</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>groningen ball_restart_4</code>
+<start>429.510163891</start>
+<end>448.000075948</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>groningen ball_restart_4</code>
+<start>1499.700249697</start>
+<end>1523.800202479</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>groningen ball_restart_4</code>
+<start>1531.500089967</start>
+<end>1555.600480515</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>groningen ball_restart_4</code>
+<start>2292.900091951</start>
+<end>2306.800145322</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>groningen ball_restart_4</code>
+<start>2448.600108454</start>
+<end>2458.200189111</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>groningen ball_restart_4</code>
+<start>2584.600112151</start>
+<end>2627.600670104</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND: DP GRO</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>groningen ball_restart_4</code>
+<start>2640.300196067</start>
+<end>2652.900129277</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>groningen ball_restart_4</code>
+<start>2652.910129277</start>
+<end>2658.700149154</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>groningen ball_restart_4</code>
+<start>2658.710149154</start>
+<end>2666.400109646</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>groningen ball_restart_4</code>
+<start>2673.600115431</start>
+<end>2684.900096373</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>groningen ball_restart_4</code>
+<start>2684.910096373</start>
+<end>2693.400145874</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>groningen ball_restart_4</code>
+<start>2833.100107758</start>
+<end>2842.600112534</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>groningen ball_restart_4</code>
+<start>3026.500083839</start>
+<end>3040.800118993</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>groningen ball_restart_4</code>
+<start>3040.8101189930003</start>
+<end>3047.002516409</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>groningen ball_restart_4</code>
+<start>3047.012516409</start>
+<end>3048.100138636</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>groningen ball_restart_4</code>
+<start>3866.700126227</start>
+<end>3891.100105401</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>groningen ball_restart_4</code>
+<start>3932.800088138</start>
+<end>3967.200208537</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>groningen ball_restart_4</code>
+<start>3967.210208537</start>
+<end>3993.800120741</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>hbs ball_restart_4</code>
+<start>270.800700149</start>
+<end>289.600102576</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND: ASC HBS</text>
+</label>
+<label>
+<text>ASC HBS</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>hbs ball_restart_4</code>
+<start>537.700478449</start>
+<end>564.700111184</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>hbs ball_restart_4</code>
+<start>660.000142089</start>
+<end>670.400168414</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>hbs ball_restart_4</code>
+<start>816.000218048</start>
+<end>838.10013386</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>hbs ball_restart_4</code>
+<start>838.11013386</start>
+<end>841.900102363</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>hbs ball_restart_4</code>
+<start>921.100332601</start>
+<end>965.500068261</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>hbs ball_restart_4</code>
+<start>1814.500179422</start>
+<end>1824.600176726</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>hbs ball_restart_4</code>
+<start>1899.600159966</start>
+<end>1916.400132731</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>hbs ball_restart_4</code>
+<start>2126.200092743</start>
+<end>2145.700059655</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>hbs ball_restart_4</code>
+<start>3208.403530933</start>
+<end>3227.700198837</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>hbs ball_restart_4</code>
+<start>3463.701823692</start>
+<end>3478.800177243</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>hbs ball_restart_4</code>
+<start>3630.023688</start>
+<end>3640.000743512</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>hbs ball_restart_4</code>
+<start>4203.000458355</start>
+<end>4214.200197298</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>groningen ball_win_1</code>
+<start>454.40032401</start>
+<end>462.800115732</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>groningen ball_win_1</code>
+<start>638.800126914</start>
+<end>664.000142089</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>groningen ball_win_1</code>
+<start>837.900102363</start>
+<end>860.000158105</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>groningen ball_win_1</code>
+<start>891.200134935</start>
+<end>906.200169904</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>groningen ball_win_1</code>
+<start>1228.500146668</start>
+<end>1321.300124861</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND: ASC HBS</text>
+</label>
+<label>
+<text>ASC HBS</text>
+</label>
+<label>
+<text>REND: GOAL HBS</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>groningen ball_win_1</code>
+<start>1483.200084822</start>
+<end>1503.700249697</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>groningen ball_win_1</code>
+<start>1820.600176726</start>
+<end>1842.000163174</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>groningen ball_win_1</code>
+<start>2095.600117883</start>
+<end>2130.200092743</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>groningen ball_win_1</code>
+<start>2353.90536931</start>
+<end>2368.900070629</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>groningen ball_win_1</code>
+<start>2874.300088804</start>
+<end>2897.102766966</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>groningen ball_win_1</code>
+<start>3276.400257004</start>
+<end>3307.100116213</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>158</ID>
+<code>groningen ball_win_1</code>
+<start>3474.800177243</start>
+<end>3499.300099466</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>groningen ball_win_1</code>
+<start>3620.400695757</start>
+<end>3634.023688</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>groningen ball_win_1</code>
+<start>3636.000743512</start>
+<end>3645.3000665</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>groningen ball_win_1</code>
+<start>3653.000198134</start>
+<end>3669.600130186</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>groningen ball_win_1</code>
+<start>3818.302938842</start>
+<end>3831.900638647</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>groningen ball_win_1</code>
+<start>4042.400307717</start>
+<end>4055.000104598</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>groningen ball_win_1</code>
+<start>4110.400221485</start>
+<end>4121.300107489</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>groningen ball_win_1</code>
+<start>4210.200197298</start>
+<end>4224.000110412</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>groningen ball_win_1</code>
+<start>4238.100125715</start>
+<end>4244.90012518</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>groningen ball_win_1</code>
+<start>4244.91012518</start>
+<end>4265.900910607</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>groningen ball_win_1</code>
+<start>4358.800154321</start>
+<end>4369.600143502</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>hbs ball_win_1</code>
+<start>120.300094797</start>
+<end>135.100106494</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>hbs ball_win_1</code>
+<start>136.10013233</start>
+<end>153.500120517</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>hbs ball_win_1</code>
+<start>1040.600139376</start>
+<end>1054.900143892</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>hbs ball_win_1</code>
+<start>1071.700095324</start>
+<end>1085.600110478</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>hbs ball_win_1</code>
+<start>1106.100134274</start>
+<end>1124.000097938</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>hbs ball_win_1</code>
+<start>1398.900131819</start>
+<end>1416.400631899</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>hbs ball_win_1</code>
+<start>1422.600153716</start>
+<end>1462.100103346</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>hbs ball_win_1</code>
+<start>1550.700089145</start>
+<end>1596.400149674</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>hbs ball_win_1</code>
+<start>1969.800092321</start>
+<end>2011.4003538</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: GOAL HBS</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>hbs ball_win_1</code>
+<start>2166.700098927</start>
+<end>2200.400188461</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>hbs ball_win_1</code>
+<start>2302.800145322</start>
+<end>2312.300056656</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>hbs ball_win_1</code>
+<start>2312.310056656</start>
+<end>2343.500110843</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>hbs ball_win_1</code>
+<start>2402.400215426</start>
+<end>2413.700070876</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>hbs ball_win_1</code>
+<start>2523.000113248</start>
+<end>2541.100087724</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>hbs ball_win_1</code>
+<start>2623.600670104</start>
+<end>2634.70054153</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>hbs ball_win_1</code>
+<start>2662.400109646</start>
+<end>2671.500121559</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>hbs ball_win_1</code>
+<start>2699.400166965</start>
+<end>2711.300121345</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>hbs ball_win_1</code>
+<start>2838.600112534</start>
+<end>2852.100109259</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>hbs ball_win_1</code>
+<start>2917.100575265</start>
+<end>2922.700150244</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW3 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>hbs ball_win_1</code>
+<start>3340.200127423</start>
+<end>3346.000359572</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>hbs ball_win_1</code>
+<start>3495.300099466</start>
+<end>3505.100111802</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>hbs ball_win_1</code>
+<start>3520.000059705</start>
+<end>3547.600148596</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>hbs ball_win_1</code>
+<start>3887.100105401</start>
+<end>3908.600115066</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>hbs ball_win_1</code>
+<start>4057.100075693</start>
+<end>4080.700108656</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>hbs ball_win_1</code>
+<start>4126.100123598</start>
+<end>4146.200127742</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>hbs ball_win_1</code>
+<start>4371.600102697</start>
+<end>4390.00032299</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>groningen ball_win_2</code>
+<start>195.800109067</start>
+<end>218.100111258</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>groningen ball_win_2</code>
+<start>485.200181698</start>
+<end>523.601849147</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>groningen ball_win_2</code>
+<start>606.200169084</start>
+<end>621.200390733</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>groningen ball_win_2</code>
+<start>1180.500117658</start>
+<end>1194.800493513</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>groningen ball_win_2</code>
+<start>2196.400188461</start>
+<end>2236.000106519</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>groningen ball_win_2</code>
+<start>2251.500162732</start>
+<end>2269.800136086</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>groningen ball_win_2</code>
+<start>2722.80020926</start>
+<end>2745.000256502</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW2 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>hbs ball_win_2</code>
+<start>403.600105977</start>
+<end>410.000116587</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW3 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>hbs ball_win_2</code>
+<start>715.600133258</start>
+<end>767.400075413</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND: DP HBS</text>
+</label>
+<label>
+<text>DP HBS</text>
+</label>
+<label>
+<text>REND: ASC HBS</text>
+</label>
+<label>
+<text>ASC HBS</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>hbs ball_win_2</code>
+<start>1519.800202479</start>
+<end>1535.500089967</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>hbs ball_win_2</code>
+<start>1854.701034873</start>
+<end>1876.101535271</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>hbs ball_win_2</code>
+<start>2741.000256502</start>
+<end>2767.100059483</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND: DP HBS</text>
+</label>
+<label>
+<text>DP HBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>hbs ball_win_2</code>
+<start>2967.90010535</start>
+<end>2988.700084542</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW3 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>hbs ball_win_2</code>
+<start>3240.9001382</start>
+<end>3257.100093148</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>hbs ball_win_2</code>
+<start>3804.300157973</start>
+<end>3822.302938842</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>hbs ball_win_2</code>
+<start>4143.200127742</start>
+<end>4153.600137291</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>hbs ball_win_2</code>
+<start>4180.900109919</start>
+<end>4197.400099316</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>groningen ball_win_3</code>
+<start>406.000116587</start>
+<end>417.900081531</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>groningen ball_win_3</code>
+<start>1132.400144574</start>
+<end>1164.200103939</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND: DP GRO</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>groningen ball_win_3</code>
+<start>2396.500180777</start>
+<end>2406.400215426</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>groningen ball_win_3</code>
+<start>2918.700150244</start>
+<end>2942.600113583</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>groningen ball_win_3</code>
+<start>2984.700084542</start>
+<end>3030.500083839</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>hbs ball_win_3</code>
+<start>458.800115732</start>
+<end>489.200181698</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>hbs ball_win_3</code>
+<start>600.400188591</start>
+<end>610.200169084</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>hbs ball_win_3</code>
+<start>685.700095068</start>
+<end>692.900169253</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>hbs ball_win_3</code>
+<start>902.200169904</start>
+<end>925.100332601</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>hbs ball_win_3</code>
+<start>2243.400104353</start>
+<end>2255.500162732</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>hbs ball_win_3</code>
+<start>2393.400190005</start>
+<end>2400.500180777</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW3 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>hbs ball_win_3</code>
+<start>3172.400111198</start>
+<end>3212.403530933</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>224</ID>
+<code>hbs ball_win_3</code>
+<start>4084.300074596</start>
+<end>4095.600090683</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>groningen ball_win_4</code>
+<start>1068.700130279</start>
+<end>1075.700095324</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>groningen ball_win_4</code>
+<start>2308.300056656</start>
+<end>2315.800223802</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>groningen ball_win_4</code>
+<start>2630.70054153</start>
+<end>2644.300196067</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>groningen ball_win_4</code>
+<start>2667.500121559</start>
+<end>2677.600115431</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>groningen ball_win_4</code>
+<start>3342.000359572</start>
+<end>3347.800115879</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>groningen ball_win_4</code>
+<start>3501.100111802</start>
+<end>3524.000059705</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>REND: CP GRO</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>hbs ball_win_4</code>
+<start>1727.100172307</start>
+<end>1734.900143854</end>
+<label>
+<text>REND: CP HBS</text>
+</label>
+<label>
+<text>CP HBS</text>
+</label>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: GOAL HBS</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>hbs ball_win_4</code>
+<start>4108.100106895</start>
+<end>4114.400221485</end>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>hbs ball_win_4</code>
+<start>4240.90012518</start>
+<end>4247.900101936</end>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>groningen circle_penetration</code>
+<start>209.300097789</start>
+<end>231.300097789</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>groningen circle_penetration</code>
+<start>381.90010961</start>
+<end>403.90010961</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>groningen circle_penetration</code>
+<start>409.000156537</start>
+<end>430.500163891</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>groningen circle_penetration</code>
+<start>504.00007851600003</start>
+<end>526.000078516</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>groningen circle_penetration</code>
+<start>1134.100099402</start>
+<end>1156.100099402</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: DP GRO</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>groningen circle_penetration</code>
+<start>1341.803611323</start>
+<end>1355.502928415</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>groningen circle_penetration</code>
+<start>1410.200237741</start>
+<end>1426.600153716</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>groningen circle_penetration</code>
+<start>2199.700109017</start>
+<end>2221.700109017</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>groningen circle_penetration</code>
+<start>2445.400129324</start>
+<end>2458.200189111</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>groningen circle_penetration</code>
+<start>2584.200218646</start>
+<end>2606.200218646</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>groningen circle_penetration</code>
+<start>2610.100078159</start>
+<end>2632.100078159</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>groningen circle_penetration</code>
+<start>2632.1100781590003</start>
+<end>2644.300196067</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>groningen circle_penetration</code>
+<start>3329.900109211</start>
+<end>3351.900109211</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>groningen circle_penetration</code>
+<start>3351.9101092110004</start>
+<end>3347.800115879</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW4 GRO</text>
+</label>
+<label>
+<text>REND: ASC GRO</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>groningen circle_penetration</code>
+<start>3507.400513294</start>
+<end>3524.000059705</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>groningen circle_penetration</code>
+<start>3551.200216904</start>
+<end>3572.100061786</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>groningen circle_penetration</code>
+<start>3877.301237434</start>
+<end>3899.301237434</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>groningen circle_penetration</code>
+<start>3920.600128194</start>
+<end>3936.800088138</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>groningen circle_penetration</code>
+<start>3971.300085772</start>
+<end>3993.300085772</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>hbs circle_penetration</code>
+<start>230.600308381</start>
+<end>251.000069704</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>hbs circle_penetration</code>
+<start>277.60015737</start>
+<end>299.60015737</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>hbs circle_penetration</code>
+<start>443.600104473</start>
+<end>458.40032401</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>hbs circle_penetration</code>
+<start>753.300114438</start>
+<end>767.400075413</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: DP HBS</text>
+</label>
+<label>
+<text>DP HBS</text>
+</label>
+<label>
+<text>REND: ASC HBS</text>
+</label>
+<label>
+<text>ASC HBS</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>hbs circle_penetration</code>
+<start>1216.500190711</start>
+<end>1232.500146668</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: DP HBS</text>
+</label>
+<label>
+<text>DP HBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>hbs circle_penetration</code>
+<start>1240.600178905</start>
+<end>1255.202766268</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: ASC HBS</text>
+</label>
+<label>
+<text>ASC HBS</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>hbs circle_penetration</code>
+<start>1461.900083852</start>
+<end>1483.900083852</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>hbs circle_penetration</code>
+<start>1631.100115444</start>
+<end>1653.100115444</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: DP HBS</text>
+</label>
+<label>
+<text>DP HBS</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>hbs circle_penetration</code>
+<start>1725.500170753</start>
+<end>1747.500170753</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>hbs circle_penetration</code>
+<start>1810.300082782</start>
+<end>1824.600176726</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>hbs circle_penetration</code>
+<start>1898.900096055</start>
+<end>1917.400132731</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS4 HBS</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>hbs circle_penetration</code>
+<start>2001.400445945</start>
+<end>2023.400445945</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>hbs circle_penetration</code>
+<start>2343.80047307</start>
+<end>2357.90536931</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>hbs circle_penetration</code>
+<start>2742.300078024</start>
+<end>2767.100059483</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: DP HBS</text>
+</label>
+<label>
+<text>DP HBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>hbs circle_penetration</code>
+<start>3124.700317364</start>
+<end>3146.700317364</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>hbs circle_penetration</code>
+<start>3643.10012103</start>
+<end>3657.000198134</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>hbs circle_penetration</code>
+<start>3807.000079698</start>
+<end>3822.302938842</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>hbs circle_penetration</code>
+<start>4278.800122447</start>
+<end>4300.800122447</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>groningen goal_attempt</code>
+<start>1142.500161689</start>
+<end>1149.500161689</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>groningen goal_attempt</code>
+<start>2617.700169868</start>
+<end>2624.700169868</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>hbs goal_attempt</code>
+<start>760.700113352</start>
+<end>767.700113352</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: ASC HBS</text>
+</label>
+<label>
+<text>ASC HBS</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>hbs goal_attempt</code>
+<start>1224.000273321</start>
+<end>1231.000273321</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>hbs goal_attempt</code>
+<start>1637.700070416</start>
+<end>1644.700070416</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>hbs goal_attempt</code>
+<start>1731.10010678</start>
+<end>1738.10010678</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>hbs goal_attempt</code>
+<start>2751.800102224</start>
+<end>2758.800102224</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>groningen goal</code>
+<start>3416.3646571818704</start>
+<end>3424.8823290415667</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>hbs goal</code>
+<start>1292.8921866181665</start>
+<end>1303.5699076024957</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>hbs goal</code>
+<start>1732.2613591147738</start>
+<end>1739.8621717372027</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>hbs goal</code>
+<start>2004.4987828830067</start>
+<end>2015.795018956709</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>hbs goal</code>
+<start>4283.300814382137</start>
+<end>4294.9141415430095</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>groningen green_card</code>
+<start>1617.200090363</start>
+<end>1767.200090363</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>groningen ball_restart_1</code>
+<start>2771.200215568</start>
+<end>2921.200215568</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND BBM: BS2 GRO</text>
+</label>
+<label>
+<text>KWART: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS3 GRO</text>
+</label>
+<label>
+<text>REND BBM: BS4 GRO</text>
+</label>
+<label>
+<text>REND BBM: BW1 HBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 HBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 GRO</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>groningen penalty_corner</code>
+<start>1397.346018855098</start>
+<end>1404.1645790901616</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>groningen penalty_corner</code>
+<start>2500.149731991042</start>
+<end>2507.275262852402</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>groningen penalty_corner</code>
+<start>2519.8222300360108</start>
+<end>2527.620355125425</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>groningen penalty_corner</code>
+<start>3101.838843034013</start>
+<end>3107.5725599781854</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>groningen penalty_corner</code>
+<start>3385.5776400159243</start>
+<end>3392.3885855156846</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: GOAL GRO</text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>groningen penalty_corner</code>
+<start>3412.900329032308</start>
+<end>3421.982800785623</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+<label>
+<text>REND: GOAL GRO</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>hbs penalty_corner</code>
+<start>805.0742661992635</start>
+<end>810.6997559152283</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+<instance>
+<ID>292</ID>
+<code>hbs penalty_corner</code>
+<start>1295.4602449765355</start>
+<end>1303.877438169131</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>SCORE</text>
+</label>
+<label>
+<text>20250428</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ASC GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>DP GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>DP HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GROEN GRO</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GROEN HBS</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>SC GRO</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>SC HBS</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

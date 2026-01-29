@@ -1,0 +1,6106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>umpiring</code>
+<start>1199.8723191607282</start>
+<end>1271.4553646350123</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>groningen 23_entry</code>
+<start>264.364782403</start>
+<end>279.364782403</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>groningen 23_entry</code>
+<start>333.368788684</start>
+<end>350.795798998</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>groningen 23_entry</code>
+<start>401.290876949</start>
+<end>416.290876949</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>groningen 23_entry</code>
+<start>1487.636124958</start>
+<end>1514.924727268</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>groningen 23_entry</code>
+<start>1599.442474247</start>
+<end>1616.609575402</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>groningen 23_entry</code>
+<start>1655.176254727</start>
+<end>1678.043664901</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>groningen 23_entry</code>
+<start>1887.004828901</start>
+<end>1915.859015893</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>groningen 23_entry</code>
+<start>2239.721530747</start>
+<end>2254.721530747</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>groningen 23_entry</code>
+<start>2819.649333237</start>
+<end>2834.649333237</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>groningen 23_entry</code>
+<start>2850.064353028</start>
+<end>2865.064353028</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>groningen 23_entry</code>
+<start>2900.333706311</start>
+<end>2915.333706311</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>groningen 23_entry</code>
+<start>3694.07242686</start>
+<end>3712.267275048</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>groningen 23_entry</code>
+<start>3867.952137668</start>
+<end>3882.952137668</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>groningen cause_of_penalty_corner</code>
+<start>326.490209806</start>
+<end>351.490209806</end>
+<label>
+<text>Rend: GRO SC</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>groningen ball_restart_1</code>
+<start>54.526964773</start>
+<end>72.547199209</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>groningen ball_restart_1</code>
+<start>85.807762992</start>
+<end>113.258554689</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BACK 4</text>
+</label>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>groningen ball_restart_1</code>
+<start>181.926656482</start>
+<end>197.538146486</end>
+<label>
+<text>Rend: NIJ BW4</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>groningen ball_restart_1</code>
+<start>522.329911404</start>
+<end>553.218139063</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BACK 4</text>
+</label>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>groningen ball_restart_1</code>
+<start>566.835392015</start>
+<end>581.000245838</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>groningen ball_restart_1</code>
+<start>887.806119226</start>
+<end>899.485205943</end>
+<label>
+<text>Rend: NIJ BW4</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>groningen ball_restart_1</code>
+<start>946.460637312</start>
+<end>961.273125092</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>groningen ball_restart_1</code>
+<start>967.651664768</start>
+<end>997.656159728</end>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>groningen ball_restart_1</code>
+<start>1006.8319211</start>
+<end>1042.098819489</end>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>groningen ball_restart_1</code>
+<start>1411.284831797</start>
+<end>1439.9513437</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>groningen ball_restart_1</code>
+<start>1802.030274838</start>
+<end>1818.390878233</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>groningen ball_restart_1</code>
+<start>1829.13408321</start>
+<end>1864.178056092</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>groningen ball_restart_1</code>
+<start>1942.153320456</start>
+<end>1954.680319935</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>groningen ball_restart_1</code>
+<start>1961.183097908</start>
+<end>1980.539776963</end>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>groningen ball_restart_1</code>
+<start>2101.216823359</start>
+<end>2128.029878896</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO HIGH BALL</text>
+</label>
+<label>
+<text>Rend: GRO BS3</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>groningen ball_restart_1</code>
+<start>2215.587888685</start>
+<end>2231.547879577</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO HIGH BALL</text>
+</label>
+<label>
+<text>Rend: NIJ BS2</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>groningen ball_restart_1</code>
+<start>2313.76199965</start>
+<end>2340.654380165</end>
+<label>
+<text>Rend: NIJ BS2</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>groningen ball_restart_1</code>
+<start>2369.335450582</start>
+<end>2378.476623458</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO HIGH BALL</text>
+</label>
+<label>
+<text>Rend: GRO BS3</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>groningen ball_restart_1</code>
+<start>2441.839676633</start>
+<end>2462.773362849</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>groningen ball_restart_1</code>
+<start>2509.366271931</start>
+<end>2536.474980435</end>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>groningen ball_restart_1</code>
+<start>2738.729519319</start>
+<end>2754.255174848</end>
+<label>
+<text>Rend: NIJ BW4</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>groningen ball_restart_1</code>
+<start>2812.402338243</start>
+<end>2873.002878229</end>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>groningen ball_restart_1</code>
+<start>3042.518496816</start>
+<end>3070.386027486</end>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>groningen ball_restart_1</code>
+<start>3158.564570545</start>
+<end>3188.942292215</end>
+<label>
+<text>Rend: NIJ BW4</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>groningen ball_restart_1</code>
+<start>3246.603885331</start>
+<end>3263.125170531</end>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>groningen ball_restart_1</code>
+<start>3274.081496051</start>
+<end>3296.512578406</end>
+<label>
+<text>Rend: NIJ BW1</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>groningen ball_restart_1</code>
+<start>3414.035566769</start>
+<end>3422.263745451</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>groningen ball_restart_1</code>
+<start>3543.742730518</start>
+<end>3569.76680475</end>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>groningen ball_restart_1</code>
+<start>3624.55140239</start>
+<end>3655.401618532</end>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>groningen ball_restart_1</code>
+<start>3858.823097032</start>
+<end>3882.764128278</end>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: GRO CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: GRO BS4</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>groningen ball_restart_1</code>
+<start>4308.30024045</start>
+<end>4319.389307117</end>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>groningen ball_restart_1</code>
+<start>4403.576273144</start>
+<end>4415.564321655</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: GRO HIGH BALL</text>
+</label>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>groningen ball_restart_2</code>
+<start>576.500245838</start>
+<end>612.498751012</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>groningen ball_restart_2</code>
+<start>673.799048479</start>
+<end>698.336373199</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>groningen ball_restart_2</code>
+<start>707.143610331</start>
+<end>730.140543477</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>groningen ball_restart_2</code>
+<start>730.150543477</start>
+<end>736.211800943</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>groningen ball_restart_2</code>
+<start>784.514558274</start>
+<end>800.611280484</end>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>groningen ball_restart_2</code>
+<start>1465.185292729</start>
+<end>1473.214188841</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>groningen ball_restart_2</code>
+<start>1520.025585936</start>
+<end>1552.535799778</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>groningen ball_restart_2</code>
+<start>1552.545799778</start>
+<end>1574.266892027</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO HIGH BALL</text>
+</label>
+<label>
+<text>Rend: NIJ BS2</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>groningen ball_restart_2</code>
+<start>1584.315727612</start>
+<end>1615.092503232</end>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+<label>
+<text>Rend: GRO DP</text>
+</label>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>groningen ball_restart_2</code>
+<start>1705.662630899</start>
+<end>1730.674433497</end>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>groningen ball_restart_2</code>
+<start>1859.678056092</start>
+<end>1873.611820743</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>groningen ball_restart_2</code>
+<start>2265.491367844</start>
+<end>2292.348406484</end>
+<label>
+<text>Rend: NIJ BS2</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>groningen ball_restart_2</code>
+<start>3361.427651093</start>
+<end>3377.326829213</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>groningen ball_restart_2</code>
+<start>3509.828650788</start>
+<end>3529.252220614</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>groningen ball_restart_2</code>
+<start>3977.93175025</start>
+<end>3995.592098608</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS4</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>groningen ball_restart_2</code>
+<start>4071.311642693</start>
+<end>4094.952473834</end>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>groningen ball_restart_2</code>
+<start>4173.522902673</start>
+<end>4195.475033398</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>groningen ball_restart_3</code>
+<start>220.669915894</start>
+<end>241.145744683</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS3</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>groningen ball_restart_3</code>
+<start>241.155744683</start>
+<end>251.178318832</end>
+<label>
+<text>Rend: NIJ BS2</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>groningen ball_restart_3</code>
+<start>287.213998625</start>
+<end>309.389678328</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS3</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>groningen ball_restart_3</code>
+<start>309.399678328</start>
+<end>316.435282324</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS4</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>groningen ball_restart_3</code>
+<start>1877.714192565</start>
+<end>1901.291130427</end>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS4</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>groningen ball_restart_3</code>
+<start>2011.0059414611824</start>
+<end>2041.547049166</end>
+<label>
+<text>Rend: NIJ BW1</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>groningen ball_restart_3</code>
+<start>2123.529878896</start>
+<end>2139.772413904</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO HIGH BALL</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>groningen ball_restart_3</code>
+<start>2898.992330165</start>
+<end>2907.772670623</end>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>groningen ball_restart_3</code>
+<start>4438.391003056</start>
+<end>4451.709041488</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: GRO CIRCLE PASS</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>groningen ball_restart_4</code>
+<start>277.48135599</start>
+<end>291.713998625</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO LC</text>
+</label>
+<label>
+<text>Rend: GRO BS3</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>groningen ball_restart_4</code>
+<start>311.935282324</start>
+<end>329.450773551</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO LC</text>
+</label>
+<label>
+<text>Rend: GRO BS4</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>groningen ball_restart_4</code>
+<start>329.460773551</start>
+<end>346.990209806</end>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+<label>
+<text>Rend: GRO SC</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>groningen ball_restart_4</code>
+<start>395.478794809</start>
+<end>408.77943681</end>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>groningen ball_restart_4</code>
+<start>1497.455887147</start>
+<end>1507.798511606</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO LC</text>
+</label>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+<label>
+<text>Rend: NIJ BW1</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>groningen ball_restart_4</code>
+<start>1896.791130427</start>
+<end>1908.128833367</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO LC</text>
+</label>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+<label>
+<text>Rend: NIJ BW1</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>groningen ball_restart_4</code>
+<start>3878.264128278</start>
+<end>3886.307331834</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: GRO LC</text>
+</label>
+<label>
+<text>Rend: NIJ BW1</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>groningen ball_restart_4</code>
+<start>3991.092098608</start>
+<end>4004.122686948</end>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>groningen ball_win_1</code>
+<start>45.960958018</start>
+<end>59.026964773</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>groningen ball_win_1</code>
+<start>650.564516</start>
+<end>678.299048479</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>groningen ball_win_1</code>
+<start>1097.775190236</start>
+<end>1107.78984536</end>
+<label>
+<text>Rend: NIJ BW4</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>groningen ball_win_1</code>
+<start>1110.933456703</start>
+<end>1119.95972584</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>groningen ball_win_1</code>
+<start>1449.643191266</start>
+<end>1469.685292729</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>groningen ball_win_1</code>
+<start>1625.416787463</start>
+<end>1677.588863323</end>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+<label>
+<text>Rend: GRO DP</text>
+</label>
+<label>
+<text>Rend: GRO DP ON</text>
+</label>
+<label>
+<text>Rend: GRO GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>groningen ball_win_1</code>
+<start>1982.424606101</start>
+<end>1999.095496583</end>
+<label>
+<text>Rend: NIJ BW1</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>groningen ball_win_1</code>
+<start>2569.024112949</start>
+<end>2622.971759866</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>groningen ball_win_1</code>
+<start>2931.636400966</start>
+<end>2950.912137671</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>groningen ball_win_1</code>
+<start>3143.090009233</start>
+<end>3163.064570545</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>groningen ball_win_1</code>
+<start>3188.944864</start>
+<end>3212.910355492</end>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>groningen ball_win_1</code>
+<start>3529.22266544</start>
+<end>3548.242730518</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: GRO DOUBLE TURN</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>groningen ball_win_1</code>
+<start>4116.83024735</start>
+<end>4144.951527705</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>groningen ball_win_1</code>
+<start>4252.098623038</start>
+<end>4270.609496778</end>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>groningen ball_win_2</code>
+<start>258.352588872</start>
+<end>281.98135599</end>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS4</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>groningen ball_win_2</code>
+<start>460.655303356</start>
+<end>475.806184161</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>groningen ball_win_2</code>
+<start>807.021754144</start>
+<end>851.417042416</end>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>groningen ball_win_2</code>
+<start>1477.367295333</start>
+<end>1501.955887147</end>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+<label>
+<text>Rend: GRO DP</text>
+</label>
+<label>
+<text>Rend: GRO DP ON</text>
+</label>
+<label>
+<text>Rend: GRO BS4</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>groningen ball_win_2</code>
+<start>2411.360394992</start>
+<end>2427.869325638</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>groningen ball_win_2</code>
+<start>3672.496218248</start>
+<end>3693.097738518</end>
+<label>
+<text>Rend: NIJ BW2</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>groningen ball_win_2</code>
+<start>3732.474884098</start>
+<end>3749.774964208</end>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>groningen ball_win_3</code>
+<start>2883.892284061</start>
+<end>2896.075704831</end>
+<label>
+<text>Rend: NIJ BW1</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>groningen ball_win_3</code>
+<start>3691.160398768</start>
+<end>3702.767275048</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: GRO DOUBLE TURN</text>
+</label>
+<label>
+<text>Rend: GRO 23M</text>
+</label>
+<label>
+<text>Rend: GRO CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO CP</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>groningen circle_penetration</code>
+<start>336.295798998</start>
+<end>346.990209806</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>groningen circle_penetration</code>
+<start>401.790876949</start>
+<end>408.77943681</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>groningen circle_penetration</code>
+<start>1489.253931618</start>
+<end>1501.955887147</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO DP</text>
+</label>
+<label>
+<text>Rend: GRO DP ON</text>
+</label>
+<label>
+<text>Rend: GRO BS4</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>groningen circle_penetration</code>
+<start>1501.965887147</start>
+<end>1507.798511606</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ BW1</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>groningen circle_penetration</code>
+<start>1602.109575402</start>
+<end>1615.092503232</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO DP</text>
+</label>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>groningen circle_penetration</code>
+<start>1663.543664901</start>
+<end>1677.588863323</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO DP</text>
+</label>
+<label>
+<text>Rend: GRO DP ON</text>
+</label>
+<label>
+<text>Rend: GRO GOAL</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>groningen circle_penetration</code>
+<start>1901.359015893</start>
+<end>1908.128833367</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BW1</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>groningen circle_penetration</code>
+<start>3697.767275048</start>
+<end>3706.297962274941</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>groningen goal_attempt</code>
+<start>382.054016</start>
+<end>392.054016</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>groningen goal_attempt</code>
+<start>1491.514775775</start>
+<end>1501.514775775</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>groningen goal_attempt</code>
+<start>1605.880787488</start>
+<end>1615.880787488</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>groningen goal_attempt</code>
+<start>1667.588863323</start>
+<end>1677.588863323</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO DP</text>
+</label>
+<label>
+<text>Rend: GRO DP ON</text>
+</label>
+<label>
+<text>Rend: GRO GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>groningen goal_attempt</code>
+<start>3699.216226416</start>
+<end>3709.216226416</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>groningen goal_attempt</code>
+<start>1491.514775775</start>
+<end>1501.514775775</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>groningen goal_attempt</code>
+<start>1667.588863323</start>
+<end>1677.588863323</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>groningen goal</code>
+<start>1667.588863323</start>
+<end>1677.588863323</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>groningen long_corner</code>
+<start>275.98135599</start>
+<end>301.98135599</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO LC</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>groningen long_corner</code>
+<start>323.450773551</start>
+<end>349.450773551</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO LC</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>groningen long_corner</code>
+<start>1495.955887147</start>
+<end>1521.955887147</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO LC</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>groningen long_corner</code>
+<start>1895.291130427</start>
+<end>1921.291130427</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO LC</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>groningen long_corner</code>
+<start>3876.541292822</start>
+<end>3902.541292822</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: GRO LC</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>groningen penalty_corner</code>
+<start>376.715976784</start>
+<end>401.715976784</end>
+<label>
+<text>1ste koppel</text>
+</label>
+<label>
+<text>Rechtstreeks</text>
+</label>
+<label>
+<text>Rend: GRO DP</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>nijmegen 23_entry</code>
+<start>9.67498825</start>
+<end>35.77453837</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>nijmegen 23_entry</code>
+<start>35.889612163</start>
+<end>57.841769238</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>nijmegen 23_entry</code>
+<start>166.146169208</start>
+<end>188.143500944</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>nijmegen 23_entry</code>
+<start>192.538146486</start>
+<end>210.307389648</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>nijmegen 23_entry</code>
+<start>500.621533076</start>
+<end>531.698701125</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>nijmegen 23_entry</code>
+<start>648.581278957</start>
+<end>663.581278957</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>nijmegen 23_entry</code>
+<start>739.514836318</start>
+<end>768.072419956</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>nijmegen 23_entry</code>
+<start>874.24514012</start>
+<end>889.24514012</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>nijmegen 23_entry</code>
+<start>894.485205943</start>
+<end>911.837970565</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>nijmegen 23_entry</code>
+<start>932.390107269</start>
+<end>947.390107269</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>nijmegen 23_entry</code>
+<start>957.80110106</start>
+<end>974.98261852</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>nijmegen 23_entry</code>
+<start>992.656159728</start>
+<end>1011.324925832</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>nijmegen 23_entry</code>
+<start>1083.49734827</start>
+<end>1108.369841488</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>nijmegen 23_entry</code>
+<start>1108.79742759</start>
+<end>1123.79742759</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>nijmegen 23_entry</code>
+<start>1125.072589228</start>
+<end>1140.072589228</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>nijmegen 23_entry</code>
+<start>1288.147810606</start>
+<end>1303.147810606</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>nijmegen 23_entry</code>
+<start>1316.778102654</start>
+<end>1331.778102654</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>nijmegen 23_entry</code>
+<start>1332.069438714</start>
+<end>1368.053194332</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>nijmegen 23_entry</code>
+<start>1369.034419437</start>
+<end>1413.232608917</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>nijmegen 23_entry</code>
+<start>1444.369389013</start>
+<end>1462.299118518</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>nijmegen 23_entry</code>
+<start>1729.183907561</start>
+<end>1751.217287336</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>nijmegen 23_entry</code>
+<start>1818.172531787</start>
+<end>1835.517732164</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>nijmegen 23_entry</code>
+<start>1916.823012557</start>
+<end>1931.823012557</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>nijmegen 23_entry</code>
+<start>1975.539776963</start>
+<end>1990.539776963</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>nijmegen 23_entry</code>
+<start>2084.585307511</start>
+<end>2102.49401547</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>nijmegen 23_entry</code>
+<start>2140.699779115</start>
+<end>2174.831840492</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>nijmegen 23_entry</code>
+<start>2187.533902341</start>
+<end>2207.824712745</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>nijmegen 23_entry</code>
+<start>2299.406281807</start>
+<end>2314.406281807</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>nijmegen 23_entry</code>
+<start>2353.089717958</start>
+<end>2372.185594965</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>nijmegen 23_entry</code>
+<start>2425.583067123</start>
+<end>2442.099031485</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>nijmegen 23_entry</code>
+<start>2479.184137702</start>
+<end>2516.167734992</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>nijmegen 23_entry</code>
+<start>2549.075724478</start>
+<end>2575.130190841</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>158</ID>
+<code>nijmegen 23_entry</code>
+<start>2625.94372429</start>
+<end>2661.763912443</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>nijmegen 23_entry</code>
+<start>2703.034149708</start>
+<end>2727.275109456</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>nijmegen 23_entry</code>
+<start>2766.477326154</start>
+<end>2781.477326154</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>nijmegen 23_entry</code>
+<start>2926.974316332</start>
+<end>2941.974316332</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>nijmegen 23_entry</code>
+<start>2986.009869424</start>
+<end>3029.326026992</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>nijmegen 23_entry</code>
+<start>3125.516474948</start>
+<end>3144.191951029</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>nijmegen 23_entry</code>
+<start>3215.635988007</start>
+<end>3230.635988007</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>nijmegen 23_entry</code>
+<start>3258.125170531</start>
+<end>3274.077308391</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>nijmegen 23_entry</code>
+<start>3333.04096907</start>
+<end>3350.824276139</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>nijmegen 23_entry</code>
+<start>3419.842304795</start>
+<end>3439.789934383</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>nijmegen 23_entry</code>
+<start>3473.162330432</start>
+<end>3500.025935588</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>nijmegen 23_entry</code>
+<start>3564.76680475</start>
+<end>3579.76680475</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>nijmegen 23_entry</code>
+<start>3753.526755594</start>
+<end>3781.495004276</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>nijmegen 23_entry</code>
+<start>3820.418774616</start>
+<end>3838.791803202</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>nijmegen 23_entry</code>
+<start>3940.902208194</start>
+<end>3960.612195628</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>nijmegen 23_entry</code>
+<start>4030.794042303</start>
+<end>4062.4920835</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>nijmegen 23_entry</code>
+<start>4104.200113604</start>
+<end>4129.531592815</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>nijmegen 23_entry</code>
+<start>4244.643999346</start>
+<end>4260.681660071</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>nijmegen 23_entry</code>
+<start>4281.743550731</start>
+<end>4296.743550731</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>nijmegen 23_entry</code>
+<start>4314.389307117</start>
+<end>4329.389307117</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>nijmegen 23_entry</code>
+<start>4337.11516472</start>
+<end>4355.772229685</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>1110.072589228</start>
+<end>1135.072589228</end>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>1162.924122</start>
+<end>1187.924122</end>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>1725.792561352</start>
+<end>1750.792561352</end>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>2638.314104473</start>
+<end>2663.314104473</end>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>2754.725818946</start>
+<end>2779.725818946</end>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>3060.788407608</start>
+<end>3085.788407608</end>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>3409.789934383</start>
+<end>3434.789934383</end>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>3557.016038006</start>
+<end>3582.016038006</end>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>3755.897029868</start>
+<end>3780.897029868</end>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>nijmegen ball_restart_1</code>
+<start>404.27943681</start>
+<end>446.838340199</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ BACK 4</text>
+</label>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>nijmegen ball_restart_1</code>
+<start>846.917042416</start>
+<end>869.688827795</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>nijmegen ball_restart_1</code>
+<start>1610.592503232</start>
+<end>1620.960890147</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ HIGH BALL</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>nijmegen ball_restart_1</code>
+<start>2868.502878229</start>
+<end>2888.392284061</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BW3</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>nijmegen ball_restart_1</code>
+<start>2903.272670623</start>
+<end>2936.136400966</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>nijmegen ball_restart_1</code>
+<start>3650.901618532</start>
+<end>3674.161431834</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BS2</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>nijmegen ball_restart_1</code>
+<start>3724.491377114</start>
+<end>3736.974884098</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ HIGH BALL</text>
+</label>
+<label>
+<text>Rend: GRO BW2</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>nijmegen ball_restart_1</code>
+<start>4090.452473834</start>
+<end>4121.33024735</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>nijmegen ball_restart_2</code>
+<start>0.0</start>
+<end>10.920592423</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ HIGH BALL</text>
+</label>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>nijmegen ball_restart_2</code>
+<start>137.506574927</start>
+<end>178.143500944</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>nijmegen ball_restart_2</code>
+<start>246.678318832</start>
+<end>262.852588872</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BW2</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>nijmegen ball_restart_2</code>
+<start>1569.766892027</start>
+<end>1588.815727612</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>nijmegen ball_restart_2</code>
+<start>1692.045912001</start>
+<end>1710.162630899</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ HIGH BALL</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>nijmegen ball_restart_2</code>
+<start>2227.047879577</start>
+<end>2235.776178394</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BW2</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>nijmegen ball_restart_2</code>
+<start>2287.848406484</start>
+<end>2318.26199965</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BACK 4</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>nijmegen ball_restart_2</code>
+<start>2336.154380165</start>
+<end>2364.666031349</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>nijmegen ball_restart_2</code>
+<start>2949.887181256</start>
+<end>2998.747710286</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BACK 4</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3669.661431834</start>
+<end>3676.996218248</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ HIGH BALL</text>
+</label>
+<label>
+<text>Rend: GRO BW2</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3934.324775294</start>
+<end>3965.387282648</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ HIGH BALL</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: NIJ GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>nijmegen ball_restart_3</code>
+<start>6.420592423</start>
+<end>25.77453837</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>nijmegen ball_restart_3</code>
+<start>442.338340199</start>
+<end>465.155303356</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ BACK 4</text>
+</label>
+<label>
+<text>Rend: GRO BW2</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>nijmegen ball_restart_3</code>
+<start>796.111280484</start>
+<end>811.521754144</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ BACK 3</text>
+</label>
+<label>
+<text>Rend: GRO BW2</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>nijmegen ball_restart_3</code>
+<start>1037.598819489</start>
+<end>1068.614493422</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>nijmegen ball_restart_3</code>
+<start>1122.841775231</start>
+<end>1135.072589228</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>nijmegen ball_restart_3</code>
+<start>1726.174433497</start>
+<end>1750.792561352</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>nijmegen ball_restart_3</code>
+<start>2057.263182128</start>
+<end>2105.716823359</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>nijmegen ball_restart_3</code>
+<start>2179.454665678</start>
+<end>2197.824712745</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BACK 3</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>nijmegen ball_restart_3</code>
+<start>2531.974980435</start>
+<end>2565.130190841</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>nijmegen ball_restart_3</code>
+<start>3065.886027486</start>
+<end>3085.788407608</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>nijmegen ball_restart_3</code>
+<start>3208.410355492</start>
+<end>3226.208511107</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>nijmegen ball_restart_4</code>
+<start>21.27453837</start>
+<end>50.460958018</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>nijmegen ball_restart_4</code>
+<start>173.643500944</start>
+<end>186.426656482</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>nijmegen ball_restart_4</code>
+<start>993.156159728</start>
+<end>1011.3319211</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>nijmegen ball_restart_4</code>
+<start>1090.156435926</start>
+<end>1102.275190236</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>nijmegen ball_restart_4</code>
+<start>1288.647810606</start>
+<end>1337.069438714</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>nijmegen ball_restart_4</code>
+<start>1337.079438714</start>
+<end>1350.190014975</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>224</ID>
+<code>nijmegen ball_restart_4</code>
+<start>1350.200014975</start>
+<end>1396.262837369</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>nijmegen ball_restart_4</code>
+<start>1396.272837369</start>
+<end>1400.092537481</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>nijmegen ball_restart_4</code>
+<start>1400.102537481</start>
+<end>1415.784831797</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>nijmegen ball_restart_4</code>
+<start>1917.323012557</start>
+<end>1935.738880416</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>nijmegen ball_restart_4</code>
+<start>1976.039776963</start>
+<end>1986.924606101</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>nijmegen ball_restart_4</code>
+<start>2160.331840492</start>
+<end>2183.954665678</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>nijmegen ball_restart_4</code>
+<start>2193.324712745</start>
+<end>2220.087888685</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>nijmegen ball_restart_4</code>
+<start>2494.093568852</start>
+<end>2513.866271931</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+<label>
+<text>Rend: NIJ BACK 4</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>nijmegen ball_restart_4</code>
+<start>2560.630190841</start>
+<end>2573.524112949</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>nijmegen ball_restart_4</code>
+<start>2641.187641614</start>
+<end>2663.314104473</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>nijmegen ball_restart_4</code>
+<start>2703.534149708</start>
+<end>2721.313844577</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>nijmegen ball_restart_4</code>
+<start>2994.247710286</start>
+<end>3012.566809266</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>nijmegen ball_restart_4</code>
+<start>3012.576809266</start>
+<end>3019.326026992</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>nijmegen ball_restart_4</code>
+<start>3019.3360269920004</start>
+<end>3047.018496816</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>nijmegen ball_restart_4</code>
+<start>3126.016474948</start>
+<end>3147.590009233</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>nijmegen ball_restart_4</code>
+<start>3258.625170531</start>
+<end>3278.581496051</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>nijmegen ball_restart_4</code>
+<start>3473.662330432</start>
+<end>3497.532035276</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: NIJ GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>nijmegen ball_restart_4</code>
+<start>3565.26680475</start>
+<end>3582.016038006</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>nijmegen ball_restart_4</code>
+<start>3763.756307802</start>
+<end>3780.897029868</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4031.294042303</start>
+<end>4075.811642693</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4314.889307117</start>
+<end>4357.85868593</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>nijmegen ball_win_1</code>
+<start>1503.298511606</start>
+<end>1524.525585936</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>nijmegen ball_win_1</code>
+<start>1903.628833367</start>
+<end>1921.823012557</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>nijmegen ball_win_1</code>
+<start>1994.595496583</start>
+<end>2015.5059414611824</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ HIGH BALL</text>
+</label>
+<label>
+<text>Rend: GRO BS3</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>nijmegen ball_win_1</code>
+<start>2037.047049166</start>
+<end>2061.763182128</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>nijmegen ball_win_1</code>
+<start>2241.661576062</start>
+<end>2253.405017086</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>nijmegen ball_win_1</code>
+<start>2891.575704831</start>
+<end>2903.492330165</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS3</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>nijmegen ball_win_1</code>
+<start>3882.189768334</start>
+<end>3938.824775294</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BS2</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>nijmegen ball_win_2</code>
+<start>108.758554689</start>
+<end>142.006574927</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ BS2</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>nijmegen ball_win_2</code>
+<start>471.306184161</start>
+<end>526.829911404</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ HIGH BALL</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>nijmegen ball_win_2</code>
+<start>693.836373199</start>
+<end>711.643610331</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>nijmegen ball_win_2</code>
+<start>1869.111820743</start>
+<end>1882.214192565</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS3</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>nijmegen ball_win_2</code>
+<start>2458.273362849</start>
+<end>2498.593568852</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>nijmegen ball_win_2</code>
+<start>2623.322162371</start>
+<end>2645.687641614</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>nijmegen ball_win_2</code>
+<start>2946.412137671</start>
+<end>2954.387181256</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BS2</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>nijmegen ball_win_2</code>
+<start>3372.826829213</start>
+<end>3394.935613117</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>nijmegen ball_win_3</code>
+<start>68.047199209</start>
+<end>90.307762992</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>nijmegen ball_win_3</code>
+<start>956.773125092</start>
+<end>972.151664768</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>nijmegen ball_win_3</code>
+<start>1115.45972584</start>
+<end>1127.341775231</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ DOUBLE TURN</text>
+</label>
+<label>
+<text>Rend: NIJ BS3</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>nijmegen ball_win_3</code>
+<start>1950.180319935</start>
+<end>1965.683097908</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>nijmegen ball_win_3</code>
+<start>2423.369325638</start>
+<end>2446.339676633</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>nijmegen ball_win_3</code>
+<start>3417.763745451</start>
+<end>3434.789934383</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>nijmegen ball_win_3</code>
+<start>3524.752220614</start>
+<end>3533.72266544</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>nijmegen ball_win_3</code>
+<start>3745.274964208</start>
+<end>3760.56214789</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>nijmegen ball_win_3</code>
+<start>4190.975033398</start>
+<end>4254.645200965</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>nijmegen ball_win_4</code>
+<start>193.038146486</start>
+<end>213.898600694</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>nijmegen ball_win_4</code>
+<start>894.985205943</start>
+<end>909.730000223</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>nijmegen ball_win_4</code>
+<start>1103.28984536</start>
+<end>1115.433456703</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ DOUBLE TURN</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>nijmegen ball_win_4</code>
+<start>2749.755174848</start>
+<end>2779.725818946</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>nijmegen ball_win_4</code>
+<start>3184.442292215</start>
+<end>3193.444864</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>nijmegen ball_win_4</code>
+<start>3761.617878922</start>
+<end>3768.256307802</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>nijmegen circle_penetration</code>
+<start>11.306295707</start>
+<end>25.77453837</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>nijmegen circle_penetration</code>
+<start>195.807389648</start>
+<end>209.5582976294194</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>nijmegen circle_penetration</code>
+<start>506.7892635</start>
+<end>526.829911404</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>nijmegen circle_penetration</code>
+<start>874.74514012</start>
+<end>892.306119226</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>nijmegen circle_penetration</code>
+<start>897.337970565</start>
+<end>950.960637312</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>Rend: GRO HIGH BALL</text>
+</label>
+<label>
+<text>Rend: NIJ BW3</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>nijmegen circle_penetration</code>
+<start>960.48261852</start>
+<end>972.151664768</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>nijmegen circle_penetration</code>
+<start>996.824925832</start>
+<end>1011.3319211</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>nijmegen circle_penetration</code>
+<start>1093.869841488</start>
+<end>1102.275190236</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>nijmegen circle_penetration</code>
+<start>1109.29742759</start>
+<end>1115.433456703</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>nijmegen circle_penetration</code>
+<start>1125.572589228</start>
+<end>1135.072589228</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>nijmegen circle_penetration</code>
+<start>1340.562612765</start>
+<end>1350.190014975</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>nijmegen circle_penetration</code>
+<start>1379.571482561</start>
+<end>1396.262837369</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>nijmegen circle_penetration</code>
+<start>1398.732608917</start>
+<end>1415.784831797</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>nijmegen circle_penetration</code>
+<start>1447.799118518</start>
+<end>1454.143191266</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>nijmegen circle_penetration</code>
+<start>1736.717287336</start>
+<end>1750.792561352</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>nijmegen circle_penetration</code>
+<start>1821.017732164</start>
+<end>1833.63408321</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>nijmegen circle_penetration</code>
+<start>2087.99401547</start>
+<end>2105.716823359</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>292</ID>
+<code>nijmegen circle_penetration</code>
+<start>2146.857826857</start>
+<end>2164.831840492</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>293</ID>
+<code>nijmegen circle_penetration</code>
+<start>2188.033902341</start>
+<end>2197.824712745</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>294</ID>
+<code>nijmegen circle_penetration</code>
+<start>2357.685594965</start>
+<end>2373.835450582</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>nijmegen circle_penetration</code>
+<start>2427.599031485</start>
+<end>2446.339676633</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>nijmegen circle_penetration</code>
+<start>2479.684137702</start>
+<end>2498.593568852</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ CIRCLE PASS</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>nijmegen circle_penetration</code>
+<start>2501.667734992</start>
+<end>2513.866271931</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>nijmegen circle_penetration</code>
+<start>2550.74203746</start>
+<end>2565.130190841</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>299</ID>
+<code>nijmegen circle_penetration</code>
+<start>2626.44372429</start>
+<end>2645.687641614</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>300</ID>
+<code>nijmegen circle_penetration</code>
+<start>2647.263912443</start>
+<end>2663.314104473</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>301</ID>
+<code>nijmegen circle_penetration</code>
+<start>2996.168484144</start>
+<end>3012.566809266</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ BS4</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>nijmegen circle_penetration</code>
+<start>3129.691951029</start>
+<end>3138.321234</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>303</ID>
+<code>nijmegen circle_penetration</code>
+<start>3138.331234</start>
+<end>3147.590009233</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>nijmegen circle_penetration</code>
+<start>3336.324276139</start>
+<end>3352.304351707</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>305</ID>
+<code>nijmegen circle_penetration</code>
+<start>3422.195817801</start>
+<end>3434.789934383</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>306</ID>
+<code>nijmegen circle_penetration</code>
+<start>3766.995004276</start>
+<end>3780.897029868</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ SC</text>
+</label>
+<label>
+<text>RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>307</ID>
+<code>nijmegen circle_penetration</code>
+<start>3824.291803202</start>
+<end>3863.323097032</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS1</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>308</ID>
+<code>nijmegen circle_penetration</code>
+<start>3946.112195628</start>
+<end>3965.387282648</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: NIJ GOAL</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>309</ID>
+<code>nijmegen circle_penetration</code>
+<start>4047.9920835</start>
+<end>4121.33024735</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: GRO BS2</text>
+</label>
+<label>
+<text>Rend: NIJ BS1</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+<label>
+<text>Rend: NIJ CP</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+<label>
+<text>LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>310</ID>
+<code>nijmegen circle_penetration</code>
+<start>4246.181660071</start>
+<end>4257.098623038</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: GRO BW1</text>
+</label>
+<label>
+<text>MIDDEN</text>
+</label>
+</instance>
+<instance>
+<ID>311</ID>
+<code>nijmegen goal_attempt</code>
+<start>875.979828173</start>
+<end>885.979828173</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>312</ID>
+<code>nijmegen goal_attempt</code>
+<start>1168.149993575</start>
+<end>1173.3997943757565</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>313</ID>
+<code>nijmegen goal_attempt</code>
+<start>1173.3997943757565</start>
+<end>1181.577265024</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>314</ID>
+<code>nijmegen goal_attempt</code>
+<start>1204.242106351</start>
+<end>1214.242106351</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>315</ID>
+<code>nijmegen goal_attempt</code>
+<start>1321.885555608</start>
+<end>1331.885555608</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>316</ID>
+<code>nijmegen goal_attempt</code>
+<start>1401.005746054</start>
+<end>1411.005746054</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>317</ID>
+<code>nijmegen goal_attempt</code>
+<start>1739.236468823</start>
+<end>1749.236468823</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>318</ID>
+<code>nijmegen goal_attempt</code>
+<start>1778.722381229</start>
+<end>1788.722381229</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>319</ID>
+<code>nijmegen goal_attempt</code>
+<start>2430.097480676</start>
+<end>2440.097480676</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>320</ID>
+<code>nijmegen goal_attempt</code>
+<start>2481.298297609</start>
+<end>2491.298297609</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>321</ID>
+<code>nijmegen goal_attempt</code>
+<start>2631.858090877</start>
+<end>2641.858090877</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>322</ID>
+<code>nijmegen goal_attempt</code>
+<start>2692.956536371</start>
+<end>2702.956536371</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>323</ID>
+<code>nijmegen goal_attempt</code>
+<start>3115.074574119</start>
+<end>3125.074574119</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>324</ID>
+<code>nijmegen goal_attempt</code>
+<start>3137.568372343</start>
+<end>3147.568372343</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>325</ID>
+<code>nijmegen goal_attempt</code>
+<start>3185.277458981</start>
+<end>3195.277458981</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>326</ID>
+<code>nijmegen goal_attempt</code>
+<start>3337.230295154</start>
+<end>3347.230295154</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>327</ID>
+<code>nijmegen goal_attempt</code>
+<start>3347.2402951540003</start>
+<end>3354.85861329</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>328</ID>
+<code>nijmegen goal_attempt</code>
+<start>3463.329464692</start>
+<end>3473.329464692</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>329</ID>
+<code>nijmegen goal_attempt</code>
+<start>3487.532035276</start>
+<end>3497.532035276</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: NIJ GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>330</ID>
+<code>nijmegen goal_attempt</code>
+<start>3608.986798686</start>
+<end>3618.986798686</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>331</ID>
+<code>nijmegen goal_attempt</code>
+<start>3813.88571022</start>
+<end>3823.88571022</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>332</ID>
+<code>nijmegen goal_attempt</code>
+<start>3955.387282648</start>
+<end>3965.387282648</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+<label>
+<text>Rend: NIJ GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>333</ID>
+<code>nijmegen goal_attempt</code>
+<start>4247.339727899</start>
+<end>4257.339727899</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ DP ON</text>
+</label>
+</instance>
+<instance>
+<ID>334</ID>
+<code>nijmegen goal_attempt</code>
+<start>1168.149993575</start>
+<end>1173.7678696988223</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>335</ID>
+<code>nijmegen goal_attempt</code>
+<start>1173.7678696988223</start>
+<end>1181.577265024</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>336</ID>
+<code>nijmegen goal_attempt</code>
+<start>1204.242106351</start>
+<end>1214.242106351</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>337</ID>
+<code>nijmegen goal_attempt</code>
+<start>1321.885555608</start>
+<end>1331.885555608</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>338</ID>
+<code>nijmegen goal_attempt</code>
+<start>1739.236468823</start>
+<end>1749.236468823</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>339</ID>
+<code>nijmegen goal_attempt</code>
+<start>2430.097480676</start>
+<end>2440.097480676</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>340</ID>
+<code>nijmegen goal_attempt</code>
+<start>2631.858090877</start>
+<end>2641.858090877</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>341</ID>
+<code>nijmegen goal_attempt</code>
+<start>2692.956536371</start>
+<end>2702.956536371</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>342</ID>
+<code>nijmegen goal_attempt</code>
+<start>3137.568372343</start>
+<end>3147.568372343</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>343</ID>
+<code>nijmegen goal_attempt</code>
+<start>3185.277458981</start>
+<end>3195.277458981</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>344</ID>
+<code>nijmegen goal_attempt</code>
+<start>3337.230295154</start>
+<end>3347.230295154</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>345</ID>
+<code>nijmegen goal_attempt</code>
+<start>3463.329464692</start>
+<end>3473.329464692</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>346</ID>
+<code>nijmegen goal_attempt</code>
+<start>3487.532035276</start>
+<end>3497.532035276</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>347</ID>
+<code>nijmegen goal_attempt</code>
+<start>3813.88571022</start>
+<end>3823.88571022</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>348</ID>
+<code>nijmegen goal_attempt</code>
+<start>3955.387282648</start>
+<end>3965.387282648</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ GOAL</text>
+</label>
+</instance>
+<instance>
+<ID>349</ID>
+<code>nijmegen goal_attempt</code>
+<start>4247.339727899</start>
+<end>4257.339727899</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>350</ID>
+<code>nijmegen goal</code>
+<start>3487.532035276</start>
+<end>3497.532035276</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>351</ID>
+<code>nijmegen goal</code>
+<start>3955.387282648</start>
+<end>3965.387282648</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 1 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>352</ID>
+<code>nijmegen green_card</code>
+<start>3693.507497366</start>
+<end>3733.507497366</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>nijmegen long_corner</code>
+<start>19.77453837</start>
+<end>45.77453837</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+</instance>
+<instance>
+<ID>354</ID>
+<code>nijmegen long_corner</code>
+<start>1331.069438714</start>
+<end>1347.76407</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+<label>
+<text>Rend: NIJ 23M</text>
+</label>
+</instance>
+<instance>
+<ID>355</ID>
+<code>nijmegen long_corner</code>
+<start>1347.77407</start>
+<end>1370.190014975</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+</instance>
+<instance>
+<ID>356</ID>
+<code>nijmegen long_corner</code>
+<start>2158.831840492</start>
+<end>2184.831840492</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+</instance>
+<instance>
+<ID>357</ID>
+<code>nijmegen long_corner</code>
+<start>2191.824712745</start>
+<end>2217.824712745</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+</instance>
+<instance>
+<ID>358</ID>
+<code>nijmegen long_corner</code>
+<start>2492.593568852</start>
+<end>2518.593568852</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+</instance>
+<instance>
+<ID>359</ID>
+<code>nijmegen long_corner</code>
+<start>2559.130190841</start>
+<end>2585.130190841</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+</instance>
+<instance>
+<ID>360</ID>
+<code>nijmegen long_corner</code>
+<start>2639.687641614</start>
+<end>2665.687641614</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+</instance>
+<instance>
+<ID>361</ID>
+<code>nijmegen long_corner</code>
+<start>2702.034149708</start>
+<end>2728.034149708</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+<label>
+<text>Rend: NIJ LC</text>
+</label>
+</instance>
+<instance>
+<ID>362</ID>
+<code>nijmegen penalty_corner</code>
+<start>1161.591885851</start>
+<end>1186.591885851</end>
+<label>
+<text>2e koppel</text>
+</label>
+<label>
+<text>Rechtstreeks</text>
+</label>
+<label>
+<text>Rebound</text>
+</label>
+</instance>
+<instance>
+<ID>363</ID>
+<code>nijmegen penalty_corner</code>
+<start>1197.71140138</start>
+<end>1222.71140138</end>
+<label>
+<text>2e koppel</text>
+</label>
+<label>
+<text>Rechtstreeks</text>
+</label>
+</instance>
+<instance>
+<ID>364</ID>
+<code>nijmegen penalty_corner</code>
+<start>1772.816550294</start>
+<end>1797.816550294</end>
+<label>
+<text>1ste koppel</text>
+</label>
+<label>
+<text>Rechtstreeks</text>
+</label>
+</instance>
+<instance>
+<ID>365</ID>
+<code>nijmegen penalty_corner</code>
+<start>2686.320193228</start>
+<end>2711.320193228</end>
+<label>
+<text>1ste koppel</text>
+</label>
+<label>
+<text>Variant</text>
+</label>
+</instance>
+<instance>
+<ID>366</ID>
+<code>nijmegen penalty_corner</code>
+<start>2803.499613755</start>
+<end>2828.499613755</end>
+<label>
+<text>1ste koppel</text>
+</label>
+</instance>
+<instance>
+<ID>367</ID>
+<code>nijmegen penalty_corner</code>
+<start>3107.027528756</start>
+<end>3132.027528756</end>
+<label>
+<text>2e koppel</text>
+</label>
+<label>
+<text>Variant</text>
+</label>
+</instance>
+<instance>
+<ID>368</ID>
+<code>nijmegen penalty_corner</code>
+<start>3456.383962272</start>
+<end>3481.383962272</end>
+<label>
+<text>1ste koppel</text>
+</label>
+<label>
+<text>Variant</text>
+</label>
+<label>
+<text>Backhand tip</text>
+</label>
+</instance>
+<instance>
+<ID>369</ID>
+<code>nijmegen penalty_corner</code>
+<start>3601.714441964</start>
+<end>3626.714441964</end>
+<label>
+<text>2e koppel</text>
+</label>
+<label>
+<text>Variant</text>
+</label>
+</instance>
+<instance>
+<ID>370</ID>
+<code>nijmegen penalty_corner</code>
+<start>3804.824137818</start>
+<end>3829.824137818</end>
+<label>
+<text>1ste koppel</text>
+</label>
+<label>
+<text>Variant</text>
+</label>
+</instance>
+<instance>
+<ID>371</ID>
+<code>start</code>
+<start>0.0</start>
+<end>7.748416282</end>
+</instance>
+<instance>
+<ID>372</ID>
+<code>start</code>
+<start>1070.652289834</start>
+<end>1080.652289834</end>
+</instance>
+<instance>
+<ID>373</ID>
+<code>start</code>
+<start>2264.332553282</start>
+<end>2274.332553282</end>
+</instance>
+<instance>
+<ID>374</ID>
+<code>start</code>
+<start>3359.802138471</start>
+<end>3369.802138471</end>
+</instance>
+<instance>
+<ID>375</ID>
+<code>pause</code>
+<start>1063.614493422</start>
+<end>1073.614493422</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>STAND : 0 - 0</text>
+</label>
+</instance>
+<instance>
+<ID>376</ID>
+<code>pause</code>
+<start>2248.405017086</start>
+<end>2258.405017086</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>377</ID>
+<code>pause</code>
+<start>3347.304351707</start>
+<end>3357.304351707</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>STAND : 0 - 1</text>
+</label>
+</instance>
+<instance>
+<ID>378</ID>
+<code>pause</code>
+<start>4446.709041488</start>
+<end>4456.709041488</end>
+<label>
+<text>Q4</text>
+</label>
+<label>
+<text>STAND : 2 - 1</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ARBITRAGE</code>
+<R>59110</R>
+<G>61937</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO 23M</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO ASC</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO BS1</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO BS2</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO BS3</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO BS4</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO BW1</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO BW2</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO BW3</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO CP</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO DP</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO DP ON</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO GOAL</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO LC</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>GRO SC</code>
+<R>65536</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>NIJ 23M</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ ASC</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ BS1</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ BS2</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ BS3</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ BS4</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ BW1</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ BW2</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ BW3</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ BW4</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ CP</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ DP</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ DP ON</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ GOAL</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ KAARTEN</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ LC</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>NIJ SC</code>
+<R>0</R>
+<G>52685</G>
+<B>65536</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>STOP</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

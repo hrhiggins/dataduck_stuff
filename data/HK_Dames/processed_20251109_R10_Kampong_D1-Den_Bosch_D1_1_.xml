@@ -1,0 +1,9845 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<GLOBALMARKERS/>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>kampong man_down</code>
+<start>2216.3600500000002</start>
+<end>2418.3602333333333</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: GOAL TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>kampong man_up</code>
+<start>1896.0600333333334</start>
+<end>2043.8932676039244</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW3 TEG</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>den_bosch 23_entry</code>
+<start>196.06005000000002</start>
+<end>236.06005000000002</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>den_bosch 23_entry</code>
+<start>319.46006666666665</start>
+<end>359.46006666666665</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>den_bosch 23_entry</code>
+<start>389.56005</start>
+<end>429.56005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>den_bosch 23_entry</code>
+<start>485.66004999999996</start>
+<end>525.66005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW4 TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>den_bosch 23_entry</code>
+<start>553.06005</start>
+<end>593.06005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>den_bosch 23_entry</code>
+<start>601.8600333333334</start>
+<end>629.35005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>den_bosch 23_entry</code>
+<start>629.36005</start>
+<end>654.36005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>den_bosch 23_entry</code>
+<start>664.36005</start>
+<end>704.36005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>den_bosch 23_entry</code>
+<start>716.7600666666667</start>
+<end>756.7600666666667</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>den_bosch 23_entry</code>
+<start>854.2600666666667</start>
+<end>894.2600666666667</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>den_bosch 23_entry</code>
+<start>960.46005</start>
+<end>1000.46005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>den_bosch 23_entry</code>
+<start>1049.86005</start>
+<end>1089.86005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>den_bosch 23_entry</code>
+<start>1146.0600666666667</start>
+<end>1186.0600666666667</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>den_bosch 23_entry</code>
+<start>1357.86005</start>
+<end>1397.86005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>den_bosch 23_entry</code>
+<start>1666.36005</start>
+<end>1733.4600500000001</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: GOAL TEG</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>den_bosch 23_entry</code>
+<start>1864.16005</start>
+<end>1904.16005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>den_bosch 23_entry</code>
+<start>2069.6600333333336</start>
+<end>2109.6600333333336</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>den_bosch 23_entry</code>
+<start>2159.8600500000002</start>
+<end>2195.450033333333</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>den_bosch 23_entry</code>
+<start>2195.4600333333333</start>
+<end>2220.4600333333333</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>den_bosch 23_entry</code>
+<start>2392.76005</start>
+<end>2424.16005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>den_bosch 23_entry</code>
+<start>3183.7600333333335</start>
+<end>3210.9501166666664</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>den_bosch 23_entry</code>
+<start>3210.9601166666666</start>
+<end>3228.9600333333333</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>den_bosch 23_entry</code>
+<start>3398.3600333333334</start>
+<end>3437.1504499999996</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>den_bosch 23_entry</code>
+<start>3437.16045</start>
+<end>3462.16045</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>den_bosch 23_entry</code>
+<start>3715.96005</start>
+<end>3755.96005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>den_bosch 23_entry</code>
+<start>4579.86005</start>
+<end>4619.86005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>den_bosch 23_entry</code>
+<start>4633.96005</start>
+<end>4673.96005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>den_bosch 23_entry</code>
+<start>4682.660083333333</start>
+<end>4722.35005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>den_bosch 23_entry</code>
+<start>4722.36005</start>
+<end>4732.25005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>den_bosch 23_entry</code>
+<start>4732.26005</start>
+<end>4757.26005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>den_bosch 23_entry</code>
+<start>4825.860033333333</start>
+<end>4865.860033333333</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>den_bosch 23_entry</code>
+<start>4919.560033333333</start>
+<end>4959.560033333333</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>kampong 23_entry</code>
+<start>437.06005</start>
+<end>502.36005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>kampong 23_entry</code>
+<start>825.7600500000001</start>
+<end>865.7600500000001</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>kampong 23_entry</code>
+<start>889.46005</start>
+<end>929.46005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>kampong 23_entry</code>
+<start>1193.66005</start>
+<end>1220.2601333333334</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>kampong 23_entry</code>
+<start>1388.06005</start>
+<end>1483.1600666666668</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>kampong 23_entry</code>
+<start>1483.9600666666668</start>
+<end>1523.9600666666668</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>kampong 23_entry</code>
+<start>1544.6600666666668</start>
+<end>1584.6600666666668</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>kampong 23_entry</code>
+<start>1615.4600666666668</start>
+<end>1655.4600666666668</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>kampong 23_entry</code>
+<start>1797.36005</start>
+<end>1837.36005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>kampong 23_entry</code>
+<start>1932.16005</start>
+<end>1970.8500333333334</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>kampong 23_entry</code>
+<start>1970.8600333333334</start>
+<end>1995.8600333333334</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>kampong 23_entry</code>
+<start>2027.5600333333332</start>
+<end>2067.560033333333</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>kampong 23_entry</code>
+<start>2307.56005</start>
+<end>2378.1600333333336</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>kampong 23_entry</code>
+<start>3143.46005</start>
+<end>3183.46005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>kampong 23_entry</code>
+<start>3297.76005</start>
+<end>3374.96005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>kampong 23_entry</code>
+<start>3518.4600833333334</start>
+<end>3557.7500333333332</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>kampong 23_entry</code>
+<start>3557.7600333333335</start>
+<end>3582.7600333333335</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>kampong 23_entry</code>
+<start>3616.66005</start>
+<end>3654.35005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>kampong 23_entry</code>
+<start>3654.3600500000002</start>
+<end>3715.76005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>kampong 23_entry</code>
+<start>3734.46005</start>
+<end>3774.46005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>kampong 23_entry</code>
+<start>3788.46005</start>
+<end>3822.35005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>kampong 23_entry</code>
+<start>3822.3600500000002</start>
+<end>3847.3600500000002</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND: ASC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>kampong 23_entry</code>
+<start>3923.16005</start>
+<end>3963.16005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>kampong 23_entry</code>
+<start>4013.96005</start>
+<end>4089.8600500000002</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>kampong 23_entry</code>
+<start>4284.860083333333</start>
+<end>4324.860083333333</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>kampong 23_entry</code>
+<start>4336.86005</start>
+<end>4362.0500833333335</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>kampong 23_entry</code>
+<start>4362.060083333334</start>
+<end>4387.060083333334</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>kampong 23_entry</code>
+<start>4446.160066666666</start>
+<end>4486.160066666666</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>kampong 23_entry</code>
+<start>4517.360066666667</start>
+<end>4557.360066666667</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>kampong 23_entry</code>
+<start>4768.86005</start>
+<end>4808.86005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>kampong 23_entry</code>
+<start>4848.36005</start>
+<end>4888.36005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>kampong 23_entry</code>
+<start>4900.560033333333</start>
+<end>4940.560033333333</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>kampong 23_entry</code>
+<start>5003.460083333333</start>
+<end>5043.460083333333</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: ASC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>kampong 23_entry</code>
+<start>5081.96005</start>
+<end>5157.16005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>kampong 23_entry</code>
+<start>5239.76005</start>
+<end>5279.76005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>den_bosch cause_of_penalty_corner</code>
+<start>200.16005</start>
+<end>218.16005</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>den_bosch cause_of_penalty_corner</code>
+<start>2196.1600333333336</start>
+<end>2214.1600333333336</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>den_bosch cause_of_penalty_corner</code>
+<start>3204.3600500000002</start>
+<end>3222.3600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>kampong cause_of_penalty_corner</code>
+<start>3820.060066666667</start>
+<end>3838.060066666667</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>kampong cause_of_penalty_corner</code>
+<start>5009.260033333333</start>
+<end>5027.260033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>kampong cause_of_penalty_corner</code>
+<start>5050.96005</start>
+<end>5068.96005</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>den_bosch ball_possession</code>
+<start>194.96005</start>
+<end>215.16005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>den_bosch ball_possession</code>
+<start>257.86005</start>
+<end>287.26005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>den_bosch ball_possession</code>
+<start>298.96006666666665</start>
+<end>302.66004999999996</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>den_bosch ball_possession</code>
+<start>321.86005</start>
+<end>343.06006666666667</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>den_bosch ball_possession</code>
+<start>383.96004999999997</start>
+<end>416.76005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>den_bosch ball_possession</code>
+<start>494.16004999999996</start>
+<end>504.56005000000005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>den_bosch ball_possession</code>
+<start>508.56005000000005</start>
+<end>518.1600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>den_bosch ball_possession</code>
+<start>557.86005</start>
+<end>573.06005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>den_bosch ball_possession</code>
+<start>611.1600500000001</start>
+<end>621.0600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>den_bosch ball_possession</code>
+<start>628.56005</start>
+<end>634.4600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>den_bosch ball_possession</code>
+<start>651.1600500000001</start>
+<end>749.4600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>den_bosch ball_possession</code>
+<start>753.9600333333334</start>
+<end>759.1600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>den_bosch ball_possession</code>
+<start>778.96005</start>
+<end>790.96005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>den_bosch ball_possession</code>
+<start>806.36005</start>
+<end>824.5600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>den_bosch ball_possession</code>
+<start>851.46005</start>
+<end>889.4600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>den_bosch ball_possession</code>
+<start>921.1600500000001</start>
+<end>933.8600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>den_bosch ball_possession</code>
+<start>937.6600500000001</start>
+<end>949.96005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>den_bosch ball_possession</code>
+<start>960.96005</start>
+<end>987.36005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>den_bosch ball_possession</code>
+<start>1012.9600499999999</start>
+<end>1024.5600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>den_bosch ball_possession</code>
+<start>1035.8600333333334</start>
+<end>1043.5600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>den_bosch ball_possession</code>
+<start>1064.0600333333334</start>
+<end>1067.0600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>den_bosch ball_possession</code>
+<start>1069.76005</start>
+<end>1080.6600333333333</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>den_bosch ball_possession</code>
+<start>1126.4600333333333</start>
+<end>1146.26005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>den_bosch ball_possession</code>
+<start>1155.26005</start>
+<end>1182.26005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>den_bosch ball_possession</code>
+<start>1212.8600833333335</start>
+<end>1220.2601333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>den_bosch ball_possession</code>
+<start>1352.3600833333335</start>
+<end>1379.6600666666668</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>den_bosch ball_possession</code>
+<start>1442.4600666666668</start>
+<end>1456.5600666666667</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>den_bosch ball_possession</code>
+<start>1468.9600500000001</start>
+<end>1476.0601000000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>den_bosch ball_possession</code>
+<start>1510.6600666666668</start>
+<end>1529.1601</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>den_bosch ball_possession</code>
+<start>1606.3600666666666</start>
+<end>1620.2601333333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>den_bosch ball_possession</code>
+<start>1645.36005</start>
+<end>1658.16005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>den_bosch ball_possession</code>
+<start>1676.8601</start>
+<end>1687.66005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>den_bosch ball_possession</code>
+<start>1708.4600500000001</start>
+<end>1709.9600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>den_bosch ball_possession</code>
+<start>1773.0600833333333</start>
+<end>1811.1600333333333</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>den_bosch ball_possession</code>
+<start>1813.9600500000001</start>
+<end>1823.5600333333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>den_bosch ball_possession</code>
+<start>1829.56005</start>
+<end>1889.1600333333333</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>den_bosch ball_possession</code>
+<start>1974.2600333333335</start>
+<end>1984.9600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>den_bosch ball_possession</code>
+<start>2000.86005</start>
+<end>2016.16005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>den_bosch ball_possession</code>
+<start>2050.66005</start>
+<end>2125.96005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>den_bosch ball_possession</code>
+<start>2145.26005</start>
+<end>2150.06005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>den_bosch ball_possession</code>
+<start>2161.46005</start>
+<end>2183.3600333333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>den_bosch ball_possession</code>
+<start>2189.76005</start>
+<end>2207.060033333333</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>den_bosch ball_possession</code>
+<start>2265.06005</start>
+<end>2294.3600500000002</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: GOAL TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>den_bosch ball_possession</code>
+<start>2387.060066666667</start>
+<end>2424.16005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>den_bosch ball_possession</code>
+<start>3164.560033333333</start>
+<end>3219.3600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>den_bosch ball_possession</code>
+<start>3264.26005</start>
+<end>3301.060066666667</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>den_bosch ball_possession</code>
+<start>3326.76005</start>
+<end>3337.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>den_bosch ball_possession</code>
+<start>3364.26005</start>
+<end>3383.3600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>den_bosch ball_possession</code>
+<start>3394.3600666666666</start>
+<end>3460.16005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>den_bosch ball_possession</code>
+<start>3469.4600333333333</start>
+<end>3504.26185</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>den_bosch ball_possession</code>
+<start>3528.2616333333335</start>
+<end>3531.96005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>den_bosch ball_possession</code>
+<start>3545.8600333333334</start>
+<end>3554.2600333333335</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>den_bosch ball_possession</code>
+<start>3562.3600500000002</start>
+<end>3577.6600333333336</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>den_bosch ball_possession</code>
+<start>3590.3600500000002</start>
+<end>3612.06005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>den_bosch ball_possession</code>
+<start>3634.76005</start>
+<end>3637.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>den_bosch ball_possession</code>
+<start>3667.06005</start>
+<end>3677.96005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>den_bosch ball_possession</code>
+<start>3700.560066666667</start>
+<end>3734.66005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>den_bosch ball_possession</code>
+<start>3766.7600833333336</start>
+<end>3770.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>den_bosch ball_possession</code>
+<start>3828.16005</start>
+<end>3835.060066666667</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND: ASC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>den_bosch ball_possession</code>
+<start>3903.7600666666667</start>
+<end>3920.2600666666667</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>den_bosch ball_possession</code>
+<start>3956.76005</start>
+<end>3963.2600833333336</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>den_bosch ball_possession</code>
+<start>3966.4600666666665</start>
+<end>3973.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>den_bosch ball_possession</code>
+<start>3984.86015</start>
+<end>4008.8600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>den_bosch ball_possession</code>
+<start>4036.2600333333335</start>
+<end>4043.66005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>den_bosch ball_possession</code>
+<start>4098.160066666666</start>
+<end>4109.76005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>den_bosch ball_possession</code>
+<start>4112.360133333334</start>
+<end>4123.16005</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>den_bosch ball_possession</code>
+<start>4291.160066666666</start>
+<end>4296.1601</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>den_bosch ball_possession</code>
+<start>4320.060066666667</start>
+<end>4327.0601</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>den_bosch ball_possession</code>
+<start>4380.56005</start>
+<end>4389.760083333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>den_bosch ball_possession</code>
+<start>4418.760066666667</start>
+<end>4451.260066666667</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>den_bosch ball_possession</code>
+<start>4504.760066666667</start>
+<end>4524.56005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>den_bosch ball_possession</code>
+<start>4564.16005</start>
+<end>4597.76005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>den_bosch ball_possession</code>
+<start>4628.66005</start>
+<end>4658.36005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>den_bosch ball_possession</code>
+<start>4670.86005</start>
+<end>4701.46005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>den_bosch ball_possession</code>
+<start>4722.36005</start>
+<end>4754.160116666667</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>den_bosch ball_possession</code>
+<start>4823.76005</start>
+<end>4849.16005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>den_bosch ball_possession</code>
+<start>4856.660033333334</start>
+<end>4862.4600666666665</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>den_bosch ball_possession</code>
+<start>4865.46005</start>
+<end>4903.86005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>den_bosch ball_possession</code>
+<start>4917.46005</start>
+<end>4951.96005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>den_bosch ball_possession</code>
+<start>4974.76005</start>
+<end>4986.06005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>den_bosch ball_possession</code>
+<start>5009.160066666666</start>
+<end>5015.96005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>den_bosch ball_possession</code>
+<start>5091.060033333333</start>
+<end>5094.160033333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>den_bosch ball_possession</code>
+<start>5100.36005</start>
+<end>5114.26005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>158</ID>
+<code>den_bosch ball_possession</code>
+<start>5120.760033333333</start>
+<end>5130.4600666666665</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>den_bosch ball_possession</code>
+<start>5209.06005</start>
+<end>5223.460033333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>den_bosch ball_possession</code>
+<start>5240.56005</start>
+<end>5245.96005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>den_bosch ball_possession</code>
+<start>5247.660083333333</start>
+<end>5249.860033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>den_bosch ball_possession</code>
+<start>5287.160033333334</start>
+<end>5337.060033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>kampong ball_possession</code>
+<start>287.26005</start>
+<end>298.96006666666665</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>kampong ball_possession</code>
+<start>302.66004999999996</start>
+<end>321.86005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>kampong ball_possession</code>
+<start>343.06006666666667</start>
+<end>383.96004999999997</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>kampong ball_possession</code>
+<start>416.76005</start>
+<end>433.46004999999997</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>kampong ball_possession</code>
+<start>434.96004999999997</start>
+<end>494.16004999999996</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>kampong ball_possession</code>
+<start>504.56005000000005</start>
+<end>508.56005000000005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>kampong ball_possession</code>
+<start>573.06005</start>
+<end>591.7600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>kampong ball_possession</code>
+<start>621.0600333333334</start>
+<end>628.56005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>kampong ball_possession</code>
+<start>634.4600333333334</start>
+<end>651.1600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>kampong ball_possession</code>
+<start>749.4600333333334</start>
+<end>753.9600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>kampong ball_possession</code>
+<start>759.1600500000001</start>
+<end>778.96005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>kampong ball_possession</code>
+<start>790.96005</start>
+<end>806.36005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>kampong ball_possession</code>
+<start>824.5600333333334</start>
+<end>851.46005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>kampong ball_possession</code>
+<start>889.4600333333334</start>
+<end>921.1600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>kampong ball_possession</code>
+<start>933.8600333333334</start>
+<end>937.6600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>kampong ball_possession</code>
+<start>949.96005</start>
+<end>960.96005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>kampong ball_possession</code>
+<start>987.36005</start>
+<end>1012.9600499999999</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>kampong ball_possession</code>
+<start>1024.5600333333334</start>
+<end>1035.8600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>kampong ball_possession</code>
+<start>1067.0600333333334</start>
+<end>1069.76005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>kampong ball_possession</code>
+<start>1080.6600333333333</start>
+<end>1126.4600333333333</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>kampong ball_possession</code>
+<start>1146.26005</start>
+<end>1155.26005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>kampong ball_possession</code>
+<start>1182.26005</start>
+<end>1212.8600833333335</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>kampong ball_possession</code>
+<start>1379.6600666666668</start>
+<end>1442.4600666666668</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>kampong ball_possession</code>
+<start>1456.5600666666667</start>
+<end>1468.9600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>kampong ball_possession</code>
+<start>1476.0601000000001</start>
+<end>1510.6600666666668</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>kampong ball_possession</code>
+<start>1529.1601</start>
+<end>1606.3600666666666</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>kampong ball_possession</code>
+<start>1620.2601333333334</start>
+<end>1645.36005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>kampong ball_possession</code>
+<start>1658.16005</start>
+<end>1676.8601</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>kampong ball_possession</code>
+<start>1687.66005</start>
+<end>1708.4600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>kampong ball_possession</code>
+<start>1709.9600500000001</start>
+<end>1773.0600833333333</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: GOAL TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>kampong ball_possession</code>
+<start>1811.1600333333333</start>
+<end>1813.9600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>kampong ball_possession</code>
+<start>1823.5600333333334</start>
+<end>1829.56005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>kampong ball_possession</code>
+<start>1919.4600500000001</start>
+<end>1974.2600333333335</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>kampong ball_possession</code>
+<start>1984.9600500000001</start>
+<end>2000.86005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>kampong ball_possession</code>
+<start>2016.16005</start>
+<end>2050.66005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>kampong ball_possession</code>
+<start>2125.96005</start>
+<end>2145.26005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>kampong ball_possession</code>
+<start>2150.06005</start>
+<end>2161.46005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>kampong ball_possession</code>
+<start>2183.3600333333334</start>
+<end>2189.76005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>kampong ball_possession</code>
+<start>2294.3600500000002</start>
+<end>2387.060066666667</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>kampong ball_possession</code>
+<start>3130.0600833333333</start>
+<end>3164.560033333333</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>kampong ball_possession</code>
+<start>3261.46005</start>
+<end>3264.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>kampong ball_possession</code>
+<start>3301.060066666667</start>
+<end>3326.76005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>kampong ball_possession</code>
+<start>3337.26005</start>
+<end>3364.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>kampong ball_possession</code>
+<start>3383.3600500000002</start>
+<end>3394.3600666666666</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>kampong ball_possession</code>
+<start>3460.16005</start>
+<end>3469.4600333333333</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>kampong ball_possession</code>
+<start>3504.26185</start>
+<end>3528.2616333333335</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>kampong ball_possession</code>
+<start>3531.96005</start>
+<end>3545.8600333333334</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>kampong ball_possession</code>
+<start>3554.2600333333335</start>
+<end>3562.3600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>kampong ball_possession</code>
+<start>3577.6600333333336</start>
+<end>3590.3600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>kampong ball_possession</code>
+<start>3612.06005</start>
+<end>3634.76005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>kampong ball_possession</code>
+<start>3637.26005</start>
+<end>3667.06005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>kampong ball_possession</code>
+<start>3677.96005</start>
+<end>3700.560066666667</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>kampong ball_possession</code>
+<start>3734.66005</start>
+<end>3766.7600833333336</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>kampong ball_possession</code>
+<start>3770.26005</start>
+<end>3828.16005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>kampong ball_possession</code>
+<start>3875.2600833333336</start>
+<end>3903.7600666666667</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>kampong ball_possession</code>
+<start>3920.2600666666667</start>
+<end>3956.76005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>kampong ball_possession</code>
+<start>3963.2600833333336</start>
+<end>3966.4600666666665</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>kampong ball_possession</code>
+<start>4008.8600500000002</start>
+<end>4036.2600333333335</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>kampong ball_possession</code>
+<start>4043.66005</start>
+<end>4098.160066666666</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>kampong ball_possession</code>
+<start>4109.76005</start>
+<end>4112.360133333334</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>kampong ball_possession</code>
+<start>4281.860066666667</start>
+<end>4291.160066666666</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>224</ID>
+<code>kampong ball_possession</code>
+<start>4296.1601</start>
+<end>4320.060066666667</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>kampong ball_possession</code>
+<start>4327.0601</start>
+<end>4380.56005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>kampong ball_possession</code>
+<start>4389.760083333334</start>
+<end>4418.760066666667</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>kampong ball_possession</code>
+<start>4451.260066666667</start>
+<end>4478.36005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>kampong ball_possession</code>
+<start>4524.56005</start>
+<end>4564.16005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>kampong ball_possession</code>
+<start>4597.76005</start>
+<end>4628.66005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>kampong ball_possession</code>
+<start>4658.36005</start>
+<end>4670.86005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>kampong ball_possession</code>
+<start>4701.46005</start>
+<end>4722.36005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>kampong ball_possession</code>
+<start>4754.160116666667</start>
+<end>4823.76005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>kampong ball_possession</code>
+<start>4849.16005</start>
+<end>4856.660033333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>kampong ball_possession</code>
+<start>4862.4600666666665</start>
+<end>4865.46005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>kampong ball_possession</code>
+<start>4903.86005</start>
+<end>4917.46005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>kampong ball_possession</code>
+<start>4951.96005</start>
+<end>4974.76005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>kampong ball_possession</code>
+<start>4986.06005</start>
+<end>5009.160066666666</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>kampong ball_possession</code>
+<start>5015.96005</start>
+<end>5024.260033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: ASC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>kampong ball_possession</code>
+<start>5061.86005</start>
+<end>5065.96005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: ASC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>kampong ball_possession</code>
+<start>5078.86005</start>
+<end>5091.060033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>kampong ball_possession</code>
+<start>5094.160033333334</start>
+<end>5100.36005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>kampong ball_possession</code>
+<start>5114.26005</start>
+<end>5120.760033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>kampong ball_possession</code>
+<start>5130.4600666666665</start>
+<end>5147.26005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>kampong ball_possession</code>
+<start>5173.26005</start>
+<end>5209.06005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>kampong ball_possession</code>
+<start>5223.460033333334</start>
+<end>5240.56005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>kampong ball_possession</code>
+<start>5245.96005</start>
+<end>5247.660083333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>kampong ball_possession</code>
+<start>5249.860033333333</start>
+<end>5287.160033333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>den_bosch ball_restart_1</code>
+<start>393.2600333333333</start>
+<end>417.76005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>den_bosch ball_restart_1</code>
+<start>493.16004999999996</start>
+<end>505.56005000000005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>den_bosch ball_restart_1</code>
+<start>650.1600500000001</start>
+<end>672.2600500000001</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>den_bosch ball_restart_1</code>
+<start>777.96005</start>
+<end>791.96005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>den_bosch ball_restart_1</code>
+<start>805.36005</start>
+<end>825.5600333333334</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>den_bosch ball_restart_1</code>
+<start>850.46005</start>
+<end>890.4600333333334</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>den_bosch ball_restart_1</code>
+<start>920.1600500000001</start>
+<end>934.8600333333334</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>den_bosch ball_restart_1</code>
+<start>1011.9600499999999</start>
+<end>1021.36005</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>den_bosch ball_restart_1</code>
+<start>1211.8600833333335</start>
+<end>1220.2601333333334</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>den_bosch ball_restart_1</code>
+<start>1451.4600666666668</start>
+<end>1457.5600666666667</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>den_bosch ball_restart_1</code>
+<start>1509.6600666666668</start>
+<end>1530.1601</end>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>den_bosch ball_restart_1</code>
+<start>1819.4600333333333</start>
+<end>1824.5600333333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>den_bosch ball_restart_1</code>
+<start>1999.86005</start>
+<end>2017.16005</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>den_bosch ball_restart_1</code>
+<start>2386.060066666667</start>
+<end>2424.16005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>den_bosch ball_restart_1</code>
+<start>3163.560033333333</start>
+<end>3190.96005</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>den_bosch ball_restart_1</code>
+<start>3325.76005</start>
+<end>3338.26005</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>den_bosch ball_restart_1</code>
+<start>3363.26005</start>
+<end>3376.060066666667</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>den_bosch ball_restart_1</code>
+<start>3486.2600333333335</start>
+<end>3505.26185</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>den_bosch ball_restart_1</code>
+<start>3544.8600333333334</start>
+<end>3555.2600333333335</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>den_bosch ball_restart_1</code>
+<start>3666.06005</start>
+<end>3678.96005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>den_bosch ball_restart_1</code>
+<start>3699.560066666667</start>
+<end>3735.66005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>den_bosch ball_restart_1</code>
+<start>3765.7600833333336</start>
+<end>3771.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>den_bosch ball_restart_1</code>
+<start>4097.160066666666</start>
+<end>4110.76005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>den_bosch ball_restart_1</code>
+<start>4290.160066666666</start>
+<end>4297.1601</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>den_bosch ball_restart_1</code>
+<start>4319.060066666667</start>
+<end>4328.0601</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>den_bosch ball_restart_1</code>
+<start>4379.56005</start>
+<end>4390.760083333334</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>den_bosch ball_restart_1</code>
+<start>4503.760066666667</start>
+<end>4525.56005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>den_bosch ball_restart_1</code>
+<start>4669.86005</start>
+<end>4697.26005</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>den_bosch ball_restart_1</code>
+<start>4876.560033333333</start>
+<end>4890.060066666667</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>den_bosch ball_restart_1</code>
+<start>4924.160033333334</start>
+<end>4931.16005</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>den_bosch ball_restart_1</code>
+<start>5008.160066666666</start>
+<end>5016.96005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>kampong ball_restart_1</code>
+<start>286.26005</start>
+<end>299.96006666666665</end>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>kampong ball_restart_1</code>
+<start>301.66004999999996</start>
+<end>309.66004999999996</end>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>kampong ball_restart_1</code>
+<start>309.67004999999995</start>
+<end>322.86005</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>kampong ball_restart_1</code>
+<start>415.76005</start>
+<end>434.46004999999997</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>kampong ball_restart_1</code>
+<start>748.4600333333334</start>
+<end>754.9600333333334</end>
+<label>
+<text>REND BBM: BW4 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>kampong ball_restart_1</code>
+<start>888.4600333333334</start>
+<end>922.1600500000001</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>kampong ball_restart_1</code>
+<start>986.36005</start>
+<end>1013.9600499999999</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>kampong ball_restart_1</code>
+<start>1181.26005</start>
+<end>1201.66005</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>kampong ball_restart_1</code>
+<start>1393.6600666666668</start>
+<end>1422.7600666666667</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>kampong ball_restart_1</code>
+<start>1528.1601</start>
+<end>1541.16005</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>kampong ball_restart_1</code>
+<start>1918.4600500000001</start>
+<end>1957.56005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>kampong ball_restart_1</code>
+<start>2124.96005</start>
+<end>2142.96005</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>kampong ball_restart_1</code>
+<start>3459.16005</start>
+<end>3470.4600333333333</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>292</ID>
+<code>kampong ball_restart_1</code>
+<start>4622.36005</start>
+<end>4629.66005</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>293</ID>
+<code>kampong ball_restart_1</code>
+<start>4753.160116666667</start>
+<end>4776.86005</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>294</ID>
+<code>kampong ball_restart_1</code>
+<start>4848.16005</start>
+<end>4857.660033333334</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>kampong ball_restart_1</code>
+<start>4950.96005</start>
+<end>4969.76005</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>den_bosch ball_restart_2</code>
+<start>193.96005</start>
+<end>211.16003333333333</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>den_bosch ball_restart_2</code>
+<start>320.86005</start>
+<end>344.06006666666667</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>den_bosch ball_restart_2</code>
+<start>670.2600500000001</start>
+<end>687.5600666666667</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>299</ID>
+<code>den_bosch ball_restart_2</code>
+<start>1138.9600500000001</start>
+<end>1147.26005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>300</ID>
+<code>den_bosch ball_restart_2</code>
+<start>1351.3600833333335</start>
+<end>1380.6600666666668</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>301</ID>
+<code>den_bosch ball_restart_2</code>
+<start>1605.3600666666666</start>
+<end>1621.2601333333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>den_bosch ball_restart_2</code>
+<start>3374.060066666667</start>
+<end>3384.3600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>303</ID>
+<code>den_bosch ball_restart_2</code>
+<start>3393.3600666666666</start>
+<end>3428.8600500000002</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>den_bosch ball_restart_2</code>
+<start>3468.4600333333333</start>
+<end>3488.2600333333335</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>305</ID>
+<code>den_bosch ball_restart_2</code>
+<start>3589.3600500000002</start>
+<end>3613.06005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>306</ID>
+<code>den_bosch ball_restart_2</code>
+<start>3902.7600666666667</start>
+<end>3921.2600666666667</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>307</ID>
+<code>den_bosch ball_restart_2</code>
+<start>3983.86015</start>
+<end>4009.8600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>308</ID>
+<code>den_bosch ball_restart_2</code>
+<start>4563.16005</start>
+<end>4578.56005</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>309</ID>
+<code>den_bosch ball_restart_2</code>
+<start>4578.57005</start>
+<end>4598.76005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>310</ID>
+<code>den_bosch ball_restart_2</code>
+<start>4638.860033333333</start>
+<end>4644.76005</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>311</ID>
+<code>den_bosch ball_restart_2</code>
+<start>4644.77005</start>
+<end>4659.36005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>312</ID>
+<code>den_bosch ball_restart_2</code>
+<start>4929.16005</start>
+<end>4952.96005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>313</ID>
+<code>den_bosch ball_restart_2</code>
+<start>5208.06005</start>
+<end>5224.460033333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>314</ID>
+<code>kampong ball_restart_2</code>
+<start>361.16004999999996</start>
+<end>380.76005</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>315</ID>
+<code>kampong ball_restart_2</code>
+<start>380.77004999999997</start>
+<end>384.96004999999997</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>316</ID>
+<code>kampong ball_restart_2</code>
+<start>956.8600333333334</start>
+<end>961.96005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>317</ID>
+<code>kampong ball_restart_2</code>
+<start>1113.8600333333334</start>
+<end>1127.4600333333333</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>318</ID>
+<code>kampong ball_restart_2</code>
+<start>1199.66005</start>
+<end>1213.8600833333335</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>319</ID>
+<code>kampong ball_restart_2</code>
+<start>1539.16005</start>
+<end>1574.9600500000001</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>320</ID>
+<code>kampong ball_restart_2</code>
+<start>1755.9600500000001</start>
+<end>1774.0600833333333</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>321</ID>
+<code>kampong ball_restart_2</code>
+<start>2015.16005</start>
+<end>2023.9600333333333</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>322</ID>
+<code>kampong ball_restart_2</code>
+<start>2140.96005</start>
+<end>2146.26005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>323</ID>
+<code>kampong ball_restart_2</code>
+<start>2293.3600500000002</start>
+<end>2322.66005</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+</instance>
+<instance>
+<ID>324</ID>
+<code>kampong ball_restart_2</code>
+<start>3129.0600833333333</start>
+<end>3165.560033333333</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>325</ID>
+<code>kampong ball_restart_2</code>
+<start>3260.46005</start>
+<end>3265.26005</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>326</ID>
+<code>kampong ball_restart_2</code>
+<start>3503.26185</start>
+<end>3517.8600500000002</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>327</ID>
+<code>kampong ball_restart_2</code>
+<start>3517.8700500000004</start>
+<end>3529.2616333333335</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>328</ID>
+<code>kampong ball_restart_2</code>
+<start>4022.8600500000002</start>
+<end>4036.360133333333</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>329</ID>
+<code>kampong ball_restart_2</code>
+<start>4280.860066666667</start>
+<end>4292.160066666666</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>330</ID>
+<code>kampong ball_restart_2</code>
+<start>4388.760083333334</start>
+<end>4419.760066666667</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>331</ID>
+<code>kampong ball_restart_2</code>
+<start>4455.060066666667</start>
+<end>4471.26005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>332</ID>
+<code>kampong ball_restart_2</code>
+<start>4902.86005</start>
+<end>4914.46005</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>333</ID>
+<code>kampong ball_restart_2</code>
+<start>4967.76005</start>
+<end>4975.76005</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>334</ID>
+<code>kampong ball_restart_2</code>
+<start>4985.06005</start>
+<end>5010.160066666666</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>335</ID>
+<code>kampong ball_restart_2</code>
+<start>5113.26005</start>
+<end>5121.760033333333</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>336</ID>
+<code>den_bosch ball_restart_3</code>
+<start>209.16003333333333</start>
+<end>215.16005</end>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>337</ID>
+<code>den_bosch ball_restart_3</code>
+<start>556.86005</start>
+<end>574.06005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>338</ID>
+<code>den_bosch ball_restart_3</code>
+<start>1019.36005</start>
+<end>1025.5600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>339</ID>
+<code>den_bosch ball_restart_3</code>
+<start>1063.0600333333334</start>
+<end>1068.0600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>340</ID>
+<code>den_bosch ball_restart_3</code>
+<start>1675.8601</start>
+<end>1688.66005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>341</ID>
+<code>den_bosch ball_restart_3</code>
+<start>2170.8600500000002</start>
+<end>2184.3600333333334</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>342</ID>
+<code>den_bosch ball_restart_3</code>
+<start>3188.96005</start>
+<end>3197.56005</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>343</ID>
+<code>den_bosch ball_restart_3</code>
+<start>3197.5700500000003</start>
+<end>3219.3600500000002</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>344</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4417.760066666667</start>
+<end>4438.160083333333</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>345</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4438.170083333333</start>
+<end>4452.260066666667</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>346</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4695.26005</start>
+<end>4702.46005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>347</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4888.060066666667</start>
+<end>4904.86005</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>348</ID>
+<code>den_bosch ball_restart_3</code>
+<start>5298.16005</start>
+<end>5337.060033333333</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>kampong ball_restart_3</code>
+<start>433.96004999999997</start>
+<end>495.16004999999996</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>350</ID>
+<code>kampong ball_restart_3</code>
+<start>823.5600333333334</start>
+<end>852.46005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>351</ID>
+<code>kampong ball_restart_3</code>
+<start>932.8600333333334</start>
+<end>938.6600500000001</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>352</ID>
+<code>kampong ball_restart_3</code>
+<start>1475.0601000000001</start>
+<end>1511.6600666666668</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>353</ID>
+<code>kampong ball_restart_3</code>
+<start>1810.1600333333333</start>
+<end>1814.9600500000001</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>354</ID>
+<code>kampong ball_restart_3</code>
+<start>2021.9600333333333</start>
+<end>2048.560033333333</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>355</ID>
+<code>kampong ball_restart_3</code>
+<start>2320.66005</start>
+<end>2352.0600833333333</end>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>356</ID>
+<code>kampong ball_restart_3</code>
+<start>3300.060066666667</start>
+<end>3327.76005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>357</ID>
+<code>kampong ball_restart_3</code>
+<start>3336.26005</start>
+<end>3348.2600333333335</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>358</ID>
+<code>kampong ball_restart_3</code>
+<start>3348.2700333333337</start>
+<end>3365.26005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>359</ID>
+<code>kampong ball_restart_3</code>
+<start>3553.2600333333335</start>
+<end>3559.46005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>360</ID>
+<code>kampong ball_restart_3</code>
+<start>3628.8600500000002</start>
+<end>3635.76005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>361</ID>
+<code>kampong ball_restart_3</code>
+<start>3747.66005</start>
+<end>3767.7600833333336</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>362</ID>
+<code>kampong ball_restart_3</code>
+<start>4326.0601</start>
+<end>4381.56005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>363</ID>
+<code>kampong ball_restart_3</code>
+<start>4774.86005</start>
+<end>4799.060033333333</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>364</ID>
+<code>kampong ball_restart_3</code>
+<start>4861.4600666666665</start>
+<end>4866.46005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>365</ID>
+<code>kampong ball_restart_3</code>
+<start>4912.46005</start>
+<end>4918.46005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>366</ID>
+<code>kampong ball_restart_3</code>
+<start>5129.4600666666665</start>
+<end>5147.26005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+</instance>
+<instance>
+<ID>367</ID>
+<code>kampong ball_restart_3</code>
+<start>5234.360033333333</start>
+<end>5241.56005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>368</ID>
+<code>den_bosch ball_restart_4</code>
+<start>270.76005</start>
+<end>288.26005</end>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>369</ID>
+<code>den_bosch ball_restart_4</code>
+<start>297.96006666666665</start>
+<end>303.66004999999996</end>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>370</ID>
+<code>den_bosch ball_restart_4</code>
+<start>580.46005</start>
+<end>591.7600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>371</ID>
+<code>den_bosch ball_restart_4</code>
+<start>600.2600500000001</start>
+<end>611.1600500000001</end>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>372</ID>
+<code>den_bosch ball_restart_4</code>
+<start>611.1700500000001</start>
+<end>622.0600333333334</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>373</ID>
+<code>den_bosch ball_restart_4</code>
+<start>685.5600666666667</start>
+<end>708.86005</end>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>374</ID>
+<code>den_bosch ball_restart_4</code>
+<start>708.87005</start>
+<end>721.7600500000001</end>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>375</ID>
+<code>den_bosch ball_restart_4</code>
+<start>721.7700500000001</start>
+<end>750.4600333333334</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>376</ID>
+<code>den_bosch ball_restart_4</code>
+<start>1076.4600500000001</start>
+<end>1081.6600333333333</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>377</ID>
+<code>den_bosch ball_restart_4</code>
+<start>1085.56005</start>
+<end>1091.06005</end>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>378</ID>
+<code>den_bosch ball_restart_4</code>
+<start>1694.76005</start>
+<end>1710.9600500000001</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>379</ID>
+<code>den_bosch ball_restart_4</code>
+<start>1722.16005</start>
+<end>1734.66005</end>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: GOAL TEG</text>
+</label>
+</instance>
+<instance>
+<ID>380</ID>
+<code>den_bosch ball_restart_4</code>
+<start>2091.7600333333335</start>
+<end>2107.3600333333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>381</ID>
+<code>den_bosch ball_restart_4</code>
+<start>2107.3700333333336</start>
+<end>2126.96005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>382</ID>
+<code>den_bosch ball_restart_4</code>
+<start>2201.560033333333</start>
+<end>2207.060033333333</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>383</ID>
+<code>den_bosch ball_restart_4</code>
+<start>3235.3600500000002</start>
+<end>3262.46005</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>384</ID>
+<code>den_bosch ball_restart_4</code>
+<start>3426.8600500000002</start>
+<end>3461.16005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>385</ID>
+<code>den_bosch ball_restart_4</code>
+<start>4708.96005</start>
+<end>4755.160116666667</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>386</ID>
+<code>kampong ball_restart_4</code>
+<start>1420.7600666666667</start>
+<end>1443.4600666666668</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>387</ID>
+<code>kampong ball_restart_4</code>
+<start>1463.5600666666667</start>
+<end>1469.9600500000001</end>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>388</ID>
+<code>kampong ball_restart_4</code>
+<start>1572.9600500000001</start>
+<end>1581.4600500000001</end>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+</instance>
+<instance>
+<ID>389</ID>
+<code>kampong ball_restart_4</code>
+<start>1639.6600666666668</start>
+<end>1646.36005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>390</ID>
+<code>kampong ball_restart_4</code>
+<start>1657.16005</start>
+<end>1677.8601</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>391</ID>
+<code>kampong ball_restart_4</code>
+<start>1955.56005</start>
+<end>1975.2600333333335</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>392</ID>
+<code>kampong ball_restart_4</code>
+<start>2046.5600333333332</start>
+<end>2051.66005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>393</ID>
+<code>kampong ball_restart_4</code>
+<start>2350.0600833333333</start>
+<end>2362.1600333333336</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>394</ID>
+<code>kampong ball_restart_4</code>
+<start>2362.170033333334</start>
+<end>2388.060066666667</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>395</ID>
+<code>kampong ball_restart_4</code>
+<start>3557.46005</start>
+<end>3563.3600500000002</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>396</ID>
+<code>kampong ball_restart_4</code>
+<start>3790.26005</start>
+<end>3829.16005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>397</ID>
+<code>kampong ball_restart_4</code>
+<start>3948.4600833333334</start>
+<end>3957.76005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>398</ID>
+<code>kampong ball_restart_4</code>
+<start>4057.9601166666666</start>
+<end>4099.160066666666</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>399</ID>
+<code>kampong ball_restart_4</code>
+<start>4469.26005</start>
+<end>4478.36005</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>400</ID>
+<code>kampong ball_restart_4</code>
+<start>4797.060033333333</start>
+<end>4824.76005</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>401</ID>
+<code>kampong ball_restart_4</code>
+<start>5088.660033333334</start>
+<end>5092.060033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>402</ID>
+<code>kampong ball_restart_4</code>
+<start>5172.26005</start>
+<end>5210.06005</end>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>403</ID>
+<code>kampong ball_restart_4</code>
+<start>5259.46005</start>
+<end>5269.660033333334</end>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>404</ID>
+<code>kampong ball_restart_4</code>
+<start>5269.670033333334</start>
+<end>5288.160033333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>405</ID>
+<code>den_bosch ball_win_1</code>
+<start>382.96004999999997</start>
+<end>395.2600333333333</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>406</ID>
+<code>den_bosch ball_win_1</code>
+<start>959.96005</start>
+<end>988.36005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>407</ID>
+<code>den_bosch ball_win_1</code>
+<start>1125.4600333333333</start>
+<end>1140.9600500000001</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>408</ID>
+<code>den_bosch ball_win_1</code>
+<start>1441.4600666666668</start>
+<end>1453.4600666666668</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>409</ID>
+<code>den_bosch ball_win_1</code>
+<start>1467.9600500000001</start>
+<end>1477.0601000000001</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>410</ID>
+<code>den_bosch ball_win_1</code>
+<start>1644.36005</start>
+<end>1659.16005</end>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>411</ID>
+<code>den_bosch ball_win_1</code>
+<start>1812.9600500000001</start>
+<end>1821.4600333333333</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>412</ID>
+<code>den_bosch ball_win_1</code>
+<start>1973.2600333333335</start>
+<end>1985.9600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>413</ID>
+<code>den_bosch ball_win_1</code>
+<start>2049.66005</start>
+<end>2093.7600333333335</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>414</ID>
+<code>den_bosch ball_win_1</code>
+<start>2144.26005</start>
+<end>2151.06005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>415</ID>
+<code>den_bosch ball_win_1</code>
+<start>3633.76005</start>
+<end>3638.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>416</ID>
+<code>den_bosch ball_win_1</code>
+<start>3827.16005</start>
+<end>3835.060066666667</end>
+<label>
+<text>REND: ASC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>417</ID>
+<code>den_bosch ball_win_1</code>
+<start>3955.76005</start>
+<end>3964.2600833333336</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>418</ID>
+<code>den_bosch ball_win_1</code>
+<start>4034.360133333333</start>
+<end>4044.66005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>419</ID>
+<code>den_bosch ball_win_1</code>
+<start>4864.46005</start>
+<end>4878.560033333333</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>420</ID>
+<code>den_bosch ball_win_1</code>
+<start>4916.46005</start>
+<end>4926.160033333334</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>421</ID>
+<code>den_bosch ball_win_1</code>
+<start>5090.060033333333</start>
+<end>5095.160033333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>422</ID>
+<code>den_bosch ball_win_1</code>
+<start>5099.36005</start>
+<end>5115.26005</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>423</ID>
+<code>den_bosch ball_win_1</code>
+<start>5239.56005</start>
+<end>5246.96005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>424</ID>
+<code>den_bosch ball_win_1</code>
+<start>5246.97005</start>
+<end>5250.860033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>425</ID>
+<code>den_bosch ball_win_1</code>
+<start>5286.160033333334</start>
+<end>5300.16005</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>426</ID>
+<code>kampong ball_win_1</code>
+<start>342.06006666666667</start>
+<end>363.16004999999996</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>427</ID>
+<code>kampong ball_win_1</code>
+<start>503.56005000000005</start>
+<end>509.56005000000005</end>
+<label>
+<text>REND BBM: BW4 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>428</ID>
+<code>kampong ball_win_1</code>
+<start>572.06005</start>
+<end>582.46005</end>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>429</ID>
+<code>kampong ball_win_1</code>
+<start>620.0600333333334</start>
+<end>629.56005</end>
+<label>
+<text>REND BBM: BW3 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+</instance>
+<instance>
+<ID>430</ID>
+<code>kampong ball_win_1</code>
+<start>633.4600333333334</start>
+<end>652.1600500000001</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>431</ID>
+<code>kampong ball_win_1</code>
+<start>758.1600500000001</start>
+<end>779.96005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>432</ID>
+<code>kampong ball_win_1</code>
+<start>1023.5600333333334</start>
+<end>1036.8600333333334</end>
+<label>
+<text>REND BBM: BW3 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>433</ID>
+<code>kampong ball_win_1</code>
+<start>1066.0600333333334</start>
+<end>1070.76005</end>
+<label>
+<text>REND BBM: BW4 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>434</ID>
+<code>kampong ball_win_1</code>
+<start>1079.6600333333333</start>
+<end>1087.56005</end>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>435</ID>
+<code>kampong ball_win_1</code>
+<start>1089.06005</start>
+<end>1115.8600333333334</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>436</ID>
+<code>kampong ball_win_1</code>
+<start>1378.6600666666668</start>
+<end>1395.6600666666668</end>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>437</ID>
+<code>kampong ball_win_1</code>
+<start>1686.66005</start>
+<end>1696.76005</end>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>438</ID>
+<code>kampong ball_win_1</code>
+<start>1708.9600500000001</start>
+<end>1724.16005</end>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>439</ID>
+<code>kampong ball_win_1</code>
+<start>2182.3600333333334</start>
+<end>2190.76005</end>
+<label>
+<text>REND BBM: BW3 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>440</ID>
+<code>kampong ball_win_1</code>
+<start>3733.66005</start>
+<end>3749.66005</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+</instance>
+<instance>
+<ID>441</ID>
+<code>kampong ball_win_1</code>
+<start>4596.76005</start>
+<end>4624.36005</end>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>442</ID>
+<code>kampong ball_win_1</code>
+<start>4657.36005</start>
+<end>4671.86005</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>443</ID>
+<code>kampong ball_win_1</code>
+<start>4700.46005</start>
+<end>4710.96005</end>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>444</ID>
+<code>den_bosch ball_win_2</code>
+<start>936.6600500000001</start>
+<end>950.96005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>445</ID>
+<code>den_bosch ball_win_2</code>
+<start>1154.26005</start>
+<end>1183.26005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>446</ID>
+<code>den_bosch ball_win_2</code>
+<start>1772.0600833333333</start>
+<end>1812.1600333333333</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>447</ID>
+<code>den_bosch ball_win_2</code>
+<start>1828.56005</start>
+<end>1889.1600333333333</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+</instance>
+<instance>
+<ID>448</ID>
+<code>den_bosch ball_win_2</code>
+<start>2160.46005</start>
+<end>2172.8600500000002</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>449</ID>
+<code>den_bosch ball_win_2</code>
+<start>3263.26005</start>
+<end>3302.060066666667</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>450</ID>
+<code>den_bosch ball_win_2</code>
+<start>3527.2616333333335</start>
+<end>3532.96005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>451</ID>
+<code>den_bosch ball_win_2</code>
+<start>3561.3600500000002</start>
+<end>3578.6600333333336</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>452</ID>
+<code>den_bosch ball_win_2</code>
+<start>3965.4600666666665</start>
+<end>3973.26005</end>
+</instance>
+<instance>
+<ID>453</ID>
+<code>den_bosch ball_win_2</code>
+<start>4111.360133333334</start>
+<end>4123.16005</end>
+</instance>
+<instance>
+<ID>454</ID>
+<code>den_bosch ball_win_2</code>
+<start>4627.66005</start>
+<end>4640.860033333333</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>455</ID>
+<code>den_bosch ball_win_2</code>
+<start>4822.76005</start>
+<end>4850.16005</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>456</ID>
+<code>den_bosch ball_win_2</code>
+<start>4855.660033333334</start>
+<end>4863.4600666666665</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+</instance>
+<instance>
+<ID>457</ID>
+<code>den_bosch ball_win_2</code>
+<start>4973.76005</start>
+<end>4987.06005</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>458</ID>
+<code>den_bosch ball_win_2</code>
+<start>5119.760033333333</start>
+<end>5131.4600666666665</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>459</ID>
+<code>kampong ball_win_2</code>
+<start>948.96005</start>
+<end>958.8600333333334</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>460</ID>
+<code>kampong ball_win_2</code>
+<start>1145.26005</start>
+<end>1156.26005</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>461</ID>
+<code>kampong ball_win_2</code>
+<start>1619.2601333333334</start>
+<end>1641.6600666666668</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>462</ID>
+<code>kampong ball_win_2</code>
+<start>3382.3600500000002</start>
+<end>3395.3600666666666</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>463</ID>
+<code>kampong ball_win_2</code>
+<start>3576.6600333333336</start>
+<end>3591.3600500000002</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>464</ID>
+<code>kampong ball_win_2</code>
+<start>3611.06005</start>
+<end>3630.8600500000002</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>465</ID>
+<code>kampong ball_win_2</code>
+<start>3769.26005</start>
+<end>3792.26005</end>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>466</ID>
+<code>kampong ball_win_2</code>
+<start>3919.2600666666667</start>
+<end>3950.4600833333334</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>467</ID>
+<code>kampong ball_win_2</code>
+<start>4007.8600500000002</start>
+<end>4024.8600500000002</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>468</ID>
+<code>kampong ball_win_2</code>
+<start>4108.76005</start>
+<end>4113.360133333334</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>469</ID>
+<code>kampong ball_win_2</code>
+<start>4450.260066666667</start>
+<end>4457.060066666667</end>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>470</ID>
+<code>kampong ball_win_2</code>
+<start>5222.460033333334</start>
+<end>5236.360033333333</end>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>471</ID>
+<code>den_bosch ball_win_3</code>
+<start>627.56005</start>
+<end>635.4600333333334</end>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>472</ID>
+<code>den_bosch ball_win_3</code>
+<start>1034.8600333333334</start>
+<end>1043.5600333333334</end>
+</instance>
+<instance>
+<ID>473</ID>
+<code>den_bosch ball_win_3</code>
+<start>2188.76005</start>
+<end>2203.560033333333</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>474</ID>
+<code>kampong ball_win_3</code>
+<start>1455.5600666666667</start>
+<end>1465.5600666666667</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>475</ID>
+<code>kampong ball_win_3</code>
+<start>1822.5600333333334</start>
+<end>1830.56005</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>476</ID>
+<code>kampong ball_win_3</code>
+<start>2149.06005</start>
+<end>2162.46005</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>477</ID>
+<code>kampong ball_win_3</code>
+<start>3530.96005</start>
+<end>3546.8600333333334</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>478</ID>
+<code>kampong ball_win_3</code>
+<start>3636.26005</start>
+<end>3668.06005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>479</ID>
+<code>kampong ball_win_3</code>
+<start>3676.96005</start>
+<end>3701.560066666667</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>480</ID>
+<code>kampong ball_win_3</code>
+<start>3962.2600833333336</start>
+<end>3967.4600666666665</end>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>481</ID>
+<code>kampong ball_win_3</code>
+<start>4295.1601</start>
+<end>4321.060066666667</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>482</ID>
+<code>kampong ball_win_3</code>
+<start>4523.56005</start>
+<end>4538.4600666666665</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+</instance>
+<instance>
+<ID>483</ID>
+<code>kampong ball_win_3</code>
+<start>5014.96005</start>
+<end>5024.260033333333</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: ASC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>484</ID>
+<code>kampong ball_win_3</code>
+<start>5093.160033333334</start>
+<end>5101.36005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>485</ID>
+<code>kampong ball_win_3</code>
+<start>5248.860033333333</start>
+<end>5261.46005</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>486</ID>
+<code>den_bosch ball_win_4</code>
+<start>507.56005000000005</start>
+<end>518.1600500000001</end>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>487</ID>
+<code>den_bosch ball_win_4</code>
+<start>752.9600333333334</start>
+<end>760.1600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>488</ID>
+<code>den_bosch ball_win_4</code>
+<start>1068.76005</start>
+<end>1078.4600500000001</end>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>489</ID>
+<code>kampong ball_win_4</code>
+<start>789.96005</start>
+<end>807.36005</end>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>490</ID>
+<code>kampong ball_win_4</code>
+<start>1983.9600500000001</start>
+<end>2001.86005</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>491</ID>
+<code>kampong ball_win_4</code>
+<start>4042.66005</start>
+<end>4059.9601166666666</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>492</ID>
+<code>kampong ball_win_4</code>
+<start>5244.96005</start>
+<end>5248.660083333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>493</ID>
+<code>den_bosch circle_penetration</code>
+<start>196.96003333333334</start>
+<end>216.16005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>494</ID>
+<code>den_bosch circle_penetration</code>
+<start>496.86005</start>
+<end>519.1600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>495</ID>
+<code>den_bosch circle_penetration</code>
+<start>588.86005</start>
+<end>612.1600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>496</ID>
+<code>den_bosch circle_penetration</code>
+<start>615.36005</start>
+<end>635.4600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>497</ID>
+<code>den_bosch circle_penetration</code>
+<start>855.7600500000001</start>
+<end>885.7600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+</instance>
+<instance>
+<ID>498</ID>
+<code>den_bosch circle_penetration</code>
+<start>1073.6600333333333</start>
+<end>1091.06005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>499</ID>
+<code>den_bosch circle_penetration</code>
+<start>1147.4600500000001</start>
+<end>1177.4600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>500</ID>
+<code>den_bosch circle_penetration</code>
+<start>1712.56005</start>
+<end>1734.66005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: GOAL TEG</text>
+</label>
+</instance>
+<instance>
+<ID>501</ID>
+<code>den_bosch circle_penetration</code>
+<start>2164.9600333333333</start>
+<end>2184.3600333333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>502</ID>
+<code>den_bosch circle_penetration</code>
+<start>3198.76005</start>
+<end>3220.3600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>503</ID>
+<code>den_bosch circle_penetration</code>
+<start>3424.3600333333334</start>
+<end>3454.3600333333334</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+</instance>
+<instance>
+<ID>504</ID>
+<code>den_bosch circle_penetration</code>
+<start>4922.36005</start>
+<end>4952.36005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>505</ID>
+<code>kampong circle_penetration</code>
+<start>777.7600500000001</start>
+<end>807.36005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>506</ID>
+<code>kampong circle_penetration</code>
+<start>892.2600500000001</start>
+<end>922.1600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>507</ID>
+<code>kampong circle_penetration</code>
+<start>1389.7600666666667</start>
+<end>1415.000098823</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>508</ID>
+<code>kampong circle_penetration</code>
+<start>1451.06005</start>
+<end>1469.9600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>509</ID>
+<code>kampong circle_penetration</code>
+<start>2356.2600333333335</start>
+<end>2378.3500833333333</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+</instance>
+<instance>
+<ID>510</ID>
+<code>kampong circle_penetration</code>
+<start>2378.3600833333335</start>
+<end>2389.586735288239</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>511</ID>
+<code>kampong circle_penetration</code>
+<start>3144.7600333333335</start>
+<end>3165.560033333333</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>512</ID>
+<code>kampong circle_penetration</code>
+<start>3335.9600333333333</start>
+<end>3365.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>513</ID>
+<code>kampong circle_penetration</code>
+<start>4017.660066666667</start>
+<end>4036.360133333333</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>514</ID>
+<code>kampong circle_penetration</code>
+<start>4352.560083333334</start>
+<end>4381.56005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>515</ID>
+<code>kampong circle_penetration</code>
+<start>4518.760066666667</start>
+<end>4538.4600666666665</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+</instance>
+<instance>
+<ID>516</ID>
+<code>kampong circle_penetration</code>
+<start>4772.360033333333</start>
+<end>4799.060033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>517</ID>
+<code>kampong circle_penetration</code>
+<start>5006.76005</start>
+<end>5025.260033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: ASC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>518</ID>
+<code>kampong circle_penetration</code>
+<start>5126.26005</start>
+<end>5156.26005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+</instance>
+<instance>
+<ID>519</ID>
+<code>kampong circle_penetration</code>
+<start>5162.4601</start>
+<end>5192.4601</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>520</ID>
+<code>kampong circle_penetration</code>
+<start>1547.4600500000001</start>
+<end>1570.066333128</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+</instance>
+<instance>
+<ID>521</ID>
+<code>kampong circle_penetration</code>
+<start>1570.076333128</start>
+<end>1591.516705068</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+</instance>
+<instance>
+<ID>522</ID>
+<code>den_bosch circle_penetration</code>
+<start>327.16004999999996</start>
+<end>345.16004999999996</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>523</ID>
+<code>den_bosch circle_penetration</code>
+<start>390.56005</start>
+<end>408.56005</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>524</ID>
+<code>den_bosch circle_penetration</code>
+<start>488.76005</start>
+<end>506.76005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>525</ID>
+<code>den_bosch circle_penetration</code>
+<start>557.56005</start>
+<end>575.56005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>526</ID>
+<code>den_bosch circle_penetration</code>
+<start>743.6600500000001</start>
+<end>761.6600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>527</ID>
+<code>den_bosch circle_penetration</code>
+<start>961.2600666666667</start>
+<end>979.2600666666667</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>528</ID>
+<code>den_bosch circle_penetration</code>
+<start>1065.16005</start>
+<end>1083.16005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>529</ID>
+<code>den_bosch circle_penetration</code>
+<start>1363.36005</start>
+<end>1381.36005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>530</ID>
+<code>den_bosch circle_penetration</code>
+<start>1671.76005</start>
+<end>1689.76005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>531</ID>
+<code>den_bosch circle_penetration</code>
+<start>1694.4600500000001</start>
+<end>1712.4600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>532</ID>
+<code>den_bosch circle_penetration</code>
+<start>1869.9600833333334</start>
+<end>1887.9600833333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>533</ID>
+<code>den_bosch circle_penetration</code>
+<start>2083.1600333333336</start>
+<end>2101.300070822</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>534</ID>
+<code>den_bosch circle_penetration</code>
+<start>3402.46005</start>
+<end>3420.46005</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>535</ID>
+<code>den_bosch circle_penetration</code>
+<start>4685.16005</start>
+<end>4703.16005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>536</ID>
+<code>den_bosch circle_penetration</code>
+<start>2101.3100708220004</start>
+<end>2114.2600833333336</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>537</ID>
+<code>kampong circle_penetration</code>
+<start>751.1600500000001</start>
+<end>769.1600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>538</ID>
+<code>kampong circle_penetration</code>
+<start>1426.56005</start>
+<end>1444.56005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>539</ID>
+<code>kampong circle_penetration</code>
+<start>1629.7600833333333</start>
+<end>1647.7600833333333</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>540</ID>
+<code>kampong circle_penetration</code>
+<start>1958.4600500000001</start>
+<end>1976.4600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>541</ID>
+<code>kampong circle_penetration</code>
+<start>2339.9601000000002</start>
+<end>2358.216273254651</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+</instance>
+<instance>
+<ID>542</ID>
+<code>kampong circle_penetration</code>
+<start>3520.560066666667</start>
+<end>3538.560066666667</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>543</ID>
+<code>kampong circle_penetration</code>
+<start>3618.96005</start>
+<end>3636.96005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>544</ID>
+<code>kampong circle_penetration</code>
+<start>3642.16005</start>
+<end>3660.16005</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>545</ID>
+<code>kampong circle_penetration</code>
+<start>3812.56005</start>
+<end>3830.56005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>546</ID>
+<code>kampong circle_penetration</code>
+<start>4038.76005</start>
+<end>4057.963548236</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>547</ID>
+<code>kampong circle_penetration</code>
+<start>4449.2601</start>
+<end>4467.2601</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>548</ID>
+<code>kampong circle_penetration</code>
+<start>5125.16005</start>
+<end>5143.16005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+</instance>
+<instance>
+<ID>549</ID>
+<code>kampong circle_penetration</code>
+<start>4057.973548236</start>
+<end>4070.16005</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>550</ID>
+<code>den_bosch goal_attempt</code>
+<start>623.06005</start>
+<end>638.06005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>551</ID>
+<code>den_bosch goal_attempt</code>
+<start>863.5600333333334</start>
+<end>878.5600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>552</ID>
+<code>den_bosch goal_attempt</code>
+<start>3433.4600666666665</start>
+<end>3448.4600666666665</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>553</ID>
+<code>kampong goal_attempt</code>
+<start>902.56005</start>
+<end>917.56005</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>554</ID>
+<code>kampong goal_attempt</code>
+<start>1400.9601166666666</start>
+<end>1415.9601166666666</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>555</ID>
+<code>kampong goal_attempt</code>
+<start>1457.7600666666667</start>
+<end>1472.7600666666667</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>556</ID>
+<code>kampong goal_attempt</code>
+<start>1555.06005</start>
+<end>1570.06005</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>557</ID>
+<code>kampong goal_attempt</code>
+<start>3345.96005</start>
+<end>3360.96005</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>558</ID>
+<code>kampong goal_attempt</code>
+<start>4779.960033333334</start>
+<end>4794.960033333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>559</ID>
+<code>kampong goal_attempt</code>
+<start>5133.760033333333</start>
+<end>5148.760033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>560</ID>
+<code>den_bosch goal</code>
+<start>1709.66005</start>
+<end>1736.66005</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>561</ID>
+<code>den_bosch goal</code>
+<start>2245.66005</start>
+<end>2272.66005</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>562</ID>
+<code>kampong goal</code>
+<start>1556.4600500000001</start>
+<end>1583.4600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>563</ID>
+<code>kampong goal</code>
+<start>3857.3600500000002</start>
+<end>3884.3600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>564</ID>
+<code>kampong goal</code>
+<start>4513.4600666666665</start>
+<end>4540.4600666666665</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>565</ID>
+<code>den_bosch green_card</code>
+<start>1881.0600333333334</start>
+<end>2026.0600333333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>566</ID>
+<code>kampong green_card</code>
+<start>2201.3600500000002</start>
+<end>2346.3600500000002</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: GOAL TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+</instance>
+<instance>
+<ID>567</ID>
+<code>den_bosch long_corner</code>
+<start>295.96006666666665</start>
+<end>303.66004999999996</end>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>568</ID>
+<code>den_bosch long_corner</code>
+<start>608.1600500000001</start>
+<end>618.1600500000001</end>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>569</ID>
+<code>den_bosch long_corner</code>
+<start>2104.3600333333334</start>
+<end>2114.3600333333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>570</ID>
+<code>den_bosch long_corner</code>
+<start>3424.8600500000002</start>
+<end>3434.8600500000002</end>
+</instance>
+<instance>
+<ID>571</ID>
+<code>kampong long_corner</code>
+<start>1418.7600666666667</start>
+<end>1428.7600666666667</end>
+</instance>
+<instance>
+<ID>572</ID>
+<code>kampong long_corner</code>
+<start>1570.9600500000001</start>
+<end>1580.9600500000001</end>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+</instance>
+<instance>
+<ID>573</ID>
+<code>kampong long_corner</code>
+<start>2348.0600833333333</start>
+<end>2358.0600833333333</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>574</ID>
+<code>kampong long_corner</code>
+<start>2359.1600333333336</start>
+<end>2369.1600333333336</end>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>575</ID>
+<code>kampong long_corner</code>
+<start>3946.4600833333334</start>
+<end>3956.4600833333334</end>
+</instance>
+<instance>
+<ID>576</ID>
+<code>kampong long_corner</code>
+<start>4055.9601166666666</start>
+<end>4065.9601166666666</end>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>577</ID>
+<code>kampong long_corner</code>
+<start>4467.26005</start>
+<end>4477.26005</end>
+</instance>
+<instance>
+<ID>578</ID>
+<code>kampong long_corner</code>
+<start>4795.060033333333</start>
+<end>4805.060033333333</end>
+</instance>
+<instance>
+<ID>579</ID>
+<code>kampong long_corner</code>
+<start>5086.660033333334</start>
+<end>5092.060033333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>580</ID>
+<code>den_bosch build_up</code>
+<start>394.2600333333333</start>
+<end>416.76005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>581</ID>
+<code>den_bosch build_up</code>
+<start>494.16004999999996</start>
+<end>504.56005000000005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>582</ID>
+<code>den_bosch build_up</code>
+<start>651.1600500000001</start>
+<end>749.4600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>583</ID>
+<code>den_bosch build_up</code>
+<start>778.96005</start>
+<end>790.96005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>584</ID>
+<code>den_bosch build_up</code>
+<start>806.36005</start>
+<end>824.5600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>585</ID>
+<code>den_bosch build_up</code>
+<start>851.46005</start>
+<end>889.4600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: DP TEG</text>
+</label>
+<label>
+<text>DPO TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>586</ID>
+<code>den_bosch build_up</code>
+<start>921.1600500000001</start>
+<end>933.8600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>587</ID>
+<code>den_bosch build_up</code>
+<start>1012.9600499999999</start>
+<end>1024.5600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>588</ID>
+<code>den_bosch build_up</code>
+<start>1212.8600833333335</start>
+<end>1220.2601333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>589</ID>
+<code>den_bosch build_up</code>
+<start>1452.4600666666668</start>
+<end>1456.5600666666667</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>590</ID>
+<code>den_bosch build_up</code>
+<start>1510.6600666666668</start>
+<end>1529.1601</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>591</ID>
+<code>den_bosch build_up</code>
+<start>1820.4600333333333</start>
+<end>1823.5600333333334</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>592</ID>
+<code>den_bosch build_up</code>
+<start>2000.86005</start>
+<end>2016.16005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>593</ID>
+<code>den_bosch build_up</code>
+<start>2387.060066666667</start>
+<end>2424.16005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+</instance>
+<instance>
+<ID>594</ID>
+<code>den_bosch build_up</code>
+<start>3164.560033333333</start>
+<end>3219.3600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>595</ID>
+<code>den_bosch build_up</code>
+<start>3326.76005</start>
+<end>3337.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>596</ID>
+<code>den_bosch build_up</code>
+<start>3364.26005</start>
+<end>3383.3600500000002</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>597</ID>
+<code>den_bosch build_up</code>
+<start>3487.2600333333335</start>
+<end>3504.26185</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>598</ID>
+<code>den_bosch build_up</code>
+<start>3545.8600333333334</start>
+<end>3554.2600333333335</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>599</ID>
+<code>den_bosch build_up</code>
+<start>3667.06005</start>
+<end>3677.96005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>600</ID>
+<code>den_bosch build_up</code>
+<start>3700.560066666667</start>
+<end>3734.66005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>601</ID>
+<code>den_bosch build_up</code>
+<start>3766.7600833333336</start>
+<end>3770.26005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>602</ID>
+<code>den_bosch build_up</code>
+<start>4098.160066666666</start>
+<end>4109.76005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>603</ID>
+<code>den_bosch build_up</code>
+<start>4291.160066666666</start>
+<end>4296.1601</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>604</ID>
+<code>den_bosch build_up</code>
+<start>4320.060066666667</start>
+<end>4327.0601</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>605</ID>
+<code>den_bosch build_up</code>
+<start>4380.56005</start>
+<end>4389.760083333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>606</ID>
+<code>den_bosch build_up</code>
+<start>4504.760066666667</start>
+<end>4524.56005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>607</ID>
+<code>den_bosch build_up</code>
+<start>4670.86005</start>
+<end>4701.46005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND BBM: BW1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>608</ID>
+<code>den_bosch build_up</code>
+<start>4877.560033333333</start>
+<end>4903.86005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>609</ID>
+<code>den_bosch build_up</code>
+<start>4925.160033333334</start>
+<end>4951.96005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+<label>
+<text>REND BBM: 23p TEG</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>610</ID>
+<code>den_bosch build_up</code>
+<start>5009.160066666666</start>
+<end>5015.96005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW3 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>611</ID>
+<code>kampong build_up</code>
+<start>287.26005</start>
+<end>298.96006666666665</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>612</ID>
+<code>kampong build_up</code>
+<start>302.66004999999996</start>
+<end>321.86005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>613</ID>
+<code>kampong build_up</code>
+<start>416.76005</start>
+<end>433.46004999999997</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>614</ID>
+<code>kampong build_up</code>
+<start>749.4600333333334</start>
+<end>753.9600333333334</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW4 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>615</ID>
+<code>kampong build_up</code>
+<start>889.4600333333334</start>
+<end>921.1600500000001</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>616</ID>
+<code>kampong build_up</code>
+<start>987.36005</start>
+<end>1012.9600499999999</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>617</ID>
+<code>kampong build_up</code>
+<start>1182.26005</start>
+<end>1212.8600833333335</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>618</ID>
+<code>kampong build_up</code>
+<start>1394.6600666666668</start>
+<end>1442.4600666666668</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>619</ID>
+<code>kampong build_up</code>
+<start>1529.1601</start>
+<end>1606.3600666666666</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>620</ID>
+<code>kampong build_up</code>
+<start>1919.4600500000001</start>
+<end>1974.2600333333335</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>621</ID>
+<code>kampong build_up</code>
+<start>2125.96005</start>
+<end>2145.26005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>622</ID>
+<code>kampong build_up</code>
+<start>3460.16005</start>
+<end>3469.4600333333333</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>623</ID>
+<code>kampong build_up</code>
+<start>4623.36005</start>
+<end>4628.66005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>624</ID>
+<code>kampong build_up</code>
+<start>4754.160116666667</start>
+<end>4823.76005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS3 KAM</text>
+</label>
+<label>
+<text>REND BBM: 23p KAM</text>
+</label>
+<label>
+<text>REND: CP KAM</text>
+</label>
+<label>
+<text>REND: DP KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>625</ID>
+<code>kampong build_up</code>
+<start>4849.16005</start>
+<end>4856.660033333334</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>626</ID>
+<code>kampong build_up</code>
+<start>4951.96005</start>
+<end>4974.76005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+<label>
+<text>REND BBM: BW2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>627</ID>
+<code>den_bosch penalty_corner</code>
+<start>254.86005</start>
+<end>264.86005</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>628</ID>
+<code>den_bosch penalty_corner</code>
+<start>2262.06005</start>
+<end>2270.66005</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND: GOAL TEG</text>
+</label>
+</instance>
+<instance>
+<ID>629</ID>
+<code>kampong penalty_corner</code>
+<start>3872.2600833333336</start>
+<end>3882.2600833333336</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND: GOAL KAM</text>
+</label>
+</instance>
+<instance>
+<ID>630</ID>
+<code>kampong penalty_corner</code>
+<start>5058.86005</start>
+<end>5066.96005</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND: ASC KAM</text>
+</label>
+</instance>
+<instance>
+<ID>631</ID>
+<code>kampong penalty_corner</code>
+<start>5075.86005</start>
+<end>5085.86005</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>632</ID>
+<code>start</code>
+<start>193.36005</start>
+<end>196.36005</end>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>633</ID>
+<code>start</code>
+<start>1351.0600833333333</start>
+<end>1354.0600833333333</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>634</ID>
+<code>start</code>
+<start>3128.56005</start>
+<end>3131.56005</end>
+<label>
+<text>3e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>635</ID>
+<code>start</code>
+<start>4280.160083333333</start>
+<end>4283.160083333333</end>
+<label>
+<text>4e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS2 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>636</ID>
+<code>pause</code>
+<start>215.16005</start>
+<end>257.86005</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>637</ID>
+<code>pause</code>
+<start>518.1600500000001</start>
+<end>539.46005</end>
+<label>
+<text>1e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>638</ID>
+<code>pause</code>
+<start>591.7600333333334</start>
+<end>611.1600500000001</end>
+<label>
+<text>REND BBM: BS4 TEG</text>
+</label>
+<label>
+<text>1e kwart</text>
+</label>
+<label>
+<text>REND: CP TEG</text>
+</label>
+<label>
+<text>CP TEG</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC TEG</text>
+</label>
+</instance>
+<instance>
+<ID>639</ID>
+<code>pause</code>
+<start>1043.5600333333334</start>
+<end>1064.0600333333334</end>
+<label>
+<text>REND BBM: BS3 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>640</ID>
+<code>pause</code>
+<start>1889.1600333333333</start>
+<end>1919.4600500000001</end>
+<label>
+<text>2e kwart</text>
+</label>
+<label>
+<text>REND BBM: BS1 KAM</text>
+</label>
+</instance>
+<instance>
+<ID>641</ID>
+<code>pause</code>
+<start>2207.060033333333</start>
+<end>2265.06005</end>
+<label>
+<text>REND: ASC TEG</text>
+</label>
+<label>
+<text>ASC TEG</text>
+</label>
+<label>
+<text>2e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>642</ID>
+<code>pause</code>
+<start>3219.3600500000002</start>
+<end>3228.9600333333333</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>643</ID>
+<code>pause</code>
+<start>3835.060066666667</start>
+<end>3875.2600833333336</end>
+<label>
+<text>3e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>644</ID>
+<code>pause</code>
+<start>3973.26005</start>
+<end>3984.86015</end>
+<label>
+<text>REND BBM: BS2 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>645</ID>
+<code>pause</code>
+<start>4478.36005</start>
+<end>4504.760066666667</end>
+<label>
+<text>REND BBM: BS1 TEG</text>
+</label>
+</instance>
+<instance>
+<ID>646</ID>
+<code>pause</code>
+<start>5024.260033333333</start>
+<end>5061.86005</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>647</ID>
+<code>pause</code>
+<start>5065.96005</start>
+<end>5078.86005</end>
+<label>
+<text>4e kwart</text>
+</label>
+</instance>
+<instance>
+<ID>648</ID>
+<code>pause</code>
+<start>5147.26005</start>
+<end>5173.26005</end>
+<label>
+<text>REND BBM: BS4 KAM</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>-1 KAM</code>
+<R>44975</R>
+<G>62194</G>
+<B>44461</B>
+</row>
+<row>
+<code>+1 KAM</code>
+<R>44975</R>
+<G>62194</G>
+<B>44461</B>
+</row>
+<row>
+<code>23p DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>23p KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>ASC KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>BB DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>BB KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>BS1 KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>BS2 KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>BS3 KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>BS4 KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>BW1 KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>BW2 KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>BW3 KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>BW4 KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>CP KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP NBB DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>CP NBB KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>DPO DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>DPO KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>GOAL KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>GROEN DBO</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GROEN KAM</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>LC DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>LC KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>Opbouw DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>Opbouw KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC DBO</code>
+<R>61937</R>
+<G>514</G>
+<B>6939</B>
+</row>
+<row>
+<code>SC KAM</code>
+<R>12336</R>
+<G>46003</G>
+<B>65536</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>Tijdstil</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+</ROWS>
+</file>

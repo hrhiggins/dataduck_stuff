@@ -1,0 +1,4726 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>hurley penalty_corner</code>
+<start>3033.5001</start>
+<end>3043.4000666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>hurley penalty_corner</code>
+<start>3494.4001</start>
+<end>3503.6000833333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>hurley penalty_corner</code>
+<start>4537.40005</start>
+<end>4549.40005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>hurley penalty_corner</code>
+<start>4563.100016666666</start>
+<end>4575.100016666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>hurley 23_entry</code>
+<start>241.00006666666667</start>
+<end>255.50006666666667</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>hurley 23_entry</code>
+<start>725.40005</start>
+<end>739.20005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>hurley 23_entry</code>
+<start>767.20005</start>
+<end>779.70005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>hurley 23_entry</code>
+<start>882.8000333333333</start>
+<end>891.7000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>hurley 23_entry</code>
+<start>1329.80005</start>
+<end>1345.60005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>hurley 23_entry</code>
+<start>1589.90005</start>
+<end>1601.4000666666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>hurley 23_entry</code>
+<start>1700.80005</start>
+<end>1711.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>hurley 23_entry</code>
+<start>1801.1000333333334</start>
+<end>1810.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>hurley 23_entry</code>
+<start>1962.6000333333334</start>
+<end>1973.50005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>hurley 23_entry</code>
+<start>2006.9000333333333</start>
+<end>2015.30005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>hurley 23_entry</code>
+<start>2863.7000333333335</start>
+<end>2875.8001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>hurley 23_entry</code>
+<start>2933.10005</start>
+<end>2940.8001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>hurley 23_entry</code>
+<start>2979.5001</start>
+<end>2998.3000833333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>hurley 23_entry</code>
+<start>3085.700116666667</start>
+<end>3116.4000666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND: GOAL HUR</text>
+</label>
+<label>
+<text>REND: Kans HUR</text>
+</label>
+<label>
+<text>Kans HUR</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>hurley 23_entry</code>
+<start>3373.3000833333335</start>
+<end>3387.3000833333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>hurley 23_entry</code>
+<start>3412.5000833333334</start>
+<end>3420.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>hurley 23_entry</code>
+<start>3445.5001166666666</start>
+<end>3458.7000666666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>hurley 23_entry</code>
+<start>3966.100066666667</start>
+<end>3975.8001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>hurley 23_entry</code>
+<start>4340.000016666667</start>
+<end>4349.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>hurley 23_entry</code>
+<start>4386.90005</start>
+<end>4400.300066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>hurley 23_entry</code>
+<start>4414.5000666666665</start>
+<end>4423.40005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>hurley 23_entry</code>
+<start>4486.000016666667</start>
+<end>4501.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>hurley 23_entry</code>
+<start>4849.40005</start>
+<end>4859.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>hurley 23_entry</code>
+<start>4887.50005</start>
+<end>4898.100016666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>hurley 23_entry</code>
+<start>5005.5000666666665</start>
+<end>5013.50005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>29</ID>
+<code>hurley cause_of_penalty_corner</code>
+<start>2988.3000833333335</start>
+<end>2998.3000833333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>30</ID>
+<code>hurley cause_of_penalty_corner</code>
+<start>3448.7000666666668</start>
+<end>3458.7000666666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>hurley cause_of_penalty_corner</code>
+<start>4491.90005</start>
+<end>4501.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>hurley cause_of_penalty_corner</code>
+<start>4541.100016666666</start>
+<end>4550.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>hurley ball_restart_1</code>
+<start>175.40003333333334</start>
+<end>184.50006666666667</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>hurley ball_restart_1</code>
+<start>313.3000333333333</start>
+<end>318.90003333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>hurley ball_restart_1</code>
+<start>354.30005</start>
+<end>364.1000666666667</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>hurley ball_restart_1</code>
+<start>801.3000333333333</start>
+<end>848.7000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>hurley ball_restart_1</code>
+<start>1442.90005</start>
+<end>1450.0000333333332</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>hurley ball_restart_1</code>
+<start>1543.7000333333333</start>
+<end>1554.30005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>hurley ball_restart_1</code>
+<start>1631.80005</start>
+<end>1640.0000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>hurley ball_restart_1</code>
+<start>1772.20005</start>
+<end>1788.0000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>hurley ball_restart_1</code>
+<start>1864.7000333333333</start>
+<end>1880.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>hurley ball_restart_1</code>
+<start>1885.50005</start>
+<end>1903.20005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>hurley ball_restart_1</code>
+<start>3268.6000833333333</start>
+<end>3285.20005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>hurley ball_restart_1</code>
+<start>3337.000016666667</start>
+<end>3345.1001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>hurley ball_restart_1</code>
+<start>3351.2000333333335</start>
+<end>3387.3000833333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>hurley ball_restart_1</code>
+<start>3602.2000333333335</start>
+<end>3610.8001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>hurley ball_restart_1</code>
+<start>3658.3000833333335</start>
+<end>3679.7001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>hurley ball_restart_1</code>
+<start>3952.9001</start>
+<end>3975.8001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>hurley ball_restart_1</code>
+<start>3996.9001166666667</start>
+<end>4021.5001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>hurley ball_restart_1</code>
+<start>4106.5001</start>
+<end>4121.7001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>hurley ball_restart_1</code>
+<start>4658.000016666667</start>
+<end>4670.50005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>hurley ball_restart_1</code>
+<start>4871.200016666667</start>
+<end>4898.100016666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>hurley ball_restart_1</code>
+<start>5081.30005</start>
+<end>5090.200016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>hurley ball_restart_2</code>
+<start>21.30005</start>
+<end>32.0001</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>hurley ball_restart_2</code>
+<start>99.00003333333333</start>
+<end>115.60005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>hurley ball_restart_2</code>
+<start>189.80005</start>
+<end>222.00003333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>hurley ball_restart_2</code>
+<start>368.70006666666666</start>
+<end>395.70005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>hurley ball_restart_2</code>
+<start>523.9000666666667</start>
+<end>565.80005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>hurley ball_restart_2</code>
+<start>636.50005</start>
+<end>653.9008</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>hurley ball_restart_2</code>
+<start>941.30005</start>
+<end>947.90005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>hurley ball_restart_2</code>
+<start>1145.0000166666666</start>
+<end>1160.0000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>hurley ball_restart_2</code>
+<start>1160.0100166666666</start>
+<end>1162.8000666666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>hurley ball_restart_2</code>
+<start>1162.8100666666667</start>
+<end>1183.7000666666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>hurley ball_restart_2</code>
+<start>1304.9000666666666</start>
+<end>1313.2000666666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>hurley ball_restart_2</code>
+<start>1435.80005</start>
+<end>1440.90005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>hurley ball_restart_2</code>
+<start>1448.10005</start>
+<end>1454.6000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>hurley ball_restart_2</code>
+<start>1454.6100333333334</start>
+<end>1471.20005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>hurley ball_restart_2</code>
+<start>2731.3000666666667</start>
+<end>2740.8000833333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>hurley ball_restart_2</code>
+<start>2740.8100833333338</start>
+<end>2747.4000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>hurley ball_restart_2</code>
+<start>2812.5000666666665</start>
+<end>2829.8001833333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>hurley ball_restart_2</code>
+<start>2829.8101833333335</start>
+<end>2853.5000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>hurley ball_restart_2</code>
+<start>4017.5001</start>
+<end>4039.30005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>hurley ball_restart_2</code>
+<start>4127.5001</start>
+<end>4145.800116666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>hurley ball_restart_2</code>
+<start>4315.100016666666</start>
+<end>4326.3000833333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>hurley ball_restart_2</code>
+<start>4690.200016666667</start>
+<end>4700.80005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>hurley ball_restart_2</code>
+<start>4826.800033333333</start>
+<end>4851.200016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>hurley ball_restart_2</code>
+<start>5003.100016666666</start>
+<end>5013.50005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>hurley ball_restart_2</code>
+<start>5030.50005</start>
+<end>5042.900033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>hurley ball_restart_2</code>
+<start>5055.40005</start>
+<end>5062.2000333333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>hurley ball_restart_3</code>
+<start>1184.7001</start>
+<end>1192.2000666666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>hurley ball_restart_3</code>
+<start>1320.60005</start>
+<end>1345.60005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>hurley ball_restart_3</code>
+<start>1382.3000666666667</start>
+<end>1390.0000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>hurley ball_restart_3</code>
+<start>1944.20005</start>
+<end>1954.0000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>hurley ball_restart_3</code>
+<start>3079.5000333333332</start>
+<end>3116.4000666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND: GOAL HUR</text>
+</label>
+<label>
+<text>REND: Kans HUR</text>
+</label>
+<label>
+<text>Kans HUR</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>hurley ball_restart_3</code>
+<start>3687.2000333333335</start>
+<end>3701.3000666666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>hurley ball_restart_3</code>
+<start>3701.310066666667</start>
+<end>3705.7001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>hurley ball_restart_3</code>
+<start>3718.300116666667</start>
+<end>3737.40005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>hurley ball_restart_3</code>
+<start>4042.000016666667</start>
+<end>4046.8000666666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>hurley ball_restart_3</code>
+<start>4153.000016666667</start>
+<end>4177.6001166666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>hurley ball_restart_4</code>
+<start>224.20005</start>
+<end>231.60008333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>hurley ball_restart_4</code>
+<start>233.00006666666667</start>
+<end>246.00006666666667</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>hurley ball_restart_4</code>
+<start>259.40003333333334</start>
+<end>271.0000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>hurley ball_restart_4</code>
+<start>276.70006666666666</start>
+<end>284.8000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>hurley ball_restart_4</code>
+<start>1190.10005</start>
+<end>1200.2000666666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>hurley ball_restart_4</code>
+<start>1203.40005</start>
+<end>1215.9000833333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>hurley ball_restart_4</code>
+<start>1348.30005</start>
+<end>1357.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>hurley ball_restart_4</code>
+<start>2944.3000333333334</start>
+<end>2951.8001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>hurley ball_restart_4</code>
+<start>3433.8001</start>
+<end>3441.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>hurley ball_restart_4</code>
+<start>4382.2000333333335</start>
+<end>4391.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>hurley ball_restart_4</code>
+<start>4409.100016666666</start>
+<end>4419.5000666666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>hurley ball_restart_4</code>
+<start>4430.30005</start>
+<end>4441.800066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>hurley ball_win_1</code>
+<start>55.20008333333333</start>
+<end>61.90005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>hurley ball_win_1</code>
+<start>334.8000333333333</start>
+<end>344.70006666666666</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>hurley ball_win_1</code>
+<start>873.50005</start>
+<end>891.7000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>hurley ball_win_1</code>
+<start>1264.7000333333333</start>
+<end>1278.40005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>hurley ball_win_1</code>
+<start>1665.70005</start>
+<end>1673.60005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>hurley ball_win_1</code>
+<start>1688.2000666666668</start>
+<end>1711.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>hurley ball_win_1</code>
+<start>2794.1000166666668</start>
+<end>2808.7001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>hurley ball_win_1</code>
+<start>3251.9001</start>
+<end>3258.4001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>hurley ball_win_1</code>
+<start>3758.60005</start>
+<end>3768.9001166666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>hurley ball_win_1</code>
+<start>3931.3000666666667</start>
+<end>3942.80005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>hurley ball_win_1</code>
+<start>4472.90005</start>
+<end>4501.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>hurley ball_win_1</code>
+<start>4787.90005</start>
+<end>4799.400066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>hurley ball_win_2</code>
+<start>2000.60005</start>
+<end>2015.30005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>hurley ball_win_2</code>
+<start>2854.1000166666668</start>
+<end>2875.8001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>hurley ball_win_2</code>
+<start>2906.49005</start>
+<end>2922.5001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>hurley ball_win_2</code>
+<start>3066.30015</start>
+<end>3075.3000833333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>hurley ball_win_2</code>
+<start>4072.8000833333335</start>
+<end>4085.9001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>hurley ball_win_3</code>
+<start>1408.70005</start>
+<end>1419.50005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>hurley ball_win_3</code>
+<start>1610.7000666666668</start>
+<end>1618.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>hurley ball_win_3</code>
+<start>1929.1</start>
+<end>1948.20005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>hurley ball_win_3</code>
+<start>1961.60005</start>
+<end>1973.50005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>hurley ball_win_3</code>
+<start>2848.5000833333334</start>
+<end>2856.4000666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>hurley ball_win_3</code>
+<start>4846.200016666667</start>
+<end>4859.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>hurley ball_win_4</code>
+<start>1369.30005</start>
+<end>1378.20005</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>hurley circle_penetration</code>
+<start>242.90003333333334</start>
+<end>255.50006666666667</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>hurley circle_penetration</code>
+<start>765.10005</start>
+<end>779.70005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>hurley circle_penetration</code>
+<start>2860.7000666666668</start>
+<end>2875.8001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>hurley circle_penetration</code>
+<start>2981.700116666667</start>
+<end>2998.3000833333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>hurley circle_penetration</code>
+<start>3096.9001</start>
+<end>3116.4000666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: GOAL HUR</text>
+</label>
+<label>
+<text>REND: Kans HUR</text>
+</label>
+<label>
+<text>Kans HUR</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>hurley circle_penetration</code>
+<start>3373.2000333333335</start>
+<end>3387.3000833333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>hurley circle_penetration</code>
+<start>3443.6000833333333</start>
+<end>3458.7000666666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>hurley circle_penetration</code>
+<start>3961.7001</start>
+<end>3975.8001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>hurley circle_penetration</code>
+<start>4384.600066666667</start>
+<end>4400.300066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>hurley circle_penetration</code>
+<start>4487.40005</start>
+<end>4501.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>hurley circle_penetration</code>
+<start>4884.90005</start>
+<end>4898.100016666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>hurley goal</code>
+<start>3089.4843550901496</start>
+<end>3116.4000666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: Kans HUR</text>
+</label>
+<label>
+<text>Kans HUR</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>hurley goal</code>
+<start>4565.700066666666</start>
+<end>4580.700066666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: Kans HUR</text>
+</label>
+<label>
+<text>Kans HUR</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>hurley goal_attempt</code>
+<start>3103.4000666666666</start>
+<end>3116.4000666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>hurley goal_attempt</code>
+<start>4567.700066666666</start>
+<end>4580.700066666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>den_bosch penalty_corner</code>
+<start>3244.000016666667</start>
+<end>3256.000016666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>den_bosch penalty_corner</code>
+<start>4283.9001</start>
+<end>4294.3000833333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>den_bosch 23_entry</code>
+<start>39.700066666666665</start>
+<end>47.80008333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>den_bosch 23_entry</code>
+<start>157.60003333333333</start>
+<end>166.20005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>den_bosch 23_entry</code>
+<start>326.70005</start>
+<end>340.8000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>den_bosch 23_entry</code>
+<start>458.10005</start>
+<end>475.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>den_bosch 23_entry</code>
+<start>581.9000333333333</start>
+<end>596.90005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>den_bosch 23_entry</code>
+<start>608.30005</start>
+<end>618.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>den_bosch 23_entry</code>
+<start>662.3002</start>
+<end>688.1000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>den_bosch 23_entry</code>
+<start>947.10005</start>
+<end>959.7000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>den_bosch 23_entry</code>
+<start>1119.10005</start>
+<end>1136.3000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>den_bosch 23_entry</code>
+<start>1241.40005</start>
+<end>1270.7000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>den_bosch 23_entry</code>
+<start>1523.40005</start>
+<end>1536.5000666666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>den_bosch 23_entry</code>
+<start>1555.90005</start>
+<end>1571.7000166666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>den_bosch 23_entry</code>
+<start>1661.80005</start>
+<end>1671.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>den_bosch 23_entry</code>
+<start>1733.0000166666666</start>
+<end>1746.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>den_bosch 23_entry</code>
+<start>3187.5001</start>
+<end>3194.9000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>158</ID>
+<code>den_bosch 23_entry</code>
+<start>3540.800116666667</start>
+<end>3548.800116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>den_bosch 23_entry</code>
+<start>3557.8008</start>
+<end>3567.300116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>den_bosch 23_entry</code>
+<start>3618.1000166666668</start>
+<end>3630.9000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>den_bosch 23_entry</code>
+<start>3907.4001166666667</start>
+<end>3918.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>den_bosch 23_entry</code>
+<start>4084.800116666667</start>
+<end>4098.900083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>den_bosch 23_entry</code>
+<start>4633.900033333333</start>
+<end>4652.70005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>den_bosch 23_entry</code>
+<start>4784.300066666667</start>
+<end>4793.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>den_bosch 23_entry</code>
+<start>5076.800066666667</start>
+<end>5083.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>den_bosch cause_of_penalty_corner</code>
+<start>3195.20005</start>
+<end>3205.20005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>den_bosch cause_of_penalty_corner</code>
+<start>4235.5001</start>
+<end>4245.5001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>den_bosch ball_restart_1</code>
+<start>298.10005</start>
+<end>307.8000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>den_bosch ball_restart_1</code>
+<start>902.4000333333333</start>
+<end>910.2000666666667</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>den_bosch ball_restart_1</code>
+<start>1220.70005</start>
+<end>1247.40005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>den_bosch ball_restart_1</code>
+<start>1713.0000166666666</start>
+<end>1726.0000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>den_bosch ball_restart_1</code>
+<start>1821.1000333333334</start>
+<end>1853.7000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>den_bosch ball_restart_1</code>
+<start>1988.7000666666668</start>
+<end>2006.60005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>den_bosch ball_restart_1</code>
+<start>3047.5001</start>
+<end>3072.30015</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>den_bosch ball_restart_1</code>
+<start>3398.9001333333335</start>
+<end>3418.5000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>den_bosch ball_restart_1</code>
+<start>4055.9001</start>
+<end>4078.8000833333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>den_bosch ball_restart_1</code>
+<start>4912.80005</start>
+<end>4939.80005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>den_bosch ball_restart_1</code>
+<start>5018.900066666667</start>
+<end>5028.80005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>den_bosch ball_restart_2</code>
+<start>324.70005</start>
+<end>332.70005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>den_bosch ball_restart_2</code>
+<start>575.90005</start>
+<end>587.9000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>den_bosch ball_restart_2</code>
+<start>865.9000333333333</start>
+<end>879.50005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>den_bosch ball_restart_2</code>
+<start>1400.7000666666668</start>
+<end>1414.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>den_bosch ball_restart_2</code>
+<start>1498.10005</start>
+<end>1512.30005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>den_bosch ball_restart_2</code>
+<start>1730.90005</start>
+<end>1739.0000166666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>den_bosch ball_restart_2</code>
+<start>1899.20005</start>
+<end>1909.30005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>den_bosch ball_restart_2</code>
+<start>2711.1000166666668</start>
+<end>2730.7001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>den_bosch ball_restart_2</code>
+<start>2753.9000833333334</start>
+<end>2779.000016666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>den_bosch ball_restart_2</code>
+<start>3139.9000833333334</start>
+<end>3173.8001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>den_bosch ball_restart_2</code>
+<start>3179.100066666667</start>
+<end>3193.5001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>den_bosch ball_restart_2</code>
+<start>3745.2000166666667</start>
+<end>3764.60005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>den_bosch ball_restart_2</code>
+<start>3897.6001166666665</start>
+<end>3913.4001166666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>den_bosch ball_restart_2</code>
+<start>4611.100016666666</start>
+<end>4627.600033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>den_bosch ball_restart_2</code>
+<start>5046.300066666667</start>
+<end>5054.100016666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>den_bosch ball_restart_3</code>
+<start>446.5000333333333</start>
+<end>464.10005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>den_bosch ball_restart_3</code>
+<start>918.20005</start>
+<end>930.10005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>den_bosch ball_restart_3</code>
+<start>2784.4000666666666</start>
+<end>2800.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>den_bosch ball_restart_3</code>
+<start>3290.700116666667</start>
+<end>3330.000016666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>den_bosch ball_restart_3</code>
+<start>3612.1000166666668</start>
+<end>3624.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4085.1000166666668</start>
+<end>4090.800116666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4200.7001</start>
+<end>4209.500083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4469.100016666666</start>
+<end>4478.90005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4628.80005</start>
+<end>4639.900033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4709.40005</start>
+<end>4739.600066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4740.200016666667</start>
+<end>4751.100016666666</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>den_bosch ball_restart_3</code>
+<start>4783.600033333333</start>
+<end>4790.300066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>den_bosch ball_restart_3</code>
+<start>5071.70005</start>
+<end>5082.800066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>den_bosch ball_restart_4</code>
+<start>50.100033333333336</start>
+<end>61.20008333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>den_bosch ball_restart_4</code>
+<start>61.21008333333333</start>
+<end>82.30006666666667</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>den_bosch ball_restart_4</code>
+<start>480.50005</start>
+<end>507.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>den_bosch ball_restart_4</code>
+<start>603.40005</start>
+<end>618.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>den_bosch ball_restart_4</code>
+<start>967.10005</start>
+<end>971.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>den_bosch ball_restart_4</code>
+<start>1576.40005</start>
+<end>1588.10005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>den_bosch ball_restart_4</code>
+<start>1752.40005</start>
+<end>1765.5000666666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>den_bosch ball_restart_4</code>
+<start>1849.7000333333333</start>
+<end>1857.1000166666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>den_bosch ball_restart_4</code>
+<start>3191.9000833333334</start>
+<end>3205.20005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>den_bosch ball_restart_4</code>
+<start>3535.7001</start>
+<end>3548.800116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>den_bosch ball_restart_4</code>
+<start>3551.50005</start>
+<end>3567.300116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>den_bosch ball_restart_4</code>
+<start>3572.4000833333334</start>
+<end>3586.70005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>den_bosch ball_restart_4</code>
+<start>3640.9000833333334</start>
+<end>3652.6001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>den_bosch ball_restart_4</code>
+<start>3921.5001</start>
+<end>3937.3000666666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>den_bosch ball_restart_4</code>
+<start>4211.3001</start>
+<end>4226.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>den_bosch ball_restart_4</code>
+<start>4234.100066666667</start>
+<end>4245.5001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>den_bosch ball_win_1</code>
+<start>773.70005</start>
+<end>792.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>224</ID>
+<code>den_bosch ball_win_1</code>
+<start>842.7000333333333</start>
+<end>850.0000166666666</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>den_bosch ball_win_1</code>
+<start>1351.80005</start>
+<end>1372.60005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>den_bosch ball_win_1</code>
+<start>1705.9000333333333</start>
+<end>1714.4000666666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>den_bosch ball_win_1</code>
+<start>1948.0000166666666</start>
+<end>1967.60005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>den_bosch ball_win_1</code>
+<start>1967.61005</start>
+<end>1976.6000666666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>den_bosch ball_win_1</code>
+<start>2869.8001</start>
+<end>2912.49005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>den_bosch ball_win_1</code>
+<start>2945.8001</start>
+<end>2968.9001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>den_bosch ball_win_1</code>
+<start>3414.1000166666668</start>
+<end>3427.8000833333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>den_bosch ball_win_1</code>
+<start>3435.1000166666668</start>
+<end>3451.5001166666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>den_bosch ball_win_1</code>
+<start>3699.7001</start>
+<end>3706.7001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>den_bosch ball_win_1</code>
+<start>3969.8001</start>
+<end>3990.6001166666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>den_bosch ball_win_1</code>
+<start>4394.300066666667</start>
+<end>4410.70005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>den_bosch ball_win_1</code>
+<start>4435.800066666667</start>
+<end>4455.600033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>den_bosch ball_win_1</code>
+<start>4853.000016666667</start>
+<end>4867.2000333333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>den_bosch ball_win_2</code>
+<start>26.000100000000003</start>
+<end>47.80008333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>den_bosch ball_win_2</code>
+<start>559.80005</start>
+<end>574.1000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>den_bosch ball_win_2</code>
+<start>647.9008</start>
+<end>731.40005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>den_bosch ball_win_2</code>
+<start>1272.40005</start>
+<end>1289.50005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>den_bosch ball_win_2</code>
+<start>1384.0000166666666</start>
+<end>1395.6000666666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>den_bosch ball_win_2</code>
+<start>1483.60005</start>
+<end>1497.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>den_bosch ball_win_2</code>
+<start>1516.4000666666666</start>
+<end>1536.5000666666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>den_bosch ball_win_2</code>
+<start>1612.80005</start>
+<end>1629.50005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>den_bosch ball_win_2</code>
+<start>1634.0000166666666</start>
+<end>1671.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>den_bosch ball_win_2</code>
+<start>1782.0000166666666</start>
+<end>1804.20005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>den_bosch ball_win_2</code>
+<start>2850.4000666666666</start>
+<end>2860.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>den_bosch ball_win_2</code>
+<start>3731.40005</start>
+<end>3740.000016666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>den_bosch ball_win_2</code>
+<start>4171.6001166666665</start>
+<end>4191.5000666666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>den_bosch ball_win_2</code>
+<start>4793.400066666667</start>
+<end>4801.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>den_bosch ball_win_3</code>
+<start>154.90005</start>
+<end>166.20005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>den_bosch ball_win_3</code>
+<start>941.90005</start>
+<end>959.7000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>den_bosch ball_win_3</code>
+<start>1548.30005</start>
+<end>1571.7000166666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>den_bosch ball_win_3</code>
+<start>1924.9000333333333</start>
+<end>1935.1</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>den_bosch ball_win_3</code>
+<start>3279.20005</start>
+<end>3287.100066666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>den_bosch ball_win_3</code>
+<start>4320.3000833333335</start>
+<end>4346.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>den_bosch ball_win_3</code>
+<start>4664.50005</start>
+<end>4687.2000333333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>den_bosch ball_win_4</code>
+<start>470.30005</start>
+<end>480.10005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>den_bosch ball_win_4</code>
+<start>1367.60005</start>
+<end>1373.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>den_bosch ball_win_4</code>
+<start>1667.60005</start>
+<end>1694.2000666666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>den_bosch ball_win_4</code>
+<start>3339.1001</start>
+<end>3346.20005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>den_bosch ball_win_4</code>
+<start>3936.80005</start>
+<end>3949.6001166666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>den_bosch circle_penetration</code>
+<start>58.90004999999999</start>
+<end>80.90005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>den_bosch circle_penetration</code>
+<start>153.40003333333334</start>
+<end>163.60003333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>den_bosch circle_penetration</code>
+<start>328.40003333333334</start>
+<end>340.8000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>den_bosch circle_penetration</code>
+<start>454.3000333333333</start>
+<end>476.3000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>den_bosch circle_penetration</code>
+<start>581.10005</start>
+<end>596.90005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>den_bosch circle_penetration</code>
+<start>603.6000666666666</start>
+<end>614.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>den_bosch circle_penetration</code>
+<start>942.8000333333333</start>
+<end>953.10005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>den_bosch circle_penetration</code>
+<start>1520.70005</start>
+<end>1536.5000666666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>den_bosch circle_penetration</code>
+<start>1553.9000666666666</start>
+<end>1564.9000666666666</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>den_bosch circle_penetration</code>
+<start>1572.7000333333333</start>
+<end>1588.10005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>den_bosch circle_penetration</code>
+<start>1732.10005</start>
+<end>1746.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>den_bosch circle_penetration</code>
+<start>1749.90005</start>
+<end>1765.5000666666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>den_bosch circle_penetration</code>
+<start>3554.1000166666668</start>
+<end>3567.300116666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>den_bosch circle_penetration</code>
+<start>3616.1000166666668</start>
+<end>3630.9000833333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>den_bosch circle_penetration</code>
+<start>3922.90005</start>
+<end>3937.3000666666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>den_bosch circle_penetration</code>
+<start>3937.310066666667</start>
+<end>3949.6001166666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>den_bosch circle_penetration</code>
+<start>4083.8001</start>
+<end>4098.900083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>den_bosch circle_penetration</code>
+<start>4212.3001</start>
+<end>4226.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>den_bosch circle_penetration</code>
+<start>4230.10005</start>
+<end>4245.5001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>den_bosch circle_penetration</code>
+<start>4637.2000333333335</start>
+<end>4652.70005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>den_bosch circle_penetration</code>
+<start>5072.700066666666</start>
+<end>5082.800066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>den_bosch goal</code>
+<start>67.30006666666667</start>
+<end>82.30006666666667</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>den_bosch goal</code>
+<start>603.30005</start>
+<end>618.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>den_bosch goal</code>
+<start>4279.3000833333335</start>
+<end>4294.3000833333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>den_bosch goal_attempt</code>
+<start>69.30006666666667</start>
+<end>82.30006666666667</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>den_bosch goal_attempt</code>
+<start>468.40005</start>
+<end>480.10005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>den_bosch goal_attempt</code>
+<start>584.5000833333334</start>
+<end>596.90005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>den_bosch goal_attempt</code>
+<start>604.40005</start>
+<end>615.2900500000001</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+</instance>
+<instance>
+<ID>292</ID>
+<code>den_bosch goal_attempt</code>
+<start>615.30005</start>
+<end>618.30005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>293</ID>
+<code>den_bosch goal_attempt</code>
+<start>944.70005</start>
+<end>957.70005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>294</ID>
+<code>den_bosch goal_attempt</code>
+<start>1733.7000666666668</start>
+<end>1746.70005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>den_bosch goal_attempt</code>
+<start>1752.7000666666668</start>
+<end>1765.5000666666667</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>den_bosch goal_attempt</code>
+<start>3937.000016666667</start>
+<end>3949.6001166666665</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>den_bosch goal_attempt</code>
+<start>4086.1000166666663</start>
+<end>4098.900083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>den_bosch goal_attempt</code>
+<start>4213.600083333334</start>
+<end>4226.000016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>299</ID>
+<code>den_bosch goal_attempt</code>
+<start>4281.3000833333335</start>
+<end>4294.3000833333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>300</ID>
+<code>ball_possession</code>
+<start>29.2001</start>
+<end>49.2001</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>301</ID>
+<code>ball_possession</code>
+<start>307.90005</start>
+<end>327.90005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>ball_possession</code>
+<start>666.70005</start>
+<end>686.70005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>303</ID>
+<code>ball_possession</code>
+<start>755.60005</start>
+<end>775.60005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>ball_possession</code>
+<start>1279.1000333333334</start>
+<end>1299.1000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>305</ID>
+<code>ball_possession</code>
+<start>2712.200083333333</start>
+<end>2732.200083333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>306</ID>
+<code>ball_possession</code>
+<start>2782.5000666666665</start>
+<end>2802.5000666666665</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>307</ID>
+<code>ball_possession</code>
+<start>3620.1000166666668</start>
+<end>3640.1000166666668</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>308</ID>
+<code>ball_possession</code>
+<start>5018.800033333333</start>
+<end>5038.800033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>309</ID>
+<code>end</code>
+<start>1099.7000666666668</start>
+<end>1101.7000666666668</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>end</code>
+<start>2015.1000166666668</start>
+<end>2017.1000166666668</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>end</code>
+<start>3871.000016666667</start>
+<end>3873.000016666667</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>end</code>
+<start>5090.000016666667</start>
+<end>5092.000016666667</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>start</code>
+<start>21.100083333333334</start>
+<end>24.100083333333334</end>
+<label>
+<text>Q0</text>
+</label>
+</instance>
+<instance>
+<ID>314</ID>
+<code>start</code>
+<start>1112.60005</start>
+<end>1115.60005</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>315</ID>
+<code>start</code>
+<start>2711.6001</start>
+<end>2714.6001</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>316</ID>
+<code>start</code>
+<start>3898.3000666666667</start>
+<end>3901.3000666666667</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>317</ID>
+<code>SPECIAL NBB</code>
+<start>274.0000333333333</start>
+<end>294.0000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>318</ID>
+<code>SPECIAL NBB</code>
+<start>377.10003333333333</start>
+<end>397.10003333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>319</ID>
+<code>SPECIAL NBB</code>
+<start>750.50005</start>
+<end>770.50005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+</instance>
+<instance>
+<ID>320</ID>
+<code>SPECIAL NBB</code>
+<start>1344.1000166666668</start>
+<end>1364.1000166666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+</instance>
+<instance>
+<ID>321</ID>
+<code>SPECIAL NBB</code>
+<start>2735.5001</start>
+<end>2755.5001</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>322</ID>
+<code>SPECIAL NBB</code>
+<start>2834.4000666666666</start>
+<end>2854.4000666666666</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>323</ID>
+<code>SPECIAL NBB</code>
+<start>3349.8000666666667</start>
+<end>3369.8000666666667</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+</instance>
+<instance>
+<ID>324</ID>
+<code>SPECIAL NBB</code>
+<start>3965.2001</start>
+<end>3985.2001</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>325</ID>
+<code>start</code>
+<start>22.100083333333334</start>
+<end>5100.300033333333</end>
+<label>
+<text>Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 HUR</text>
+</label>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS4 HUR</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS3 HUR</text>
+</label>
+<label>
+<text>REND BBM: BW4 HUR</text>
+</label>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+<label>
+<text>REND: GOAL HUR</text>
+</label>
+<label>
+<text>REND: Kans HUR</text>
+</label>
+<label>
+<text>Kans HUR</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+</instance>
+<instance>
+<ID>326</ID>
+<code>start</code>
+<start>22.100083333333334</start>
+<end>1101.7000666666668</end>
+<label>
+<text>REND BBM: BS2 HUR</text>
+</label>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>KWART: Q1</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS4 HUR</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+</instance>
+<instance>
+<ID>327</ID>
+<code>start</code>
+<start>1113.60005</start>
+<end>2017.1000166666668</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>KWART: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS2 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS3 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS4 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW4 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS1 HUR</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>328</ID>
+<code>start</code>
+<start>2712.6001</start>
+<end>3798.3867318097414</end>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>KWART: Q3</text>
+</label>
+<label>
+<text>REND BBM: BS2 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 HUR</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS3 HUR</text>
+</label>
+<label>
+<text>REND: GOAL HUR</text>
+</label>
+<label>
+<text>REND: Kans HUR</text>
+</label>
+<label>
+<text>Kans HUR</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 HUR</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+</instance>
+<instance>
+<ID>329</ID>
+<code>start</code>
+<start>3899.3000666666667</start>
+<end>5092.000016666667</end>
+<label>
+<text>REND BBM: BS2 DBS</text>
+</label>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>KWART: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS4 DBS</text>
+</label>
+<label>
+<text>REND: CP DBS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+<label>
+<text>REND BBM: BW4 DBS</text>
+</label>
+<label>
+<text>REND: Kans DBS</text>
+</label>
+<label>
+<text>REND BBM: BS1 HUR</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS2 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS3 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS1 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+<label>
+<text>REND BBM: BS3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BW2 DBS</text>
+</label>
+<label>
+<text>REND: ASC DBS</text>
+</label>
+<label>
+<text>REND: GOAL DBS</text>
+</label>
+<label>
+<text>REND BBM: BW3 DBS</text>
+</label>
+<label>
+<text>REND BBM: BS4 HUR</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+<label>
+<text>REND: GOAL HUR</text>
+</label>
+<label>
+<text>REND: Kans HUR</text>
+</label>
+<label>
+<text>Kans HUR</text>
+</label>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>SC HUR</code>
+<R>65536</R>
+<G>12079</G>
+<B>37522</B>
+</row>
+<row>
+<code>23M HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>Kans HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC DBS</code>
+<R>0</R>
+<G>64250</G>
+<B>37522</B>
+</row>
+<row>
+<code>23M DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>Kans DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>SPECIAL BB</code>
+<R>0</R>
+<G>63993</G>
+<B>0</B>
+</row>
+<row>
+<code>EIND</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>SPECIAL NBB</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>GAMETIME</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q1</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q2</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q3</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q4</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

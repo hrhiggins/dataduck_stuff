@@ -1,0 +1,1819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>Speelkwart Q1</code>
+<start>39.14311420917511</start>
+<end>1000.6871962308884</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>Speelkwart Q2</code>
+<start>1126.3968650102615</start>
+<end>2170.6230729579925</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>Speelkwart Q3</code>
+<start>2178.241112112999</start>
+<end>3199.4971741199492</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>Speelkwart Q4</code>
+<start>3318.042692065239</start>
+<end>4375.737571096421</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>Start</code>
+<start>39.14311420917511</start>
+<end>41.14311420917511</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>Start</code>
+<start>1126.3968650102615</start>
+<end>1128.3968650102615</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>Start</code>
+<start>2178.241112112999</start>
+<end>2180.241112112999</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>Start</code>
+<start>3318.042692065239</start>
+<end>3320.042692065239</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>EIND</code>
+<start>999.5871962308884</start>
+<end>1001.5871962308884</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>EIND</code>
+<start>2169.5230729579926</start>
+<end>2171.5230729579926</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>EIND</code>
+<start>3198.3971741199493</start>
+<end>3200.3971741199493</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>EIND</code>
+<start>4374.63757109642</start>
+<end>4376.63757109642</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>BS1 BLO</code>
+<start>106.28237819671631</start>
+<end>119.200000166893</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>BS1 BLO</code>
+<start>403.4882632493973</start>
+<end>419.05183720588684</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>BS1 BLO</code>
+<start>483.9098562002182</start>
+<end>505.5952402353287</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>BS1 BLO</code>
+<start>573.2371401786804</start>
+<end>604.0402791500092</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>BS1 BLO</code>
+<start>1152.1638330221176</start>
+<end>1172.4324790239334</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>BS1 BLO</code>
+<start>1243.3748279809952</start>
+<end>1253.2088179588318</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>BS1 BLO</code>
+<start>1338.6693929433823</start>
+<end>1365.1220840215683</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>BS1 BLO</code>
+<start>1396.359627008438</start>
+<end>1415.6446470022202</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>BS1 BLO</code>
+<start>1590.165922999382</start>
+<end>1649.955894947052</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>BS1 BLO</code>
+<start>1872.0841150283813</start>
+<end>1881.4823340177536</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>BS1 BLO</code>
+<start>2137.6823439598083</start>
+<end>2157.834265947342</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>BS1 BLO</code>
+<start>2285.061152100563</start>
+<end>2320.290885090828</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>BS1 BLO</code>
+<start>2590.9997889995575</start>
+<end>2622.8144059181213</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>BS1 BLO</code>
+<start>3399.5815896987915</start>
+<end>3431.468252658844</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>BS1 BLO</code>
+<start>3531.567345738411</start>
+<end>3560.5668317079544</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>BS1 BLO</code>
+<start>3857.102656722069</start>
+<end>3863.3027787208557</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>BS1 BLO</code>
+<start>3975.587834715843</start>
+<end>4000.035678625107</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>BS1 BLO</code>
+<start>4311.280301094055</start>
+<end>4331.915543079376</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>BS2 BLO</code>
+<start>875.4727152585983</start>
+<end>916.0103921890259</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>BS2 BLO</code>
+<start>1502.934080004692</start>
+<end>1525.1244180202484</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>BS2 BLO</code>
+<start>1645.955894947052</start>
+<end>1673.7586159706116</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>BS2 BLO</code>
+<start>2177.3077861070633</start>
+<end>2191.692414045334</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>BS2 BLO</code>
+<start>2464.0725363492966</start>
+<end>2498.1091322898865</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BS2 BLO</code>
+<start>2618.8144059181213</start>
+<end>2641.316491961479</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BS2 BLO</code>
+<start>2755.3140000104904</start>
+<end>2776.7661179304123</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BS2 BLO</code>
+<start>2893.3136769533157</start>
+<end>2906.44814991951</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BS2 BLO</code>
+<start>3006.97217297554</start>
+<end>3019.2605670690536</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BS2 BLO</code>
+<start>3317.009250998497</start>
+<end>3332.2605780363083</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BS2 BLO</code>
+<start>3752.1736546754837</start>
+<end>3776.1258466243744</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BS2 BLO</code>
+<start>3859.3027787208557</start>
+<end>3882.6051136255264</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BS2 BLO</code>
+<start>4155.144863128662</start>
+<end>4179.74732708931</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BS3 BLO</code>
+<start>151.87099015712738</start>
+<end>160.77161514759064</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BS3 BLO</code>
+<start>501.5952402353287</start>
+<end>516.5299031734467</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BS3 BLO</code>
+<start>774.8776111602783</start>
+<end>799.8799412250519</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BS3 BLO</code>
+<start>940.2087272405624</start>
+<end>956.4652352333069</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BS3 BLO</code>
+<start>1361.1220840215683</start>
+<end>1368.9424669742584</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BS3 BLO</code>
+<start>2391.7831721305847</start>
+<end>2412.968654036522</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BS3 BLO</code>
+<start>2426.5546070337296</start>
+<end>2449.3497883081436</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BS3 BLO</code>
+<start>3328.2605780363083</start>
+<end>3371.3816200494766</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BS3 BLO</code>
+<start>4175.74732708931</start>
+<end>4189.731829047203</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BS4 BLO</code>
+<start>305.6389391422272</start>
+<end>323.8240121603012</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BS4 BLO</code>
+<start>1669.7586159706116</start>
+<end>1689.212133049965</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BS4 BLO</code>
+<start>1689.222133049965</start>
+<end>1703.0303859710693</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BS4 BLO</code>
+<start>2408.968654036522</start>
+<end>2430.5546070337296</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BS4 BLO</code>
+<start>2786.792809009552</start>
+<end>2818.9412689208984</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BS4 BLO</code>
+<start>2818.9512689208987</start>
+<end>2841.590318918228</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BS4 BLO</code>
+<start>2913.3858189582825</start>
+<end>2927.1367449760437</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BS4 BLO</code>
+<start>2927.146744976044</start>
+<end>2945.8695129156113</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BS4 BLO</code>
+<start>2955.871166944504</start>
+<end>2963.638237953186</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BS4 BLO</code>
+<start>2963.6482379531863</start>
+<end>2974.4013110399246</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BS4 BLO</code>
+<start>3066.1501129865646</start>
+<end>3082.6517720222473</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BS4 BLO</code>
+<start>3082.6617720222475</start>
+<end>3107.221321940422</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BS4 BLO</code>
+<start>3107.2313219404223</start>
+<end>3113.92520904541</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BS4 BLO</code>
+<start>4185.731829047203</start>
+<end>4205.850404024124</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BS4 BLO</code>
+<start>4213.411435127258</start>
+<end>4224.2109451293945</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BS4 BLO</code>
+<start>4224.220945129395</start>
+<end>4244.338100075722</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BS4 BLO</code>
+<start>4369.120470046997</start>
+<end>4375.737571096421</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BW1 BLO</code>
+<start>48.509061217308044</start>
+<end>82.52922320365906</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BW1 BLO</code>
+<start>125.21818614006042</start>
+<end>155.87099015712738</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BW1 BLO</code>
+<start>241.71506416797638</start>
+<end>252.74897825717926</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BW1 BLO</code>
+<start>267.71803617477417</start>
+<end>309.6389391422272</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BW1 BLO</code>
+<start>617.7731531858444</start>
+<end>684.399756193161</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BW1 BLO</code>
+<start>697.3201922178268</start>
+<end>711.4729832410812</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BW1 BLO</code>
+<start>812.9155652523041</start>
+<end>858.3113611936569</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BW1 BLO</code>
+<start>1143.8510789871216</start>
+<end>1156.1638330221176</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BW1 BLO</code>
+<start>1324.644250035286</start>
+<end>1342.6693929433823</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BW1 BLO</code>
+<start>1753.420313000679</start>
+<end>1773.4721390008926</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BW1 BLO</code>
+<start>1841.4141900539398</start>
+<end>1876.0841150283813</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BW1 BLO</code>
+<start>1986.2313539981842</start>
+<end>2001.5990439653397</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BW1 BLO</code>
+<start>2070.1757340431213</start>
+<end>2078.174679994583</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BW1 BLO</code>
+<start>2107.9958460330963</start>
+<end>2141.6823439598083</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BW1 BLO</code>
+<start>2162.924502968788</start>
+<end>2170.6230729579925</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BW1 BLO</code>
+<start>2709.108703017235</start>
+<end>2737.6946419477463</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BW1 BLO</code>
+<start>3178.2286471128464</start>
+<end>3194.613077044487</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BW1 BLO</code>
+<start>3505.1444066762924</start>
+<end>3535.567345738411</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BW1 BLO</code>
+<start>3825.7991297245026</start>
+<end>3861.102656722069</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BW1 BLO</code>
+<start>3891.640148639679</start>
+<end>3911.058552622795</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BW1 BLO</code>
+<start>4016.790799021721</start>
+<end>4036.5257700681686</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BW1 BLO</code>
+<start>4064.734405040741</start>
+<end>4130.541547060013</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BW2 BLO</code>
+<start>163.94270825386047</start>
+<end>222.25034523010254</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BW2 BLO</code>
+<start>865.6717542409897</start>
+<end>879.4727152585983</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BW2 BLO</code>
+<start>1180.8480199575424</start>
+<end>1193.7184309959412</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BW2 BLO</code>
+<start>1432.097314953804</start>
+<end>1473.5183169841766</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BW2 BLO</code>
+<start>1773.172732949257</start>
+<end>1790.3573520183563</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BW2 BLO</code>
+<start>3462.709278702736</start>
+<end>3475.340084671974</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BW2 BLO</code>
+<start>3721.770092725754</start>
+<end>3741.8050767183304</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BW2 BLO</code>
+<start>4351.785426020622</start>
+<end>4373.120470046997</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BW3 BLO</code>
+<start>954.5656092166901</start>
+<end>966.6831501722336</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BW3 BLO</code>
+<start>1424.3631529808044</start>
+<end>1433.2467039823532</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BW3 BLO</code>
+<start>2317.8746581077576</start>
+<end>2351.1779700517654</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BW3 BLO</code>
+<start>2372.581283092499</start>
+<end>2395.7831721305847</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BW3 BLO</code>
+<start>3019.0405770540237</start>
+<end>3037.113026022911</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BW3 BLO</code>
+<start>3047.7274140119553</start>
+<end>3055.9944400787354</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BW3 BLO</code>
+<start>3688.9328767061234</start>
+<end>3718.9189816713333</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BW4 BLO</code>
+<start>3055.828433036804</start>
+<end>3070.1501129865646</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BW4 BLO</code>
+<start>3111.2255821228027</start>
+<end>3125.72139108181</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>CP BLO</code>
+<start>201.48896920681</start>
+<end>222.25034523010254</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>CP BLO</code>
+<start>305.6900291442871</start>
+<end>323.8240121603012</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>CP BLO</code>
+<start>1436.1820830106735</start>
+<end>1460.1820830106735</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>CP BLO</code>
+<start>1646.678442955017</start>
+<end>1670.678442955017</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>CP BLO</code>
+<start>1670.688442955017</start>
+<end>1689.2426480054855</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>CP BLO</code>
+<start>1689.2526480054855</start>
+<end>1703.0303859710693</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>CP BLO</code>
+<start>2473.5627282857895</start>
+<end>2497.5627282857895</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>CP BLO</code>
+<start>2625.4033789634705</start>
+<end>2641.316491961479</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>CP BLO</code>
+<start>2954.1553750038147</start>
+<end>2978.1553750038147</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>CP BLO</code>
+<start>3083.869969010353</start>
+<end>3107.869969010353</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>CP BLO</code>
+<start>3107.8799690103533</start>
+<end>3113.92520904541</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>CP BLO</code>
+<start>3113.9352090454104</start>
+<end>3125.72139108181</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>CP BLO</code>
+<start>3405.9834946393967</start>
+<end>3429.9834946393967</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>CP BLO</code>
+<start>3538.703713655472</start>
+<end>3560.5668317079544</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>CP BLO</code>
+<start>3610.924538731575</start>
+<end>3634.924538731575</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>CP BLO</code>
+<start>4224.810598015785</start>
+<end>4244.338100075722</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>GOAL BLO</code>
+<start>199.40855749039252</start>
+<end>222.25034523010254</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>GOAL BLO</code>
+<start>2526.31427526474</start>
+<end>2541.31427526474</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>GOAL BLO</code>
+<start>3104.7176967705377</start>
+<end>3125.72139108181</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>GOAL BLO</code>
+<start>4223.243600981942</start>
+<end>4244.338100075722</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>SC BLO</code>
+<start>2530.4471032619476</start>
+<end>2541.31427526474</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>GROEN TIL</code>
+<start>1618.204645037651</start>
+<end>1768.204645037651</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>BS1 TIL</code>
+<start>332.30881917476654</start>
+<end>356.04448914527893</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>BS1 TIL</code>
+<start>356.0544891452789</start>
+<end>407.4882632493973</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>BS1 TIL</code>
+<start>600.0402791500092</start>
+<end>621.2756141424179</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BS1 TIL</code>
+<start>921.3115092515945</start>
+<end>944.2087272405624</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BS1 TIL</code>
+<start>952.4652352333069</start>
+<end>960.5656092166901</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BS1 TIL</code>
+<start>1469.5183169841766</start>
+<end>1506.934080004692</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BS1 TIL</code>
+<start>1717.1990929841995</start>
+<end>1726.9664800167084</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BS1 TIL</code>
+<start>2316.290885090828</start>
+<end>2323.8746581077576</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BS1 TIL</code>
+<start>2347.1779700517654</start>
+<end>2378.581283092499</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BS1 TIL</code>
+<start>2445.3497883081436</start>
+<end>2468.0725363492966</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BS1 TIL</code>
+<start>2647.851082921028</start>
+<end>2669.4076439142227</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BS1 TIL</code>
+<start>3427.468252658844</start>
+<end>3466.3093206882477</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BS1 TIL</code>
+<start>3772.1258466243744</start>
+<end>3792.2942596673965</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BS2 TIL</code>
+<start>38.14381814002991</start>
+<end>54.509061217308044</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BS2 TIL</code>
+<start>237.41444218158722</start>
+<end>247.71506416797638</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BS2 TIL</code>
+<start>428.770121216774</start>
+<end>441.97888720035553</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BS2 TIL</code>
+<start>680.399756193161</start>
+<end>703.3201922178268</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BS2 TIL</code>
+<start>747.1076922416687</start>
+<end>778.8776111602783</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BS2 TIL</code>
+<start>854.3113611936569</start>
+<end>871.6717542409897</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BS2 TIL</code>
+<start>1125.2107269763947</start>
+<end>1149.8510789871216</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BS2 TIL</code>
+<start>1742.4021129608154</start>
+<end>1759.420313000679</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BS2 TIL</code>
+<start>1889.9362980127335</start>
+<end>1901.1205730438232</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BS2 TIL</code>
+<start>2202.8274960517883</start>
+<end>2210.215099096298</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BS2 TIL</code>
+<start>2210.2250990962984</start>
+<end>2241.898418068886</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BS2 TIL</code>
+<start>2241.908418068886</start>
+<end>2260.3171850442886</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BS2 TIL</code>
+<start>2562.257614970207</start>
+<end>2582.9596560001373</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BS2 TIL</code>
+<start>2665.4076439142227</start>
+<end>2696.223074913025</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BS2 TIL</code>
+<start>2741.962303996086</start>
+<end>2759.3140000104904</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BS2 TIL</code>
+<start>3047.3103209733963</start>
+<end>3053.7274140119553</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BS2 TIL</code>
+<start>3146.4745950698853</start>
+<end>3156.542219042778</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BS2 TIL</code>
+<start>3156.5522190427782</start>
+<end>3178.1279281377792</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BS2 TIL</code>
+<start>3367.3816200494766</start>
+<end>3403.5815896987915</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BS2 TIL</code>
+<start>3812.030482649803</start>
+<end>3825.0649737119675</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BS2 TIL</code>
+<start>3878.6051136255264</start>
+<end>3897.640148639679</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BS2 TIL</code>
+<start>4267.241468071938</start>
+<end>4299.99524307251</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BS2 TIL</code>
+<start>4300.00524307251</start>
+<end>4315.280301094055</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BS2 TIL</code>
+<start>4336.01658809185</start>
+<end>4357.785426020622</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BS3 TIL</code>
+<start>90.98068022727966</start>
+<end>110.28237819671631</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BS3 TIL</code>
+<start>437.97888720035553</start>
+<end>457.70642817020416</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BS3 TIL</code>
+<start>1769.4721390008926</start>
+<end>1779.172732949257</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BS3 TIL</code>
+<start>1796.7419270277023</start>
+<end>1818.794203042984</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BS3 TIL</code>
+<start>1897.1205730438232</start>
+<end>1927.340157032013</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BS3 TIL</code>
+<start>2578.9596560001373</start>
+<end>2594.9997889995575</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BS3 TIL</code>
+<start>2692.223074913025</start>
+<end>2715.108703017235</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BS3 TIL</code>
+<start>3190.613077044487</start>
+<end>3199.4971741199492</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BS3 TIL</code>
+<start>3462.3093206882477</start>
+<end>3468.709278702736</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BS3 TIL</code>
+<start>3475.6571286916733</start>
+<end>3507.5272896289825</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BS4 TIL</code>
+<start>248.74897825717926</start>
+<end>273.71803617477417</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BS4 TIL</code>
+<start>453.70642817020416</start>
+<end>464.64059615135193</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BS4 TIL</code>
+<start>464.6505961513519</start>
+<end>487.9098562002182</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BS4 TIL</code>
+<start>617.2756141424179</start>
+<end>623.7731531858444</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BS4 TIL</code>
+<start>1210.4541059732437</start>
+<end>1231.856348991394</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BS4 TIL</code>
+<start>1231.866348991394</start>
+<end>1247.3748279809952</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BS4 TIL</code>
+<start>1319.8397619724274</start>
+<end>1330.644250035286</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BS4 TIL</code>
+<start>1571.3847169876099</start>
+<end>1594.165922999382</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BS4 TIL</code>
+<start>1814.794203042984</start>
+<end>1831.1850039958954</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BS4 TIL</code>
+<start>1831.1950039958954</start>
+<end>1839.2349549531937</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BS4 TIL</code>
+<start>1839.2449549531937</start>
+<end>1847.4141900539398</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BS4 TIL</code>
+<start>1982.3306119441986</start>
+<end>1992.2313539981842</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BS4 TIL</code>
+<start>1997.5990439653397</start>
+<end>2009.278018951416</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BS4 TIL</code>
+<start>2060.039808034897</start>
+<end>2076.1757340431213</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BS4 TIL</code>
+<start>2256.3171850442886</start>
+<end>2271.7353681325912</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BS4 TIL</code>
+<start>2271.7453681325915</start>
+<end>2289.061152100563</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BS4 TIL</code>
+<start>3174.1279281377792</start>
+<end>3184.2286471128464</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BS4 TIL</code>
+<start>3503.5272896289825</start>
+<end>3511.1444066762924</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BS4 TIL</code>
+<start>3573.819019675255</start>
+<end>3582.60371363163</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BS4 TIL</code>
+<start>3582.61371363163</start>
+<end>3607.8891736268997</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BS4 TIL</code>
+<start>3821.0649737119675</start>
+<end>3831.7991297245026</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BS4 TIL</code>
+<start>3933.144953727722</start>
+<end>3952.5878546237946</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BS4 TIL</code>
+<start>3952.597854623795</start>
+<end>3979.587834715843</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BS4 TIL</code>
+<start>4014.2378467321396</start>
+<end>4022.790799021721</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BS4 TIL</code>
+<start>4045.0693480968475</start>
+<end>4058.749631047249</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>BS4 TIL</code>
+<start>4058.759631047249</start>
+<end>4070.734405040741</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>BS4 TIL</code>
+<start>4126.541547060013</start>
+<end>4140.067007064819</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>BW1 TIL</code>
+<start>113.200000166893</start>
+<end>131.21818614006042</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>BW1 TIL</code>
+<start>154.77161514759064</start>
+<end>169.94270825386047</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>BW1 TIL</code>
+<start>317.8240121603012</start>
+<end>336.30881917476654</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>BW1 TIL</code>
+<start>910.0103921890259</start>
+<end>925.3115092515945</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>BW1 TIL</code>
+<start>960.6831501722336</start>
+<end>1000.6871962308884</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>BW1 TIL</code>
+<start>1409.6446470022202</start>
+<end>1430.3631529808044</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>BW1 TIL</code>
+<start>1697.0303859710693</start>
+<end>1721.1990929841995</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>BW1 TIL</code>
+<start>2635.316491961479</start>
+<end>2651.851082921028</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>BW1 TIL</code>
+<start>2731.6946419477463</start>
+<end>2745.962303996086</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>BW1 TIL</code>
+<start>2770.7661179304123</start>
+<end>2790.792809009552</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>BW1 TIL</code>
+<start>2900.44814991951</start>
+<end>2917.3858189582825</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>BW1 TIL</code>
+<start>2939.8695129156113</start>
+<end>2959.871166944504</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>BW1 TIL</code>
+<start>2968.4013110399246</start>
+<end>3010.97217297554</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>BW1 TIL</code>
+<start>3031.635817050934</start>
+<end>3051.3103209733963</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>BW1 TIL</code>
+<start>3051.3203209733965</start>
+<end>3061.828433036804</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>BW1 TIL</code>
+<start>3107.92520904541</start>
+<end>3117.2255821228027</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>BW1 TIL</code>
+<start>3554.5668317079544</start>
+<end>3577.819019675255</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>BW1 TIL</code>
+<start>3682.898681640625</start>
+<end>3694.9328767061234</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>BW1 TIL</code>
+<start>3735.8050767183304</start>
+<end>3756.1736546754837</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>BW1 TIL</code>
+<start>3994.035678625107</start>
+<end>4018.2378467321396</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>BW1 TIL</code>
+<start>4199.850404024124</start>
+<end>4217.411435127258</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>BW2 TIL</code>
+<start>413.05183720588684</start>
+<end>432.770121216774</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>BW2 TIL</code>
+<start>705.4729832410812</start>
+<end>751.1076922416687</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>BW2 TIL</code>
+<start>1166.4324790239334</start>
+<end>1186.8480199575424</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>BW2 TIL</code>
+<start>1362.9424669742584</start>
+<end>1400.359627008438</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>BW2 TIL</code>
+<start>1519.1244180202484</start>
+<end>1575.3847169876099</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>BW2 TIL</code>
+<start>1875.4823340177536</start>
+<end>1893.9362980127335</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>BW2 TIL</code>
+<start>2151.834265947342</start>
+<end>2168.924502968788</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>BW2 TIL</code>
+<start>2185.692414045334</start>
+<end>2206.8274960517883</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>BW2 TIL</code>
+<start>3013.2605670690536</start>
+<end>3025.0405770540237</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>BW2 TIL</code>
+<start>3031.113026022911</start>
+<end>3051.3103209733963</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>BW2 TIL</code>
+<start>3712.9189816713333</start>
+<end>3727.770092725754</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>BW2 TIL</code>
+<start>3797.3456786870956</start>
+<end>3816.030482649803</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>BW2 TIL</code>
+<start>3905.058552622795</start>
+<end>3937.144953727722</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>BW2 TIL</code>
+<start>4325.915543079376</start>
+<end>4340.01658809185</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>BW3 TIL</code>
+<start>76.52922320365906</start>
+<end>94.98068022727966</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>BW3 TIL</code>
+<start>510.52990317344666</start>
+<end>526.8271331787109</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>BW3 TIL</code>
+<start>1187.7184309959412</start>
+<end>1214.4541059732437</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>BW3 TIL</code>
+<start>1247.2088179588318</start>
+<end>1264.2766330242157</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>BW3 TIL</code>
+<start>1784.3573520183563</start>
+<end>1800.7419270277023</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>BW3 TIL</code>
+<start>2072.174679994583</start>
+<end>2113.9958460330963</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>BW3 TIL</code>
+<start>2882.2626769542694</start>
+<end>2897.3136769533157</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>BW3 TIL</code>
+<start>3469.340084671974</start>
+<end>3479.6571286916733</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>BW4 TIL</code>
+<start>4030.5257700681686</start>
+<end>4049.0693480968475</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>CP TIL</code>
+<start>380.39885222911835</start>
+<end>402.39885222911835</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>CP TIL</code>
+<start>435.77981424331665</start>
+<end>457.70642817020416</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>CP TIL</code>
+<start>457.71642817020415</start>
+<end>478.1577161550522</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>CP TIL</code>
+<start>509.19730520248413</start>
+<end>526.8271331787109</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>CP TIL</code>
+<start>800.1483402252197</start>
+<end>818.9155652523041</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>CP TIL</code>
+<start>1183.9481559991837</start>
+<end>1205.9481559991837</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>CP TIL</code>
+<start>1210.2219630479813</start>
+<end>1232.2219630479813</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>CP TIL</code>
+<start>1247.6477689743042</start>
+<end>1264.2766330242157</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>CP TIL</code>
+<start>1553.296012043953</start>
+<end>1575.296012043953</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>CP TIL</code>
+<start>1575.306012043953</start>
+<end>1588.4327470064163</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>CP TIL</code>
+<start>1796.3262979984283</start>
+<end>1818.3262979984283</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>CP TIL</code>
+<start>1990.3159539699554</start>
+<end>2009.278018951416</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>CP TIL</code>
+<start>2153.0741189718246</start>
+<end>2168.924502968788</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>CP TIL</code>
+<start>2699.346132993698</start>
+<end>2715.108703017235</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>CP TIL</code>
+<start>3575.070188641548</start>
+<end>3597.070188641548</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>CP TIL</code>
+<start>3816.2987036705017</start>
+<end>3831.7991297245026</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>CP TIL</code>
+<start>4025.4655970335007</start>
+<end>4047.4655970335007</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>CP TIL</code>
+<start>4050.4710730314255</start>
+<end>4070.734405040741</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>CP TIL</code>
+<start>4120.741801023483</start>
+<end>4140.067007064819</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>GOAL TIL</code>
+<start>4125.067007064819</start>
+<end>4140.067007064819</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>SC TIL</code>
+<start>560.9526141881943</start>
+<end>572.9526141881943</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>SC TIL</code>
+<start>1298.6481080055237</start>
+<end>1310.6481080055237</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>SC TIL</code>
+<start>1962.6784130334854</start>
+<end>1974.6784130334854</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>SC TIL</code>
+<start>2038.337494969368</start>
+<end>2050.337494969368</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>SC TIL</code>
+<start>4113.973415017128</start>
+<end>4125.973415017128</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>Speelkwart Q1</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Speelkwart Q2</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Speelkwart Q3</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Speelkwart Q4</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Start</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>EIND</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BS2 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BS3 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BS4 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BW1 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BW2 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BW3 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>BW4 BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>CP BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>GOAL BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>SC BLO</code>
+<R>65536</R>
+<G>33667</G>
+<B>0</B>
+</row>
+<row>
+<code>GROEN TIL</code>
+<R>36494</R>
+<G>64250</G>
+<B>0</B>
+</row>
+<row>
+<code>BS1 TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BS2 TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BS3 TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BS4 TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BW1 TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BW2 TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BW3 TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>BW4 TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>CP TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>GOAL TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+<row>
+<code>SC TIL</code>
+<R>14392</R>
+<G>33924</G>
+<B>60138</B>
+</row>
+</ROWS>
+</file>

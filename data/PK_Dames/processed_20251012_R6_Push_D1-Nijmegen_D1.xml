@@ -1,0 +1,5992 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>push cause_of_penalty_stroke</code>
+<start>4123.359931111336</start>
+<end>4138.359931111336</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BS1 PUSH</text>
+</label>
+<label>
+<text>START</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>push cause_of_penalty_corner</code>
+<start>725.076161980629</start>
+<end>740.076161980629</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>push cause_of_penalty_corner</code>
+<start>827.9661940336227</start>
+<end>842.9661940336227</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>push cause_of_penalty_corner</code>
+<start>1133.4071340560913</start>
+<end>1148.4071340560913</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BW4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>push cause_of_penalty_corner</code>
+<start>1228.6044689416885</start>
+<end>1243.6044689416885</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>push cause_of_penalty_corner</code>
+<start>1744.337355852127</start>
+<end>1759.337355852127</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>push cause_of_penalty_corner</code>
+<start>1781.1571218967438</start>
+<end>1796.1571218967438</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>START</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>push cause_of_penalty_corner</code>
+<start>1817.4785199165344</start>
+<end>1832.4785199165344</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>START BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>push cause_of_penalty_corner</code>
+<start>1999.8909940719604</start>
+<end>2014.8909940719604</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>push cause_of_penalty_corner</code>
+<start>5304.932096004486</start>
+<end>5319.932096004486</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>push</code>
+<start>213.10803997516632</start>
+<end>237.4209359884262</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>push</code>
+<start>284.72109496593475</start>
+<end>298.76509296894073</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>push</code>
+<start>309.5546979904175</start>
+<end>324.2426680326462</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>push</code>
+<start>355.38397896289825</start>
+<end>364.70977902412415</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>push</code>
+<start>370.6426910161972</start>
+<end>399.3634749650955</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>push</code>
+<start>401.64666295051575</start>
+<end>412.0509270429611</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>push</code>
+<start>474.6561119556427</start>
+<end>481.7897729873657</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>push</code>
+<start>510.22387194633484</start>
+<end>567.2204159498215</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>push</code>
+<start>578.5928250551224</start>
+<end>598.8684359788895</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>push</code>
+<start>630.6736320257187</start>
+<end>669.8584419488907</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>push</code>
+<start>690.4739270210266</start>
+<end>719.7329800128937</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>push</code>
+<start>726.0789760351181</start>
+<end>810.0772830247879</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>push</code>
+<start>824.1046350002289</start>
+<end>975.279186964035</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>push</code>
+<start>990.1190860271454</start>
+<end>996.7180789709091</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>push</code>
+<start>1003.4002369642258</start>
+<end>1032.3711960315704</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>push</code>
+<start>1037.0408129692078</start>
+<end>1046.5242680311203</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>push</code>
+<start>1057.9184559583664</start>
+<end>1087.2603449821472</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>push</code>
+<start>1096.046707034111</start>
+<end>1131.7248779535294</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>push</code>
+<start>1141.1123470067978</start>
+<end>1192.2026699781418</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>push</code>
+<start>1217.9477009773254</start>
+<end>1302.5605889558792</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>push</code>
+<start>1323.8760800361633</start>
+<end>1363.2072969436645</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>push</code>
+<start>1511.3009638786316</start>
+<end>1550.276396870613</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>push</code>
+<start>1590.0086909532547</start>
+<end>1605.2294509410858</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>push</code>
+<start>1634.5820939540863</start>
+<end>1647.6237448453903</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>push</code>
+<start>1652.6063039302826</start>
+<end>1659.8739758729935</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>push</code>
+<start>1669.3024069070816</start>
+<end>1721.0229479074478</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>push</code>
+<start>1731.0845029354095</start>
+<end>1906.509134888649</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>push</code>
+<start>1928.599641084671</start>
+<end>1941.7094881534576</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>push</code>
+<start>1994.6417471170425</start>
+<end>2085.9251791238785</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>push</code>
+<start>2117.7473801374435</start>
+<end>2184.231190085411</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>push</code>
+<start>2190.2014491558075</start>
+<end>2231.6189790964127</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>push</code>
+<start>2233.921748161316</start>
+<end>2247.5578430891037</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>push</code>
+<start>2252.2167431116104</start>
+<end>2285.925759077072</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>push</code>
+<start>2319.8911271095276</start>
+<end>2412.1212290525436</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>push</code>
+<start>2440.855465054512</start>
+<end>2461.8996760845184</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>push</code>
+<start>2502.0109910964966</start>
+<end>2519.8074251413345</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>push</code>
+<start>2581.846220135689</start>
+<end>2593.583906149864</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>push</code>
+<start>3330.1462091207504</start>
+<end>3334.99436211586</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>push</code>
+<start>3357.978194117546</start>
+<end>3374.1652361154556</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>push</code>
+<start>3394.891879081726</start>
+<end>3411.038078069687</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>push</code>
+<start>3455.049315094948</start>
+<end>3460.1564821004868</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>push</code>
+<start>3462.121675014496</start>
+<end>3493.0148490667343</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>push</code>
+<start>3534.378142118454</start>
+<end>3543.0937210321426</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>push</code>
+<start>3597.976543068886</start>
+<end>3605.7078360319138</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>push</code>
+<start>3615.2292940616608</start>
+<end>3670.358053088188</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>push</code>
+<start>3674.9726901054382</start>
+<end>3689.555321097374</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>push</code>
+<start>3700.281653046608</start>
+<end>3767.551281094551</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>push</code>
+<start>3784.6109091043472</start>
+<end>3830.562910079956</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>push</code>
+<start>3843.0854880809784</start>
+<end>3883.983757019043</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>push</code>
+<start>3899.5945520401</start>
+<end>3938.673702120781</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>push</code>
+<start>3946.9931180477142</start>
+<end>3961.191521048546</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>push</code>
+<start>3981.0732110738754</start>
+<end>3991.6692970991135</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>push</code>
+<start>4015.5291600227356</start>
+<end>4022.74163711071</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>push</code>
+<start>4040.9604721069336</start>
+<end>4058.4177380800247</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>push</code>
+<start>4084.655375123024</start>
+<end>4099.386075019836</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>push</code>
+<start>4107.4637941122055</start>
+<end>4247.676701903343</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>push</code>
+<start>4326.736867904663</start>
+<end>4362.9407769441605</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>push</code>
+<start>4379.828642964363</start>
+<end>4412.017877936363</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>push</code>
+<start>4591.25065600872</start>
+<end>4595.342216968536</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>push</code>
+<start>4607.74703001976</start>
+<end>4622.997923016548</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>push</code>
+<start>4646.234892010689</start>
+<end>4654.188853025436</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>push</code>
+<start>4752.7654329538345</start>
+<end>4758.08749294281</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>push</code>
+<start>4846.579821944237</start>
+<end>4876.92063498497</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>push</code>
+<start>4885.15055501461</start>
+<end>4893.266499996185</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>push</code>
+<start>4900.074600934982</start>
+<end>4907.625780940056</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>push</code>
+<start>4920.0163769721985</start>
+<end>4934.076512932777</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>push</code>
+<start>4953.8484979867935</start>
+<end>4969.916425943375</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>push</code>
+<start>4978.9091029167175</start>
+<end>5062.837478995323</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>push</code>
+<start>5144.647928953171</start>
+<end>5153.412655949593</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>push</code>
+<start>5157.887455940247</start>
+<end>5163.341275930405</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>push</code>
+<start>5193.628724932671</start>
+<end>5204.5413810014725</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>push</code>
+<start>5207.058264970779</start>
+<end>5234.3074679374695</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>push</code>
+<start>5264.376945972443</start>
+<end>5391.614306926727</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>push</code>
+<start>5431.742702007294</start>
+<end>5456.616037011147</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>push</code>
+<start>5487.082033991814</start>
+<end>5529.422242999077</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>push</code>
+<start>5537.501238942146</start>
+<end>5589.737591981888</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>push</code>
+<start>5615.39896094799</start>
+<end>5633.182734012604</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>push</code>
+<start>5644.201717019081</start>
+<end>5653.126451969147</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>push</code>
+<start>5689.557031989098</start>
+<end>5718.168231010437</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>push ball_restart_1</code>
+<start>281.72109496593475</start>
+<end>297.76509296894073</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>push ball_restart_1</code>
+<start>306.5546979904175</start>
+<end>319.9567960500717</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>push ball_restart_1</code>
+<start>507.22387194633484</start>
+<end>529.63070499897</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>push ball_restart_1</code>
+<start>1214.9477009773254</start>
+<end>1248.6044689416885</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+<label>
+<text>START BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>push ball_restart_1</code>
+<start>1587.0086909532547</start>
+<end>1604.2294509410858</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>push ball_restart_1</code>
+<start>1631.5820939540863</start>
+<end>1646.6237448453903</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>push ball_restart_1</code>
+<start>2125.4005740880966</start>
+<end>2147.516513109207</end>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>push ball_restart_1</code>
+<start>2196.1409821510315</start>
+<end>2219.5715560913086</end>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>push ball_restart_1</code>
+<start>2437.855465054512</start>
+<end>2460.8996760845184</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>push ball_restart_1</code>
+<start>2509.383938074112</start>
+<end>2518.8074251413345</end>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>push ball_restart_1</code>
+<start>3391.891879081726</start>
+<end>3410.038078069687</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>push ball_restart_1</code>
+<start>3914.6645510196686</start>
+<end>3937.673702120781</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>START BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>push ball_restart_1</code>
+<start>3978.0732110738754</start>
+<end>3990.6692970991135</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>push ball_restart_1</code>
+<start>4037.9604721069336</start>
+<end>4047.747796058655</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>push ball_restart_1</code>
+<start>4092.3001511096954</start>
+<end>4098.386075019836</end>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>push ball_restart_1</code>
+<start>4115.716516017914</start>
+<end>4138.359931111336</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND ASB PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>push ball_restart_1</code>
+<start>4323.736867904663</start>
+<end>4361.9407769441605</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BS1 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>push ball_restart_1</code>
+<start>4604.74703001976</start>
+<end>4621.997923016548</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>push ball_restart_1</code>
+<start>4749.7654329538345</start>
+<end>4757.08749294281</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>push ball_restart_1</code>
+<start>4959.727447986603</start>
+<end>4968.916425943375</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>push ball_restart_1</code>
+<start>5437.060765028</start>
+<end>5450.742134928703</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>push ball_restart_1</code>
+<start>5641.201717019081</start>
+<end>5652.126451969147</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>push ball_restart_1</code>
+<start>5686.557031989098</start>
+<end>5717.168231010437</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>push ball_restart_2</code>
+<start>210.10803997516632</start>
+<end>236.4209359884262</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BS2 PUSH</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>push ball_restart_2</code>
+<start>627.6736320257187</start>
+<end>655.912938952446</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BS2 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>push ball_restart_2</code>
+<start>1329.5521539449692</start>
+<end>1363.2072969436645</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>push ball_restart_2</code>
+<start>1508.3009638786316</start>
+<end>1525.4546389579773</end>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>push ball_restart_2</code>
+<start>1666.3024069070816</start>
+<end>1720.0229479074478</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>REND BB+1 BS2 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>push ball_restart_2</code>
+<start>2316.8911271095276</start>
+<end>2333.890983104706</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+<label>
+<text>START BS2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>push ball_restart_2</code>
+<start>3354.978194117546</start>
+<end>3365.26067507267</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>push ball_restart_2</code>
+<start>3676.9577651023865</start>
+<end>3688.555321097374</end>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>push ball_restart_2</code>
+<start>3781.6109091043472</start>
+<end>3798.449742078781</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+<label>
+<text>START BS2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>push ball_restart_2</code>
+<start>4044.747796058655</start>
+<end>4057.4177380800247</end>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>push ball_restart_2</code>
+<start>4843.579821944237</start>
+<end>4863.048475980759</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>push ball_restart_2</code>
+<start>5299.930853009224</start>
+<end>5308.216357946396</end>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>push ball_restart_2</code>
+<start>5447.742134928703</start>
+<end>5455.616037011147</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>push ball_restart_2</code>
+<start>5484.082033991814</start>
+<end>5492.748124957085</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>push ball_restart_3</code>
+<start>316.9567960500717</start>
+<end>323.2426680326462</end>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>push ball_restart_3</code>
+<start>526.63070499897</start>
+<end>542.7556430101395</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>push ball_restart_3</code>
+<start>1071.095841050148</start>
+<end>1086.2603449821472</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>push ball_restart_3</code>
+<start>1093.046707034111</start>
+<end>1130.7248779535294</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>push ball_restart_3</code>
+<start>1522.4546389579773</start>
+<end>1549.276396870613</end>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>push ball_restart_3</code>
+<start>1734.5353149175644</start>
+<end>1764.337355852127</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>push ball_restart_3</code>
+<start>1876.5100909471512</start>
+<end>1891.9005179405212</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>push ball_restart_3</code>
+<start>1925.599641084671</start>
+<end>1940.7094881534576</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>push ball_restart_3</code>
+<start>1991.6417471170425</start>
+<end>2019.8909940719604</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>push ball_restart_3</code>
+<start>2144.516513109207</start>
+<end>2164.4305601119995</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>push ball_restart_3</code>
+<start>2216.5715560913086</start>
+<end>2230.6189790964127</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>push ball_restart_3</code>
+<start>2394.1254230737686</start>
+<end>2407.2959431409836</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>push ball_restart_3</code>
+<start>3362.26067507267</start>
+<end>3373.1652361154556</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>push ball_restart_3</code>
+<start>3697.281653046608</start>
+<end>3714.085927128792</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>push ball_restart_3</code>
+<start>3840.0854880809784</start>
+<end>3866.6427640914917</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>push ball_restart_3</code>
+<start>3953.2305381298065</start>
+<end>3960.191521048546</end>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>push ball_restart_3</code>
+<start>4860.048475980759</start>
+<end>4875.92063498497</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>push ball_restart_3</code>
+<start>5001.328596949577</start>
+<end>5034.664252996445</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>push ball_restart_3</code>
+<start>5281.940104961395</start>
+<end>5302.930853009224</end>
+<label>
+<text>REND BB+1 BS2 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>push ball_restart_3</code>
+<start>5305.216357946396</start>
+<end>5324.932096004486</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>push ball_restart_3</code>
+<start>5489.748124957085</start>
+<end>5528.422242999077</end>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>push ball_restart_4</code>
+<start>378.78139197826385</start>
+<end>398.3634749650955</end>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>push ball_restart_4</code>
+<start>539.7556430101395</start>
+<end>566.2204159498215</end>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>push ball_restart_4</code>
+<start>652.912938952446</start>
+<end>668.8584419488907</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>push ball_restart_4</code>
+<start>701.5650949478149</start>
+<end>718.7329800128937</end>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>push ball_restart_4</code>
+<start>789.6084649562836</start>
+<end>809.0772830247879</end>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>push ball_restart_4</code>
+<start>941.4660129547119</start>
+<end>974.279186964035</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BS4 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>push ball_restart_4</code>
+<start>1034.0408129692078</start>
+<end>1045.5242680311203</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>push ball_restart_4</code>
+<start>1291.5806330442429</start>
+<end>1301.5605889558792</end>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>push ball_restart_4</code>
+<start>1818.6435488462448</start>
+<end>1837.4785199165344</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>START BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>push ball_restart_4</code>
+<start>1888.9005179405212</start>
+<end>1905.509134888649</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>push ball_restart_4</code>
+<start>2070.6558310985565</start>
+<end>2084.9251791238785</end>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>158</ID>
+<code>push ball_restart_4</code>
+<start>2161.4305601119995</start>
+<end>2183.231190085411</end>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>push ball_restart_4</code>
+<start>2240.0311571359634</start>
+<end>2246.5578430891037</end>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>push ball_restart_4</code>
+<start>2249.2167431116104</start>
+<end>2284.925759077072</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+<label>
+<text>START BS4 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>push ball_restart_4</code>
+<start>2330.890983104706</start>
+<end>2397.1254230737686</end>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BS4 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>push ball_restart_4</code>
+<start>2404.2959431409836</start>
+<end>2411.1212290525436</end>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>push ball_restart_4</code>
+<start>3711.085927128792</start>
+<end>3766.551281094551</end>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>push ball_restart_4</code>
+<start>3795.449742078781</start>
+<end>3829.562910079956</end>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>push ball_restart_4</code>
+<start>3863.6427640914917</start>
+<end>3882.983757019043</end>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>push ball_restart_4</code>
+<start>3943.9931180477142</start>
+<end>3956.2305381298065</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>push ball_restart_4</code>
+<start>4897.074600934982</start>
+<end>4906.625780940056</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>push ball_restart_4</code>
+<start>5031.664252996445</start>
+<end>5061.837478995323</end>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>push ball_restart_4</code>
+<start>5222.966444969177</start>
+<end>5233.3074679374695</end>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>push ball_restart_4</code>
+<start>5555.546061992645</start>
+<end>5588.737591981888</end>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>push ball_win_1</code>
+<start>573.5928250551224</start>
+<end>595.2219820022583</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>push ball_win_1</code>
+<start>1318.8760800361633</start>
+<end>1332.5521539449692</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>push ball_win_1</code>
+<start>1647.6063039302826</start>
+<end>1658.8739758729935</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>push ball_win_1</code>
+<start>2112.7473801374435</start>
+<end>2128.4005740880966</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>push ball_win_1</code>
+<start>2185.2014491558075</start>
+<end>2199.1409821510315</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>push ball_win_1</code>
+<start>2497.0109910964966</start>
+<end>2512.383938074112</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>push ball_win_1</code>
+<start>3325.1462091207504</start>
+<end>3333.99436211586</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>push ball_win_1</code>
+<start>3450.049315094948</start>
+<end>3459.1564821004868</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>push ball_win_1</code>
+<start>3459.166482100487</start>
+<end>3492.0148490667343</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>START BW1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>push ball_win_1</code>
+<start>3529.378142118454</start>
+<end>3542.0937210321426</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>push ball_win_1</code>
+<start>3610.2292940616608</start>
+<end>3640.5048640966415</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>REND GOAL PUSH</text>
+</label>
+<label>
+<text>START BW1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>push ball_win_1</code>
+<start>3894.5945520401</start>
+<end>3917.6645510196686</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>push ball_win_1</code>
+<start>4079.655375123024</start>
+<end>4095.3001511096954</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>push ball_win_1</code>
+<start>4102.4637941122055</start>
+<end>4118.716516017914</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>push ball_win_1</code>
+<start>4641.234892010689</start>
+<end>4653.188853025436</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>push ball_win_1</code>
+<start>4948.8484979867935</start>
+<end>4962.727447986603</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>push ball_win_1</code>
+<start>4973.9091029167175</start>
+<end>5004.328596949577</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>push ball_win_1</code>
+<start>5426.742702007294</start>
+<end>5440.060765028</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>push ball_win_2</code>
+<start>350.38397896289825</start>
+<end>363.70977902412415</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>push ball_win_2</code>
+<start>365.6426910161972</start>
+<end>381.78139197826385</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>push ball_win_2</code>
+<start>590.2219820022583</start>
+<end>597.8684359788895</end>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>push ball_win_2</code>
+<start>819.1046350002289</start>
+<end>847.9661940336227</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BW2 PUSH</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>193</ID>
+<code>push ball_win_2</code>
+<start>1052.9184559583664</start>
+<end>1074.095841050148</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>push ball_win_2</code>
+<start>2576.846220135689</start>
+<end>2593.583906149864</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>push ball_win_2</code>
+<start>3669.9726901054382</start>
+<end>3679.9577651023865</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>push ball_win_2</code>
+<start>4374.828642964363</start>
+<end>4411.017877936363</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>push ball_win_2</code>
+<start>4586.25065600872</start>
+<end>4594.342216968536</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>push ball_win_2</code>
+<start>4880.15055501461</start>
+<end>4892.266499996185</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>push ball_win_2</code>
+<start>5152.887455940247</start>
+<end>5162.341275930405</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>push ball_win_2</code>
+<start>5259.376945972443</start>
+<end>5284.940104961395</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>push ball_win_2</code>
+<start>5532.501238942146</start>
+<end>5558.546061992645</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BW2 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>push ball_win_3</code>
+<start>396.64666295051575</start>
+<end>411.0509270429611</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>START BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>push ball_win_3</code>
+<start>469.6561119556427</start>
+<end>480.7897729873657</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>START BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>push ball_win_3</code>
+<start>685.4739270210266</start>
+<end>704.5650949478149</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BW3 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>push ball_win_3</code>
+<start>721.0789760351181</start>
+<end>745.076161980629</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BW3 PUSH</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>push ball_win_3</code>
+<start>985.1190860271454</start>
+<end>995.7180789709091</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>START BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>push ball_win_3</code>
+<start>1726.0845029354095</start>
+<end>1737.5353149175644</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>push ball_win_3</code>
+<start>3592.976543068886</start>
+<end>3604.7078360319138</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>push ball_win_3</code>
+<start>4010.5291600227356</start>
+<end>4021.74163711071</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>push ball_win_3</code>
+<start>4915.0163769721985</start>
+<end>4933.076512932777</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>push ball_win_3</code>
+<start>5139.647928953171</start>
+<end>5152.412655949593</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+<label>
+<text>START BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>push ball_win_3</code>
+<start>5188.628724932671</start>
+<end>5203.5413810014725</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>START BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>push ball_win_3</code>
+<start>5610.39896094799</start>
+<end>5632.182734012604</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>push ball_win_4</code>
+<start>998.4002369642258</start>
+<end>1031.3711960315704</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BW1 NIJ</text>
+</label>
+<label>
+<text>START BW4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>push ball_win_4</code>
+<start>1136.1123470067978</start>
+<end>1153.4071340560913</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+<label>
+<text>START BW4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>push ball_win_4</code>
+<start>2228.921748161316</start>
+<end>2243.0311571359634</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BW4 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>push ball_win_4</code>
+<start>5202.058264970779</start>
+<end>5225.966444969177</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP PUSH</text>
+</label>
+<label>
+<text>START BW4 PUSH</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>push circle_penetration</code>
+<start>214.11424100399017</start>
+<end>234.11424100399017</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>DP RECHTS</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>push circle_penetration</code>
+<start>394.6699320077896</start>
+<end>411.0509270429611</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>push circle_penetration</code>
+<start>467.2762110233307</start>
+<end>480.7897729873657</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>push circle_penetration</code>
+<start>636.202232003212</start>
+<end>655.912938952446</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>push circle_penetration</code>
+<start>716.9181180000305</start>
+<end>736.9181180000305</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>push circle_penetration</code>
+<start>820.7367399930954</start>
+<end>840.7367399930954</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>224</ID>
+<code>push circle_penetration</code>
+<start>948.611485004425</start>
+<end>968.611485004425</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>push circle_penetration</code>
+<start>1028.3291169404984</start>
+<end>1045.5242680311203</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>226</ID>
+<code>push circle_penetration</code>
+<start>1100.6006710529327</start>
+<end>1120.6006710529327</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>DP LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>push circle_penetration</code>
+<start>1132.4300479888916</start>
+<end>1152.4300479888916</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>push circle_penetration</code>
+<start>1224.1856789588928</start>
+<end>1244.1856789588928</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>push circle_penetration</code>
+<start>1729.158630847931</start>
+<end>1749.158630847931</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>DP TOP</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>DP LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>push circle_penetration</code>
+<start>1813.5048248767853</start>
+<end>1833.5048248767853</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>push circle_penetration</code>
+<start>1886.5922199487686</start>
+<end>1905.509134888649</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>push circle_penetration</code>
+<start>1988.6362410783768</start>
+<end>2008.6362410783768</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>DP LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>push circle_penetration</code>
+<start>2210.718885064125</start>
+<end>2230.6189790964127</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>push circle_penetration</code>
+<start>2244.83727312088</start>
+<end>2262.4541181325912</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>push circle_penetration</code>
+<start>3359.328327059746</start>
+<end>3373.1652361154556</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>push circle_penetration</code>
+<start>3622.3627750873566</start>
+<end>3640.5048640966415</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>DP MIDDEN</text>
+</label>
+<label>
+<text>REND GOAL PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>push circle_penetration</code>
+<start>3691.662071108818</start>
+<end>3711.662071108818</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>push circle_penetration</code>
+<start>4117.721182107925</start>
+<end>4137.721182107925</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>REND ASB PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>push circle_penetration</code>
+<start>4861.041165947914</start>
+<end>4875.92063498497</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>DP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>push circle_penetration</code>
+<start>4892.3362629413605</start>
+<end>4906.625780940056</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>push circle_penetration</code>
+<start>5186.487638950348</start>
+<end>5203.5413810014725</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>REND DP PUSH</text>
+</label>
+<label>
+<text>DP MIDDEN</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>push circle_penetration</code>
+<start>5203.551381001473</start>
+<end>5216.1251319646835</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>push circle_penetration</code>
+<start>5303.573558926582</start>
+<end>5323.573558926582</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>push goal_attempt</code>
+<start>222.97521698474884</start>
+<end>232.97521698474884</end>
+<label>
+<text>DP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>push goal_attempt</code>
+<start>1112.2090820074081</start>
+<end>1122.2090820074081</end>
+<label>
+<text>DP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>push goal_attempt</code>
+<start>1737.0614018440247</start>
+<end>1747.0614018440247</end>
+<label>
+<text>DP TOP</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>push goal_attempt</code>
+<start>1747.0714018440246</start>
+<end>1752.1123648881912</end>
+<label>
+<text>DP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>push goal_attempt</code>
+<start>2001.7203691005707</start>
+<end>2011.7203691005707</end>
+<label>
+<text>DP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>push goal_attempt</code>
+<start>3630.2210490703583</start>
+<end>3640.2210490703583</end>
+<label>
+<text>DP MIDDEN</text>
+</label>
+<label>
+<text>REND GOAL PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>push goal_attempt</code>
+<start>4868.919028997421</start>
+<end>4878.919028997421</end>
+<label>
+<text>DP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>push goal_attempt</code>
+<start>5194.566478967667</start>
+<end>5204.566478967667</end>
+<label>
+<text>DP MIDDEN</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>push goal</code>
+<start>3622.5048640966415</start>
+<end>3640.5048640966415</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BW1 PUSH</text>
+</label>
+<label>
+<text>START</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>push penalty_stroke</code>
+<start>4222.294423937798</start>
+<end>4231.294423937798</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>push penalty_corner</code>
+<start>777.8623139858246</start>
+<end>788.8623139858246</end>
+<label>
+<text>SC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>push penalty_corner</code>
+<start>873.689043045044</start>
+<end>884.689043045044</end>
+<label>
+<text>SC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>push penalty_corner</code>
+<start>1181.0053470134735</start>
+<end>1192.0053470134735</end>
+<label>
+<text>SC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>push penalty_corner</code>
+<start>1277.8625819683075</start>
+<end>1288.8625819683075</end>
+<label>
+<text>SC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>push penalty_corner</code>
+<start>1782.3534998893738</start>
+<end>1793.3534998893738</end>
+<label>
+<text>SC PUSH</text>
+</label>
+<label>
+<text>REND ASC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>push penalty_corner</code>
+<start>1803.0533349514008</start>
+<end>1814.0533349514008</end>
+<label>
+<text>SC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>push penalty_corner</code>
+<start>2050.943029165268</start>
+<end>2061.943029165268</end>
+<label>
+<text>SC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>push penalty_corner</code>
+<start>5372.888018965721</start>
+<end>5383.888018965721</end>
+<label>
+<text>SC PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>nijmegen green_card</code>
+<start>5481.359234929085</start>
+<end>5621.359234929085</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>push green_card</code>
+<start>5552.861558914185</start>
+<end>5692.861558914185</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>end</code>
+<start>1362.1072969436646</start>
+<end>1364.1072969436646</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>end</code>
+<start>2592.483906149864</start>
+<end>2594.483906149864</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>end</code>
+<start>4451.558573961258</start>
+<end>4453.558573961258</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>end</code>
+<start>5762.816705942154</start>
+<end>5764.816705942154</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>start</code>
+<start>210.8095339536667</start>
+<end>213.8095339536667</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>start</code>
+<start>1509.129550933838</start>
+<end>1512.129550933838</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>start</code>
+<start>3266.424421072006</start>
+<end>3269.424421072006</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>start</code>
+<start>4582.2535309791565</start>
+<end>4585.2535309791565</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>TIJDSTIL</code>
+<start>413.43691301345825</start>
+<end>461.90134501457214</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>TIJDSTIL</code>
+<start>891.2188739776611</start>
+<end>943.6793359518051</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>TIJDSTIL</code>
+<start>2592.483906149864</start>
+<end>3267.424421072006</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>TIJDSTIL</code>
+<start>3547.6706610918045</start>
+<end>3569.721387028694</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>TIJDSTIL</code>
+<start>4138.708114027977</start>
+<end>4245.0325338840485</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>TIJDSTIL</code>
+<start>4451.558573961258</start>
+<end>4583.2535309791565</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>TIJDSTIL</code>
+<start>5064.39487695694</start>
+<end>5101.035646915436</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>start</code>
+<start>210.8095339536667</start>
+<end>414.43691301345825</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>start</code>
+<start>460.90134501457214</start>
+<end>892.2188739776611</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>start</code>
+<start>942.6793359518051</start>
+<end>1363.1072969436646</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>start</code>
+<start>1509.129550933838</start>
+<end>2593.483906149864</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>start</code>
+<start>3266.424421072006</start>
+<end>3548.6706610918045</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>start</code>
+<start>3568.721387028694</start>
+<end>4139.708114027977</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>start</code>
+<start>4244.0325338840485</start>
+<end>4452.558573961258</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>start</code>
+<start>4582.2535309791565</start>
+<end>5065.39487695694</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>start</code>
+<start>5100.035646915436</start>
+<end>5763.816705942154</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>umpiring</code>
+<start>4008.7122280597687</start>
+<end>4028.7122280597687</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>umpiring</code>
+<start>4246.55929684639</start>
+<end>4266.55929684639</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>umpiring</code>
+<start>4339.939054846764</start>
+<end>4359.939054846764</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>umpiring</code>
+<start>4769.97324192524</start>
+<end>4789.97324192524</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>umpiring</code>
+<start>5556.487367987633</start>
+<end>5576.487367987633</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>umpiring</code>
+<start>5617.063670992851</start>
+<end>5637.063670992851</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>umpiring</code>
+<start>5725.1772710084915</start>
+<end>5745.1772710084915</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>4668.085307955742</start>
+<end>4683.085307955742</end>
+<label>
+<text>REND ASC NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>nijmegen cause_of_penalty_corner</code>
+<start>4764.34830892086</start>
+<end>4779.34830892086</end>
+<label>
+<text>REND ASC NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>nijmegen</code>
+<start>236.4209359884262</start>
+<end>285.72109496593475</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>nijmegen</code>
+<start>297.76509296894073</start>
+<end>310.5546979904175</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>nijmegen</code>
+<start>323.2426680326462</start>
+<end>356.38397896289825</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>nijmegen</code>
+<start>363.70977902412415</start>
+<end>371.6426910161972</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>nijmegen</code>
+<start>398.3634749650955</start>
+<end>402.64666295051575</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>nijmegen</code>
+<start>411.0509270429611</start>
+<end>475.6561119556427</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>nijmegen</code>
+<start>480.7897729873657</start>
+<end>511.22387194633484</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>nijmegen</code>
+<start>566.2204159498215</start>
+<end>579.5928250551224</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>nijmegen</code>
+<start>597.8684359788895</start>
+<end>631.6736320257187</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>nijmegen</code>
+<start>668.8584419488907</start>
+<end>691.4739270210266</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>nijmegen</code>
+<start>718.7329800128937</start>
+<end>727.0789760351181</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>nijmegen</code>
+<start>809.0772830247879</start>
+<end>825.1046350002289</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>nijmegen</code>
+<start>974.279186964035</start>
+<end>991.1190860271454</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>nijmegen</code>
+<start>995.7180789709091</start>
+<end>1004.4002369642258</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>nijmegen</code>
+<start>1031.3711960315704</start>
+<end>1038.0408129692078</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>nijmegen</code>
+<start>1045.5242680311203</start>
+<end>1058.9184559583664</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>nijmegen</code>
+<start>1086.2603449821472</start>
+<end>1097.046707034111</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>nijmegen</code>
+<start>1130.7248779535294</start>
+<end>1142.1123470067978</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>nijmegen</code>
+<start>1191.2026699781418</start>
+<end>1218.9477009773254</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>nijmegen</code>
+<start>1301.5605889558792</start>
+<end>1324.8760800361633</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>nijmegen</code>
+<start>1549.276396870613</start>
+<end>1591.0086909532547</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>nijmegen</code>
+<start>1604.2294509410858</start>
+<end>1635.5820939540863</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>nijmegen</code>
+<start>1646.6237448453903</start>
+<end>1653.6063039302826</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>nijmegen</code>
+<start>1658.8739758729935</start>
+<end>1670.3024069070816</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>nijmegen</code>
+<start>1720.0229479074478</start>
+<end>1732.0845029354095</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>nijmegen</code>
+<start>1905.509134888649</start>
+<end>1929.599641084671</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>nijmegen</code>
+<start>1940.7094881534576</start>
+<end>1995.6417471170425</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>nijmegen</code>
+<start>2084.9251791238785</start>
+<end>2118.7473801374435</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>nijmegen</code>
+<start>2183.231190085411</start>
+<end>2191.2014491558075</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>nijmegen</code>
+<start>2230.6189790964127</start>
+<end>2234.921748161316</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>nijmegen</code>
+<start>2246.5578430891037</start>
+<end>2253.2167431116104</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>nijmegen</code>
+<start>2284.925759077072</start>
+<end>2320.8911271095276</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>nijmegen</code>
+<start>2411.1212290525436</start>
+<end>2441.855465054512</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>nijmegen</code>
+<start>2460.8996760845184</start>
+<end>2503.0109910964966</end>
+</instance>
+<instance>
+<ID>331</ID>
+<code>nijmegen</code>
+<start>2518.8074251413345</start>
+<end>2582.846220135689</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>nijmegen</code>
+<start>3268.43577504158</start>
+<end>3331.1462091207504</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>nijmegen</code>
+<start>3333.99436211586</start>
+<end>3358.978194117546</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>nijmegen</code>
+<start>3373.1652361154556</start>
+<end>3395.891879081726</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>nijmegen</code>
+<start>3410.038078069687</start>
+<end>3456.049315094948</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>nijmegen</code>
+<start>3459.1564821004868</start>
+<end>3463.121675014496</end>
+</instance>
+<instance>
+<ID>337</ID>
+<code>nijmegen</code>
+<start>3492.0148490667343</start>
+<end>3535.378142118454</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>nijmegen</code>
+<start>3542.0937210321426</start>
+<end>3598.976543068886</end>
+</instance>
+<instance>
+<ID>339</ID>
+<code>nijmegen</code>
+<start>3604.7078360319138</start>
+<end>3616.2292940616608</end>
+</instance>
+<instance>
+<ID>340</ID>
+<code>nijmegen</code>
+<start>3669.358053088188</start>
+<end>3675.9726901054382</end>
+</instance>
+<instance>
+<ID>341</ID>
+<code>nijmegen</code>
+<start>3688.555321097374</start>
+<end>3701.281653046608</end>
+</instance>
+<instance>
+<ID>342</ID>
+<code>nijmegen</code>
+<start>3766.551281094551</start>
+<end>3785.6109091043472</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>nijmegen</code>
+<start>3829.562910079956</start>
+<end>3844.0854880809784</end>
+</instance>
+<instance>
+<ID>344</ID>
+<code>nijmegen</code>
+<start>3882.983757019043</start>
+<end>3900.5945520401</end>
+</instance>
+<instance>
+<ID>345</ID>
+<code>nijmegen</code>
+<start>3937.673702120781</start>
+<end>3947.9931180477142</end>
+</instance>
+<instance>
+<ID>346</ID>
+<code>nijmegen</code>
+<start>3960.191521048546</start>
+<end>3982.0732110738754</end>
+</instance>
+<instance>
+<ID>347</ID>
+<code>nijmegen</code>
+<start>3990.6692970991135</start>
+<end>4016.5291600227356</end>
+</instance>
+<instance>
+<ID>348</ID>
+<code>nijmegen</code>
+<start>4021.74163711071</start>
+<end>4041.9604721069336</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>nijmegen</code>
+<start>4057.4177380800247</start>
+<end>4085.655375123024</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>nijmegen</code>
+<start>4098.386075019836</start>
+<end>4108.4637941122055</end>
+</instance>
+<instance>
+<ID>351</ID>
+<code>nijmegen</code>
+<start>4246.676701903343</start>
+<end>4327.736867904663</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>nijmegen</code>
+<start>4361.9407769441605</start>
+<end>4380.828642964363</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>nijmegen</code>
+<start>4411.017877936363</start>
+<end>4452.658573961258</end>
+</instance>
+<instance>
+<ID>354</ID>
+<code>nijmegen</code>
+<start>4586.000950932503</start>
+<end>4592.25065600872</end>
+</instance>
+<instance>
+<ID>355</ID>
+<code>nijmegen</code>
+<start>4594.342216968536</start>
+<end>4608.74703001976</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>nijmegen</code>
+<start>4621.997923016548</start>
+<end>4647.234892010689</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>nijmegen</code>
+<start>4653.188853025436</start>
+<end>4753.7654329538345</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>nijmegen</code>
+<start>4757.08749294281</start>
+<end>4847.579821944237</end>
+</instance>
+<instance>
+<ID>359</ID>
+<code>nijmegen</code>
+<start>4875.92063498497</start>
+<end>4886.15055501461</end>
+</instance>
+<instance>
+<ID>360</ID>
+<code>nijmegen</code>
+<start>4892.266499996185</start>
+<end>4901.074600934982</end>
+</instance>
+<instance>
+<ID>361</ID>
+<code>nijmegen</code>
+<start>4906.625780940056</start>
+<end>4921.0163769721985</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>nijmegen</code>
+<start>4933.076512932777</start>
+<end>4954.8484979867935</end>
+</instance>
+<instance>
+<ID>363</ID>
+<code>nijmegen</code>
+<start>4968.916425943375</start>
+<end>4979.9091029167175</end>
+</instance>
+<instance>
+<ID>364</ID>
+<code>nijmegen</code>
+<start>5061.837478995323</start>
+<end>5145.647928953171</end>
+</instance>
+<instance>
+<ID>365</ID>
+<code>nijmegen</code>
+<start>5152.412655949593</start>
+<end>5158.887455940247</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>nijmegen</code>
+<start>5162.341275930405</start>
+<end>5194.628724932671</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>nijmegen</code>
+<start>5203.5413810014725</start>
+<end>5208.058264970779</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>nijmegen</code>
+<start>5233.3074679374695</start>
+<end>5265.376945972443</end>
+</instance>
+<instance>
+<ID>369</ID>
+<code>nijmegen</code>
+<start>5390.614306926727</start>
+<end>5432.742702007294</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>nijmegen</code>
+<start>5455.616037011147</start>
+<end>5488.082033991814</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>nijmegen</code>
+<start>5528.422242999077</start>
+<end>5538.501238942146</end>
+</instance>
+<instance>
+<ID>372</ID>
+<code>nijmegen</code>
+<start>5588.737591981888</start>
+<end>5616.39896094799</end>
+</instance>
+<instance>
+<ID>373</ID>
+<code>nijmegen</code>
+<start>5632.182734012604</start>
+<end>5645.201717019081</end>
+</instance>
+<instance>
+<ID>374</ID>
+<code>nijmegen</code>
+<start>5652.126451969147</start>
+<end>5690.557031989098</end>
+</instance>
+<instance>
+<ID>375</ID>
+<code>nijmegen</code>
+<start>5717.168231010437</start>
+<end>5763.916705942154</end>
+</instance>
+<instance>
+<ID>376</ID>
+<code>nijmegen ball_restart_1</code>
+<start>233.4209359884262</start>
+<end>257.9495040178299</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>377</ID>
+<code>nijmegen ball_restart_1</code>
+<start>257.9595040178299</start>
+<end>284.72109496593475</end>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BS1 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>378</ID>
+<code>nijmegen ball_restart_1</code>
+<start>395.3634749650955</start>
+<end>401.64666295051575</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>379</ID>
+<code>nijmegen ball_restart_1</code>
+<start>461.55043601989746</start>
+<end>474.6561119556427</end>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>380</ID>
+<code>nijmegen ball_restart_1</code>
+<start>672.210510969162</start>
+<end>690.4739270210266</end>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>381</ID>
+<code>nijmegen ball_restart_1</code>
+<start>715.7329800128937</start>
+<end>726.0789760351181</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>382</ID>
+<code>nijmegen ball_restart_1</code>
+<start>806.0772830247879</start>
+<end>824.1046350002289</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>383</ID>
+<code>nijmegen ball_restart_1</code>
+<start>971.279186964035</start>
+<end>990.1190860271454</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>384</ID>
+<code>nijmegen ball_restart_1</code>
+<start>1083.2603449821472</start>
+<end>1096.046707034111</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>385</ID>
+<code>nijmegen ball_restart_1</code>
+<start>1127.7248779535294</start>
+<end>1141.1123470067978</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>386</ID>
+<code>nijmegen ball_restart_1</code>
+<start>1902.509134888649</start>
+<end>1918.8381690979004</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>387</ID>
+<code>nijmegen ball_restart_1</code>
+<start>1918.8481690979004</start>
+<end>1928.599641084671</end>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>388</ID>
+<code>nijmegen ball_restart_1</code>
+<start>2298.708794116974</start>
+<end>2319.8911271095276</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>389</ID>
+<code>nijmegen ball_restart_1</code>
+<start>4243.676701903343</start>
+<end>4258.465241909027</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>390</ID>
+<code>nijmegen ball_restart_1</code>
+<start>4358.9407769441605</start>
+<end>4379.828642964363</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>391</ID>
+<code>nijmegen ball_restart_1</code>
+<start>4876.720420956612</start>
+<end>4885.15055501461</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>392</ID>
+<code>nijmegen ball_restart_1</code>
+<start>5098.771350026131</start>
+<end>5135.993029952049</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>393</ID>
+<code>nijmegen ball_restart_1</code>
+<start>5136.0030299520495</start>
+<end>5144.647928953171</end>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>394</ID>
+<code>nijmegen ball_restart_1</code>
+<start>5149.412655949593</start>
+<end>5157.887455940247</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>395</ID>
+<code>nijmegen ball_restart_1</code>
+<start>5387.614306926727</start>
+<end>5406.812605023384</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>396</ID>
+<code>nijmegen ball_restart_1</code>
+<start>5585.737591981888</start>
+<end>5607.299322009087</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>397</ID>
+<code>nijmegen ball_restart_1</code>
+<start>5714.168231010437</start>
+<end>5733.313356995583</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>398</ID>
+<code>nijmegen ball_restart_2</code>
+<start>563.2204159498215</start>
+<end>578.5928250551224</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>399</ID>
+<code>nijmegen ball_restart_2</code>
+<start>1574.3867149353027</start>
+<end>1590.0086909532547</end>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>400</ID>
+<code>nijmegen ball_restart_2</code>
+<start>1717.0229479074478</start>
+<end>1731.0845029354095</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>401</ID>
+<code>nijmegen ball_restart_2</code>
+<start>1945.7787450551987</start>
+<end>1994.6417471170425</end>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>402</ID>
+<code>nijmegen ball_restart_2</code>
+<start>2094.065570116043</start>
+<end>2117.7473801374435</end>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>403</ID>
+<code>nijmegen ball_restart_2</code>
+<start>2180.231190085411</start>
+<end>2190.2014491558075</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>404</ID>
+<code>nijmegen ball_restart_2</code>
+<start>2515.8074251413345</start>
+<end>2524.7695990800858</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>405</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3265.43577504158</start>
+<end>3321.690559029579</end>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>406</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3503.8259180784225</start>
+<end>3530.718045115471</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>407</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3666.358053088188</start>
+<end>3674.9726901054382</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>408</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3763.551281094551</start>
+<end>3784.6109091043472</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>409</ID>
+<code>nijmegen ball_restart_2</code>
+<start>3995.199814081192</start>
+<end>4015.5291600227356</end>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>410</ID>
+<code>nijmegen ball_restart_2</code>
+<start>4054.4177380800247</start>
+<end>4084.655375123024</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>411</ID>
+<code>nijmegen ball_restart_2</code>
+<start>4408.017877936363</start>
+<end>4425.606527924538</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>412</ID>
+<code>nijmegen ball_restart_2</code>
+<start>4583.000950932503</start>
+<end>4591.25065600872</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>413</ID>
+<code>nijmegen ball_restart_2</code>
+<start>4941.997553944588</start>
+<end>4953.8484979867935</end>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>414</ID>
+<code>nijmegen ball_restart_2</code>
+<start>5171.075217962265</start>
+<end>5193.628724932671</end>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>415</ID>
+<code>nijmegen ball_restart_2</code>
+<start>5604.299322009087</start>
+<end>5615.39896094799</end>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>416</ID>
+<code>nijmegen ball_restart_2</code>
+<start>5730.313356995583</start>
+<end>5750.9191019535065</end>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>417</ID>
+<code>nijmegen ball_restart_3</code>
+<start>1313.0693329572678</start>
+<end>1323.8760800361633</end>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>418</ID>
+<code>nijmegen ball_restart_3</code>
+<start>1616.8034509420395</start>
+<end>1634.5820939540863</end>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>START BS3 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>419</ID>
+<code>nijmegen ball_restart_3</code>
+<start>2457.8996760845184</start>
+<end>2502.0109910964966</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>420</ID>
+<code>nijmegen ball_restart_3</code>
+<start>2521.7695990800858</start>
+<end>2538.448473095894</end>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>START BS3 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>421</ID>
+<code>nijmegen ball_restart_3</code>
+<start>3407.038078069687</start>
+<end>3438.7742611169815</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>422</ID>
+<code>nijmegen ball_restart_3</code>
+<start>3527.718045115471</start>
+<end>3534.378142118454</end>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>423</ID>
+<code>nijmegen ball_restart_3</code>
+<start>3567.5628480911255</start>
+<end>3597.976543068886</end>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>424</ID>
+<code>nijmegen ball_restart_3</code>
+<start>4255.465241909027</start>
+<end>4271.725254893303</end>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BS3 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>425</ID>
+<code>nijmegen ball_restart_3</code>
+<start>4758.724877953529</start>
+<end>4826.951627969742</end>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BS3 NIJ</text>
+</label>
+<label>
+<text>REND ASC NIJ</text>
+</label>
+<label>
+<text>REND GOAL NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>426</ID>
+<code>nijmegen ball_restart_3</code>
+<start>5250.292737960815</start>
+<end>5264.376945972443</end>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>427</ID>
+<code>nijmegen ball_restart_3</code>
+<start>5403.812605023384</start>
+<end>5431.742702007294</end>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>428</ID>
+<code>nijmegen ball_restart_3</code>
+<start>5629.182734012604</start>
+<end>5644.201717019081</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>429</ID>
+<code>nijmegen ball_restart_3</code>
+<start>5657.011716008186</start>
+<end>5675.235669970512</end>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BS3 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>430</ID>
+<code>nijmegen ball_restart_4</code>
+<start>2535.448473095894</start>
+<end>2581.846220135689</end>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>431</ID>
+<code>nijmegen ball_restart_4</code>
+<start>3318.690559029579</start>
+<end>3330.1462091207504</end>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>432</ID>
+<code>nijmegen ball_restart_4</code>
+<start>3435.7742611169815</start>
+<end>3455.049315094948</end>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>433</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4268.725254893303</start>
+<end>4326.736867904663</end>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BS4 NIJ</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>434</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4422.606527924538</start>
+<end>4452.658573961258</end>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>435</ID>
+<code>nijmegen ball_restart_4</code>
+<start>4731.025552988052</start>
+<end>4752.7654329538345</end>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>436</ID>
+<code>nijmegen ball_restart_4</code>
+<start>5672.235669970512</start>
+<end>5689.557031989098</end>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>437</ID>
+<code>nijmegen ball_restart_4</code>
+<start>5747.9191019535065</start>
+<end>5763.916705942154</end>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>438</ID>
+<code>nijmegen ball_win_1</code>
+<start>406.0509270429611</start>
+<end>464.55043601989746</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>439</ID>
+<code>nijmegen ball_win_1</code>
+<start>475.7897729873657</start>
+<end>510.22387194633484</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>START BW1 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>440</ID>
+<code>nijmegen ball_win_1</code>
+<start>663.8584419488907</start>
+<end>675.210510969162</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>441</ID>
+<code>nijmegen ball_win_1</code>
+<start>990.7180789709091</start>
+<end>1003.4002369642258</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>442</ID>
+<code>nijmegen ball_win_1</code>
+<start>1026.3711960315704</start>
+<end>1037.0408129692078</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>443</ID>
+<code>nijmegen ball_win_1</code>
+<start>1040.5242680311203</start>
+<end>1057.9184559583664</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>444</ID>
+<code>nijmegen ball_win_1</code>
+<start>1081.9084550142288</start>
+<end>1096.046707034111</end>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>445</ID>
+<code>nijmegen ball_win_1</code>
+<start>1186.2026699781418</start>
+<end>1217.9477009773254</end>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START BW1 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>446</ID>
+<code>nijmegen ball_win_1</code>
+<start>1296.5605889558792</start>
+<end>1316.0693329572678</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>447</ID>
+<code>nijmegen ball_win_1</code>
+<start>1544.276396870613</start>
+<end>1577.3867149353027</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>448</ID>
+<code>nijmegen ball_win_1</code>
+<start>2225.6189790964127</start>
+<end>2233.921748161316</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>449</ID>
+<code>nijmegen ball_win_1</code>
+<start>2241.5578430891037</start>
+<end>2252.2167431116104</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>450</ID>
+<code>nijmegen ball_win_1</code>
+<start>2279.925759077072</start>
+<end>2301.708794116974</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>451</ID>
+<code>nijmegen ball_win_1</code>
+<start>2406.1212290525436</start>
+<end>2440.855465054512</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>START BW1 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>452</ID>
+<code>nijmegen ball_win_1</code>
+<start>3368.1652361154556</start>
+<end>3394.891879081726</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>START BW1 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>453</ID>
+<code>nijmegen ball_win_1</code>
+<start>3487.0148490667343</start>
+<end>3506.8259180784225</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>454</ID>
+<code>nijmegen ball_win_1</code>
+<start>3824.562910079956</start>
+<end>3843.0854880809784</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>455</ID>
+<code>nijmegen ball_win_1</code>
+<start>3877.983757019043</start>
+<end>3899.5945520401</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>START BW1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>456</ID>
+<code>nijmegen ball_win_1</code>
+<start>3932.673702120781</start>
+<end>3946.9931180477142</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>457</ID>
+<code>nijmegen ball_win_1</code>
+<start>3955.191521048546</start>
+<end>3981.0732110738754</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>458</ID>
+<code>nijmegen ball_win_1</code>
+<start>4616.997923016548</start>
+<end>4646.234892010689</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>START BW1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>459</ID>
+<code>nijmegen ball_win_1</code>
+<start>4870.92063498497</start>
+<end>4879.720420956612</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BW1 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>460</ID>
+<code>nijmegen ball_win_1</code>
+<start>4887.266499996185</start>
+<end>4900.074600934982</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>461</ID>
+<code>nijmegen ball_win_1</code>
+<start>4901.625780940056</start>
+<end>4920.0163769721985</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>462</ID>
+<code>nijmegen ball_win_1</code>
+<start>4928.076512932777</start>
+<end>4944.997553944588</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>463</ID>
+<code>nijmegen ball_win_1</code>
+<start>5056.837478995323</start>
+<end>5101.771350026131</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS1 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>464</ID>
+<code>nijmegen ball_win_1</code>
+<start>5198.5413810014725</start>
+<end>5207.058264970779</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START BW1 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BW4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>465</ID>
+<code>nijmegen ball_win_1</code>
+<start>5228.3074679374695</start>
+<end>5253.292737960815</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>466</ID>
+<code>nijmegen ball_win_1</code>
+<start>5523.422242999077</start>
+<end>5537.501238942146</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>467</ID>
+<code>nijmegen ball_win_2</code>
+<start>318.2426680326462</start>
+<end>355.38397896289825</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>468</ID>
+<code>nijmegen ball_win_2</code>
+<start>358.70977902412415</start>
+<end>370.6426910161972</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND BB+1 BW2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>469</ID>
+<code>nijmegen ball_win_2</code>
+<start>592.8684359788895</start>
+<end>608.9791330099106</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>REND GOAL NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>470</ID>
+<code>nijmegen ball_win_2</code>
+<start>1599.2294509410858</start>
+<end>1619.8034509420395</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>471</ID>
+<code>nijmegen ball_win_2</code>
+<start>1935.7094881534576</start>
+<end>1948.7787450551987</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>472</ID>
+<code>nijmegen ball_win_2</code>
+<start>2079.9251791238785</start>
+<end>2097.065570116043</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>473</ID>
+<code>nijmegen ball_win_2</code>
+<start>3454.1564821004868</start>
+<end>3462.121675014496</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>474</ID>
+<code>nijmegen ball_win_2</code>
+<start>3683.555321097374</start>
+<end>3700.281653046608</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>475</ID>
+<code>nijmegen ball_win_2</code>
+<start>3985.6692970991135</start>
+<end>3998.199814081192</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>476</ID>
+<code>nijmegen ball_win_2</code>
+<start>4016.74163711071</start>
+<end>4040.9604721069336</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>477</ID>
+<code>nijmegen ball_win_2</code>
+<start>4093.3860750198364</start>
+<end>4107.4637941122055</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>478</ID>
+<code>nijmegen ball_win_2</code>
+<start>5157.341275930405</start>
+<end>5174.075217962265</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS2 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>479</ID>
+<code>nijmegen ball_win_2</code>
+<start>5647.126451969147</start>
+<end>5660.011716008186</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>480</ID>
+<code>nijmegen ball_win_3</code>
+<start>292.76509296894073</start>
+<end>309.5546979904175</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>START BW3 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>481</ID>
+<code>nijmegen ball_win_3</code>
+<start>1641.6237448453903</start>
+<end>1652.6063039302826</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>START BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>482</ID>
+<code>nijmegen ball_win_3</code>
+<start>1653.8739758729935</start>
+<end>1669.3024069070816</end>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+<label>
+<text>REND BB+1 BS2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>483</ID>
+<code>nijmegen ball_win_3</code>
+<start>3328.99436211586</start>
+<end>3357.978194117546</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>484</ID>
+<code>nijmegen ball_win_3</code>
+<start>3537.0937210321426</start>
+<end>3570.5628480911255</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>485</ID>
+<code>nijmegen ball_win_3</code>
+<start>3599.7078360319138</start>
+<end>3615.2292940616608</end>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+<label>
+<text>START BW3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>486</ID>
+<code>nijmegen ball_win_3</code>
+<start>4589.342216968536</start>
+<end>4607.74703001976</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>START BW3 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>487</ID>
+<code>nijmegen ball_win_3</code>
+<start>4648.188853025436</start>
+<end>4734.025552988052</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND ASC NIJ</text>
+</label>
+<label>
+<text>START BW3 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BS4 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>488</ID>
+<code>nijmegen ball_win_3</code>
+<start>4752.08749294281</start>
+<end>4761.724877953529</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND BB+1 BS3 NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>489</ID>
+<code>nijmegen ball_win_3</code>
+<start>4963.916425943375</start>
+<end>4978.9091029167175</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>START BW3 NIJ</text>
+</label>
+<label>
+<text>REND BB+1 BW1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>490</ID>
+<code>nijmegen ball_win_3</code>
+<start>5450.616037011147</start>
+<end>5464.987877011299</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND CP NIJ</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>REND GOAL NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>491</ID>
+<code>nijmegen circle_penetration</code>
+<start>257.9470399618149</start>
+<end>277.9470399618149</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>492</ID>
+<code>nijmegen circle_penetration</code>
+<start>290.2156859636307</start>
+<end>309.5546979904175</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>493</ID>
+<code>nijmegen circle_penetration</code>
+<start>591.0812519788742</start>
+<end>608.9791330099106</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>DP TOP</text>
+</label>
+<label>
+<text>REND GOAL NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>494</ID>
+<code>nijmegen circle_penetration</code>
+<start>1190.9180779457092</start>
+<end>1210.9180779457092</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>DP TOP</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>495</ID>
+<code>nijmegen circle_penetration</code>
+<start>1307.5764019489288</start>
+<end>1323.8760800361633</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>496</ID>
+<code>nijmegen circle_penetration</code>
+<start>1610.7363889217377</start>
+<end>1630.7363889217377</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>497</ID>
+<code>nijmegen circle_penetration</code>
+<start>1638.428305864334</start>
+<end>1652.6063039302826</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q1</text>
+</label>
+</instance>
+<instance>
+<ID>498</ID>
+<code>nijmegen circle_penetration</code>
+<start>2222.997756123543</start>
+<end>2242.997756123543</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>499</ID>
+<code>nijmegen circle_penetration</code>
+<start>2413.85948908329</start>
+<end>2433.85948908329</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>DP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>500</ID>
+<code>nijmegen circle_penetration</code>
+<start>2514.676484107971</start>
+<end>2534.676484107971</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>DP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>501</ID>
+<code>nijmegen circle_penetration</code>
+<start>3601.269901037216</start>
+<end>3615.2292940616608</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>502</ID>
+<code>nijmegen circle_penetration</code>
+<start>3883.19862306118</start>
+<end>3899.5945520401</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>503</ID>
+<code>nijmegen circle_penetration</code>
+<start>4268.198531866074</start>
+<end>4288.198531866074</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>DP LINKS</text>
+</label>
+</instance>
+<instance>
+<ID>504</ID>
+<code>nijmegen circle_penetration</code>
+<start>4288.208531866074</start>
+<end>4303.731774926186</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>505</ID>
+<code>nijmegen circle_penetration</code>
+<start>4304.5974888801575</start>
+<end>4324.5974888801575</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>506</ID>
+<code>nijmegen circle_penetration</code>
+<start>4586.134055972099</start>
+<end>4606.134055972099</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>DP TOP</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>507</ID>
+<code>nijmegen circle_penetration</code>
+<start>4630.96244096756</start>
+<end>4646.234892010689</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>508</ID>
+<code>nijmegen circle_penetration</code>
+<start>4666.444217920303</start>
+<end>4686.444217920303</end>
+<label>
+<text>CP RECHTS</text>
+</label>
+<label>
+<text>REND ASC NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>509</ID>
+<code>nijmegen circle_penetration</code>
+<start>4757.224273920059</start>
+<end>4777.224273920059</end>
+<label>
+<text>CP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>REND ASC NIJ</text>
+</label>
+</instance>
+<instance>
+<ID>510</ID>
+<code>nijmegen circle_penetration</code>
+<start>5447.294067978859</start>
+<end>5464.987877011299</end>
+<label>
+<text>CP MIDDEN</text>
+</label>
+<label>
+<text>REND DP NIJ</text>
+</label>
+<label>
+<text>DP MIDDEN</text>
+</label>
+<label>
+<text>REND GOAL NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>511</ID>
+<code>nijmegen goal_attempt</code>
+<start>599.0556310415268</start>
+<end>608.9791330099106</end>
+<label>
+<text>DP TOP</text>
+</label>
+<label>
+<text>REND GOAL NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>512</ID>
+<code>nijmegen goal_attempt</code>
+<start>1199.1685169935226</start>
+<end>1209.1685169935226</end>
+<label>
+<text>DP TOP</text>
+</label>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+</instance>
+<instance>
+<ID>513</ID>
+<code>nijmegen goal_attempt</code>
+<start>2424.5586590766907</start>
+<end>2434.5586590766907</end>
+<label>
+<text>DP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>514</ID>
+<code>nijmegen goal_attempt</code>
+<start>2524.546914100647</start>
+<end>2534.546914100647</end>
+<label>
+<text>DP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q2</text>
+</label>
+</instance>
+<instance>
+<ID>515</ID>
+<code>nijmegen goal_attempt</code>
+<start>4280.865976929665</start>
+<end>4290.865976929665</end>
+<label>
+<text>DP LINKS</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>516</ID>
+<code>nijmegen goal_attempt</code>
+<start>4595.368786931038</start>
+<end>4605.368786931038</end>
+<label>
+<text>DP TOP</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>517</ID>
+<code>nijmegen goal_attempt</code>
+<start>5455.229493021965</start>
+<end>5464.987877011299</end>
+<label>
+<text>DP MIDDEN</text>
+</label>
+<label>
+<text>REND GOAL NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>518</ID>
+<code>nijmegen goal</code>
+<start>590.9791330099106</start>
+<end>608.9791330099106</end>
+<label>
+<text>SPEELKWART Q0</text>
+</label>
+<label>
+<text>START</text>
+</label>
+</instance>
+<instance>
+<ID>519</ID>
+<code>nijmegen goal</code>
+<start>4808.951627969742</start>
+<end>4826.951627969742</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START</text>
+</label>
+</instance>
+<instance>
+<ID>520</ID>
+<code>nijmegen goal</code>
+<start>5446.987877011299</start>
+<end>5464.987877011299</end>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+<label>
+<text>START</text>
+</label>
+</instance>
+<instance>
+<ID>521</ID>
+<code>nijmegen penalty_corner</code>
+<start>4714.033113002777</start>
+<end>4725.033113002777</end>
+<label>
+<text>SC NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+<instance>
+<ID>522</ID>
+<code>nijmegen penalty_corner</code>
+<start>4814.242130994797</start>
+<end>4825.242130994797</end>
+<label>
+<text>SC NIJ</text>
+</label>
+<label>
+<text>REND GOAL NIJ</text>
+</label>
+<label>
+<text>SPEELKWART Q3</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ASB PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>ASC PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>BB PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>BS1 PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>BS2 PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>BS3 PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>BS4 PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>BW1 PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>BW2 PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>BW3 PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>BW4 PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>CP PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>DP PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>GOAL PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>SB PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>SC PUSH</code>
+<R>6168</R>
+<G>34438</G>
+<B>19275</B>
+</row>
+<row>
+<code>GROEN NIJ</code>
+<R>0</R>
+<G>63993</G>
+<B>0</B>
+</row>
+<row>
+<code>GROEN PUSH</code>
+<R>0</R>
+<G>63993</G>
+<B>0</B>
+</row>
+<row>
+<code>EINDE</code>
+<R>65536</R>
+<G>58853</G>
+<B>47545</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>58853</G>
+<B>47545</B>
+</row>
+<row>
+<code>TIJDSTIL</code>
+<R>65536</R>
+<G>58853</G>
+<B>47545</B>
+</row>
+<row>
+<code>TIMER</code>
+<R>65536</R>
+<G>58853</G>
+<B>47545</B>
+</row>
+<row>
+<code>ARBITRAGE</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>BB NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>BS1 NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>BS2 NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>BS3 NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>BS4 NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>BW1 NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>BW2 NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>BW3 NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>CP NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>DP NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>GOAL NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+<row>
+<code>SC NIJ</code>
+<R>56283</R>
+<G>17990</G>
+<B>14135</B>
+</row>
+</ROWS>
+</file>

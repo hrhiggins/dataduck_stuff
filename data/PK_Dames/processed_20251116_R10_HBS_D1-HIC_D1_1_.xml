@@ -1,0 +1,2000 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<GLOBALMARKERS/>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>start</code>
+<start>0.0</start>
+<end>1.0</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>start</code>
+<start>1254.200313416</start>
+<end>1256.200313416</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>start</code>
+<start>2384.40017673</start>
+<end>2386.40017673</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>start</code>
+<start>3703.500334311</start>
+<end>3705.500334311</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>1455.401067294</start>
+<end>1471.700150294</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>1500.100124914</start>
+<end>1516.100127914</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>1595.018735464</start>
+<end>1611.416091048</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>2422.917785254</start>
+<end>2438.820338418</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>hbs cause_of_penalty_corner</code>
+<start>4036.300289636</start>
+<end>4052.500181804</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>hbs ball_restart_1</code>
+<start>39.700116928</start>
+<end>45.200102842</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>hbs ball_restart_1</code>
+<start>115.200098426</start>
+<end>120.300061508</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>hbs ball_restart_1</code>
+<start>355.006778542</start>
+<end>370.00010996</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>hbs ball_restart_1</code>
+<start>729.7002239660001</start>
+<end>787.800153204</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>hbs ball_restart_1</code>
+<start>788.300121288</start>
+<end>814.400131436</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>hbs ball_restart_1</code>
+<start>1024.7001569899999</start>
+<end>1034.70015365</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>hbs ball_restart_1</code>
+<start>1337.810086992</start>
+<end>1346.71411366</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>hbs ball_restart_1</code>
+<start>1421.0001249139998</start>
+<end>1433.700203862</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>hbs ball_restart_1</code>
+<start>1439.000200446</start>
+<end>1454.700102728</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>hbs ball_restart_1</code>
+<start>1740.300140498</start>
+<end>1748.80006758</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>hbs ball_restart_1</code>
+<start>1762.6002399959998</start>
+<end>1777.30013283</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>hbs ball_restart_1</code>
+<start>1778.101014082</start>
+<end>1788.700166248</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>hbs ball_restart_1</code>
+<start>1832.500211162</start>
+<end>1850.202635914</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>hbs ball_restart_1</code>
+<start>1918.9035834459999</start>
+<end>1926.000182928</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>hbs ball_restart_1</code>
+<start>1944.2001268459999</start>
+<end>1968.400147262</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>hbs ball_restart_1</code>
+<start>1968.410147262</start>
+<end>1988.200141012</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>hbs ball_restart_1</code>
+<start>2376.000150588</start>
+<end>2384.838198922</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>hbs ball_restart_1</code>
+<start>2558.10021094</start>
+<end>2585.373146498</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>hbs ball_restart_1</code>
+<start>2671.2001445</start>
+<end>2690.900163834</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>hbs ball_restart_1</code>
+<start>2719.800168082</start>
+<end>2730.900075418</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>hbs ball_restart_1</code>
+<start>2747.30018216</start>
+<end>2758.600179328</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>hbs ball_restart_1</code>
+<start>2939.50012584</start>
+<end>2956.900272426</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>hbs ball_restart_1</code>
+<start>2989.900270258</start>
+<end>3007.400114872</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>hbs ball_restart_1</code>
+<start>3510.600168258</start>
+<end>3518.500162924</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>hbs ball_restart_1</code>
+<start>3789.111427917</start>
+<end>3801.400164675</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>hbs ball_restart_1</code>
+<start>3879.300149259</start>
+<end>3898.013412143</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>hbs ball_restart_1</code>
+<start>3914.504838595</start>
+<end>3926.012713593</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>hbs ball_restart_1</code>
+<start>4017.800442062</start>
+<end>4019.200136836</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>hbs ball_restart_1</code>
+<start>4019.2101368360004</start>
+<end>4044.300170176</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>hbs ball_restart_1</code>
+<start>4381.10011025</start>
+<end>4419.400132166</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>hbs ball_restart_1</code>
+<start>4532.900119416</start>
+<end>4543.000127668</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>hbs ball_restart_1</code>
+<start>4619.0001321</start>
+<end>4632.700127472</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>hbs ball_restart_1</code>
+<start>4656.40017275</start>
+<end>4678.600232334</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>hbs ball_restart_2</code>
+<start>147.900183594</start>
+<end>160.300111676</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>hbs ball_restart_2</code>
+<start>515.500191978</start>
+<end>533.10024131</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>hbs ball_restart_2</code>
+<start>1853.400143328</start>
+<end>1867.00014425</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>hbs ball_restart_2</code>
+<start>1905.200146872</start>
+<end>1919.348543038</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>hbs ball_restart_2</code>
+<start>2040.0001321799998</start>
+<end>2058.521621764</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>hbs ball_restart_2</code>
+<start>2409.80899489</start>
+<end>2438.820338418</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>hbs ball_restart_2</code>
+<start>3090.100125268</start>
+<end>3099.6001846</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>hbs ball_restart_2</code>
+<start>3118.60016185</start>
+<end>3150.600150016</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>hbs ball_restart_2</code>
+<start>3558.800134834</start>
+<end>3573.422840002</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>hbs ball_restart_2</code>
+<start>3705.500168563</start>
+<end>3725.911293415</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>hbs ball_restart_2</code>
+<start>3847.000154177</start>
+<end>3854.000202343</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>hbs ball_restart_2</code>
+<start>3927.303278595</start>
+<end>3948.151544259</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>hbs ball_restart_2</code>
+<start>3981.2002118309997</start>
+<end>3986.700216499</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>hbs ball_restart_2</code>
+<start>4679.400202918</start>
+<end>4722.700116194</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>hbs ball_restart_3</code>
+<start>215.20008661</start>
+<end>230.000118776</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>hbs ball_restart_3</code>
+<start>297.20009885</start>
+<end>319.30015785</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>hbs ball_restart_3</code>
+<start>320.30013143400004</start>
+<end>344.600101466</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>hbs ball_restart_3</code>
+<start>2229.400150338</start>
+<end>2242.900160172</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>hbs ball_restart_3</code>
+<start>3185.0040635679998</start>
+<end>3196.411541902</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>hbs ball_restart_3</code>
+<start>3573.000142564</start>
+<end>3587.500157206</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>hbs ball_restart_4</code>
+<start>537.40025056</start>
+<end>553.200109644</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>hbs ball_restart_4</code>
+<start>642.600232648</start>
+<end>653.716112646</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>hbs ball_restart_4</code>
+<start>865.900202024</start>
+<end>875.800243108</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>hbs ball_restart_4</code>
+<start>1657.200101624</start>
+<end>1666.500187208</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>hbs ball_restart_4</code>
+<start>2112.2001515839997</start>
+<end>2130.300141586</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>hbs ball_restart_4</code>
+<start>2131.400121184</start>
+<end>2139.300172102</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>hbs ball_restart_4</code>
+<start>2173.300351754</start>
+<end>2181.200450172</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>hbs ball_restart_4</code>
+<start>2485.500148108</start>
+<end>2507.40015544</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>hbs ball_restart_4</code>
+<start>2507.4101554400004</start>
+<end>2519.600118108</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>hbs ball_restart_4</code>
+<start>2520.802681276</start>
+<end>2537.000182274</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>hbs ball_restart_4</code>
+<start>3154.6001315159997</start>
+<end>3174.700199434</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>hbs ball_restart_4</code>
+<start>3225.7002509149997</start>
+<end>3239.800116999</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>hbs ball_restart_4</code>
+<start>3589.9001561239997</start>
+<end>3603.500187218</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>hbs ball_restart_4</code>
+<start>4724.300144696001</start>
+<end>4747.80021925</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>hbs ball_restart_4</code>
+<start>4748.700243416</start>
+<end>4757.600238748</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>hbs ball_restart_4</code>
+<start>4759.500077582001</start>
+<end>4778.50016276</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>hbs ball_restart_4</code>
+<start>4780.100134258</start>
+<end>4789.000145426</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>hbs ball_restart_4</code>
+<start>4789.010145426</start>
+<end>4798.900178342</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>hbs ball_win_1</code>
+<start>30.500069884</start>
+<end>40.70010276</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>hbs ball_win_1</code>
+<start>129.300154676</start>
+<end>139.900126428</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>hbs ball_win_1</code>
+<start>380.400121794</start>
+<end>408.100147304</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>hbs ball_win_1</code>
+<start>421.600139978</start>
+<end>437.973689916</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>hbs ball_win_1</code>
+<start>502.40807697</start>
+<end>518.10014764</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>hbs ball_win_1</code>
+<start>617.600083858</start>
+<end>634.000129608</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>hbs ball_win_1</code>
+<start>954.110071962</start>
+<end>969.409750546</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>hbs ball_win_1</code>
+<start>972.100152654</start>
+<end>979.500133322</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>hbs ball_win_1</code>
+<start>998.90011449</start>
+<end>1018.30011024</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>hbs ball_win_1</code>
+<start>1791.501342246</start>
+<end>1804.500232246</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>hbs ball_win_1</code>
+<start>1822.602889748</start>
+<end>1828.80013358</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>hbs ball_win_1</code>
+<start>2018.300235428</start>
+<end>2037.100195928</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>hbs ball_win_1</code>
+<start>2287.200166088</start>
+<end>2302.500109754</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>hbs ball_win_1</code>
+<start>2800.100151742</start>
+<end>2814.400110468</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>hbs ball_win_1</code>
+<start>3077.000190434</start>
+<end>3085.5001536</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>hbs ball_win_1</code>
+<start>3830.700218631</start>
+<end>3844.700148261</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>hbs ball_win_1</code>
+<start>4213.100157313</start>
+<end>4238.546619145</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>hbs ball_win_1</code>
+<start>4244.700156896</start>
+<end>4256.600165812</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>hbs ball_win_1</code>
+<start>4327.9001415</start>
+<end>4337.10014875</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>hbs ball_win_1</code>
+<start>4462.70027275</start>
+<end>4488.200418834</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>hbs ball_win_1</code>
+<start>4489.100184584</start>
+<end>4496.30016025</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>hbs ball_win_1</code>
+<start>4497.2026275</start>
+<end>4518.200110334</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>hbs ball_win_2</code>
+<start>286.700106934</start>
+<end>294.900208768</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>hbs ball_win_2</code>
+<start>844.300111102</start>
+<end>863.800224024</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>hbs ball_win_2</code>
+<start>1588.700141436</start>
+<end>1611.416091048</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>hbs ball_win_2</code>
+<start>2065.400115916</start>
+<end>2109.30016342</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>hbs ball_win_2</code>
+<start>2765.500177578</start>
+<end>2781.600162326</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>hbs ball_win_2</code>
+<start>4824.500160926</start>
+<end>4831.500168676</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>hbs ball_win_2</code>
+<start>4832.400117174</start>
+<end>4838.900141092</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>hbs ball_win_3</code>
+<start>196.700091776</start>
+<end>215.000109776</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>hbs ball_win_3</code>
+<start>1282.213716304</start>
+<end>1302.50896189</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>hbs ball_win_3</code>
+<start>1458.600249376</start>
+<end>1471.700150294</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>hbs ball_win_3</code>
+<start>2215.80216909</start>
+<end>2225.500194838</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>hbs ball_win_3</code>
+<start>3207.110289484</start>
+<end>3222.408061042</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>hbs ball_win_3</code>
+<start>4168.700164395</start>
+<end>4178.100151729</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>hbs ball_win_4</code>
+<start>874.600216192</start>
+<end>884.201889532</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>hbs ball_win_4</code>
+<start>1886.800229654</start>
+<end>1897.60367599</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>hbs ball_win_4</code>
+<start>4042.900220354</start>
+<end>4052.500181804</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>hbs circle_penetration</code>
+<start>614.500163108</start>
+<end>634.000129608</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>hbs circle_penetration</code>
+<start>634.0101296079999</start>
+<end>653.716112646</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>hbs circle_penetration</code>
+<start>794.700226936</start>
+<end>814.400131436</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>hbs circle_penetration</code>
+<start>858.500260524</start>
+<end>875.800243108</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>hbs circle_penetration</code>
+<start>1278.711188638</start>
+<end>1302.50896189</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>hbs circle_penetration</code>
+<start>1451.50022421</start>
+<end>1471.700150294</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>hbs circle_penetration</code>
+<start>1589.219616048</start>
+<end>1611.416091048</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>hbs circle_penetration</code>
+<start>1878.303060988</start>
+<end>1897.60367599</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>hbs circle_penetration</code>
+<start>2087.700148418</start>
+<end>2109.30016342</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>hbs circle_penetration</code>
+<start>2109.31016342</start>
+<end>2130.300141586</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>hbs circle_penetration</code>
+<start>2419.817568588</start>
+<end>2438.820338418</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>hbs circle_penetration</code>
+<start>2563.400146024</start>
+<end>2585.373146498</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>hbs circle_penetration</code>
+<start>3119.70014685</start>
+<end>3150.600150016</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>hbs circle_penetration</code>
+<start>3150.6101500160003</start>
+<end>3174.700199434</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>hbs circle_penetration</code>
+<start>3215.300156083</start>
+<end>3239.800116999</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>hbs circle_penetration</code>
+<start>3583.200160372</start>
+<end>3603.500187218</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>hbs circle_penetration</code>
+<start>4033.300255686</start>
+<end>4052.500181804</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>hbs goal_attempt</code>
+<start>1291.312251472</start>
+<end>1299.312251472</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>hbs goal_attempt</code>
+<start>3138.600183602</start>
+<end>3146.600183602</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>hbs goal_attempt</code>
+<start>3231.000157915</start>
+<end>3239.000157915</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>hbs goal</code>
+<start>1279.511866722</start>
+<end>1298.8118667219999</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>hbs goal</code>
+<start>1524.300119832</start>
+<end>1542.800094082</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>hbs penalty_corner</code>
+<start>1504.900311914</start>
+<end>1516.100127914</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>hbs penalty_corner</code>
+<start>1530.500127082</start>
+<end>1542.800094082</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>hbs penalty_corner</code>
+<start>1646.300180124</start>
+<end>1655.500128126</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>hbs penalty_corner</code>
+<start>2472.300143496</start>
+<end>2484.60011444</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>hbs penalty_corner</code>
+<start>4086.50013257</start>
+<end>4098.100156748</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>hic cause_of_penalty_corner</code>
+<start>47.700131928</start>
+<end>64.200093926</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>hic cause_of_penalty_corner</code>
+<start>1032.40014523</start>
+<end>1048.900132978</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>hic cause_of_penalty_corner</code>
+<start>1342.620806576</start>
+<end>1359.01801766</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>hic cause_of_penalty_corner</code>
+<start>2805.600448634</start>
+<end>2821.900133636</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>hic cause_of_penalty_corner</code>
+<start>3251.000132244</start>
+<end>3267.200138744</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>hic cause_of_penalty_corner</code>
+<start>3382.410603208</start>
+<end>3398.90976321</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>hic cause_of_penalty_corner</code>
+<start>3413.018153412</start>
+<end>3428.918661578</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>hic ball_restart_1</code>
+<start>2605.200131916</start>
+<end>2618.500155</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>hic ball_restart_1</code>
+<start>3018.90015779</start>
+<end>3033.900128508</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>hic ball_restart_1</code>
+<start>3177.308251736</start>
+<end>3184.808148652</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>hic ball_restart_1</code>
+<start>3200.4036238179997</start>
+<end>3211.110289484</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>hic ball_restart_1</code>
+<start>3239.300186083</start>
+<end>3252.700112999</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>hic ball_restart_1</code>
+<start>4159.700163399</start>
+<end>4172.700164395</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>hic ball_restart_1</code>
+<start>4802.400162010001</start>
+<end>4828.500160926</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>hic ball_restart_2</code>
+<start>0.9001351360000003</start>
+<end>34.500069884</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>hic ball_restart_2</code>
+<start>167.20012875999998</start>
+<end>200.700091776</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>hic ball_restart_2</code>
+<start>235.20011911</start>
+<end>264.200137276</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>hic ball_restart_2</code>
+<start>265.800156182</start>
+<end>290.700106934</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>hic ball_restart_2</code>
+<start>671.701179982</start>
+<end>689.00012189</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>hic ball_restart_2</code>
+<start>1258.200221832</start>
+<end>1286.213716304</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>hic ball_restart_2</code>
+<start>1311.6167354919999</start>
+<end>1325.715051492</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>hic ball_restart_2</code>
+<start>1454.9004994779998</start>
+<end>1462.600249376</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>hic ball_restart_2</code>
+<start>1561.300131498</start>
+<end>1592.700141436</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>hic ball_restart_2</code>
+<start>1870.700308406</start>
+<end>1890.800229654</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>hic ball_restart_2</code>
+<start>2189.300151006</start>
+<end>2219.80216909</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>hic ball_restart_2</code>
+<start>2250.6001405879997</start>
+<end>2291.200166088</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>hic ball_restart_2</code>
+<start>2625.900617164</start>
+<end>2645.600146582</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>hic ball_restart_2</code>
+<start>2645.610146582</start>
+<end>2667.700139082</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>hic ball_restart_2</code>
+<start>2957.000131424</start>
+<end>2982.200180676</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>hic ball_restart_2</code>
+<start>3033.6001394239997</start>
+<end>3047.100158434</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>hic ball_restart_2</code>
+<start>3100.800160182</start>
+<end>3116.900124184</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>hic ball_restart_2</code>
+<start>3249.010843146</start>
+<end>3267.200138744</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>hic ball_restart_2</code>
+<start>3725.907236083</start>
+<end>3739.808874167</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>hic ball_restart_2</code>
+<start>3953.4001077489997</start>
+<end>3979.000235999</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>hic ball_restart_2</code>
+<start>4178.000191397</start>
+<end>4193.500213895</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>hic ball_restart_2</code>
+<start>4430.500147834</start>
+<end>4439.900135748</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>hic ball_restart_2</code>
+<start>4636.40019998</start>
+<end>4655.90022273</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>hic ball_restart_3</code>
+<start>54.200124344</start>
+<end>64.200093926</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>hic ball_restart_3</code>
+<start>126.40015867599999</start>
+<end>133.300154676</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>hic ball_restart_3</code>
+<start>376.10012745800003</start>
+<end>384.400121794</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>hic ball_restart_3</code>
+<start>409.70014605200004</start>
+<end>425.600139978</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>hic ball_restart_3</code>
+<start>689.800125556</start>
+<end>709.600209686</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>hic ball_restart_3</code>
+<start>916.000194864</start>
+<end>931.208021712</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>hic ball_restart_3</code>
+<start>1030.800122062</start>
+<end>1048.900132978</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>hic ball_restart_3</code>
+<start>1326.310698328</start>
+<end>1336.714130992</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>hic ball_restart_3</code>
+<start>1712.400146304</start>
+<end>1724.400138636</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>hic ball_restart_3</code>
+<start>1805.6001279959999</start>
+<end>1826.602889748</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>hic ball_restart_3</code>
+<start>1933.204275096</start>
+<end>1943.700151428</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>hic ball_restart_3</code>
+<start>2062.412984098</start>
+<end>2069.400115916</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>hic ball_restart_3</code>
+<start>2695.100208414</start>
+<end>2711.100122332</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>hic ball_restart_3</code>
+<start>2780.9001611599997</start>
+<end>2789.100148076</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>hic ball_restart_3</code>
+<start>3047.00025027</start>
+<end>3064.500196438</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>hic ball_restart_3</code>
+<start>3998.800215615</start>
+<end>4014.000174613</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>hic ball_restart_3</code>
+<start>4194.9001752290005</start>
+<end>4217.100157313</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>hic ball_restart_3</code>
+<start>4282.601031976001</start>
+<end>4288.34538206</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>hic ball_restart_3</code>
+<start>4439.50011375</start>
+<end>4450.200164418</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>hic ball_restart_3</code>
+<start>4560.2047223340005</start>
+<end>4574.900117684</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>hic ball_restart_4</code>
+<start>439.60013579400004</start>
+<end>451.604441008</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>hic ball_restart_4</code>
+<start>451.614441008</start>
+<end>463.300139886</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>hic ball_restart_4</code>
+<start>466.30014866600004</start>
+<end>476.400099238</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>hic ball_restart_4</code>
+<start>486.80022721200004</start>
+<end>506.40807697</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>hic ball_restart_4</code>
+<start>602.000306442</start>
+<end>621.600083858</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>hic ball_restart_4</code>
+<start>712.4001271860001</start>
+<end>723.913829018</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>hic ball_restart_4</code>
+<start>936.805888044</start>
+<end>958.110071962</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>hic ball_restart_4</code>
+<start>969.600080656</start>
+<end>976.100152654</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>hic ball_restart_4</code>
+<start>2016.700556262</start>
+<end>2022.300235428</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>hic ball_restart_4</code>
+<start>2306.600157838</start>
+<end>2319.400166172</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>hic ball_restart_4</code>
+<start>2319.6003891719997</start>
+<end>2332.300174922</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>hic ball_restart_4</code>
+<start>2340.60022959</start>
+<end>2354.200138922</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>hic ball_restart_4</code>
+<start>2355.0001819219997</start>
+<end>2364.700110172</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>hic ball_restart_4</code>
+<start>2395.610132388</start>
+<end>2403.012402806</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>hic ball_restart_4</code>
+<start>2791.300136492</start>
+<end>2804.100151742</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>hic ball_restart_4</code>
+<start>2878.20019684</start>
+<end>2896.200194674</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>hic ball_restart_4</code>
+<start>2896.400139756</start>
+<end>2916.500193424</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>hic ball_restart_4</code>
+<start>2916.510193424</start>
+<end>2939.200186506</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>hic ball_restart_4</code>
+<start>3065.00015327</start>
+<end>3081.000190434</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>hic ball_restart_4</code>
+<start>3534.9001764239997</start>
+<end>3553.000166532</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>hic ball_restart_4</code>
+<start>3740.008292333</start>
+<end>3751.612665833</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>hic ball_restart_4</code>
+<start>3757.811745417</start>
+<end>3782.611608835</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>hic ball_restart_4</code>
+<start>3812.600151343</start>
+<end>3821.400139675</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>hic ball_restart_4</code>
+<start>3824.800218715</start>
+<end>3834.700218631</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>hic ball_restart_4</code>
+<start>4237.300229607001</start>
+<end>4246.576464355</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>hic ball_restart_4</code>
+<start>4246.586464355</start>
+<end>4248.700156896</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>hic ball_restart_4</code>
+<start>4287.1005156480005</start>
+<end>4298.600155816</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>hic ball_restart_4</code>
+<start>4298.610155816</start>
+<end>4323.465747006</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>hic ball_restart_4</code>
+<start>4323.475747006</start>
+<end>4331.9001415</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>hic ball_restart_4</code>
+<start>4357.200174418001</start>
+<end>4376.400291</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>hic ball_restart_4</code>
+<start>4452.800176584</start>
+<end>4466.70027275</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>hic ball_restart_4</code>
+<start>4486.9001367500005</start>
+<end>4493.100184584</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>hic ball_restart_4</code>
+<start>4495.300085082001</start>
+<end>4501.2026275</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>hic ball_restart_4</code>
+<start>4516.800151084</start>
+<end>4526.500135416</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>hic ball_restart_4</code>
+<start>4577.700123266</start>
+<end>4595.300170516</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>hic ball_restart_4</code>
+<start>4600.300861850001</start>
+<end>4608.800106684</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>hic ball_win_1</code>
+<start>630.000129608</start>
+<end>645.200166526</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>hic ball_win_1</code>
+<start>871.800243108</start>
+<end>878.600216192</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>hic ball_win_1</code>
+<start>1662.500187208</start>
+<end>1675.600154292</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>hic ball_win_1</code>
+<start>1893.60367599</start>
+<end>1904.400124038</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>hic ball_win_1</code>
+<start>2105.30016342</start>
+<end>2112.600121918</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>hic ball_win_1</code>
+<start>2177.200450172</start>
+<end>2188.700148504</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>hic ball_win_1</code>
+<start>2533.000182274</start>
+<end>2549.600185608</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>hic ball_win_1</code>
+<start>4040.300170176</start>
+<end>4046.900220354</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>hic ball_win_1</code>
+<start>4415.400132166</start>
+<end>4427.700119166</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>hic ball_win_1</code>
+<start>4539.000127668</start>
+<end>4562.604722334</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>hic ball_win_1</code>
+<start>4794.900178342</start>
+<end>4802.700258926</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>hic ball_win_2</code>
+<start>156.300111676</start>
+<end>164.900125676</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>hic ball_win_2</code>
+<start>1342.71411366</start>
+<end>1359.01801766</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>hic ball_win_2</code>
+<start>1744.80006758</start>
+<end>1760.300120914</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>hic ball_win_2</code>
+<start>1984.200141012</start>
+<end>2015.800114096</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>hic ball_win_2</code>
+<start>2238.900160172</start>
+<end>2249.900170256</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>hic ball_win_2</code>
+<start>2754.600179328</start>
+<end>2769.500177578</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>hic ball_win_2</code>
+<start>3850.000202343</start>
+<end>3874.000205177</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>hic ball_win_2</code>
+<start>3986.400223947</start>
+<end>4000.200223531</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>hic ball_win_2</code>
+<start>4252.600165812</start>
+<end>4265.14968698</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>hic ball_win_2</code>
+<start>4333.10014875</start>
+<end>4349.700177082</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>hic ball_win_2</code>
+<start>4628.700127472</start>
+<end>4639.202794388</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>hic ball_win_2</code>
+<start>4827.500168676</start>
+<end>4836.400117174</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>hic ball_win_3</code>
+<start>116.300061508</start>
+<end>125.500148094</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>hic ball_win_3</code>
+<start>340.600101466</start>
+<end>357.900099174</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>hic ball_win_3</code>
+<start>366.00010996</start>
+<end>376.100113458</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>hic ball_win_3</code>
+<start>1784.700166248</start>
+<end>1795.501342246</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>hic ball_win_3</code>
+<start>1922.000182928</start>
+<end>1932.900139678</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>hic ball_win_3</code>
+<start>2726.900075418</start>
+<end>2738.300094084</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>hic ball_win_3</code>
+<start>3514.500162924</start>
+<end>3532.700146508</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>hic ball_win_3</code>
+<start>3797.400164675</start>
+<end>3814.000119009</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>hic ball_win_3</code>
+<start>3894.013412143</start>
+<end>3910.711721761</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>hic ball_win_4</code>
+<start>975.500133322</start>
+<end>1002.90011449</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>hic ball_win_4</code>
+<start>2298.500109754</start>
+<end>2307.400160256</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>hic ball_win_4</code>
+<start>2810.400110468</start>
+<end>2821.900133636</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>hic circle_penetration</code>
+<start>46.400208508</start>
+<end>64.200093926</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>hic circle_penetration</code>
+<start>334.809421742</start>
+<end>357.900099174</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>hic circle_penetration</code>
+<start>597.500199684</start>
+<end>621.600083858</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>hic circle_penetration</code>
+<start>939.311215212</start>
+<end>958.110071962</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>hic circle_penetration</code>
+<start>980.800131156</start>
+<end>1002.90011449</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>hic circle_penetration</code>
+<start>1338.417997158</start>
+<end>1359.01801766</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>hic circle_penetration</code>
+<start>2310.700155588</start>
+<end>2332.300174922</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>hic circle_penetration</code>
+<start>2803.000227966</start>
+<end>2821.900133636</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>hic circle_penetration</code>
+<start>2910.30011909</start>
+<end>2939.200186506</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>hic circle_penetration</code>
+<start>2961.300194424</start>
+<end>2982.200180676</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>hic circle_penetration</code>
+<start>3061.100156434</start>
+<end>3081.000190434</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>hic circle_penetration</code>
+<start>3244.412351814</start>
+<end>3267.200138744</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>hic circle_penetration</code>
+<start>3529.709121212</start>
+<end>3553.000166532</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>hic circle_penetration</code>
+<start>3790.300157675</start>
+<end>3814.000119009</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>hic circle_penetration</code>
+<start>3815.600149797</start>
+<end>3834.700218631</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>hic circle_penetration</code>
+<start>3888.709622427</start>
+<end>3910.711721761</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>hic circle_penetration</code>
+<start>4551.500132098</start>
+<end>4574.900117684</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>hic goal_attempt</code>
+<start>610.500148518</start>
+<end>618.500148518</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>hic goal_attempt</code>
+<start>3542.51158946</start>
+<end>3550.51158946</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>hic goal_attempt</code>
+<start>4565.800137016</start>
+<end>4573.800137016</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>hic goal</code>
+<start>3531.310077378</start>
+<end>3550.6100773780004</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>hic goal_attempt</code>
+<start>610.000209518</start>
+<end>618.000209518</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>hic goal_attempt</code>
+<start>3541.909554044</start>
+<end>3549.909554044</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>hic goal_attempt</code>
+<start>4564.80013635</start>
+<end>4572.80013635</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>hic penalty_corner</code>
+<start>97.300229594</start>
+<end>115.700123592</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>hic penalty_corner</code>
+<start>1107.115879042</start>
+<end>1123.514522794</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>hic penalty_corner</code>
+<start>1391.500150086</start>
+<end>1400.600152086</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>hic penalty_corner</code>
+<start>2856.300090506</start>
+<end>2866.400157924</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>hic penalty_corner</code>
+<start>3387.003446542</start>
+<end>3398.90976321</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>hic penalty_corner</code>
+<start>3415.304778044</start>
+<end>3428.918661578</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>hic penalty_corner</code>
+<start>3482.100167428</start>
+<end>3494.000147094</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS1 HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS2 HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS3 HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BS4 HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW1 HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW2 HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW3 HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>BW4 HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>CP HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>DP HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>GOAL HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>SC HBS</code>
+<R>65536</R>
+<G>46517</G>
+<B>15934</B>
+</row>
+<row>
+<code>ASC HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>DP HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>GOAL HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>KANS HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC HIC</code>
+<R>18504</R>
+<G>47031</G>
+<B>65536</B>
+</row>
+</ROWS>
+</file>

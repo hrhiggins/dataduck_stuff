@@ -1,0 +1,4108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>ARBITRAGE</code>
+<start>500.3000333333333</start>
+<end>512.6000666666666</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>ARBITRAGE</code>
+<start>573.6000333333334</start>
+<end>593.6000333333334</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>ARBITRAGE</code>
+<start>784.1000333333334</start>
+<end>804.1000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BS2 ROT</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>ARBITRAGE</code>
+<start>1096.0000333333332</start>
+<end>1116.0000333333332</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>ARBITRAGE</code>
+<start>1166.6000666666666</start>
+<end>1186.6000666666666</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>ARBITRAGE</code>
+<start>1594.3000333333334</start>
+<end>1614.3000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>ARBITRAGE</code>
+<start>1618.7000333333333</start>
+<end>1638.7000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>ARBITRAGE</code>
+<start>1897.9000333333333</start>
+<end>1909.1000333333334</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>ARBITRAGE</code>
+<start>2069.9000333333333</start>
+<end>2083.0000333333332</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>ARBITRAGE</code>
+<start>3245.3000333333334</start>
+<end>3257.0000666666665</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>ARBITRAGE</code>
+<start>3285.0000333333332</start>
+<end>3300.100033333333</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>ARBITRAGE</code>
+<start>3364.7000333333335</start>
+<end>3376.7000666666668</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>ARBITRAGE</code>
+<start>3410.7000333333335</start>
+<end>3422.50005</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>ARBITRAGE</code>
+<start>4511.900033333333</start>
+<end>4523.900033333333</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>ARBITRAGE</code>
+<start>5477.7000333333335</start>
+<end>5497.7000333333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BS1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>ASC HGC</code>
+<start>854.7000333333333</start>
+<end>864.7000333333333</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>ASC HGC</code>
+<start>1847.8000333333334</start>
+<end>1857.8000333333334</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>ASC HGC</code>
+<start>3554.0000333333332</start>
+<end>3564.0000333333332</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>ASC HGC</code>
+<start>4134.10045</start>
+<end>4144.10045</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>ASC HGC</code>
+<start>5008.500083333333</start>
+<end>5017.800066666667</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>ASC ROT</code>
+<start>3680.100033333333</start>
+<end>3690.100033333333</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>ASC ROT</code>
+<start>3732.5000333333332</start>
+<end>3742.5000333333332</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>ASC ROT</code>
+<start>4866.000033333334</start>
+<end>4876.000033333334</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>ASC ROT</code>
+<start>5315.10005</start>
+<end>5325.10005</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>BLESSURE / IMPACT</code>
+<start>5011.800033333333</start>
+<end>5024.800033333333</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>BLESSURE / IMPACT</code>
+<start>5192.000033333334</start>
+<end>5205.000033333334</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>BS1 HGC</code>
+<start>637.1000333333334</start>
+<end>648.4000333333333</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>BS1 HGC</code>
+<start>814.9000833333333</start>
+<end>864.7000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>BS1 HGC</code>
+<start>1005.5000666666666</start>
+<end>1014.2000333333333</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>BS1 HGC</code>
+<start>1069.0000333333332</start>
+<end>1080.0000333333332</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>BS1 HGC</code>
+<start>1681.8000333333334</start>
+<end>1719.0023333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>31</ID>
+<code>BS1 HGC</code>
+<start>2013.8000333333334</start>
+<end>2052.100033333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>BS1 HGC</code>
+<start>2176.5000333333332</start>
+<end>2200.3000333333334</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>BS1 HGC</code>
+<start>3331.70005</start>
+<end>3344.5000333333332</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>BS1 HGC</code>
+<start>3768.0000333333332</start>
+<end>3791.7000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: GOAL HGC</text>
+</label>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BS1 HGC</code>
+<start>3998.80005</start>
+<end>4010.0000333333332</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BS1 HGC</code>
+<start>4285.800033333333</start>
+<end>4295.607</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BS1 HGC</code>
+<start>4478.6051</start>
+<end>4492.500033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 ROT</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BS1 HGC</code>
+<start>4652.601716666667</start>
+<end>4660.100033333333</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BS1 HGC</code>
+<start>4695.7000333333335</start>
+<end>4706.300033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BS1 HGC</code>
+<start>4777.300033333333</start>
+<end>4785.300033333333</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BS1 HGC</code>
+<start>4927.900033333333</start>
+<end>4940.500083333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BS1 HGC</code>
+<start>5280.7000333333335</start>
+<end>5292.800066666667</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BS1 HGC</code>
+<start>5305.500033333334</start>
+<end>5314.100033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BS1 HGC</code>
+<start>5393.10005</start>
+<end>5400.000033333334</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BS1 HGC</code>
+<start>5542.400033333333</start>
+<end>5557.300033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BS1 HGC</code>
+<start>5588.900033333333</start>
+<end>5595.500033333334</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BS1 ROT</code>
+<start>390.20003333333335</start>
+<end>403.4000833333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BS1 ROT</code>
+<start>519.5000333333334</start>
+<end>527.3000333333333</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BS1 ROT</code>
+<start>541.0000333333334</start>
+<end>560.3000333333333</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BS1 ROT</code>
+<start>651.8000333333333</start>
+<end>663.1000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW4 HGC</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BS1 ROT</code>
+<start>679.8000333333333</start>
+<end>686.5000333333334</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BS1 ROT</code>
+<start>686.5100333333334</start>
+<end>696.60005</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BS1 ROT</code>
+<start>727.1000333333334</start>
+<end>751.6000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BS1 ROT</code>
+<start>785.5000333333334</start>
+<end>792.5000333333334</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BS1 ROT</code>
+<start>1492.1000333333334</start>
+<end>1502.7000333333333</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BS1 ROT</code>
+<start>1756.3000333333334</start>
+<end>1761.5000333333332</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BS1 ROT</code>
+<start>1767.50005</start>
+<end>1775.60005</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BS1 ROT</code>
+<start>1800.4000333333333</start>
+<end>1813.6000333333334</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BS1 ROT</code>
+<start>1835.6000333333334</start>
+<end>1847.5000333333332</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BS1 ROT</code>
+<start>1952.30005</start>
+<end>1963.1000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BS1 ROT</code>
+<start>2049.8000333333334</start>
+<end>2065.600033333333</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BS1 ROT</code>
+<start>2102.2000333333335</start>
+<end>2109.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BS1 ROT</code>
+<start>2205.4000333333333</start>
+<end>2215.2000333333335</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BS1 ROT</code>
+<start>2243.100033333333</start>
+<end>2259.600033333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BS1 ROT</code>
+<start>3378.7000333333335</start>
+<end>3397.2000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BS1 ROT</code>
+<start>3963.0000333333332</start>
+<end>3987.3000333333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BS1 ROT</code>
+<start>4044.100033333333</start>
+<end>4071.8000333333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BS1 ROT</code>
+<start>4196.400033333333</start>
+<end>4208.900033333333</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BS1 ROT</code>
+<start>4208.910033333334</start>
+<end>4218.30005</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BS1 ROT</code>
+<start>4513.7000333333335</start>
+<end>4519.300033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BS1 ROT</code>
+<start>4577.2000333333335</start>
+<end>4588.300066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BS1 ROT</code>
+<start>4679.7000333333335</start>
+<end>4692.2000333333335</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BS1 ROT</code>
+<start>5121.400033333333</start>
+<end>5128.80005</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BS1 ROT</code>
+<start>5133.2000333333335</start>
+<end>5154.2000333333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BS1 ROT</code>
+<start>5485.100033333333</start>
+<end>5500.609433333333</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BS2 HGC</code>
+<start>248.90041666666667</start>
+<end>259.10003333333333</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BS2 HGC</code>
+<start>353.8000333333333</start>
+<end>370.8000333333333</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BS2 HGC</code>
+<start>370.8100333333333</start>
+<end>382.60116666666664</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BS2 HGC</code>
+<start>565.70005</start>
+<end>582.7000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BS2 HGC</code>
+<start>1545.1000333333334</start>
+<end>1555.6028833333332</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BS2 HGC</code>
+<start>3248.7000333333335</start>
+<end>3257.0000666666665</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BS2 HGC</code>
+<start>3271.40005</start>
+<end>3294.0000333333332</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BS2 HGC</code>
+<start>3833.3000333333334</start>
+<end>3840.100033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BS2 HGC</code>
+<start>3897.3000333333334</start>
+<end>3904.50005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BS2 HGC</code>
+<start>4115.60005</start>
+<end>4128.7000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BS2 HGC</code>
+<start>4556.300033333333</start>
+<end>4565.500033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BS2 HGC</code>
+<start>4791.800033333333</start>
+<end>4835.300916666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BS2 ROT</code>
+<start>261.40005</start>
+<end>266.8000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BS2 ROT</code>
+<start>270.6028333333333</start>
+<end>287.00005</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BS2 ROT</code>
+<start>316.70003333333335</start>
+<end>345.20003333333335</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BS2 ROT</code>
+<start>474.60003333333333</start>
+<end>488.00188333333335</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BS2 ROT</code>
+<start>525.90005</start>
+<end>538.4000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BS2 ROT</code>
+<start>791.6000333333334</start>
+<end>806.6000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BS2 ROT</code>
+<start>1354.9000666666666</start>
+<end>1368.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BS2 ROT</code>
+<start>1502.3000333333334</start>
+<end>1509.4000333333333</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BS2 ROT</code>
+<start>1585.5000333333332</start>
+<end>1603.5000333333332</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BS2 ROT</code>
+<start>1629.6023833333334</start>
+<end>1642.1000333333334</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BS2 ROT</code>
+<start>1811.9000333333333</start>
+<end>1825.00005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BS2 ROT</code>
+<start>2070.9000333333333</start>
+<end>2079.2000333333335</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BS2 ROT</code>
+<start>2080.9000666666666</start>
+<end>2087.600033333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BS2 ROT</code>
+<start>2139.3000333333334</start>
+<end>2162.7000333333335</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BS2 ROT</code>
+<start>2273.100033333333</start>
+<end>2289.5000333333332</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BS2 ROT</code>
+<start>3167.2000333333335</start>
+<end>3204.7000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BS2 ROT</code>
+<start>3256.6003666666666</start>
+<end>3270.600033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BS2 ROT</code>
+<start>3506.7000333333335</start>
+<end>3523.10005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BS2 ROT</code>
+<start>3627.9000333333333</start>
+<end>3658.0019833333336</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BS2 ROT</code>
+<start>3660.8000833333335</start>
+<end>3690.100033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: ASC ROT</text>
+</label>
+<label>
+<text>ASC ROT</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BS2 ROT</code>
+<start>3815.40005</start>
+<end>3823.9000333333333</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>BS2 ROT</code>
+<start>3855.5000333333332</start>
+<end>3873.4000333333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>BS2 ROT</code>
+<start>4008.50005</start>
+<end>4023.8000333333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>BS2 ROT</code>
+<start>4243.800033333333</start>
+<end>4272.400033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>BS2 ROT</code>
+<start>4295.606233333333</start>
+<end>4300.90005</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>BS2 ROT</code>
+<start>4435.400033333333</start>
+<end>4451.900033333333</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>BS2 ROT</code>
+<start>4849.2000333333335</start>
+<end>4869.800033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>BS2 ROT</code>
+<start>4979.7000333333335</start>
+<end>4996.00005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>BS2 ROT</code>
+<start>5404.2000333333335</start>
+<end>5415.700016666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>BS2 ROT</code>
+<start>5596.100033333333</start>
+<end>5600.212983333333</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>BS3 HGC</code>
+<start>285.20003333333335</start>
+<end>319.20003333333335</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>BS3 HGC</code>
+<start>486.0000333333333</start>
+<end>496.20005</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>BS3 HGC</code>
+<start>496.21004999999997</start>
+<end>501.00005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>BS3 HGC</code>
+<start>698.1000333333334</start>
+<end>719.3000333333333</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>BS3 HGC</code>
+<start>1468.6039666666666</start>
+<end>1487.3004333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>BS3 HGC</code>
+<start>1610.2000833333334</start>
+<end>1624.7000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>BS3 HGC</code>
+<start>1780.3000333333334</start>
+<end>1792.8000333333334</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>BS3 HGC</code>
+<start>3341.8000333333334</start>
+<end>3349.4000333333333</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>BS3 HGC</code>
+<start>3353.5000333333332</start>
+<end>3366.3000333333334</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>BS3 HGC</code>
+<start>3945.00005</start>
+<end>3956.2000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>BS3 HGC</code>
+<start>4536.700066666666</start>
+<end>4551.000033333334</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>BS3 HGC</code>
+<start>5128.900033333333</start>
+<end>5133.900033333333</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>BS3 HGC</code>
+<start>5429.000033333334</start>
+<end>5459.900033333333</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>BS3 HGC</code>
+<start>5462.900033333333</start>
+<end>5472.100033333333</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>BS3 ROT</code>
+<start>962.4000333333333</start>
+<end>975.1000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BS3 ROT</code>
+<start>1036.7000666666668</start>
+<end>1041.9000333333333</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BS3 ROT</code>
+<start>1051.9000333333333</start>
+<end>1061.2000666666668</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BS3 ROT</code>
+<start>1085.7000666666668</start>
+<end>1104.9000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BS3 ROT</code>
+<start>1516.4000333333333</start>
+<end>1525.3000666666667</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BS3 ROT</code>
+<start>1525.3100666666667</start>
+<end>1532.0000333333332</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BS3 ROT</code>
+<start>1642.2000333333333</start>
+<end>1646.9000333333333</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BS3 ROT</code>
+<start>1655.7000333333333</start>
+<end>1673.1000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BS3 ROT</code>
+<start>2160.2000333333335</start>
+<end>2170.5000333333332</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BS3 ROT</code>
+<start>3226.100033333333</start>
+<end>3231.7000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BS3 ROT</code>
+<start>3303.3000333333334</start>
+<end>3312.3000333333334</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BS3 ROT</code>
+<start>3318.3000333333334</start>
+<end>3331.0000333333332</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BS3 ROT</code>
+<start>4098.400033333333</start>
+<end>4109.100033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BS3 ROT</code>
+<start>4451.800033333333</start>
+<end>4469.8000833333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BS3 ROT</code>
+<start>4636.900033333333</start>
+<end>4645.400033333333</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BS3 ROT</code>
+<start>5500.300033333333</start>
+<end>5513.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BS3 ROT</code>
+<start>5597.212983333333</start>
+<end>5602.20005</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BS3 ROT</code>
+<start>5602.900033333333</start>
+<end>5615.80005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BS4 HGC</code>
+<start>502.40003333333334</start>
+<end>512.6000666666666</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BS4 HGC</code>
+<start>757.8000333333333</start>
+<end>778.6000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BS4 HGC</code>
+<start>1728.8000333333334</start>
+<end>1741.12275</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BS4 HGC</code>
+<start>1743.1000333333334</start>
+<end>1758.7000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BS4 HGC</code>
+<start>1912.7000333333333</start>
+<end>1918.50005</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BS4 HGC</code>
+<start>1922.8000666666667</start>
+<end>1942.2000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BS4 HGC</code>
+<start>2214.3000333333334</start>
+<end>2233.3011833333335</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BS4 HGC</code>
+<start>2294.3000666666667</start>
+<end>2312.0000333333332</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BS4 HGC</code>
+<start>3365.2000333333335</start>
+<end>3376.7000666666668</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BS4 HGC</code>
+<start>3409.5000333333332</start>
+<end>3419.8000333333334</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BS4 HGC</code>
+<start>3432.600033333333</start>
+<end>3445.4000333333333</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BS4 HGC</code>
+<start>3446.4000333333333</start>
+<end>3455.7000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BS4 HGC</code>
+<start>3462.4000333333333</start>
+<end>3491.2000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BS4 HGC</code>
+<start>3923.3000333333334</start>
+<end>3940.8000333333334</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BS4 HGC</code>
+<start>4134.900033333333</start>
+<end>4144.10045</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BS4 HGC</code>
+<start>4598.100033333333</start>
+<end>4604.7000333333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BS4 HGC</code>
+<start>4613.7000333333335</start>
+<end>4627.400033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BS4 HGC</code>
+<start>4943.900033333333</start>
+<end>4948.6008</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BS4 HGC</code>
+<start>4950.000033333334</start>
+<end>4973.100033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BS4 HGC</code>
+<start>5091.800033333333</start>
+<end>5097.600033333333</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BS4 HGC</code>
+<start>5097.610033333333</start>
+<end>5110.40005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BS4 HGC</code>
+<start>5476.30005</start>
+<end>5485.40005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BS4 ROT</code>
+<start>981.9000333333333</start>
+<end>996.5000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BS4 ROT</code>
+<start>1025.0000333333332</start>
+<end>1033.8000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BS4 ROT</code>
+<start>1367.8000333333334</start>
+<end>1386.80005</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BS4 ROT</code>
+<start>1386.81005</start>
+<end>1389.60005</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BS4 ROT</code>
+<start>1389.61005</start>
+<end>1393.9000333333333</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BS4 ROT</code>
+<start>1395.8000333333334</start>
+<end>1405.5000333333332</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BS4 ROT</code>
+<start>3882.8000333333334</start>
+<end>3897.600033333333</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BS4 ROT</code>
+<start>4069.30005</start>
+<end>4080.80005</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BS4 ROT</code>
+<start>4080.81005</start>
+<end>4092.60005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BS4 ROT</code>
+<start>4716.100033333333</start>
+<end>4735.308133333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BS4 ROT</code>
+<start>4746.2000333333335</start>
+<end>4768.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BS4 ROT</code>
+<start>4867.900033333333</start>
+<end>4876.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: ASC ROT</text>
+</label>
+<label>
+<text>ASC ROT</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BS4 ROT</code>
+<start>5160.600033333333</start>
+<end>5170.70005</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BS4 ROT</code>
+<start>5182.2000333333335</start>
+<end>5193.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BS4 ROT</code>
+<start>5570.500033333334</start>
+<end>5582.2000333333335</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BS4 ROT</code>
+<start>5619.607433333334</start>
+<end>5627.800033333333</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BW1 HGC</code>
+<start>607.7000333333333</start>
+<end>626.1000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW4 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BW1 HGC</code>
+<start>1029.8000333333334</start>
+<end>1039.1000666666666</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BW1 HGC</code>
+<start>1100.9000333333333</start>
+<end>1129.5000333333332</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BW1 HGC</code>
+<start>1137.5000333333332</start>
+<end>1168.3000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW3 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BW1 HGC</code>
+<start>1178.0000333333332</start>
+<end>1204.1000333333334</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BW1 HGC</code>
+<start>1401.5000333333332</start>
+<end>1411.2000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW4 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BW1 HGC</code>
+<start>1417.9000333333333</start>
+<end>1433.70005</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BW1 HGC</code>
+<start>1528.0000333333332</start>
+<end>1538.80005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BW1 HGC</code>
+<start>2166.5000333333332</start>
+<end>2176.4000666666666</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BW1 HGC</code>
+<start>3200.7000333333335</start>
+<end>3213.2000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW3 ROT</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BW1 HGC</code>
+<start>3327.0000333333332</start>
+<end>3332.0000333333332</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BW1 HGC</code>
+<start>4088.60005</start>
+<end>4098.400033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW3 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BW1 HGC</code>
+<start>4105.100033333333</start>
+<end>4111.00005</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BW1 HGC</code>
+<start>4268.400033333333</start>
+<end>4273.800033333333</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>BW1 HGC</code>
+<start>4496.100033333333</start>
+<end>4502.7000333333335</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>BW1 HGC</code>
+<start>4731.308133333333</start>
+<end>4737.300033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW4 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>BW1 HGC</code>
+<start>4764.000033333334</start>
+<end>4770.500033333334</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>BW1 HGC</code>
+<start>4992.00005</start>
+<end>5017.800066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>BW1 HGC</code>
+<start>5189.000033333334</start>
+<end>5195.2000333333335</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>BW1 HGC</code>
+<start>5318.400033333333</start>
+<end>5327.10005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: ASC ROT</text>
+</label>
+<label>
+<text>ASC ROT</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>BW1 HGC</code>
+<start>5509.000033333334</start>
+<end>5523.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>BW1 ROT</code>
+<start>428.70003333333335</start>
+<end>433.20003333333335</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>BW1 ROT</code>
+<start>452.40003333333334</start>
+<end>456.70003333333335</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>BW1 ROT</code>
+<start>461.90003333333334</start>
+<end>476.10003333333333</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>BW1 ROT</code>
+<start>497.00005</start>
+<end>504.60005</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>BW1 ROT</code>
+<start>774.6000333333334</start>
+<end>785.3000333333333</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>BW1 ROT</code>
+<start>1551.6028833333332</start>
+<end>1563.3000333333334</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>BW1 ROT</code>
+<start>1938.2000333333333</start>
+<end>1944.8000666666667</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>BW1 ROT</code>
+<start>2119.9000333333333</start>
+<end>2128.600033333333</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>BW1 ROT</code>
+<start>3532.9000333333333</start>
+<end>3550.7000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>BW1 ROT</code>
+<start>3836.100033333333</start>
+<end>3843.4000333333333</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>BW1 ROT</code>
+<start>4561.500033333334</start>
+<end>4567.300033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW4 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>BW1 ROT</code>
+<start>4569.400033333333</start>
+<end>4574.500033333334</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>BW1 ROT</code>
+<start>4600.7000333333335</start>
+<end>4612.7000333333335</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>BW1 ROT</code>
+<start>4623.400033333333</start>
+<end>4630.300033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>BW1 ROT</code>
+<start>4831.300916666667</start>
+<end>4849.900033333333</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>BW2 HGC</code>
+<start>399.4000833333333</start>
+<end>432.70003333333335</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>BW2 HGC</code>
+<start>534.4000333333333</start>
+<end>540.6000333333334</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>BW2 HGC</code>
+<start>747.6000333333334</start>
+<end>756.9000833333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>BW2 HGC</code>
+<start>909.8000333333333</start>
+<end>965.0001</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>BW2 HGC</code>
+<start>1430.70005</start>
+<end>1465.7000333333333</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>BW2 HGC</code>
+<start>1562.3000333333334</start>
+<end>1582.6028</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>BW2 HGC</code>
+<start>1821.00005</start>
+<end>1833.7000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>BW2 HGC</code>
+<start>1959.1000333333334</start>
+<end>1976.00005</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>BW2 HGC</code>
+<start>2083.600033333333</start>
+<end>2099.2000333333335</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: GOAL HGC</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>BW2 HGC</code>
+<start>2255.600033333333</start>
+<end>2263.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>BW2 HGC</code>
+<start>3227.7000333333335</start>
+<end>3238.4000333333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>BW2 HGC</code>
+<start>3266.600033333333</start>
+<end>3271.8000666666667</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>BW2 HGC</code>
+<start>3393.2000333333335</start>
+<end>3411.0000333333332</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>BW2 HGC</code>
+<start>3519.10005</start>
+<end>3536.9000333333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>BW2 HGC</code>
+<start>4019.8000333333334</start>
+<end>4040.8000333333334</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>BW2 HGC</code>
+<start>4515.300033333333</start>
+<end>4523.900033333333</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>BW2 HGC</code>
+<start>4584.300066666667</start>
+<end>4600.900033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>BW2 HGC</code>
+<start>5411.700016666667</start>
+<end>5422.400033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>BW2 ROT</code>
+<start>264.50005</start>
+<end>270.50005</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>BW2 ROT</code>
+<start>578.7000333333333</start>
+<end>611.7000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>BW2 ROT</code>
+<start>905.90005</start>
+<end>913.8000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>BW2 ROT</code>
+<start>1620.7000333333333</start>
+<end>1627.9000333333333</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>BW2 ROT</code>
+<start>1972.00005</start>
+<end>1986.2000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>BW2 ROT</code>
+<start>2259.9000333333333</start>
+<end>2267.0000333333332</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>BW2 ROT</code>
+<start>3234.4000333333333</start>
+<end>3242.6003833333334</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>BW2 ROT</code>
+<start>3900.50005</start>
+<end>3908.60005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>BW2 ROT</code>
+<start>4291.607</start>
+<end>4298.100033333333</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>BW2 ROT</code>
+<start>4629.000033333334</start>
+<end>4633.800033333333</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>BW2 ROT</code>
+<start>4969.100033333333</start>
+<end>4976.500033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>BW2 ROT</code>
+<start>5310.100033333333</start>
+<end>5322.400033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>BW2 ROT</code>
+<start>5519.000033333334</start>
+<end>5533.100033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>BW2 ROT</code>
+<start>5553.300033333333</start>
+<end>5572.900366666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>BW3 HGC</code>
+<start>262.8000333333333</start>
+<end>268.50005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>BW3 HGC</code>
+<start>1719.3000333333334</start>
+<end>1728.00105</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>BW3 HGC</code>
+<start>1843.5000333333332</start>
+<end>1857.8000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>BW3 HGC</code>
+<start>2075.2000333333335</start>
+<end>2083.0000333333332</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>BW3 HGC</code>
+<start>2105.9000333333333</start>
+<end>2123.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>BW3 HGC</code>
+<start>2285.5000333333332</start>
+<end>2296.7000333333335</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>BW3 HGC</code>
+<start>3546.7000333333335</start>
+<end>3564.0000333333332</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>BW3 HGC</code>
+<start>3904.60005</start>
+<end>3919.100033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>BW3 HGC</code>
+<start>4626.300033333333</start>
+<end>4633.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>BW3 HGC</code>
+<start>4972.500033333334</start>
+<end>4982.200066666666</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>BW3 ROT</code>
+<start>1125.5000333333332</start>
+<end>1141.5000333333332</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>BW3 ROT</code>
+<start>1164.3000333333334</start>
+<end>1174.3000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>BW3 ROT</code>
+<start>1534.80005</start>
+<end>1547.00005</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>BW3 ROT</code>
+<start>1715.0023333333334</start>
+<end>1723.3000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW3 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>BW3 ROT</code>
+<start>3209.2000333333335</start>
+<end>3226.3000333333334</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>BW3 ROT</code>
+<start>4094.4000333333333</start>
+<end>4100.900033333333</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>BW3 ROT</code>
+<start>4488.500033333334</start>
+<end>4500.100033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>BW3 ROT</code>
+<start>4702.300033333333</start>
+<end>4713.80005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>BW4 HGC</code>
+<start>430.90003333333334</start>
+<end>456.40003333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>BW4 HGC</code>
+<start>456.41003333333333</start>
+<end>465.90003333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>BW4 HGC</code>
+<start>659.1000333333334</start>
+<end>666.9000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>BW4 HGC</code>
+<start>4563.300033333333</start>
+<end>4573.400033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: 23p HGC</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>BW4 ROT</code>
+<start>622.1000333333334</start>
+<end>634.1000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>BW4 ROT</code>
+<start>1407.2000333333333</start>
+<end>1421.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>BW4 ROT</code>
+<start>4733.300033333333</start>
+<end>4742.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>CP HGC</code>
+<start>367.90005</start>
+<end>382.60116666666664</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>CP HGC</code>
+<start>417.5000333333333</start>
+<end>432.70003333333335</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>CP HGC</code>
+<start>439.70003333333335</start>
+<end>456.40003333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>CP HGC</code>
+<start>498.3000333333333</start>
+<end>512.6000666666666</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>CP HGC</code>
+<start>653.7000333333333</start>
+<end>666.9000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>CP HGC</code>
+<start>850.0000333333334</start>
+<end>864.7000333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>CP HGC</code>
+<start>1470.5000333333332</start>
+<end>1487.3004333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>CP HGC</code>
+<start>1724.00005</start>
+<end>1741.12275</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>CP HGC</code>
+<start>1839.7000333333333</start>
+<end>1857.8000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>CP HGC</code>
+<start>1906.1000333333334</start>
+<end>1916.7000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>CP HGC</code>
+<start>1917.30005</start>
+<end>1939.30005</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>CP HGC</code>
+<start>1939.31005</start>
+<end>1942.2000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>293</ID>
+<code>CP HGC</code>
+<start>2084.4000333333333</start>
+<end>2099.2000333333335</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: GOAL HGC</text>
+</label>
+</instance>
+<instance>
+<ID>294</ID>
+<code>CP HGC</code>
+<start>2217.0000333333332</start>
+<end>2233.3011833333335</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>CP HGC</code>
+<start>3441.5000333333332</start>
+<end>3455.7000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>CP HGC</code>
+<start>3524.0000333333332</start>
+<end>3536.9000333333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>CP HGC</code>
+<start>3547.5000333333332</start>
+<end>3564.0000333333332</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>CP HGC</code>
+<start>3772.2000666666668</start>
+<end>3784.6900333333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: CP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>299</ID>
+<code>CP HGC</code>
+<start>3784.7000333333335</start>
+<end>3791.7000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: GOAL HGC</text>
+</label>
+</instance>
+<instance>
+<ID>300</ID>
+<code>CP HGC</code>
+<start>3903.70005</start>
+<end>3919.100033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>301</ID>
+<code>CP HGC</code>
+<start>3941.4000333333333</start>
+<end>3956.2000333333335</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>CP HGC</code>
+<start>4115.800033333333</start>
+<end>4128.7000333333335</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>CP HGC</code>
+<start>4129.10005</start>
+<end>4144.10045</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>CP HGC</code>
+<start>4560.2000333333335</start>
+<end>4573.400033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>305</ID>
+<code>CP HGC</code>
+<start>4822.500033333334</start>
+<end>4835.300916666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>306</ID>
+<code>CP HGC</code>
+<start>4927.500033333334</start>
+<end>4940.500083333333</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>CP HGC</code>
+<start>5005.00005</start>
+<end>5017.800066666667</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>308</ID>
+<code>CP HGC</code>
+<start>5092.800033333333</start>
+<end>5110.40005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>309</ID>
+<code>CP HGC</code>
+<start>5472.90005</start>
+<end>5485.40005</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>CP ROT</code>
+<start>616.70005</start>
+<end>634.1000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>311</ID>
+<code>CP ROT</code>
+<start>790.1000333333334</start>
+<end>806.6000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>312</ID>
+<code>CP ROT</code>
+<start>960.0000333333334</start>
+<end>975.1000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>313</ID>
+<code>CP ROT</code>
+<start>981.5000333333334</start>
+<end>996.5000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>314</ID>
+<code>CP ROT</code>
+<start>1021.1000333333334</start>
+<end>1033.8000333333334</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>315</ID>
+<code>CP ROT</code>
+<start>1160.7000333333333</start>
+<end>1174.3000333333334</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>CP ROT</code>
+<start>1972.7000333333333</start>
+<end>1986.2000333333333</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>CP ROT</code>
+<start>3188.4000333333333</start>
+<end>3204.7000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>318</ID>
+<code>CP ROT</code>
+<start>3677.4000333333333</start>
+<end>3690.100033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: ASC ROT</text>
+</label>
+<label>
+<text>ASC ROT</text>
+</label>
+</instance>
+<instance>
+<ID>319</ID>
+<code>CP ROT</code>
+<start>3973.40005</start>
+<end>3987.3000333333334</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>CP ROT</code>
+<start>4075.8000333333334</start>
+<end>4092.60005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>321</ID>
+<code>CP ROT</code>
+<start>4252.2000333333335</start>
+<end>4272.400033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>322</ID>
+<code>CP ROT</code>
+<start>4457.2000333333335</start>
+<end>4469.8000833333335</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>CP ROT</code>
+<start>4484.2000333333335</start>
+<end>4500.100033333333</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>324</ID>
+<code>CP ROT</code>
+<start>4728.000033333334</start>
+<end>4742.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>325</ID>
+<code>CP ROT</code>
+<start>4862.300033333333</start>
+<end>4876.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: ASC ROT</text>
+</label>
+<label>
+<text>ASC ROT</text>
+</label>
+</instance>
+<instance>
+<ID>326</ID>
+<code>CP ROT</code>
+<start>5139.400033333333</start>
+<end>5154.2000333333335</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>CP ROT</code>
+<start>5177.40005</start>
+<end>5193.000033333334</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>328</ID>
+<code>CP ROT</code>
+<start>5554.500033333334</start>
+<end>5572.900366666667</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>CP ROT</code>
+<start>5572.910366666667</start>
+<end>5582.2000333333335</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>CP ROT</code>
+<start>5599.300033333333</start>
+<end>5615.80005</end>
+<label>
+<text>Speelkwart: Q4</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+</instance>
+<instance>
+<ID>331</ID>
+<code>DP HGC</code>
+<start>448.60003333333333</start>
+<end>455.60003333333333</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW1 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>332</ID>
+<code>DP HGC</code>
+<start>661.4000333333333</start>
+<end>666.9000333333333</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>DP HGC</code>
+<start>1481.9000333333333</start>
+<end>1487.3004333333333</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>DP HGC</code>
+<start>1734.00005</start>
+<end>1741.00005</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>DP HGC</code>
+<start>1912.6000333333334</start>
+<end>1918.50005</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>DP HGC</code>
+<start>2226.2000333333335</start>
+<end>2233.2000333333335</end>
+</instance>
+<instance>
+<ID>337</ID>
+<code>DP HGC</code>
+<start>3451.2000333333335</start>
+<end>3455.7000333333335</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>DP HGC</code>
+<start>3556.20005</start>
+<end>3563.20005</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: ASC HGC</text>
+</label>
+</instance>
+<instance>
+<ID>339</ID>
+<code>DP HGC</code>
+<start>3911.100033333333</start>
+<end>3917.090033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: DP HGC</text>
+</label>
+</instance>
+<instance>
+<ID>340</ID>
+<code>DP HGC</code>
+<start>3917.100033333333</start>
+<end>3919.100033333333</end>
+</instance>
+<instance>
+<ID>341</ID>
+<code>DP HGC</code>
+<start>5103.40005</start>
+<end>5110.40005</end>
+</instance>
+<instance>
+<ID>342</ID>
+<code>DP ROT</code>
+<start>624.5000333333334</start>
+<end>631.5000333333334</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>DP ROT</code>
+<start>798.5000333333334</start>
+<end>805.5000333333334</end>
+</instance>
+<instance>
+<ID>344</ID>
+<code>DP ROT</code>
+<start>968.5000333333334</start>
+<end>975.1000333333334</end>
+</instance>
+<instance>
+<ID>345</ID>
+<code>DP ROT</code>
+<start>990.2000333333333</start>
+<end>996.5000333333334</end>
+</instance>
+<instance>
+<ID>346</ID>
+<code>DP ROT</code>
+<start>3197.4000333333333</start>
+<end>3204.4000333333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>347</ID>
+<code>DP ROT</code>
+<start>4086.2000333333335</start>
+<end>4093.2000333333335</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>348</ID>
+<code>DP ROT</code>
+<start>4263.500033333334</start>
+<end>4270.500033333334</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>DP ROT</code>
+<start>4736.30005</start>
+<end>4742.000033333334</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>DP ROT</code>
+<start>5610.000033333334</start>
+<end>5615.80005</end>
+</instance>
+<instance>
+<ID>351</ID>
+<code>GOAL HGC</code>
+<start>3593.100033333333</start>
+<end>3608.100033333333</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>GOAL HGC</code>
+<start>3776.7000333333335</start>
+<end>3791.7000333333335</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>GROEN HGC</code>
+<start>1028.1000333333334</start>
+<end>1061.2000666666668</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BS3 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>354</ID>
+<code>GROEN HGC</code>
+<start>3831.0000333333332</start>
+<end>3873.4000333333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BS2 ROT</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>355</ID>
+<code>GROEN ROT</code>
+<start>4508.5000666666665</start>
+<end>4536.7000333333335</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>HGC GOAL</code>
+<start>3593.100033333333</start>
+<end>3610.8000333333334</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>HGC GOAL</code>
+<start>3776.7000333333335</start>
+<end>3796.50005</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>Q1</code>
+<start>250.90005</start>
+<end>259.10003333333333</end>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>359</ID>
+<code>Q2</code>
+<start>1347.5000666666667</start>
+<end>1368.9000333333333</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS2 ROT</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+</instance>
+<instance>
+<ID>360</ID>
+<code>Q3</code>
+<start>3169.3000333333334</start>
+<end>3226.3000333333334</end>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS2 ROT</text>
+</label>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: 23p ROT</text>
+</label>
+<label>
+<text>REND: CP ROT</text>
+</label>
+<label>
+<text>CP ROT</text>
+</label>
+<label>
+<text>REND: DP ROT</text>
+</label>
+<label>
+<text>DP ROT</text>
+</label>
+<label>
+<text>REND BBM: BW1 HGC</text>
+</label>
+<label>
+<text>REND BBM: BW3 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>361</ID>
+<code>Q4</code>
+<start>4437.604783333333</start>
+<end>4451.900033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BS2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>362</ID>
+<code>SC HGC</code>
+<start>898.0000333333334</start>
+<end>909.90005</end>
+<label>
+<text>Speelkwart: Q1</text>
+</label>
+<label>
+<text>REND BBM: BW2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>363</ID>
+<code>SC HGC</code>
+<start>1895.1000333333334</start>
+<end>1907.1000333333334</end>
+</instance>
+<instance>
+<ID>364</ID>
+<code>SC HGC</code>
+<start>3597.2000333333335</start>
+<end>3608.100033333333</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: GOAL HGC</text>
+</label>
+</instance>
+<instance>
+<ID>365</ID>
+<code>SC HGC</code>
+<start>4174.2000333333335</start>
+<end>4186.2000333333335</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>SC HGC</code>
+<start>5067.40005</start>
+<end>5076.400033333333</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>SC ROT</code>
+<start>3729.3000333333334</start>
+<end>3741.3000333333334</end>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND: ASC ROT</text>
+</label>
+<label>
+<text>ASC ROT</text>
+</label>
+</instance>
+<instance>
+<ID>368</ID>
+<code>SC ROT</code>
+<start>3754.2000333333335</start>
+<end>3766.2000333333335</end>
+</instance>
+<instance>
+<ID>369</ID>
+<code>SC ROT</code>
+<start>4914.100033333333</start>
+<end>4924.800033333333</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>SC ROT</code>
+<start>5366.30005</start>
+<end>5377.500083333333</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>START</code>
+<start>249.90005</start>
+<end>252.90005</end>
+<label>
+<text>Q0</text>
+</label>
+<label>
+<text>Speelkwart: Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 HGC</text>
+</label>
+</instance>
+<instance>
+<ID>372</ID>
+<code>START</code>
+<start>1346.5000666666667</start>
+<end>1349.5000666666667</end>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>373</ID>
+<code>START</code>
+<start>3168.3000333333334</start>
+<end>3171.3000333333334</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>Speelkwart: Q2</text>
+</label>
+<label>
+<text>REND BBM: BS2 ROT</text>
+</label>
+</instance>
+<instance>
+<ID>374</ID>
+<code>START</code>
+<start>4436.604783333333</start>
+<end>4439.604783333333</end>
+<label>
+<text>Q3</text>
+</label>
+<label>
+<text>Speelkwart: Q3</text>
+</label>
+<label>
+<text>REND BBM: BS2 ROT</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ARBITRAGE</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>ASC ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>BLESSURE / IMPACT</code>
+<R>65536</R>
+<G>27242</G>
+<B>0</B>
+</row>
+<row>
+<code>BS1 HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>BS1 ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>BS2 HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>BS2 ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>BS3 HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>BS3 ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>BS4 HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>BS4 ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>BW1 HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>BW1 ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>BW2 HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>BW2 ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>BW3 HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>BW3 ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>BW4 HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>BW4 ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>CP HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>CP ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>DP HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>DP ROT</code>
+<R>49344</R>
+<G>49344</G>
+<B>49344</B>
+</row>
+<row>
+<code>GOAL HGC</code>
+<R>21331</R>
+<G>54741</G>
+<B>65021</B>
+</row>
+<row>
+<code>GROEN HGC</code>
+<R>65536</R>
+<G>60652</G>
+<B>54741</B>
+</row>
+<row>
+<code>GROEN ROT</code>
+<R>65536</R>
+<G>60652</G>
+<B>54741</B>
+</row>
+<row>
+<code>HGC GOAL</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q1</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q2</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q3</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q4</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC HGC</code>
+<R>0</R>
+<G>63993</G>
+<B>0</B>
+</row>
+<row>
+<code>SC ROT</code>
+<R>65536</R>
+<G>9766</G>
+<B>0</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+</ROWS>
+</file>

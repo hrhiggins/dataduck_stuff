@@ -1,0 +1,1717 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+    <ALL_INSTANCES>
+        <instance>
+            <ID>1</ID>
+            <start>3.32</start>
+            <end>25.32</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>2</ID>
+            <start>52.44</start>
+            <end>74.44</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>3</ID>
+            <start>77.44</start>
+            <end>99.44</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>4</ID>
+            <start>99.76</start>
+            <end>121.76</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>5</ID>
+            <start>134</start>
+            <end>156</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>6</ID>
+            <start>143.36</start>
+            <end>165.36</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>7</ID>
+            <start>204.44</start>
+            <end>226.44</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>8</ID>
+            <start>272.32</start>
+            <end>294.32</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>9</ID>
+            <start>299.76</start>
+            <end>321.76</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>10</ID>
+            <start>328.12</start>
+            <end>350.12</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>11</ID>
+            <start>368.48</start>
+            <end>390.48</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>12</ID>
+            <start>416.6</start>
+            <end>438.6</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>13</ID>
+            <start>431.68</start>
+            <end>453.68</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>14</ID>
+            <start>447.8</start>
+            <end>469.8</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>15</ID>
+            <start>457.84</start>
+            <end>479.84</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>16</ID>
+            <start>479.64</start>
+            <end>501.64</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>17</ID>
+            <start>480.84</start>
+            <end>502.84</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>18</ID>
+            <start>482.04</start>
+            <end>504.04</end>
+            <code>victoria goal</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>19</ID>
+            <start>508.76</start>
+            <end>530.76</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>20</ID>
+            <start>520.68</start>
+            <end>542.68</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>21</ID>
+            <start>534.84</start>
+            <end>556.84</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>22</ID>
+            <start>561.84</start>
+            <end>583.84</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>23</ID>
+            <start>650.12</start>
+            <end>672.12</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>24</ID>
+            <start>682.04</start>
+            <end>704.04</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>25</ID>
+            <start>707.96</start>
+            <end>729.96</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>26</ID>
+            <start>741.36</start>
+            <end>763.36</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>27</ID>
+            <start>751.24</start>
+            <end>773.24</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>28</ID>
+            <start>792.44</start>
+            <end>814.44</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>29</ID>
+            <start>810.4</start>
+            <end>832.4</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>30</ID>
+            <start>835.56</start>
+            <end>857.56</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>31</ID>
+            <start>845.24</start>
+            <end>867.24</end>
+            <code>groningen circle_penetration</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>32</ID>
+            <start>862.64</start>
+            <end>884.64</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>33</ID>
+            <start>876.8</start>
+            <end>898.8</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>34</ID>
+            <start>889.2</start>
+            <end>911.2</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q1</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>35</ID>
+            <start>1073.84</start>
+            <end>1095.84</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>36</ID>
+            <start>1097.52</start>
+            <end>1119.52</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>37</ID>
+            <start>1111</start>
+            <end>1133</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>38</ID>
+            <start>1121.36</start>
+            <end>1143.36</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>39</ID>
+            <start>1144.28</start>
+            <end>1166.28</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>40</ID>
+            <start>1158.56</start>
+            <end>1180.56</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>41</ID>
+            <start>1191.8</start>
+            <end>1213.8</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>42</ID>
+            <start>1222.36</start>
+            <end>1244.36</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>43</ID>
+            <start>1245.2</start>
+            <end>1267.2</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>44</ID>
+            <start>1269.64</start>
+            <end>1291.64</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>45</ID>
+            <start>1285.32</start>
+            <end>1307.32</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>46</ID>
+            <start>1296.48</start>
+            <end>1318.48</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>47</ID>
+            <start>1311.88</start>
+            <end>1333.88</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>48</ID>
+            <start>1354</start>
+            <end>1376</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>49</ID>
+            <start>1365.08</start>
+            <end>1387.08</end>
+            <code>groningen circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>50</ID>
+            <start>1414.44</start>
+            <end>1436.44</end>
+            <code>groningen penalty_corner</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>51</ID>
+            <start>1420.56</start>
+            <end>1442.56</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>52</ID>
+            <start>1436.4</start>
+            <end>1458.4</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>53</ID>
+            <start>1460</start>
+            <end>1482</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>54</ID>
+            <start>1476.36</start>
+            <end>1498.36</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>55</ID>
+            <start>1492.12</start>
+            <end>1514.12</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>56</ID>
+            <start>1504.4</start>
+            <end>1526.4</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>57</ID>
+            <start>1527.04</start>
+            <end>1549.04</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>58</ID>
+            <start>1538.36</start>
+            <end>1560.36</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>59</ID>
+            <start>1562.44</start>
+            <end>1584.44</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>60</ID>
+            <start>1588.88</start>
+            <end>1610.88</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>61</ID>
+            <start>1610.96</start>
+            <end>1632.96</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>62</ID>
+            <start>1625.6</start>
+            <end>1647.6</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>63</ID>
+            <start>1629.4</start>
+            <end>1651.4</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>64</ID>
+            <start>1647.92</start>
+            <end>1669.92</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>65</ID>
+            <start>1681.36</start>
+            <end>1703.36</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>66</ID>
+            <start>1704.04</start>
+            <end>1726.04</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>67</ID>
+            <start>1728.72</start>
+            <end>1750.72</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>68</ID>
+            <start>1748.88</start>
+            <end>1770.88</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>69</ID>
+            <start>1768.8</start>
+            <end>1790.8</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>70</ID>
+            <start>1797.96</start>
+            <end>1819.96</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>71</ID>
+            <start>1807.2</start>
+            <end>1829.2</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>72</ID>
+            <start>1845.8</start>
+            <end>1867.8</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>73</ID>
+            <start>1853.44</start>
+            <end>1875.44</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>74</ID>
+            <start>1876.32</start>
+            <end>1898.32</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>75</ID>
+            <start>1891.8</start>
+            <end>1913.8</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>76</ID>
+            <start>1895.16</start>
+            <end>1917.16</end>
+            <code>groningen circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>77</ID>
+            <start>1900.88</start>
+            <end>1922.88</end>
+            <code>groningen goal</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>78</ID>
+            <start>1919.56</start>
+            <end>1941.56</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>79</ID>
+            <start>1949.72</start>
+            <end>1971.72</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>80</ID>
+            <start>2003.32</start>
+            <end>2025.32</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>81</ID>
+            <start>2012.32</start>
+            <end>2034.32</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>82</ID>
+            <start>2017.2</start>
+            <end>2039.2</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>83</ID>
+            <start>2043.52</start>
+            <end>2065.52</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>84</ID>
+            <start>2056.4</start>
+            <end>2078.4</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>85</ID>
+            <start>2101.64</start>
+            <end>2123.64</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>86</ID>
+            <start>2131.08</start>
+            <end>2153.08</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q2</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>87</ID>
+            <start>2156.68</start>
+            <end>2178.68</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>88</ID>
+            <start>2213.52</start>
+            <end>2235.52</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>89</ID>
+            <start>2232.56</start>
+            <end>2254.56</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>90</ID>
+            <start>2243.8</start>
+            <end>2265.8</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>91</ID>
+            <start>2260.44</start>
+            <end>2282.44</end>
+            <code>groningen circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>92</ID>
+            <start>2303.04</start>
+            <end>2325.04</end>
+            <code>groningen penalty_corner</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>93</ID>
+            <start>2311.36</start>
+            <end>2333.36</end>
+            <code>groningen circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>94</ID>
+            <start>2330.88</start>
+            <end>2352.88</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>95</ID>
+            <start>2367.84</start>
+            <end>2389.84</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>96</ID>
+            <start>2411.08</start>
+            <end>2433.08</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>97</ID>
+            <start>2428.16</start>
+            <end>2450.16</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>98</ID>
+            <start>2442.28</start>
+            <end>2464.28</end>
+            <code>groningen circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>99</ID>
+            <start>2463.28</start>
+            <end>2485.28</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>100</ID>
+            <start>2480.12</start>
+            <end>2502.12</end>
+            <code>groningen circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>101</ID>
+            <start>2497.32</start>
+            <end>2519.32</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>102</ID>
+            <start>2520.92</start>
+            <end>2542.92</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>103</ID>
+            <start>2566</start>
+            <end>2588</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>104</ID>
+            <start>2586.68</start>
+            <end>2608.68</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>105</ID>
+            <start>2601.08</start>
+            <end>2623.08</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>106</ID>
+            <start>2636.28</start>
+            <end>2658.28</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>107</ID>
+            <start>2733.32</start>
+            <end>2755.32</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>108</ID>
+            <start>2754</start>
+            <end>2776</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>109</ID>
+            <start>2756.92</start>
+            <end>2778.92</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>110</ID>
+            <start>2774.96</start>
+            <end>2796.96</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>111</ID>
+            <start>2791.68</start>
+            <end>2813.68</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>112</ID>
+            <start>2840.84</start>
+            <end>2862.84</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>113</ID>
+            <start>2859.64</start>
+            <end>2881.64</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>114</ID>
+            <start>2878.08</start>
+            <end>2900.08</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>115</ID>
+            <start>2896.72</start>
+            <end>2918.72</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>116</ID>
+            <start>2921.96</start>
+            <end>2943.96</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>117</ID>
+            <start>2959.48</start>
+            <end>2981.48</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>118</ID>
+            <start>2975.76</start>
+            <end>2997.76</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>119</ID>
+            <start>2997.68</start>
+            <end>3019.68</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>120</ID>
+            <start>3036.92</start>
+            <end>3058.92</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>121</ID>
+            <start>3054.92</start>
+            <end>3076.92</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>122</ID>
+            <start>3085.16</start>
+            <end>3107.16</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>123</ID>
+            <start>3112.48</start>
+            <end>3134.48</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>124</ID>
+            <start>3130.28</start>
+            <end>3152.28</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>125</ID>
+            <start>3157.24</start>
+            <end>3179.24</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>126</ID>
+            <start>3168.88</start>
+            <end>3190.88</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>127</ID>
+            <start>3178</start>
+            <end>3200</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>128</ID>
+            <start>3227.76</start>
+            <end>3249.76</end>
+            <code>groningen penalty_corner</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>129</ID>
+            <start>3248.6</start>
+            <end>3270.6</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>130</ID>
+            <start>3267.64</start>
+            <end>3289.64</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>131</ID>
+            <start>3344.16</start>
+            <end>3354.16</end>
+            <code>victoria penalty_stroke</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>132</ID>
+            <start>3344.72</start>
+            <end>3366.72</end>
+            <code>victoria goal</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>133</ID>
+            <start>3373.8</start>
+            <end>3395.8</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>134</ID>
+            <start>3385.24</start>
+            <end>3407.24</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q3</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>135</ID>
+            <start>3424</start>
+            <end>3446</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>136</ID>
+            <start>3437.48</start>
+            <end>3459.48</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>137</ID>
+            <start>3452.72</start>
+            <end>3474.72</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>138</ID>
+            <start>3460.2</start>
+            <end>3482.2</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>139</ID>
+            <start>3480.68</start>
+            <end>3502.68</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>140</ID>
+            <start>3500.12</start>
+            <end>3522.12</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>141</ID>
+            <start>3502</start>
+            <end>3524</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>142</ID>
+            <start>3516.36</start>
+            <end>3538.36</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>143</ID>
+            <start>3559.8</start>
+            <end>3581.8</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>144</ID>
+            <start>3575.72</start>
+            <end>3597.72</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>145</ID>
+            <start>3584.68</start>
+            <end>3606.68</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>146</ID>
+            <start>3594.8</start>
+            <end>3616.8</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>147</ID>
+            <start>3602.24</start>
+            <end>3624.24</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>148</ID>
+            <start>3616.08</start>
+            <end>3638.08</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>149</ID>
+            <start>3657.64</start>
+            <end>3679.64</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>150</ID>
+            <start>3669.4</start>
+            <end>3691.4</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>151</ID>
+            <start>3691.36</start>
+            <end>3713.36</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>152</ID>
+            <start>3706.6</start>
+            <end>3728.6</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>153</ID>
+            <start>3721.28</start>
+            <end>3743.28</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>154</ID>
+            <start>3772</start>
+            <end>3794</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>155</ID>
+            <start>3775.56</start>
+            <end>3797.56</end>
+            <code>victoria goal</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>156</ID>
+            <start>3795.6</start>
+            <end>3817.6</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>157</ID>
+            <start>3822.52</start>
+            <end>3844.52</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>158</ID>
+            <start>3834.16</start>
+            <end>3856.16</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>159</ID>
+            <start>3846.04</start>
+            <end>3868.04</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>160</ID>
+            <start>3862.52</start>
+            <end>3884.52</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>161</ID>
+            <start>3888.96</start>
+            <end>3910.96</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>162</ID>
+            <start>3912.36</start>
+            <end>3934.36</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>163</ID>
+            <start>3942.08</start>
+            <end>3964.08</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>164</ID>
+            <start>3956.64</start>
+            <end>3978.64</end>
+            <code>victoria ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>165</ID>
+            <start>3996.08</start>
+            <end>4018.08</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>166</ID>
+            <start>4059.32</start>
+            <end>4081.32</end>
+            <code>victoria ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>167</ID>
+            <start>4076.64</start>
+            <end>4098.64</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>168</ID>
+            <start>4093.4</start>
+            <end>4115.4</end>
+            <code>groningen ball_restart_2</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>169</ID>
+            <start>4111.76</start>
+            <end>4133.76</end>
+            <code>groningen circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>170</ID>
+            <start>4154.12</start>
+            <end>4176.12</end>
+            <code>groningen penalty_corner</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>171</ID>
+            <start>4177.44</start>
+            <end>4199.44</end>
+            <code>victoria ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>172</ID>
+            <start>4200</start>
+            <end>4222</end>
+            <code>groningen ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>173</ID>
+            <start>4230.04</start>
+            <end>4252.04</end>
+            <code>groningen ball_restart_3</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>174</ID>
+            <start>4268.6</start>
+            <end>4290.6</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>175</ID>
+            <start>4276.6</start>
+            <end>4298.6</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>176</ID>
+            <start>4352.04</start>
+            <end>4374.04</end>
+            <code>victoria circle_penetration</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>177</ID>
+            <start>4367.4</start>
+            <end>4389.4</end>
+            <code>groningen ball_restart_1</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>178</ID>
+            <start>4405.72</start>
+            <end>4427.72</end>
+            <code>victoria ball_restart_4</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>179</ID>
+            <start>4475.4</start>
+            <end>4497.4</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+        <instance>
+            <ID>180</ID>
+            <start>4500.52</start>
+            <end>4522.52</end>
+            <code>victoria penalty_corner</code>
+            <label>
+                <text>Q4</text>
+            </label>
+        </instance>
+    </ALL_INSTANCES>
+    <ROWS>
+        <row>
+            <code>BS1 VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>BS4 VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>SC VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>CP VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>Goals VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>SB VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>BS 1 GRO</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>BS4 GRO</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>CP GRO</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>SC GRO</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>Goals GRO</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>BS2 VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>BS3 VIC</code>
+            <R>46848</R>
+            <G>6912</G>
+            <B>7168</B>
+        </row>
+        <row>
+            <code>BS2 GRO</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+        <row>
+            <code>BS3 GRO</code>
+            <R>8448</R>
+            <G>8448</G>
+            <B>8448</B>
+        </row>
+    </ROWS>
+</file>

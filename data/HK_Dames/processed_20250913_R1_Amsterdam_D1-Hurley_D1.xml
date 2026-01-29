@@ -1,0 +1,3025 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>amsterdam cause_of_penalty_corner</code>
+<start>872.2000666666667</start>
+<end>882.2000666666667</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>amsterdam cause_of_penalty_corner</code>
+<start>2057.7000666666668</start>
+<end>2067.7000666666668</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>amsterdam cause_of_penalty_corner</code>
+<start>2123.100066666667</start>
+<end>2133.100066666667</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>amsterdam cause_of_penalty_corner</code>
+<start>2162.0000666666665</start>
+<end>2172.0000666666665</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>amsterdam cause_of_penalty_corner</code>
+<start>3035.3626</start>
+<end>3045.3626</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>hurley cause_of_penalty_corner</code>
+<start>2720.660483333333</start>
+<end>2730.660483333333</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>hurley cause_of_penalty_corner</code>
+<start>2812.16345</start>
+<end>2822.16345</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>hurley cause_of_penalty_corner</code>
+<start>4060.3600500000002</start>
+<end>4070.3600500000002</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>amsterdam ball_restart_1</code>
+<start>314.7001</start>
+<end>341.6000666666667</end>
+<label>
+<text>REND BBM: BW4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>amsterdam ball_restart_1</code>
+<start>399.3001</start>
+<end>423.30035</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>amsterdam ball_restart_1</code>
+<start>557.80005</start>
+<end>576.4000666666667</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>amsterdam ball_restart_1</code>
+<start>659.30005</start>
+<end>667.7000666666667</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>amsterdam ball_restart_1</code>
+<start>978.6000833333334</start>
+<end>988.5001</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>amsterdam ball_restart_1</code>
+<start>1801.0000666666667</start>
+<end>1807.9000666666666</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>amsterdam ball_restart_1</code>
+<start>2369.0000666666665</start>
+<end>2393.3000333333334</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>amsterdam ball_restart_1</code>
+<start>2694.9600666666665</start>
+<end>2720.26005</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>amsterdam ball_restart_1</code>
+<start>2963.0600666666664</start>
+<end>2979.8604166666664</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>amsterdam ball_restart_1</code>
+<start>3523.9600333333333</start>
+<end>3534.9600499999997</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>amsterdam ball_restart_1</code>
+<start>4257.760083333334</start>
+<end>4288.461116666666</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>amsterdam ball_restart_1</code>
+<start>4645.660066666667</start>
+<end>4664.0616666666665</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>hurley ball_restart_1</code>
+<start>450.20006666666666</start>
+<end>463.20006666666666</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>hurley ball_restart_1</code>
+<start>721.3000833333333</start>
+<end>728.40005</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>hurley ball_restart_1</code>
+<start>776.50005</start>
+<end>813.60005</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>hurley ball_restart_1</code>
+<start>1057.20005</start>
+<end>1075.5000833333334</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>hurley ball_restart_1</code>
+<start>1110.1000833333333</start>
+<end>1117.60005</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>hurley ball_restart_1</code>
+<start>1872.00005</start>
+<end>1887.00005</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>hurley ball_restart_1</code>
+<start>1991.9000833333334</start>
+<end>2004.0106333333333</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>hurley ball_restart_1</code>
+<start>2207.9000833333334</start>
+<end>2224.100066666667</end>
+<label>
+<text>REND BBM: BW3 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>hurley ball_restart_1</code>
+<start>2242.5001</start>
+<end>2253.600066666667</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>hurley ball_restart_1</code>
+<start>2923.36005</start>
+<end>2937.3602333333333</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>hurley ball_restart_1</code>
+<start>3127.760083333333</start>
+<end>3136.4600333333333</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>hurley ball_restart_1</code>
+<start>3179.8601</start>
+<end>3187.660083333333</end>
+<label>
+<text>REND BBM: BW3 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>32</ID>
+<code>hurley ball_restart_1</code>
+<start>3219.2600666666667</start>
+<end>3241.6600666666664</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>33</ID>
+<code>hurley ball_restart_1</code>
+<start>3330.1600333333336</start>
+<end>3340.363533333333</end>
+<label>
+<text>REND BBM: BW3 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>34</ID>
+<code>hurley ball_restart_1</code>
+<start>4356.760083333334</start>
+<end>4371.160033333334</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>hurley ball_restart_1</code>
+<start>4437.560066666667</start>
+<end>4447.96005</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>hurley ball_restart_1</code>
+<start>4495.46005</start>
+<end>4520.96005</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>hurley ball_restart_1</code>
+<start>4549.860033333333</start>
+<end>4557.66005</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>amsterdam ball_restart_2</code>
+<start>239.1001</start>
+<end>249.20005</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>amsterdam ball_restart_2</code>
+<start>249.21005</start>
+<end>268.30008333333336</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>amsterdam ball_restart_2</code>
+<start>1183.20005</start>
+<end>1211.2000666666668</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>amsterdam ball_restart_2</code>
+<start>1413.9000833333334</start>
+<end>1457.0000666666667</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>amsterdam ball_restart_2</code>
+<start>1741.60005</start>
+<end>1781.9000833333334</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>amsterdam ball_restart_2</code>
+<start>2262.40005</start>
+<end>2280.5000833333334</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>amsterdam ball_restart_2</code>
+<start>2629.16005</start>
+<end>2647.8600833333335</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>amsterdam ball_restart_2</code>
+<start>2892.860366666667</start>
+<end>2906.66005</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>amsterdam ball_restart_2</code>
+<start>2907.26065</start>
+<end>2918.36005</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>amsterdam ball_restart_2</code>
+<start>3532.8600666666666</start>
+<end>3572.66005</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>amsterdam ball_restart_2</code>
+<start>4141.060066666667</start>
+<end>4173.160066666666</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>amsterdam ball_restart_2</code>
+<start>4462.16005</start>
+<end>4487.462116666667</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>hurley ball_restart_2</code>
+<start>576.9000833333333</start>
+<end>614.9000666666667</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>hurley ball_restart_2</code>
+<start>737.7000666666667</start>
+<end>745.4001</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>hurley ball_restart_2</code>
+<start>816.40005</start>
+<end>841.9000666666667</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>hurley ball_restart_2</code>
+<start>951.1000833333334</start>
+<end>961.7000833333333</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>hurley ball_restart_2</code>
+<start>988.7001</start>
+<end>1040.2000666666668</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>hurley ball_restart_2</code>
+<start>1115.20005</start>
+<end>1130.6000833333333</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>hurley ball_restart_2</code>
+<start>1474.2000833333334</start>
+<end>1488.8000833333333</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>hurley ball_restart_2</code>
+<start>1780.9000666666666</start>
+<end>1793.3000666666667</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>hurley ball_restart_2</code>
+<start>1898.7001</start>
+<end>1920.8000666666667</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>hurley ball_restart_2</code>
+<start>1925.6000666666666</start>
+<end>1945.3000666666667</end>
+<label>
+<text>REND BBM: BW3 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>hurley ball_restart_2</code>
+<start>2391.4000666666666</start>
+<end>2422.200116666667</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>hurley ball_restart_2</code>
+<start>2468.560033333333</start>
+<end>2481.36005</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>hurley ball_restart_2</code>
+<start>2602.46005</start>
+<end>2624.46005</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>hurley ball_restart_2</code>
+<start>2669.9600666666665</start>
+<end>2681.660066666667</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>hurley ball_restart_2</code>
+<start>2936.3600833333335</start>
+<end>2944.06005</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>hurley ball_restart_2</code>
+<start>3134.6600666666664</start>
+<end>3145.16005</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>hurley ball_restart_2</code>
+<start>3725.8600500000002</start>
+<end>3767.4600333333333</end>
+<label>
+<text>Q2</text>
+</label>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>hurley ball_restart_2</code>
+<start>3927.7600833333336</start>
+<end>3941.4600499999997</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>hurley ball_restart_2</code>
+<start>4371.26005</start>
+<end>4399.160066666666</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>hurley ball_restart_2</code>
+<start>4454.56005</start>
+<end>4463.560033333333</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>hurley ball_restart_2</code>
+<start>4571.16005</start>
+<end>4582.76005</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>hurley ball_restart_2</code>
+<start>4684.760066666667</start>
+<end>4699.76005</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>amsterdam ball_restart_3</code>
+<start>357.8000333333333</start>
+<end>383.00008333333335</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>amsterdam ball_restart_3</code>
+<start>428.8000666666667</start>
+<end>447.1000666666667</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>amsterdam ball_restart_3</code>
+<start>695.90005</start>
+<end>706.7000666666667</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>amsterdam ball_restart_3</code>
+<start>1074.80005</start>
+<end>1080.9000333333333</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>amsterdam ball_restart_3</code>
+<start>1213.3000666666667</start>
+<end>1219.9001</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>amsterdam ball_restart_3</code>
+<start>2002.9000666666666</start>
+<end>2029.1000666666666</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>amsterdam ball_restart_3</code>
+<start>2646.760083333333</start>
+<end>2658.76195</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>amsterdam ball_restart_3</code>
+<start>3027.06005</start>
+<end>3045.3626</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: ASC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>amsterdam ball_restart_3</code>
+<start>3152.6503666666663</start>
+<end>3156.6603666666665</end>
+<label>
+<text>REND BBM: BS3 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>amsterdam ball_restart_3</code>
+<start>3156.6703666666667</start>
+<end>3170.963083333333</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>amsterdam ball_restart_3</code>
+<start>3271.8600500000002</start>
+<end>3292.962233333333</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>amsterdam ball_restart_3</code>
+<start>4412.86005</start>
+<end>4429.564616666667</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>amsterdam ball_restart_3</code>
+<start>4556.2600999999995</start>
+<end>4562.160066666667</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>hurley ball_restart_3</code>
+<start>279.80008333333336</start>
+<end>304.50006666666667</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>hurley ball_restart_3</code>
+<start>461.60005</start>
+<end>477.70005000000003</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>hurley ball_restart_3</code>
+<start>666.1000833333334</start>
+<end>671.10005</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>hurley ball_restart_3</code>
+<start>674.40005</start>
+<end>698.20005</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>hurley ball_restart_3</code>
+<start>959.6001333333334</start>
+<end>974.2000666666667</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>hurley ball_restart_3</code>
+<start>1512.6000666666666</start>
+<end>1535.2000666666668</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>hurley ball_restart_3</code>
+<start>1577.7001</start>
+<end>1599.1000666666666</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>hurley ball_restart_3</code>
+<start>1812.60005</start>
+<end>1830.1000666666666</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>hurley ball_restart_3</code>
+<start>2687.36005</start>
+<end>2694.86005</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>hurley ball_restart_3</code>
+<start>3479.360133333333</start>
+<end>3510.16005</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>hurley ball_restart_3</code>
+<start>3827.9600499999997</start>
+<end>3853.06005</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>hurley ball_restart_3</code>
+<start>4192.66005</start>
+<end>4209.460083333333</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>hurley ball_restart_3</code>
+<start>4585.860066666666</start>
+<end>4612.06005</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>amsterdam ball_restart_4</code>
+<start>704.20005</start>
+<end>712.9000666666667</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>amsterdam ball_restart_4</code>
+<start>861.20005</start>
+<end>882.2000666666667</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: ASC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>100</ID>
+<code>amsterdam ball_restart_4</code>
+<start>1217.5000666666667</start>
+<end>1236.80005</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>101</ID>
+<code>amsterdam ball_restart_4</code>
+<start>1677.9000666666666</start>
+<end>1691.3001</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>amsterdam ball_restart_4</code>
+<start>1691.3101</start>
+<end>1704.1000666666666</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>amsterdam ball_restart_4</code>
+<start>1851.0000666666667</start>
+<end>1864.6001333333334</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>amsterdam ball_restart_4</code>
+<start>2029.2001333333333</start>
+<end>2038.7004833333333</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>amsterdam ball_restart_4</code>
+<start>2038.7104833333333</start>
+<end>2067.7000666666668</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: ASC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>amsterdam ball_restart_4</code>
+<start>2110.30005</start>
+<end>2120.7000666666668</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>107</ID>
+<code>amsterdam ball_restart_4</code>
+<start>2124.5000666666665</start>
+<end>2133.100066666667</end>
+<label>
+<text>REND: ASC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>amsterdam ball_restart_4</code>
+<start>2283.00005</start>
+<end>2289.2000666666668</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>amsterdam ball_restart_4</code>
+<start>2299.1000833333333</start>
+<end>2317.4000833333334</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>amsterdam ball_restart_4</code>
+<start>2327.200083333333</start>
+<end>2337.5000666666665</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>amsterdam ball_restart_4</code>
+<start>2542.260083333333</start>
+<end>2560.0600666666664</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>amsterdam ball_restart_4</code>
+<start>2560.0700666666667</start>
+<end>2576.363033333333</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>amsterdam ball_restart_4</code>
+<start>2987.6600666666664</start>
+<end>3001.5600666666664</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>amsterdam ball_restart_4</code>
+<start>3001.5700666666667</start>
+<end>3007.2623</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>amsterdam ball_restart_4</code>
+<start>3102.9600666666665</start>
+<end>3108.8600666666666</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>amsterdam ball_restart_4</code>
+<start>3292.8600500000002</start>
+<end>3300.16005</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>amsterdam ball_restart_4</code>
+<start>3308.1600666666664</start>
+<end>3321.26005</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>amsterdam ball_restart_4</code>
+<start>3439.56005</start>
+<end>3454.4600499999997</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>amsterdam ball_restart_4</code>
+<start>4300.56005</start>
+<end>4327.060033333333</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>amsterdam ball_restart_4</code>
+<start>4329.560033333333</start>
+<end>4338.4614833333335</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>hurley ball_restart_4</code>
+<start>538.6000833333334</start>
+<end>561.80005</end>
+<label>
+<text>REND BBM: BS1 AMS</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>hurley ball_restart_4</code>
+<start>629.7001</start>
+<end>647.8000666666667</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>hurley ball_restart_4</code>
+<start>647.8100666666667</start>
+<end>655.3001</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>hurley ball_restart_4</code>
+<start>1135.1000833333333</start>
+<end>1158.0000833333334</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>hurley ball_restart_4</code>
+<start>1159.3000833333333</start>
+<end>1175.4000666666666</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>hurley ball_restart_4</code>
+<start>1245.5000666666667</start>
+<end>1257.2000666666668</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>hurley ball_restart_4</code>
+<start>1544.3000666666667</start>
+<end>1558.2000666666668</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>hurley ball_restart_4</code>
+<start>1562.8001166666666</start>
+<end>1577.2000666666668</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>hurley ball_restart_4</code>
+<start>1607.80005</start>
+<end>1623.80005</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>hurley ball_restart_4</code>
+<start>2351.9000666666666</start>
+<end>2361.9001</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>hurley ball_restart_4</code>
+<start>2430.9000666666666</start>
+<end>2456.9000833333334</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>hurley ball_restart_4</code>
+<start>2480.2600666666667</start>
+<end>2499.4600833333334</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>hurley ball_restart_4</code>
+<start>2499.4700833333336</start>
+<end>2506.8600666666666</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>hurley ball_restart_4</code>
+<start>2786.36005</start>
+<end>2793.2600666666667</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>hurley ball_restart_4</code>
+<start>2793.270066666667</start>
+<end>2809.7603666666664</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>hurley ball_restart_4</code>
+<start>2809.7703666666666</start>
+<end>2822.16345</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND: DP HUR</text>
+</label>
+<label>
+<text>DP HUR</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>hurley ball_restart_4</code>
+<start>2942.5600666666664</start>
+<end>2954.9607833333334</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>hurley ball_restart_4</code>
+<start>3781.16005</start>
+<end>3806.462216666667</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>hurley ball_restart_4</code>
+<start>4004.76005</start>
+<end>4014.3600500000002</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>hurley ball_restart_4</code>
+<start>4022.3600666666666</start>
+<end>4034.2600833333336</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>hurley ball_restart_4</code>
+<start>4035.4600333333333</start>
+<end>4046.962683333333</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>hurley ball_restart_4</code>
+<start>4058.6600666666664</start>
+<end>4070.3600500000002</end>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>hurley ball_restart_4</code>
+<start>4218.360083333333</start>
+<end>4247.56005</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>amsterdam ball_win_1</code>
+<start>339.40006666666665</start>
+<end>352.70008333333334</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>amsterdam ball_win_1</code>
+<start>610.9000666666667</start>
+<end>625.3000666666667</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>amsterdam ball_win_1</code>
+<start>837.9000666666667</start>
+<end>846.6000833333334</end>
+<label>
+<text>REND BBM: BW4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>amsterdam ball_win_1</code>
+<start>846.6100833333334</start>
+<end>861.3000833333333</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>amsterdam ball_win_1</code>
+<start>1171.4000666666666</start>
+<end>1178.7001</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>amsterdam ball_win_1</code>
+<start>1253.2000666666668</start>
+<end>1278.3000666666667</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>amsterdam ball_win_1</code>
+<start>1619.80005</start>
+<end>1657.5001666666667</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>amsterdam ball_win_1</code>
+<start>1826.1000666666666</start>
+<end>1842.9000833333334</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>amsterdam ball_win_1</code>
+<start>1883.00005</start>
+<end>1896.8000666666667</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>amsterdam ball_win_1</code>
+<start>2418.200116666667</start>
+<end>2429.0000833333334</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>amsterdam ball_win_1</code>
+<start>2502.8600666666666</start>
+<end>2542.9600666666665</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>amsterdam ball_win_1</code>
+<start>2620.46005</start>
+<end>2629.9600666666665</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>amsterdam ball_win_1</code>
+<start>3141.16005</start>
+<end>3152.6600666666664</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>amsterdam ball_win_1</code>
+<start>3202.1612666666665</start>
+<end>3214.9600499999997</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>amsterdam ball_win_1</code>
+<start>3237.6600666666664</start>
+<end>3272.9600499999997</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>amsterdam ball_win_1</code>
+<start>3406.8600500000002</start>
+<end>3443.56005</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND BBM: BS4 AMS</text>
+</label>
+<label>
+<text>REND BBM: BS4 LC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>amsterdam ball_win_1</code>
+<start>3802.462216666667</start>
+<end>3812.8600333333334</end>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>amsterdam ball_win_1</code>
+<start>3819.26005</start>
+<end>3825.4600666666665</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>amsterdam ball_win_1</code>
+<start>3849.06005</start>
+<end>3858.3600500000002</end>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>163</ID>
+<code>amsterdam ball_win_1</code>
+<start>3870.9623666666666</start>
+<end>3920.060066666667</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>164</ID>
+<code>amsterdam ball_win_1</code>
+<start>4010.3600500000002</start>
+<end>4020.9600499999997</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>amsterdam ball_win_1</code>
+<start>4042.962683333333</start>
+<end>4053.060033333333</end>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>166</ID>
+<code>amsterdam ball_win_1</code>
+<start>4243.56005</start>
+<end>4251.56005</end>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>167</ID>
+<code>amsterdam ball_win_1</code>
+<start>4395.160066666666</start>
+<end>4405.9600666666665</end>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>168</ID>
+<code>amsterdam ball_win_1</code>
+<start>4695.76005</start>
+<end>4719.760083333333</end>
+<label>
+<text>REND BBM: BW4 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>hurley ball_win_1</code>
+<start>443.1000666666667</start>
+<end>448.50006666666667</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>hurley ball_win_1</code>
+<start>763.5000833333334</start>
+<end>774.0000666666666</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>hurley ball_win_1</code>
+<start>971.2000666666667</start>
+<end>977.7001</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>hurley ball_win_1</code>
+<start>1653.5001666666667</start>
+<end>1661.8000666666667</end>
+<label>
+<text>REND BBM: BW3 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>hurley ball_win_1</code>
+<start>1700.1000666666666</start>
+<end>1725.2000666666668</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND: DP HUR</text>
+</label>
+<label>
+<text>DP HUR</text>
+</label>
+<label>
+<text>REND: GOAL HUR</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>hurley ball_win_1</code>
+<start>1942.8000666666667</start>
+<end>1974.60005</end>
+<label>
+<text>REND BBM: BW3 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>hurley ball_win_1</code>
+<start>2034.7004833333333</start>
+<end>2039.0001166666666</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>hurley ball_win_1</code>
+<start>2313.4000833333334</start>
+<end>2324.9000833333334</end>
+<label>
+<text>REND BBM: BW4 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>hurley ball_win_1</code>
+<start>2333.5000666666665</start>
+<end>2352.700083333333</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>hurley ball_win_1</code>
+<start>2654.76195</start>
+<end>2665.36005</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>hurley ball_win_1</code>
+<start>2914.36005</start>
+<end>2920.9611333333332</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>hurley ball_win_1</code>
+<start>3003.2623</start>
+<end>3012.6600666666664</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>hurley ball_win_1</code>
+<start>3104.8600666666666</start>
+<end>3115.2600666666667</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>hurley ball_win_1</code>
+<start>3341.3600333333334</start>
+<end>3360.26005</end>
+<label>
+<text>REND BBM: BW3 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>hurley ball_win_1</code>
+<start>3363.562633333333</start>
+<end>3410.8600500000002</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>hurley ball_win_1</code>
+<start>3450.4600499999997</start>
+<end>3483.360133333333</end>
+<label>
+<text>REND BBM: BS3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>hurley ball_win_1</code>
+<start>3980.8600666666666</start>
+<end>4005.06005</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>hurley ball_win_1</code>
+<start>4284.461116666666</start>
+<end>4298.86005</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>hurley ball_win_1</code>
+<start>4425.564616666667</start>
+<end>4433.060233333334</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>hurley ball_win_1</code>
+<start>4534.660033333334</start>
+<end>4540.660033333334</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>amsterdam ball_win_2</code>
+<start>741.4001</start>
+<end>767.5000833333334</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>amsterdam ball_win_2</code>
+<start>1036.2000666666668</start>
+<end>1053.2000666666668</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>amsterdam ball_win_2</code>
+<start>1084.5000833333334</start>
+<end>1105.20005</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>amsterdam ball_win_2</code>
+<start>1484.8000833333333</start>
+<end>1494.4000666666666</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>amsterdam ball_win_2</code>
+<start>1531.2000666666668</start>
+<end>1545.5000666666667</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>amsterdam ball_win_2</code>
+<start>2981.3600500000002</start>
+<end>2988.5602666666664</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>amsterdam ball_win_2</code>
+<start>3111.2600666666667</start>
+<end>3121.2617666666665</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>amsterdam ball_win_2</code>
+<start>3569.66005</start>
+<end>3575.760033333333</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>amsterdam ball_win_2</code>
+<start>3763.4600333333333</start>
+<end>3771.860083333333</end>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>amsterdam ball_win_2</code>
+<start>3937.4600499999997</start>
+<end>3954.9600333333333</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>amsterdam ball_win_2</code>
+<start>3958.560066666667</start>
+<end>3984.8600666666666</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>amsterdam ball_win_2</code>
+<start>4406.260033333333</start>
+<end>4414.7604833333335</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>amsterdam ball_win_2</code>
+<start>4519.46005</start>
+<end>4538.660033333334</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>amsterdam ball_win_2</code>
+<start>4608.06005</start>
+<end>4616.260066666667</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>hurley ball_win_2</code>
+<start>264.30008333333336</start>
+<end>277.9000833333333</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>hurley ball_win_2</code>
+<start>379.00008333333335</start>
+<end>395.1000666666667</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>hurley ball_win_2</code>
+<start>419.30035</start>
+<end>428.1001</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>hurley ball_win_2</code>
+<start>725.40005</start>
+<end>735.80005</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>hurley ball_win_2</code>
+<start>1234.8000666666667</start>
+<end>1245.8000666666667</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>hurley ball_win_2</code>
+<start>2276.5000833333334</start>
+<end>2282.1000833333333</end>
+<label>
+<text>REND BBM: BW4 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>hurley ball_win_2</code>
+<start>2716.26005</start>
+<end>2730.660483333333</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>hurley ball_win_2</code>
+<start>2975.8604166666664</start>
+<end>2985.3600500000002</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>hurley ball_win_2</code>
+<start>3916.060066666667</start>
+<end>3921.16005</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>hurley ball_win_2</code>
+<start>3950.9600333333333</start>
+<end>3962.560066666667</end>
+<label>
+<text>REND BBM: BW2 HUR</text>
+</label>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>hurley ball_win_2</code>
+<start>4169.160066666666</start>
+<end>4189.960033333333</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>hurley ball_win_2</code>
+<start>4517.96005</start>
+<end>4523.46005</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+<label>
+<text>REND BBM: BW3 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>hurley ball_win_2</code>
+<start>4612.260066666667</start>
+<end>4643.06005</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>amsterdam ball_win_3</code>
+<start>1657.8000666666667</start>
+<end>1669.2001</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>amsterdam ball_win_3</code>
+<start>1941.3000666666667</start>
+<end>1946.8000666666667</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>amsterdam ball_win_3</code>
+<start>1970.60005</start>
+<end>1981.9000666666666</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>amsterdam ball_win_3</code>
+<start>2220.100066666667</start>
+<end>2236.2000666666668</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>amsterdam ball_win_3</code>
+<start>3183.660083333333</start>
+<end>3205.1612666666665</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>amsterdam ball_win_3</code>
+<start>3336.363533333333</start>
+<end>3345.3600333333334</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>amsterdam ball_win_3</code>
+<start>3356.26005</start>
+<end>3367.562633333333</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>amsterdam ball_win_3</code>
+<start>4519.86075</start>
+<end>4538.660033333334</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>224</ID>
+<code>hurley ball_win_3</code>
+<start>1079.3000666666667</start>
+<end>1088.5000833333334</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>hurley ball_win_3</code>
+<start>3767.860083333333</start>
+<end>3779.5602333333336</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>hurley ball_win_3</code>
+<start>3808.8600333333334</start>
+<end>3823.26005</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>hurley ball_win_3</code>
+<start>3854.3600500000002</start>
+<end>3874.9623666666666</end>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>hurley ball_win_3</code>
+<start>4049.060033333333</start>
+<end>4060.26005</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>hurley ball_win_3</code>
+<start>4247.56005</start>
+<end>4254.360066666666</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>hurley ball_win_3</code>
+<start>4401.9600666666665</start>
+<end>4410.260033333333</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>amsterdam ball_win_4</code>
+<start>2278.1000833333333</start>
+<end>2285.2036166666667</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>amsterdam ball_win_4</code>
+<start>2320.9000833333334</start>
+<end>2329.4000666666666</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>hurley ball_win_4</code>
+<start>337.6000666666667</start>
+<end>343.40006666666665</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>hurley ball_win_4</code>
+<start>842.6000833333334</start>
+<end>849.00005</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>235</ID>
+<code>hurley ball_win_4</code>
+<start>4715.760083333333</start>
+<end>4720.660116666666</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>amsterdam circle_penetration</code>
+<start>752.2000833333333</start>
+<end>767.5000833333334</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>amsterdam circle_penetration</code>
+<start>862.3001666666667</start>
+<end>882.2000666666667</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: ASC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>amsterdam circle_penetration</code>
+<start>1036.1001</start>
+<end>1053.2000666666668</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>amsterdam circle_penetration</code>
+<start>1084.60005</start>
+<end>1105.20005</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>amsterdam circle_penetration</code>
+<start>1214.5000666666667</start>
+<end>1236.5000666666667</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>amsterdam circle_penetration</code>
+<start>1261.4000666666666</start>
+<end>1278.3000666666667</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>amsterdam circle_penetration</code>
+<start>1440.40005</start>
+<end>1457.0000666666667</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>amsterdam circle_penetration</code>
+<start>1689.40005</start>
+<end>1704.1000666666666</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>amsterdam circle_penetration</code>
+<start>2052.5000666666665</start>
+<end>2067.7000666666668</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: ASC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>amsterdam circle_penetration</code>
+<start>2105.1000833333333</start>
+<end>2120.7000666666668</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>amsterdam circle_penetration</code>
+<start>2217.2000666666668</start>
+<end>2236.2000666666668</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>amsterdam circle_penetration</code>
+<start>2303.3000666666667</start>
+<end>2317.4000833333334</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>amsterdam circle_penetration</code>
+<start>2522.76005</start>
+<end>2542.9600666666665</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>amsterdam circle_penetration</code>
+<start>2542.9700666666668</start>
+<end>2559.8600833333335</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>amsterdam circle_penetration</code>
+<start>2559.8700833333337</start>
+<end>2576.363033333333</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>amsterdam circle_penetration</code>
+<start>2644.0600666666664</start>
+<end>2658.76195</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>amsterdam circle_penetration</code>
+<start>2994.2602333333334</start>
+<end>3007.2623</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>amsterdam circle_penetration</code>
+<start>3031.860083333333</start>
+<end>3045.3626</end>
+<label>
+<text>REND: ASC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>amsterdam circle_penetration</code>
+<start>3155.3600333333334</start>
+<end>3170.963083333333</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>amsterdam circle_penetration</code>
+<start>3417.8600500000002</start>
+<end>3439.8600500000002</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>amsterdam circle_penetration</code>
+<start>3967.560066666667</start>
+<end>3984.8600666666666</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>amsterdam circle_penetration</code>
+<start>4275.160583333333</start>
+<end>4288.461116666666</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>amsterdam circle_penetration</code>
+<start>4325.860033333333</start>
+<end>4338.4614833333335</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>amsterdam circle_penetration</code>
+<start>4415.360033333333</start>
+<end>4429.564616666667</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>amsterdam circle_penetration</code>
+<start>4475.26005</start>
+<end>4487.462116666667</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>amsterdam circle_penetration</code>
+<start>4525.160233333333</start>
+<end>4538.660033333334</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>amsterdam circle_penetration</code>
+<start>4646.4601</start>
+<end>4664.0616666666665</end>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>hurley circle_penetration</code>
+<start>461.60005</start>
+<end>483.60005</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>hurley circle_penetration</code>
+<start>600.4000833333333</start>
+<end>614.9000666666667</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>hurley circle_penetration</code>
+<start>1114.20005</start>
+<end>1130.6000833333333</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>hurley circle_penetration</code>
+<start>1243.7000833333334</start>
+<end>1257.2000666666668</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>hurley circle_penetration</code>
+<start>1705.20685</start>
+<end>1725.2000666666668</end>
+<label>
+<text>REND: DP HUR</text>
+</label>
+<label>
+<text>DP HUR</text>
+</label>
+<label>
+<text>REND: GOAL HUR</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>hurley circle_penetration</code>
+<start>2409.3000833333335</start>
+<end>2422.200116666667</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>hurley circle_penetration</code>
+<start>2716.06005</start>
+<end>2730.660483333333</end>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>hurley circle_penetration</code>
+<start>2788.86005</start>
+<end>2809.7603666666664</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>hurley circle_penetration</code>
+<start>2809.7703666666666</start>
+<end>2822.16345</end>
+<label>
+<text>REND: DP HUR</text>
+</label>
+<label>
+<text>DP HUR</text>
+</label>
+<label>
+<text>REND: ASC HUR</text>
+</label>
+<label>
+<text>ASC HUR</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>hurley circle_penetration</code>
+<start>3191.760033333333</start>
+<end>3206.1612666666665</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>hurley circle_penetration</code>
+<start>3492.56055</start>
+<end>3510.16005</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>hurley circle_penetration</code>
+<start>3788.7600833333336</start>
+<end>3806.462216666667</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>hurley circle_penetration</code>
+<start>3860.560033333333</start>
+<end>3874.9623666666666</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>hurley circle_penetration</code>
+<start>4034.3600333333334</start>
+<end>4046.962683333333</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>amsterdam goal_attempt</code>
+<start>760.4000666666667</start>
+<end>767.4000666666667</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>amsterdam goal_attempt</code>
+<start>869.20005</start>
+<end>876.20005</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>amsterdam goal_attempt</code>
+<start>1043.5000666666667</start>
+<end>1050.5000666666667</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>amsterdam goal_attempt</code>
+<start>1449.2000666666668</start>
+<end>1456.2000666666668</end>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>amsterdam goal_attempt</code>
+<start>1697.1000833333333</start>
+<end>1704.1000833333333</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>amsterdam goal_attempt</code>
+<start>2060.10005</start>
+<end>2067.10005</end>
+<label>
+<text>REND: ASC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>amsterdam goal_attempt</code>
+<start>2228.5000833333334</start>
+<end>2235.5000833333334</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>amsterdam goal_attempt</code>
+<start>2530.5614</start>
+<end>2537.5614</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>amsterdam goal_attempt</code>
+<start>2568.362</start>
+<end>2575.362</end>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>amsterdam goal_attempt</code>
+<start>3425.261033333333</start>
+<end>3432.261033333333</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>amsterdam goal_attempt</code>
+<start>4111.26005</start>
+<end>4118.26005</end>
+<label>
+<text>REND: GOAL HUR</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>amsterdam goal_attempt</code>
+<start>4656.262083333333</start>
+<end>4663.262083333333</end>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>hurley goal_attempt</code>
+<start>1714.1000666666666</start>
+<end>1721.1000666666666</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>hurley goal_attempt</code>
+<start>2812.06255</start>
+<end>2819.06255</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>end</code>
+<start>476.60005</start>
+<end>478.60005</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>end</code>
+<start>1278.9000666666666</start>
+<end>1280.9000666666666</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>end</code>
+<start>3575.8600666666666</start>
+<end>3577.8600666666666</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>amsterdam goal</code>
+<start>913.5000666666666</start>
+<end>928.5000666666666</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>amsterdam goal</code>
+<start>1442.0000666666667</start>
+<end>1457.0000666666667</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>amsterdam goal</code>
+<start>2561.363033333333</start>
+<end>2576.363033333333</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>amsterdam goal</code>
+<start>4649.0616666666665</start>
+<end>4664.0616666666665</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>hurley goal</code>
+<start>1710.2000666666668</start>
+<end>1725.2000666666668</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>hurley goal</code>
+<start>2862.96005</start>
+<end>2877.96005</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>hurley goal</code>
+<start>4104.9600666666665</start>
+<end>4119.9600666666665</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>amsterdam green_card</code>
+<start>3446.3600333333334</start>
+<end>3510.16005</end>
+<label>
+<text>REND BBM: BS3 HUR</text>
+</label>
+<label>
+<text>REND: CP HUR</text>
+</label>
+<label>
+<text>CP HUR</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>high_ball</code>
+<start>297.00005</start>
+<end>304.50006666666667</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>high_ball</code>
+<start>736.3000833333333</start>
+<end>749.3000833333333</end>
+<label>
+<text>REND BBM: BW2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>high_ball</code>
+<start>1779.5000666666667</start>
+<end>1792.5000666666667</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>high_ball</code>
+<start>1990.9000666666666</start>
+<end>2003.9000666666666</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>high_ball</code>
+<start>2245.7001</start>
+<end>2253.600066666667</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>high_ball</code>
+<start>2403.40005</start>
+<end>2416.40005</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>high_ball</code>
+<start>2469.76005</start>
+<end>2481.36005</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>high_ball</code>
+<start>2935.060033333333</start>
+<end>2944.06005</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>high_ball</code>
+<start>3133.1600666666664</start>
+<end>3146.1600666666664</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>311</ID>
+<code>high_ball</code>
+<start>3803.3600333333334</start>
+<end>3816.3600333333334</end>
+<label>
+<text>REND BBM: BW3 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>312</ID>
+<code>high_ball</code>
+<start>4493.86005</start>
+<end>4506.86005</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>high_ball</code>
+<start>4644.360433333333</start>
+<end>4657.360433333333</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>314</ID>
+<code>amsterdam long_corner</code>
+<start>1677.9000666666666</start>
+<end>1691.3001</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>amsterdam long_corner</code>
+<start>1851.0000666666667</start>
+<end>1864.6001333333334</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>amsterdam long_corner</code>
+<start>2110.30005</start>
+<end>2120.7000666666668</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>317</ID>
+<code>amsterdam long_corner</code>
+<start>2124.5000666666665</start>
+<end>2133.100066666667</end>
+<label>
+<text>REND: ASC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>318</ID>
+<code>amsterdam long_corner</code>
+<start>2299.1000833333333</start>
+<end>2317.4000833333334</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>319</ID>
+<code>amsterdam long_corner</code>
+<start>2542.260083333333</start>
+<end>2560.0600666666664</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>320</ID>
+<code>amsterdam long_corner</code>
+<start>2560.0700666666667</start>
+<end>2576.363033333333</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+<label>
+<text>REND: DP AMS</text>
+</label>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>321</ID>
+<code>amsterdam long_corner</code>
+<start>3102.9600666666665</start>
+<end>3108.8600666666666</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>322</ID>
+<code>amsterdam long_corner</code>
+<start>3308.1600666666664</start>
+<end>3321.26005</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>amsterdam long_corner</code>
+<start>3439.56005</start>
+<end>3454.4600499999997</end>
+<label>
+<text>REND BBM: BW1 HUR</text>
+</label>
+</instance>
+<instance>
+<ID>324</ID>
+<code>amsterdam long_corner</code>
+<start>4329.560033333333</start>
+<end>4338.4614833333335</end>
+<label>
+<text>REND: CP AMS</text>
+</label>
+</instance>
+<instance>
+<ID>325</ID>
+<code>hurley long_corner</code>
+<start>538.6000833333334</start>
+<end>561.80005</end>
+<label>
+<text>REND BBM: BS1 AMS</text>
+</label>
+<label>
+<text>Q1</text>
+</label>
+</instance>
+<instance>
+<ID>326</ID>
+<code>hurley long_corner</code>
+<start>1135.1000833333333</start>
+<end>1158.0000833333334</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>hurley long_corner</code>
+<start>1159.3000833333333</start>
+<end>1175.4000666666666</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>328</ID>
+<code>hurley long_corner</code>
+<start>2786.36005</start>
+<end>2793.2600666666667</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>hurley long_corner</code>
+<start>4218.360083333333</start>
+<end>4247.56005</end>
+<label>
+<text>REND BBM: BW1 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>330</ID>
+<code>amsterdam penalty_corner</code>
+<start>917.1001833333333</start>
+<end>928.1001833333333</end>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>331</ID>
+<code>amsterdam penalty_corner</code>
+<start>2098.2001</start>
+<end>2109.2001</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>amsterdam penalty_corner</code>
+<start>2160.1001</start>
+<end>2171.1001</end>
+<label>
+<text>REND: ASC AMS</text>
+</label>
+</instance>
+<instance>
+<ID>333</ID>
+<code>amsterdam penalty_corner</code>
+<start>2184.9001166666667</start>
+<end>2194.2000666666668</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>amsterdam penalty_corner</code>
+<start>3081.16005</start>
+<end>3091.4601</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>hurley penalty_corner</code>
+<start>2767.0600999999997</start>
+<end>2778.0600999999997</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>hurley penalty_corner</code>
+<start>2861.8600833333335</start>
+<end>2872.8600833333335</end>
+<label>
+<text>REND: GOAL AMS</text>
+</label>
+</instance>
+<instance>
+<ID>337</ID>
+<code>hurley penalty_corner</code>
+<start>4103.86005</start>
+<end>4114.86005</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>start</code>
+<start>240.30003333333335</start>
+<end>243.30003333333335</end>
+<label>
+<text>Q0</text>
+</label>
+<label>
+<text>REND BBM: BS2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>339</ID>
+<code>start</code>
+<start>1415.5000833333334</start>
+<end>1418.5000833333334</end>
+<label>
+<text>Q1</text>
+</label>
+<label>
+<text>REND BBM: BS2 AMS</text>
+</label>
+</instance>
+<instance>
+<ID>340</ID>
+<code>start</code>
+<start>3730.76005</start>
+<end>3733.76005</end>
+<label>
+<text>Q2</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ASC AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>DP AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>DP HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>EIND</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GROEN AMS</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>HOGE BAL</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>LC AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>LC HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC AMS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>SC HUR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+</ROWS>
+</file>

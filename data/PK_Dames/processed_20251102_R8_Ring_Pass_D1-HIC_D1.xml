@@ -1,0 +1,2067 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>1</ID>
+<start>0.0</start>
+<end>2.2977096659893053</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>2</ID>
+<start>0.0</start>
+<end>8.899992943006927</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>3</ID>
+<start>0.0</start>
+<end>17.299809985002373</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>4</ID>
+<start>14.299809985002373</start>
+<end>27.296848152669927</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>5</ID>
+<start>24.3977933596774</start>
+<end>36.19693102765508</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>6</ID>
+<start>24.696761609002856</start>
+<end>36.19693102765508</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>7</ID>
+<start>26.196931027655083</start>
+<end>39.19693102765508</end>
+<code>ring_pass cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>8</ID>
+<start>71.59824084667538</start>
+<end>85.59824084667538</end>
+<code>ring_pass penalty_corner</code>
+</instance>
+<instance>
+<ID>9</ID>
+<start>80.39671601297593</start>
+<end>97.29726575033075</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>10</ID>
+<start>98.19723449966234</start>
+<end>111.59764117863496</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>11</ID>
+<start>113.09724847197529</start>
+<end>125.09658122100194</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>12</ID>
+<start>125.19707163729865</start>
+<end>135.2972727083099</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>13</ID>
+<start>138.6974774416357</start>
+<end>167.46245273564745</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>14</ID>
+<start>154.39727011165974</start>
+<end>171.49721252731257</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>15</ID>
+<start>162.49721252731257</start>
+<end>197.89778055464492</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>16</ID>
+<start>184.5970788469897</start>
+<end>197.89778055464492</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>17</ID>
+<start>187.89778055464492</start>
+<end>200.89778055464492</end>
+<code>ring_pass cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>18</ID>
+<start>227.79708556798445</start>
+<end>240.30001569368608</end>
+<code>ring_pass goal</code>
+</instance>
+<instance>
+<ID>19</ID>
+<start>232.69888335933365</start>
+<end>240.30001569368608</end>
+<code>ring_pass penalty_corner</code>
+</instance>
+<instance>
+<ID>20</ID>
+<start>255.50294059699684</start>
+<end>269.5976229303397</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>21</ID>
+<start>271.9767888888889</start>
+<end>287.3973711806843</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>22</ID>
+<start>284.69713763898915</start>
+<end>297.59754730565965</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>23</ID>
+<start>298.1974443879824</start>
+<end>323.842814722</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>24</ID>
+<start>313.80022909700597</start>
+<end>334.69720609464457</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>25</ID>
+<start>316.498154762653</start>
+<end>334.69720609464457</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>26</ID>
+<start>322.80335455398773</start>
+<end>333.80335455398773</end>
+<code>hic goal_attempt</code>
+</instance>
+<instance>
+<ID>27</ID>
+<start>346.4981402629896</start>
+<end>352.8967628883257</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>28</ID>
+<start>359.5975733889876</start>
+<end>382.49779801366907</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>29</ID>
+<start>369.29757075063594</start>
+<end>382.49779801366907</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>30</ID>
+<start>371.49779801366907</start>
+<end>386.49779801366907</end>
+<code>ring_pass goal</code>
+</instance>
+<instance>
+<ID>31</ID>
+<start>374.09673467934726</start>
+<end>385.09673467934726</end>
+<code>ring_pass goal_attempt</code>
+</instance>
+<instance>
+<ID>32</ID>
+<start>407.79674142999403</start>
+<end>431.1953676799816</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>33</ID>
+<start>445.62180545797395</start>
+<end>462.3978373876543</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>34</ID>
+<start>460.1972173053286</start>
+<end>494.4973684996558</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>35</ID>
+<start>470.0963935003299</start>
+<end>487.09845308434507</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>36</ID>
+<start>492.69534124799793</start>
+<end>511.89723704197127</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>37</ID>
+<start>512.7970909149963</start>
+<end>528.5981015423157</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>38</ID>
+<start>527.5970042503166</start>
+<end>538.9985514580036</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>39</ID>
+<start>535.9985514580036</start>
+<end>549.0980100839846</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>40</ID>
+<start>547.8996146233329</start>
+<end>576.4974202083386</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>41</ID>
+<start>578.2970412646392</start>
+<end>590.4972682786537</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>42</ID>
+<start>593.7973722076434</start>
+<end>620.1999699850016</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>43</ID>
+<start>606.3968555829839</start>
+<end>621.996818150672</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>44</ID>
+<start>612.996818150672</start>
+<end>626.6972721929933</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>45</ID>
+<start>626.9965812776684</start>
+<end>658.6973285119856</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>46</ID>
+<start>664.0978212216704</start>
+<end>683.549481582</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>47</ID>
+<start>673.8967963316544</start>
+<end>684.6976066656392</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>48</ID>
+<start>681.6976066656392</start>
+<end>719.5976426110038</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>49</ID>
+<start>705.3966799853122</start>
+<end>719.5976426110038</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>50</ID>
+<start>709.7975711102993</start>
+<end>720.7975711102993</end>
+<code>ring_pass goal_attempt</code>
+</instance>
+<instance>
+<ID>51</ID>
+<start>719.297208554315</start>
+<end>732.298204638002</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>52</ID>
+<start>721.5963121513229</start>
+<end>732.298204638002</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>53</ID>
+<start>733.1968654866613</start>
+<end>759.8982281799917</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>54</ID>
+<start>742.4972221799972</start>
+<end>759.8982281799917</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>55</ID>
+<start>749.8982281799917</start>
+<end>762.8982281799917</end>
+<code>ring_pass cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>56</ID>
+<start>798.597524303997</start>
+<end>806.7000413473146</end>
+<code>ring_pass penalty_corner</code>
+</instance>
+<instance>
+<ID>57</ID>
+<start>813.8047828746606</start>
+<end>831.5000194440006</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>58</ID>
+<start>820.4982821946488</start>
+<end>835.19721583266</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>59</ID>
+<start>832.19721583266</start>
+<end>854.195560917</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>60</ID>
+<start>844.0975248336382</start>
+<end>860.6972744559962</end>
+<code>hic ball_win_2</code>
+</instance>
+<instance>
+<ID>61</ID>
+<start>858.797858663343</start>
+<end>887.0000220123409</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>62</ID>
+<start>875.9999888876442</start>
+<end>895.697606790659</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>63</ID>
+<start>896.2986675409762</start>
+<end>913.3969631663263</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>64</ID>
+<start>896.7036936239823</start>
+<end>913.3969631663263</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>65</ID>
+<start>912.3977545406685</start>
+<end>943.4071523480137</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>66</ID>
+<start>940.4071523480137</start>
+<end>960.5969900129882</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>67</ID>
+<start>946.9972763046757</start>
+<end>960.5969900129882</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>68</ID>
+<start>950.5969900129882</start>
+<end>963.5969900129882</end>
+<code>ring_pass cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>69</ID>
+<start>996.3975095686682</start>
+<end>1010.2400415280109</end>
+<code>ring_pass goal</code>
+</instance>
+<instance>
+<ID>70</ID>
+<start>999.1976014866743</start>
+<end>1010.2400415280109</end>
+<code>ring_pass penalty_corner</code>
+</instance>
+<instance>
+<ID>71</ID>
+<start>1059.2969894439977</start>
+<end>1076.5978680269836</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>72</ID>
+<start>1073.5978680269836</start>
+<end>1096.597934639332</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>73</ID>
+<start>1098.398025874655</start>
+<end>1115.1999997770006</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>74</ID>
+<start>1099.2966514159998</start>
+<end>1102.2966514159998</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>75</ID>
+<start>1104.1971116513248</start>
+<end>1140.9987810556645</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>76</ID>
+<start>1137.9987810556645</start>
+<end>1166.197691874332</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>77</ID>
+<start>1164.166004959</start>
+<end>1184.7972029153302</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>78</ID>
+<start>1181.7972029153302</start>
+<end>1201.9970907906647</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>79</ID>
+<start>1198.5973698326798</start>
+<end>1217.6962885399967</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>80</ID>
+<start>1200.29758304132</start>
+<end>1217.6962885399967</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>81</ID>
+<start>1205.2976155823148</start>
+<end>1216.2976155823148</end>
+<code>hic goal_attempt</code>
+</instance>
+<instance>
+<ID>82</ID>
+<start>1219.496483415321</start>
+<end>1247.9966742909899</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>83</ID>
+<start>1246.603538624017</start>
+<end>1277.1967647903286</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>84</ID>
+<start>1294.896917289979</start>
+<end>1309.700067846985</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>85</ID>
+<start>1298.5962180969864</start>
+<end>1343.6974877636478</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>86</ID>
+<start>1328.8982304726514</start>
+<end>1343.6974877636478</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>87</ID>
+<start>1352.097184597323</start>
+<end>1374.4000223473208</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>88</ID>
+<start>1363.396962389345</start>
+<end>1383.4965783470134</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>89</ID>
+<start>1382.5969231809918</start>
+<end>1406.5974696393198</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>90</ID>
+<start>1405.1966379282972</start>
+<end>1451.697129262655</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>91</ID>
+<start>1429.797444055987</start>
+<end>1451.697129262655</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>92</ID>
+<start>1453.6970814716567</start>
+<end>1466.7911452209833</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>93</ID>
+<start>1453.789596929301</start>
+<end>1466.7911452209833</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>94</ID>
+<start>1465.096849262659</start>
+<end>1478.7980368059912</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>95</ID>
+<start>1486.4377114856609</start>
+<end>1508.6975226380048</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>96</ID>
+<start>1509.9017848886394</start>
+<end>1524.3594444444445</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>97</ID>
+<start>1510.2886041646802</start>
+<end>1524.497948609994</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>98</ID>
+<start>1515.497948609994</start>
+<end>1533.7967413179836</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>99</ID>
+<start>1524.4978437626378</start>
+<end>1533.7967413179836</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>100</ID>
+<start>1539.602164361016</start>
+<end>1574.2977032493302</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>101</ID>
+<start>1554.39735229098</start>
+<end>1574.2977032493302</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>102</ID>
+<start>1564.2977032493302</start>
+<end>1577.2977032493302</end>
+<code>hic cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>103</ID>
+<start>1610.9976353176362</start>
+<end>1623.5999857773409</end>
+<code>hic goal</code>
+</instance>
+<instance>
+<ID>104</ID>
+<start>1615.196382942997</start>
+<end>1623.5999857773409</end>
+<code>hic penalty_corner</code>
+</instance>
+<instance>
+<ID>105</ID>
+<start>1640.097973388657</start>
+<end>1666.4000403886555</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>106</ID>
+<start>1648.7965791793379</start>
+<end>1664.3979256369882</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>107</ID>
+<start>1654.006203138668</start>
+<end>1665.006203138668</end>
+<code>ring_pass goal_attempt</code>
+</instance>
+<instance>
+<ID>108</ID>
+<start>1655.3979256369882</start>
+<end>1678.0972155543236</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>109</ID>
+<start>1675.0972155543236</start>
+<end>1683.3980555963342</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>110</ID>
+<start>1683.8976464713128</start>
+<end>1713.5422444444443</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>111</ID>
+<start>1694.6969281943302</start>
+<end>1707.8975650283335</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>112</ID>
+<start>1698.8975650283335</start>
+<end>1717.8974099576449</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>113</ID>
+<start>1708.8974099576449</start>
+<end>1727.59734838932</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>114</ID>
+<start>1732.5971276243322</start>
+<end>1739.8967208743343</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>115</ID>
+<start>1739.6973728733346</start>
+<end>1753.800005708337</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>116</ID>
+<start>1742.7975909983309</start>
+<end>1757.9985560416553</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>117</ID>
+<start>1754.9985560416553</start>
+<end>1787.1970514993425</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>118</ID>
+<start>1785.4975712073328</start>
+<end>1813.297388137982</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>119</ID>
+<start>1815.2965583323328</start>
+<end>1826.305337541</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>120</ID>
+<start>1815.8972190833297</start>
+<end>1838.797059539642</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>121</ID>
+<start>1818.4068239566573</start>
+<end>1838.797059539642</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>122</ID>
+<start>1823.795860372315</start>
+<end>1834.795860372315</end>
+<code>ring_pass goal_attempt</code>
+</instance>
+<instance>
+<ID>123</ID>
+<start>1838.4098320816656</start>
+<end>1877.3971762906765</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>124</ID>
+<start>1875.4969912483252</start>
+<end>1885.6975252906493</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>125</ID>
+<start>1882.6975252906493</start>
+<end>1903.1963285693507</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>126</ID>
+<start>1933.5967437493207</start>
+<end>1944.2008076653385</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>127</ID>
+<start>1944.1965622476725</start>
+<end>1963.097077500007</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>128</ID>
+<start>1949.0971781249687</start>
+<end>1963.097077500007</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>129</ID>
+<start>1990.0960468049948</start>
+<end>2002.616037182</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>130</ID>
+<start>1991.8978609726585</start>
+<end>2007.7977173023394</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>131</ID>
+<start>1994.1967559296445</start>
+<end>2007.7977173023394</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>132</ID>
+<start>2013.6977816823166</start>
+<end>2038.400030846681</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>133</ID>
+<start>2027.397557888982</start>
+<end>2041.490546554977</end>
+<code>hic ball_win_2</code>
+</instance>
+<instance>
+<ID>134</ID>
+<start>2032.490546554977</start>
+<end>2056.396703846319</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>135</ID>
+<start>2041.8979412636577</start>
+<end>2056.396703846319</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>136</ID>
+<start>2046.6889618883388</start>
+<end>2057.688961888339</end>
+<code>ring_pass goal_attempt</code>
+</instance>
+<instance>
+<ID>137</ID>
+<start>2060.6975979446606</start>
+<end>2081.416911111111</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>138</ID>
+<start>2063.796957707652</start>
+<end>2084.2965960556644</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>139</ID>
+<start>2075.2965960556644</start>
+<end>2093.09749505599</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>140</ID>
+<start>2084.09749505599</start>
+<end>2097.0977220959876</end>
+<code>ring_pass ball_win_4</code>
+</instance>
+<instance>
+<ID>141</ID>
+<start>2101.8962558046446</start>
+<end>2130.398079970334</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>142</ID>
+<start>2127.398079970334</start>
+<end>2157.7000318760042</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>143</ID>
+<start>2146.5978544583286</start>
+<end>2174.797571668326</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>144</ID>
+<start>2160.1968428339856</start>
+<end>2174.797571668326</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>145</ID>
+<start>2181.4968274573207</start>
+<end>2202.4958817216516</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>146</ID>
+<start>2188.2970868053258</start>
+<end>2202.4958817216516</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>147</ID>
+<start>2192.4958817216516</start>
+<end>2205.4958817216516</end>
+<code>hic cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>148</ID>
+<start>2240.397245638662</start>
+<end>2254.397245638662</end>
+<code>hic penalty_corner</code>
+</instance>
+<instance>
+<ID>149</ID>
+<start>2243.900373889639</start>
+<end>2256.900373889639</end>
+<code>hic cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>150</ID>
+<start>2267.3982588333142</start>
+<end>2275.30008770899</end>
+<code>hic penalty_corner</code>
+</instance>
+<instance>
+<ID>151</ID>
+<start>2347.9977809553034</start>
+<end>2353.6000242479963</end>
+<code>hic penalty_corner</code>
+</instance>
+<instance>
+<ID>152</ID>
+<start>2368.9477</start>
+<end>2386.29996101335</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>153</ID>
+<start>2370.9477</start>
+<end>2373.9477</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>154</ID>
+<start>2375.197188679981</start>
+<end>2391.097474471646</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>155</ID>
+<start>2379.2979933880133</start>
+<end>2391.097474471646</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>156</ID>
+<start>2381.097474471646</start>
+<end>2394.097474471646</end>
+<code>hic cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>157</ID>
+<start>2427.097451236322</start>
+<end>2434.8000270689995</end>
+<code>hic penalty_corner</code>
+</instance>
+<instance>
+<ID>158</ID>
+<start>2427.8961801109876</start>
+<end>2447.502356277667</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>159</ID>
+<start>2453.596334875307</start>
+<end>2473.900049222987</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>160</ID>
+<start>2461.3974611926405</start>
+<end>2474.1939107220073</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>161</ID>
+<start>2465.1939107220073</start>
+<end>2490.1952248036378</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>162</ID>
+<start>2487.1952248036378</start>
+<end>2511.900013305665</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>163</ID>
+<start>2493.9974458039896</start>
+<end>2509.79671930366</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>164</ID>
+<start>2500.79671930366</start>
+<end>2534.0969883083076</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>165</ID>
+<start>2531.0969883083076</start>
+<end>2551.600127796666</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>166</ID>
+<start>2537.5975574783342</start>
+<end>2561.8967959610063</end>
+<code>hic ball_win_2</code>
+</instance>
+<instance>
+<ID>167</ID>
+<start>2558.8967959610063</start>
+<end>2576.4000023293447</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>168</ID>
+<start>2564.4968771129943</start>
+<end>2584.795223797328</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>169</ID>
+<start>2587.409000039313</start>
+<end>2631.7982382513483</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>170</ID>
+<start>2618.4975174803044</start>
+<end>2631.7982382513483</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>171</ID>
+<start>2635.9973105773092</start>
+<end>2664.200106803657</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>172</ID>
+<start>2649.4967479493284</start>
+<end>2661.29692918631</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>173</ID>
+<start>2652.29692918631</start>
+<end>2671.597522417321</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>174</ID>
+<start>2677.895272230325</start>
+<end>2697.19730636297</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>175</ID>
+<start>2696.3971735953455</start>
+<end>2725.494848715663</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>176</ID>
+<start>2722.494848715663</start>
+<end>2740.700044983339</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>177</ID>
+<start>2723.6961584099877</start>
+<end>2737.7970876329837</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>178</ID>
+<start>2728.7970876329837</start>
+<end>2744.8977795789797</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>179</ID>
+<start>2735.8977795789797</start>
+<end>2758.3971619396593</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>180</ID>
+<start>2745.5974811793294</start>
+<end>2758.3971619396593</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>181</ID>
+<start>2749.3971619396593</start>
+<end>2775.497074489335</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>182</ID>
+<start>2766.497074489335</start>
+<end>2793.1968124476593</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>183</ID>
+<start>2772.097097603661</start>
+<end>2793.1968124476593</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>184</ID>
+<start>2781.6972778899776</start>
+<end>2792.6972778899776</end>
+<code>ring_pass goal_attempt</code>
+</instance>
+<instance>
+<ID>185</ID>
+<start>2793.1974258276337</start>
+<end>2824.696199252649</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>186</ID>
+<start>2794.5965208893363</start>
+<end>2805.1000652876737</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>187</ID>
+<start>2821.696199252649</start>
+<end>2832.696939214996</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>188</ID>
+<start>2829.696939214996</start>
+<end>2843.1972731636793</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>189</ID>
+<start>2831.69721122164</start>
+<end>2843.1972731636793</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>190</ID>
+<start>2833.1972731636793</start>
+<end>2846.1972731636793</end>
+<code>hic cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>191</ID>
+<start>2883.3977757669945</start>
+<end>2895.2999886646667</end>
+<code>hic penalty_corner</code>
+</instance>
+<instance>
+<ID>192</ID>
+<start>2898.597011257995</start>
+<end>2916.0966050103084</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>193</ID>
+<start>2924.7978096599736</start>
+<end>2947.4957640426483</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>194</ID>
+<start>2944.4957640426483</start>
+<end>2963.0964808009844</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>195</ID>
+<start>2963.6307752076586</start>
+<end>3002.1943085923226</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>196</ID>
+<start>2985.295695017309</start>
+<end>3002.1943085923226</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>197</ID>
+<start>3003.296720796651</start>
+<end>3039.4991642826503</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>198</ID>
+<start>3041.0971106033194</start>
+<end>3068.8991133379886</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>199</ID>
+<start>3068.4968488283293</start>
+<end>3090.732122222222</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>200</ID>
+<start>3073.397972783655</start>
+<end>3092.796759761331</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>201</ID>
+<start>3083.796759761331</start>
+<end>3102.39767927599</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>202</ID>
+<start>3104.369755971658</start>
+<end>3114.497628227997</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>203</ID>
+<start>3112.297945522655</start>
+<end>3121.1955266006594</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>204</ID>
+<start>3124.3980034013075</start>
+<end>3136.9969333846725</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>205</ID>
+<start>3183.1974063199727</start>
+<end>3199.6976767063265</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>206</ID>
+<start>3196.6976767063265</start>
+<end>3214.596949410998</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>207</ID>
+<start>3212.596642244004</start>
+<end>3264.097617372655</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>208</ID>
+<start>3244.297823531999</start>
+<end>3264.097617372655</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>209</ID>
+<start>3264.1980335783023</start>
+<end>3285.2050552133387</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>210</ID>
+<start>3270.196651439664</start>
+<end>3285.2050552133387</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>211</ID>
+<start>3274.2050552133387</start>
+<end>3289.2050552133387</end>
+<code>ring_pass goal</code>
+</instance>
+<instance>
+<ID>212</ID>
+<start>3276.1978330296743</start>
+<end>3287.1978330296743</end>
+<code>ring_pass goal_attempt</code>
+</instance>
+<instance>
+<ID>213</ID>
+<start>3300.8974261919984</start>
+<end>3333.8000783113484</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>214</ID>
+<start>3321.8843265686633</start>
+<end>3350.297952115329</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>215</ID>
+<start>3341.297952115329</start>
+<end>3359.697589170648</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>216</ID>
+<start>3350.697589170648</start>
+<end>3371.9963153529957</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>217</ID>
+<start>3376.388394785991</start>
+<end>3383.0970180546665</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>218</ID>
+<start>3377.6972498706755</start>
+<end>3393.6963267693245</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>219</ID>
+<start>3381.6058832073</start>
+<end>3393.6963267693245</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>220</ID>
+<start>3396.396830692681</start>
+<end>3416.0975543976488</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>221</ID>
+<start>3416.5980346463302</start>
+<end>3424.696527491982</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>222</ID>
+<start>3429.1244848166607</start>
+<end>3439.597170072324</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>223</ID>
+<start>3437.2972628606644</start>
+<end>3454.4969195990047</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>224</ID>
+<start>3438.099046735655</start>
+<end>3454.4969195990047</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>225</ID>
+<start>3452.697008304311</start>
+<end>3470.400056596357</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>226</ID>
+<start>3456.1980403926527</start>
+<end>3467.4944962279988</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>227</ID>
+<start>3458.4944962279988</start>
+<end>3474.076496688</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>228</ID>
+<start>3473.0045001309695</start>
+<end>3526.7005263033225</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>229</ID>
+<start>3474.197607873633</start>
+<end>3477.197607873633</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>230</ID>
+<start>3507.9938788679833</start>
+<end>3523.796547019665</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>231</ID>
+<start>3514.796547019665</start>
+<end>3533.9131890059843</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>232</ID>
+<start>3533.697021441014</start>
+<end>3565.201088888889</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>233</ID>
+<start>3542.497717707017</start>
+<end>3566.0986079199824</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>234</ID>
+<start>3557.0986079199824</start>
+<end>3577.1983888466384</end>
+<code>hic ball_win_2</code>
+</instance>
+<instance>
+<ID>235</ID>
+<start>3574.1983888466384</start>
+<end>3601.5000785533193</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>236</ID>
+<start>3584.8973954656653</start>
+<end>3602.2967559483022</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>237</ID>
+<start>3601.9704284443374</start>
+<end>3616.596289727324</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>238</ID>
+<start>3613.596289727324</start>
+<end>3634.7000386193395</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>239</ID>
+<start>3622.7963122599867</start>
+<end>3645.5970541333068</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>240</ID>
+<start>3646.7972752366563</start>
+<end>3671.0000819600173</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>241</ID>
+<start>3659.096745158674</start>
+<end>3676.897083841639</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>242</ID>
+<start>3675.1960064779814</start>
+<end>3717.700137400014</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>243</ID>
+<start>3706.397863086983</start>
+<end>3721.3964343970015</end>
+<code>hic ball_win_2</code>
+</instance>
+<instance>
+<ID>244</ID>
+<start>3712.3964343970015</start>
+<end>3736.313152725315</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>245</ID>
+<start>3727.313152725315</start>
+<end>3739.996684052994</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>246</ID>
+<start>3730.996684052994</start>
+<end>3744.2964866903317</end>
+<code>ring_pass ball_win_4</code>
+</instance>
+<instance>
+<ID>247</ID>
+<start>3735.2964866903317</start>
+<end>3756.0977330476708</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>248</ID>
+<start>3755.9984515406736</start>
+<end>3782.113164972648</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>249</ID>
+<start>3764.496711653323</start>
+<end>3782.8031991116495</end>
+<code>hic ball_win_2</code>
+</instance>
+<instance>
+<ID>250</ID>
+<start>3781.3966668416515</start>
+<end>3793.096632686983</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>251</ID>
+<start>3793.958608846993</start>
+<end>3812.900062233663</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>252</ID>
+<start>3799.6612017079806</start>
+<end>3817.09776189535</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>253</ID>
+<start>3824.596534168971</start>
+<end>3847.0910410723386</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>254</ID>
+<start>3847.6474142220045</start>
+<end>3860.100075104684</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>255</ID>
+<start>3848.196943820326</start>
+<end>3889.097389104987</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>256</ID>
+<start>3887.9998835733277</start>
+<end>3898.1978079283504</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>257</ID>
+<start>3895.1978079283504</start>
+<end>3912.8764</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>258</ID>
+<start>3896.99870898201</start>
+<end>3914.8973328403195</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>259</ID>
+<start>3914.897981965323</start>
+<end>3921.396611489997</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>260</ID>
+<start>3919.6971945026708</start>
+<end>3947.114811111111</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>261</ID>
+<start>3931.097423598009</start>
+<end>3952.6979387046545</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>262</ID>
+<start>3953.9983203723204</start>
+<end>3980.6036555555556</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>263</ID>
+<start>3969.1975499403256</start>
+<end>3980.497524578335</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>264</ID>
+<start>3971.497524578335</start>
+<end>3984.3962443916566</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>265</ID>
+<start>3975.3962443916566</start>
+<end>3998.597646358675</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>266</ID>
+<start>3996.29701660033</start>
+<end>4014.496695306305</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>267</ID>
+<start>4011.496695306305</start>
+<end>4028.2985365086606</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>268</ID>
+<start>4023.296645912333</start>
+<end>4032.8095983983094</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>269</ID>
+<start>4023.8095983983094</start>
+<end>4037.7967195463384</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>270</ID>
+<start>4026.497060321986</start>
+<end>4036.962611111111</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>271</ID>
+<start>4028.7967195463384</start>
+<end>4043.6966498796473</end>
+<code>hic ball_win_4</code>
+</instance>
+<instance>
+<ID>272</ID>
+<start>4031.1971594730066</start>
+<end>4043.6966498796473</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>273</ID>
+<start>4047.8963397630155</start>
+<end>4073.000132807989</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>274</ID>
+<start>4061.213476688647</start>
+<end>4079.5964779673213</end>
+<code>hic ball_win_3</code>
+</instance>
+<instance>
+<ID>275</ID>
+<start>4073.0967795489987</start>
+<end>4088.898658857999</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>276</ID>
+<start>4076.9977679429803</start>
+<end>4088.898658857999</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>277</ID>
+<start>4078.898658857999</start>
+<end>4091.898658857999</end>
+<code>hic cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>278</ID>
+<start>4127.498554113996</start>
+<end>4141.000115002325</end>
+<code>hic penalty_corner</code>
+</instance>
+<instance>
+<ID>279</ID>
+<start>4135.598613464978</start>
+<end>4153.797951248641</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>280</ID>
+<start>4201.396697548324</start>
+<end>4228.910979944659</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>281</ID>
+<start>4209.996907126969</start>
+<end>4223.408372495</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>282</ID>
+<start>4214.408372495</start>
+<end>4233.596541504966</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>283</ID>
+<start>4237.897580965981</start>
+<end>4253.096578507986</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>284</ID>
+<start>4250.596599206668</start>
+<end>4272.99938291067</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>285</ID>
+<start>4257.4974249446495</start>
+<end>4272.99938291067</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>286</ID>
+<start>4276.397035176978</start>
+<end>4301.500039547331</end>
+<code>hic ball_restart_1</code>
+</instance>
+<instance>
+<ID>287</ID>
+<start>4289.597301247646</start>
+<end>4310.097242224309</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>288</ID>
+<start>4316.497847759982</start>
+<end>4330.200000286329</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>289</ID>
+<start>4318.396542791972</start>
+<end>4334.697644750987</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>290</ID>
+<start>4331.697644750987</start>
+<end>4343.996895858318</end>
+<code>hic ball_restart_2</code>
+</instance>
+<instance>
+<ID>291</ID>
+<start>4340.996895858318</start>
+<end>4364.193841124977</end>
+<code>hic ball_restart_3</code>
+</instance>
+<instance>
+<ID>292</ID>
+<start>4361.193841124977</start>
+<end>4378.700158985329</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>293</ID>
+<start>4366.79789026</start>
+<end>4384.996928007652</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>294</ID>
+<start>4384.396318533007</start>
+<end>4398.296176979337</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>295</ID>
+<start>4395.597803990638</start>
+<end>4408.796137882313</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>296</ID>
+<start>4405.796137882313</start>
+<end>4425.400056040672</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>297</ID>
+<start>4413.596577237296</start>
+<end>4438.496724412313</end>
+<code>hic ball_win_2</code>
+</instance>
+<instance>
+<ID>298</ID>
+<start>4423.296374740657</start>
+<end>4438.496724412313</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>299</ID>
+<start>4429.496724412313</start>
+<end>4450.1967525163445</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>300</ID>
+<start>4440.1967525163445</start>
+<end>4453.1967525163445</end>
+<code>ring_pass cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>301</ID>
+<start>4504.598156933647</start>
+<end>4512.100051624328</end>
+<code>ring_pass penalty_corner</code>
+</instance>
+<instance>
+<ID>302</ID>
+<start>4520.497849514351</start>
+<end>4567.800092604684</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>303</ID>
+<start>4555.896525127654</start>
+<end>4574.897942491642</end>
+<code>hic ball_win_1</code>
+</instance>
+<instance>
+<ID>304</ID>
+<start>4565.897942491642</start>
+<end>4582.796654625651</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>305</ID>
+<start>4578.896704774672</start>
+<end>4593.297796716325</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>306</ID>
+<start>4580.898030140658</start>
+<end>4593.297796716325</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>307</ID>
+<start>4593.298865587983</start>
+<end>4610.500071474691</end>
+<code>hic ball_restart_4</code>
+</instance>
+<instance>
+<ID>308</ID>
+<start>4595.796792995651</start>
+<end>4607.59688290731</end>
+<code>hic circle_penetration</code>
+</instance>
+<instance>
+<ID>309</ID>
+<start>4598.59688290731</start>
+<end>4619.196833842017</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+</ALL_INSTANCES>
+<SORT_INFO>
+<sort_type>sort order</sort_type>
+</SORT_INFO>
+<ROWS>
+<row>
+<sort_order>0</sort_order>
+<code>RPD BS1</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>1</sort_order>
+<code>RPD BS2</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>2</sort_order>
+<code>RPD BS3</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>3</sort_order>
+<code>RPD BS4</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>4</sort_order>
+<code>RPD BW1</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>5</sort_order>
+<code>RPD BW2</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>6</sort_order>
+<code>RPD BW3</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>7</sort_order>
+<code>RPD BW4</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>8</sort_order>
+<code>RPD CP</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>9</sort_order>
+<code>RPD CP NBB</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>10</sort_order>
+<code>RPD Goal</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>11</sort_order>
+<code>RPD SC</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>12</sort_order>
+<code>RPD ASC</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>13</sort_order>
+<code>RPD Schot</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>14</sort_order>
+<code>Start</code>
+<R>9548</R>
+<G>54439</G>
+<B>1131</B>
+</row>
+<row>
+<sort_order>15</sort_order>
+<code>HIC BS1</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>16</sort_order>
+<code>HIC BS2</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>17</sort_order>
+<code>HIC BS3</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>18</sort_order>
+<code>HIC BS4</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>19</sort_order>
+<code>HIC BW1</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>20</sort_order>
+<code>HIC BW2</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>21</sort_order>
+<code>HIC BW3</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>22</sort_order>
+<code>HIC BW4</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>23</sort_order>
+<code>HIC CP</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>24</sort_order>
+<code>HIC CP NBB</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>25</sort_order>
+<code>HIC Goal</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>26</sort_order>
+<code>HIC SC</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>27</sort_order>
+<code>HIC ASC</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>28</sort_order>
+<code>HIC Schot</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+</ROWS>
+</file>

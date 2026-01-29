@@ -1,0 +1,2827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>BS0 OR</code>
+<start>233.9001</start>
+<end>244.60003333333333</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>BS0 OR</code>
+<start>594.5000666666666</start>
+<end>607.40005</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>BS0 OR</code>
+<start>788.2000666666667</start>
+<end>812.5000833333334</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>BS0 OR</code>
+<start>1348.8001</start>
+<end>1369.9000333333333</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>BS0 OR</code>
+<start>1752.6001166666667</start>
+<end>1765.40365</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>BS0 OR</code>
+<start>1829.0001333333332</start>
+<end>1849.2000666666668</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>BS0 OR</code>
+<start>1937.1000333333334</start>
+<end>1954.2001</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>BS0 OR</code>
+<start>2079.50005</start>
+<end>2111.9000333333333</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>BS0 OR</code>
+<start>2289.8001</start>
+<end>2305.9000333333333</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>BS0 OR</code>
+<start>3131.9000666666666</start>
+<end>3143.60005</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>BS0 OR</code>
+<start>3305.4000666666666</start>
+<end>3314.6001</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>BS0 OR</code>
+<start>3550.8000333333334</start>
+<end>3565.3001</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>BS0 OR</code>
+<start>3640.4000333333333</start>
+<end>3655.0000333333332</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>BS0 OR</code>
+<start>3682.4000333333333</start>
+<end>3691.1000833333333</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>BS0 OR</code>
+<start>3693.9001</start>
+<end>3710.2000333333335</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>BS0 OR</code>
+<start>3941.9001</start>
+<end>3951.4000333333333</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>BS0 OR</code>
+<start>4300.800033333333</start>
+<end>4309.300116666666</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>BS0 OR</code>
+<start>4310.100066666667</start>
+<end>4324.60005</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>BS0 OR</code>
+<start>4430.100033333333</start>
+<end>4447.50005</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>BS0 OR</code>
+<start>4625.800066666667</start>
+<end>4642.70005</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>BS0 OR</code>
+<start>5012.500083333333</start>
+<end>5028.900083333333</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>BS0 OR</code>
+<start>5236.000116666667</start>
+<end>5250.900033333333</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>BS1 OR</code>
+<start>184.20005</start>
+<end>195.60003333333333</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>BS1 OR</code>
+<start>254.30005</start>
+<end>283.70003333333335</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>BS1 OR</code>
+<start>524.2000833333333</start>
+<end>533.9000833333333</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>BS1 OR</code>
+<start>846.8000666666667</start>
+<end>857.3000666666667</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>BS1 OR</code>
+<start>1045.1001666666666</start>
+<end>1055.0001166666666</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>BS1 OR</code>
+<start>3897.7000666666668</start>
+<end>3910.4000333333333</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>BS1 OR</code>
+<start>4956.00005</start>
+<end>4960.59905</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>BS1 OR</code>
+<start>4960.60005</start>
+<end>4962.7000333333335</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>BS1 OR</code>
+<start>5054.6001</start>
+<end>5071.2000333333335</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>BS2 OR</code>
+<start>172.00003333333333</start>
+<end>185.70008333333334</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>BS2 OR</code>
+<start>290.30013333333335</start>
+<end>314.40003333333334</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>BS2 OR</code>
+<start>374.40005</start>
+<end>389.8000333333333</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>BS2 OR</code>
+<start>432.5000333333333</start>
+<end>440.30005</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BS2 OR</code>
+<start>442.40003333333334</start>
+<end>467.5000333333333</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BS2 OR</code>
+<start>533.20005</start>
+<end>556.9000333333333</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BS2 OR</code>
+<start>853.3001</start>
+<end>864.20005</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BS2 OR</code>
+<start>962.9000666666667</start>
+<end>981.2000833333333</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BS2 OR</code>
+<start>1247.8001</start>
+<end>1258.5001166666666</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BS2 OR</code>
+<start>1373.9000666666666</start>
+<end>1390.30005</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BS2 OR</code>
+<start>1543.6000333333334</start>
+<end>1553.3000833333333</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BS2 OR</code>
+<start>2192.4071833333333</start>
+<end>2211.7000333333335</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BS2 OR</code>
+<start>3051.0001166666666</start>
+<end>3066.7000666666668</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BS2 OR</code>
+<start>3066.701066666667</start>
+<end>3081.5000666666665</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BS2 OR</code>
+<start>3242.4001166666667</start>
+<end>3283.5000333333332</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BS2 OR</code>
+<start>3454.0001333333335</start>
+<end>3460.5000666666665</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BS2 OR</code>
+<start>3497.9001</start>
+<end>3515.80005</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BS2 OR</code>
+<start>3517.9000666666666</start>
+<end>3533.9000833333334</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BS2 OR</code>
+<start>3712.5000666666665</start>
+<end>3719.0000666666665</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BS2 OR</code>
+<start>3801.3001</start>
+<end>3820.100483333333</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BS2 OR</code>
+<start>3820.700083333333</start>
+<end>3830.4000333333333</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BS2 OR</code>
+<start>4119.402033333334</start>
+<end>4129.50005</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BS2 OR</code>
+<start>4325.3000833333335</start>
+<end>4337.0000666666665</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BS2 OR</code>
+<start>4657.800116666666</start>
+<end>4667.100083333334</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BS2 OR</code>
+<start>4838.100066666667</start>
+<end>4848.7000333333335</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BS2 OR</code>
+<start>4848.701033333334</start>
+<end>4873.10005</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BS2 OR</code>
+<start>5246.50005</start>
+<end>5258.5001</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BS3 OR</code>
+<start>338.90003333333334</start>
+<end>345.40005</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BS3 OR</code>
+<start>485.90003333333334</start>
+<end>504.60005</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BS3 OR</code>
+<start>611.80005</start>
+<end>629.6000333333334</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BS3 OR</code>
+<start>673.7000833333333</start>
+<end>690.80005</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BS3 OR</code>
+<start>1316.50005</start>
+<end>1332.8000666666667</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BS3 OR</code>
+<start>1592.50005</start>
+<end>1607.60005</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BS3 OR</code>
+<start>1965.7000333333333</start>
+<end>1981.30005</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BS3 OR</code>
+<start>2002.2000666666668</start>
+<end>2015.2001</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BS3 OR</code>
+<start>3089.5000666666665</start>
+<end>3103.40005</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BS3 OR</code>
+<start>3147.4001166666667</start>
+<end>3162.4001166666667</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BS3 OR</code>
+<start>3353.5001333333335</start>
+<end>3364.50005</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BS3 OR</code>
+<start>4128.4012</start>
+<end>4139.100066666667</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BS3 OR</code>
+<start>4168.100066666667</start>
+<end>4180.5000666666665</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BS3 OR</code>
+<start>4182.40225</start>
+<end>4193.6001</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BS3 OR</code>
+<start>4250.402383333333</start>
+<end>4263.4008</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BS3 OR</code>
+<start>4279.50015</start>
+<end>4286.000033333334</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BS3 OR</code>
+<start>4406.9001</start>
+<end>4416.000033333334</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BS3 OR</code>
+<start>4668.2000333333335</start>
+<end>4696.600383333333</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BS3 OR</code>
+<start>4903.200083333333</start>
+<end>4938.30005</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BS3 OR</code>
+<start>5077.30005</start>
+<end>5101.80005</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BS3 OR</code>
+<start>5152.400033333333</start>
+<end>5162.700066666666</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BS4 OR</code>
+<start>463.8000333333333</start>
+<end>470.29903333333334</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BS4 OR</code>
+<start>470.3000333333333</start>
+<end>473.80005</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BS4 OR</code>
+<start>473.80105</start>
+<end>484.8000333333333</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BS4 OR</code>
+<start>977.5000333333334</start>
+<end>991.30005</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BS4 OR</code>
+<start>1578.6000666666666</start>
+<end>1592.8000666666667</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BS4 OR</code>
+<start>1854.4043666666666</start>
+<end>1870.1000333333334</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BS4 OR</code>
+<start>2210.60005</start>
+<end>2217.100033333333</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BS4 OR</code>
+<start>3157.80015</start>
+<end>3166.200083333333</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BS4 OR</code>
+<start>3168.60015</start>
+<end>3178.80005</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BS4 OR</code>
+<start>3178.80105</start>
+<end>3188.7990499999996</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BS4 OR</code>
+<start>3188.80005</start>
+<end>3194.60005</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BS4 OR</code>
+<start>3361.8000666666667</start>
+<end>3377.5000666666665</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BS4 OR</code>
+<start>3377.9000666666666</start>
+<end>3395.1001</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BS4 OR</code>
+<start>4137.700066666666</start>
+<end>4147.50005</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BS4 OR</code>
+<start>4204.800033333333</start>
+<end>4216.70005</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BS4 OR</code>
+<start>4692.8000833333335</start>
+<end>4700.600066666667</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BS4 OR</code>
+<start>4700.601066666667</start>
+<end>4711.200066666666</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BS4 OR</code>
+<start>5067.300566666667</start>
+<end>5076.900066666667</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BS4 OR</code>
+<start>5097.200066666666</start>
+<end>5138.200483333333</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BW1 OR</code>
+<start>242.50015</start>
+<end>254.70005</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BW1 OR</code>
+<start>323.90003333333334</start>
+<end>340.5000333333333</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BW1 OR</code>
+<start>422.5000333333333</start>
+<end>435.60003333333333</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BW1 OR</code>
+<start>508.90004999999996</start>
+<end>520.5000666666666</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BW1 OR</code>
+<start>573.7000333333333</start>
+<end>591.7000333333333</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BW1 OR</code>
+<start>752.4000333333333</start>
+<end>763.20005</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BW1 OR</code>
+<start>1031.5000333333332</start>
+<end>1040.1000333333334</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BW1 OR</code>
+<start>1068.2001</start>
+<end>1086.1000333333334</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BW1 OR</code>
+<start>1100.60035</start>
+<end>1111.0000666666667</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BW1 OR</code>
+<start>1449.8001166666666</start>
+<end>1459.70005</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BW1 OR</code>
+<start>1924.5000333333332</start>
+<end>1939.8001</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>BW1 OR</code>
+<start>2332.7000333333335</start>
+<end>2348.4000666666666</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>BW1 OR</code>
+<start>3223.60005</start>
+<end>3235.2001333333333</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>BW1 OR</code>
+<start>3440.2000333333335</start>
+<end>3449.60005</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>BW1 OR</code>
+<start>3753.0000333333332</start>
+<end>3765.4000333333333</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>BW1 OR</code>
+<start>3917.8000333333334</start>
+<end>3930.00005</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>BW1 OR</code>
+<start>4133.100066666667</start>
+<end>4142.800033333333</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>BW1 OR</code>
+<start>4343.000033333334</start>
+<end>4376.7000333333335</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>BW1 OR</code>
+<start>4459.30005</start>
+<end>4473.800033333333</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>BW1 OR</code>
+<start>4743.70005</start>
+<end>4786.60005</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>BW1 OR</code>
+<start>4878.80005</start>
+<end>4903.40545</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>BW1 OR</code>
+<start>5043.5000666666665</start>
+<end>5052.2006</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>BW2 OR</code>
+<start>707.20005</start>
+<end>722.20005</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>BW2 OR</code>
+<start>863.6000333333334</start>
+<end>889.50005</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>BW2 OR</code>
+<start>1296.5001</start>
+<end>1311.4005333333334</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>BW2 OR</code>
+<start>1556.1000333333334</start>
+<end>1571.4024333333334</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>BW2 OR</code>
+<start>1607.7000333333333</start>
+<end>1640.1000333333334</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>BW2 OR</code>
+<start>2246.6001</start>
+<end>2284.406716666667</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>BW2 OR</code>
+<start>3077.7000666666668</start>
+<end>3087.5000666666665</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>BW2 OR</code>
+<start>3344.20005</start>
+<end>3354.90005</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>BW2 OR</code>
+<start>4414.401983333333</start>
+<end>4423.60005</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>BW2 OR</code>
+<start>4650.20005</start>
+<end>4658.500033333334</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>BW2 OR</code>
+<start>4712.30005</start>
+<end>4729.20005</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>BW3 OR</code>
+<start>149.40003333333334</start>
+<end>161.10011666666668</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>BW3 OR</code>
+<start>1988.80005</start>
+<end>1997.3000333333334</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BW3 OR</code>
+<start>4195.900116666667</start>
+<end>4208.800033333333</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BW3 OR</code>
+<start>4223.600033333333</start>
+<end>4249.000033333334</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BW3 OR</code>
+<start>5254.20005</start>
+<end>5262.50005</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BS0 AMS</code>
+<start>632.40005</start>
+<end>656.30005</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BS0 AMS</code>
+<start>2021.7000333333333</start>
+<end>2038.0000833333334</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BS0 AMS</code>
+<start>3397.5000666666665</start>
+<end>3407.8001</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BS0 AMS</code>
+<start>4192.90005</start>
+<end>4201.900116666667</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BS0 AMS</code>
+<start>4393.3001</start>
+<end>4403.700066666666</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BS0 AMS</code>
+<start>4449.80005</start>
+<end>4465.30005</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BS1 AMS</code>
+<start>504.80005</start>
+<end>514.90005</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BS1 AMS</code>
+<start>560.20005</start>
+<end>579.7000333333333</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BS1 AMS</code>
+<start>691.1000666666666</start>
+<end>713.20005</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BS1 AMS</code>
+<start>912.8000666666667</start>
+<end>922.00005</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BS1 AMS</code>
+<start>1000.8000666666667</start>
+<end>1023.6000333333334</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BS1 AMS</code>
+<start>1395.4015333333334</start>
+<end>1412.1001</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BS1 AMS</code>
+<start>1980.4052166666668</start>
+<end>1994.80005</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BS1 AMS</code>
+<start>4153.4000166666665</start>
+<end>4166.900116666667</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BS1 AMS</code>
+<start>4261.7000333333335</start>
+<end>4283.100083333334</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BS1 AMS</code>
+<start>4796.100066666667</start>
+<end>4826.70005</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BS2 AMS</code>
+<start>145.50003333333333</start>
+<end>155.40003333333334</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BS2 AMS</code>
+<start>157.60003333333333</start>
+<end>171.80003333333335</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BS2 AMS</code>
+<start>320.0000333333333</start>
+<end>329.90003333333334</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BS2 AMS</code>
+<start>820.9000666666667</start>
+<end>847.2000333333333</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BS2 AMS</code>
+<start>919.30005</start>
+<end>927.1990666666667</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BS2 AMS</code>
+<start>927.2000666666667</start>
+<end>967.90005</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BS2 AMS</code>
+<start>1238.0001166666666</start>
+<end>1250.1000333333334</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BS2 AMS</code>
+<start>1412.40115</start>
+<end>1418.90005</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BS2 AMS</code>
+<start>1636.0000666666667</start>
+<end>1642.5000666666667</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BS2 AMS</code>
+<start>2233.600066666667</start>
+<end>2240.100033333333</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BS2 AMS</code>
+<start>3831.5000666666665</start>
+<end>3873.3003</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BS2 AMS</code>
+<start>4335.000083333333</start>
+<end>4349.000033333334</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BS2 AMS</code>
+<start>4932.30005</start>
+<end>4951.00005</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BS3 AMS</code>
+<start>195.70005</start>
+<end>202.20003333333332</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BS3 AMS</code>
+<start>392.00005</start>
+<end>428.5000333333333</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BS3 AMS</code>
+<start>735.00005</start>
+<end>742.1000333333334</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BS3 AMS</code>
+<start>770.8001</start>
+<end>783.3000833333333</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BS3 AMS</code>
+<start>1025.7001166666666</start>
+<end>1037.5000333333332</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BS3 AMS</code>
+<start>1082.9001166666667</start>
+<end>1094.0002333333334</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BS3 AMS</code>
+<start>1286.3000333333334</start>
+<end>1302.5001</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BS3 AMS</code>
+<start>1886.7000333333333</start>
+<end>1900.1000333333334</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BS3 AMS</code>
+<start>1900.1010333333334</start>
+<end>1930.5000333333332</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BS3 AMS</code>
+<start>2035.8000666666667</start>
+<end>2048.7000333333335</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BS3 AMS</code>
+<start>2121.7000333333335</start>
+<end>2131.0000666666665</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BS3 AMS</code>
+<start>2305.0001666666667</start>
+<end>2338.7000333333335</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BS3 AMS</code>
+<start>3118.80015</start>
+<end>3128.800133333333</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BS3 AMS</code>
+<start>3281.6001</start>
+<end>3298.90005</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BS3 AMS</code>
+<start>3315.2000666666668</start>
+<end>3350.20005</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BS3 AMS</code>
+<start>3423.8000333333334</start>
+<end>3446.2000333333335</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BS3 AMS</code>
+<start>3532.0000666666665</start>
+<end>3545.600033333333</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BS3 AMS</code>
+<start>3564.50015</start>
+<end>3582.4000333333333</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BS3 AMS</code>
+<start>3582.4010333333335</start>
+<end>3595.50005</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BS3 AMS</code>
+<start>3611.6000833333333</start>
+<end>3631.9000833333334</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BS3 AMS</code>
+<start>3951.30015</start>
+<end>3982.5001333333335</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BS3 AMS</code>
+<start>4556.80005</start>
+<end>4582.30005</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BS3 AMS</code>
+<start>5029.407733333333</start>
+<end>5049.5000666666665</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BS3 AMS</code>
+<start>5177.300066666667</start>
+<end>5196.700116666667</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BS4 AMS</code>
+<start>738.2000833333333</start>
+<end>758.4000333333333</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BS4 AMS</code>
+<start>1098.2001333333333</start>
+<end>1106.60035</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BS4 AMS</code>
+<start>1460.6001166666667</start>
+<end>1480.3000666666667</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BS4 AMS</code>
+<start>1779.7000333333333</start>
+<end>1823.40365</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BS4 AMS</code>
+<start>2044.2000666666668</start>
+<end>2055.6000833333333</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BS4 AMS</code>
+<start>2055.6010833333335</start>
+<end>2074.6000833333333</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BS4 AMS</code>
+<start>3207.700083333333</start>
+<end>3219.100066666667</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BS4 AMS</code>
+<start>3220.9001333333335</start>
+<end>3229.60005</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BS4 AMS</code>
+<start>3599.20005</start>
+<end>3611.8000333333334</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BS4 AMS</code>
+<start>3763.7000666666668</start>
+<end>3794.20005</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BS4 AMS</code>
+<start>3870.60005</start>
+<end>3881.7990666666665</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BS4 AMS</code>
+<start>3881.8000666666667</start>
+<end>3899.5006166666667</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BW1 AMS</code>
+<start>308.40003333333334</start>
+<end>322.8000333333333</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>BW1 AMS</code>
+<start>498.60005</start>
+<end>508.70003333333335</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>BW1 AMS</code>
+<start>550.9000333333333</start>
+<end>560.1000333333334</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>BW1 AMS</code>
+<start>985.30005</start>
+<end>1005.3000333333333</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>BW1 AMS</code>
+<start>1326.8000666666667</start>
+<end>1344.6000666666666</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>BW1 AMS</code>
+<start>1384.30005</start>
+<end>1397.4010166666667</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>BW1 AMS</code>
+<start>1601.60005</start>
+<end>1613.7000333333333</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>BW1 AMS</code>
+<start>1864.1000333333334</start>
+<end>1882.3000333333334</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>BW1 AMS</code>
+<start>1991.3000333333334</start>
+<end>2003.7000333333333</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>BW1 AMS</code>
+<start>2009.2001</start>
+<end>2017.30005</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>BW1 AMS</code>
+<start>2105.9000333333333</start>
+<end>2119.100033333333</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>BW1 AMS</code>
+<start>2217.9000666666666</start>
+<end>2225.6001</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>BW1 AMS</code>
+<start>3097.40005</start>
+<end>3110.4001</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>BW1 AMS</code>
+<start>3188.60005</start>
+<end>3207.60015</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>BW1 AMS</code>
+<start>4141.50005</start>
+<end>4155.2000333333335</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>BW1 AMS</code>
+<start>4210.70005</start>
+<end>4229.600033333333</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>BW1 AMS</code>
+<start>4284.10005</start>
+<end>4303.2000333333335</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>BW1 AMS</code>
+<start>4705.200066666666</start>
+<end>4718.30005</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>BW1 AMS</code>
+<start>4780.60005</start>
+<end>4795.4043</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>BW1 AMS</code>
+<start>5156.700066666666</start>
+<end>5176.90005</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>BW1 AMS</code>
+<start>5256.50005</start>
+<end>5268.100066666667</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>BW2 AMS</code>
+<start>716.20005</start>
+<end>739.2000333333333</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>BW2 AMS</code>
+<start>858.20005</start>
+<end>869.6000333333334</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>BW2 AMS</code>
+<start>883.50005</start>
+<end>911.9000333333333</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>BW2 AMS</code>
+<start>1252.5001166666666</start>
+<end>1276.0000666666667</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>BW2 AMS</code>
+<start>1547.3000833333333</start>
+<end>1562.1000333333334</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>BW2 AMS</code>
+<start>3137.60005</start>
+<end>3151.10005</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>BW2 AMS</code>
+<start>3459.50015</start>
+<end>3489.10005</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>BW2 AMS</code>
+<start>3527.9000833333334</start>
+<end>3535.4000666666666</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>BW2 AMS</code>
+<start>3724.2000333333335</start>
+<end>3759.0000333333332</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>BW2 AMS</code>
+<start>4410.000033333334</start>
+<end>4420.401983333333</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>BW2 AMS</code>
+<start>4441.50005</start>
+<end>4455.100033333333</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>BW2 AMS</code>
+<start>4636.70005</start>
+<end>4656.20005</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>BW2 AMS</code>
+<start>4661.100083333334</start>
+<end>4669.70005</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>BW2 AMS</code>
+<start>4723.20005</start>
+<end>4749.70005</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>BW2 AMS</code>
+<start>4867.10005</start>
+<end>4884.80005</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>BW2 AMS</code>
+<start>4963.0000666666665</start>
+<end>5004.4061833333335</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>BW2 AMS</code>
+<start>5190.700116666667</start>
+<end>5211.000033333334</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>BW2 AMS</code>
+<start>5252.5001</start>
+<end>5260.20005</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>BW3 AMS</code>
+<start>350.10005</start>
+<end>366.90003333333334</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>BW3 AMS</code>
+<start>601.40005</start>
+<end>614.8001333333333</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>BW3 AMS</code>
+<start>650.30005</start>
+<end>670.1000333333334</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>BW3 AMS</code>
+<start>757.20005</start>
+<end>769.80005</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>BW3 AMS</code>
+<start>1049.0001166666666</start>
+<end>1074.2001</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>BW3 AMS</code>
+<start>1759.40365</start>
+<end>1781.3000333333334</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>BW3 AMS</code>
+<start>3075.5000666666665</start>
+<end>3083.7000666666668</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>BW3 AMS</code>
+<start>3649.0000333333332</start>
+<end>3679.3001</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>BW3 AMS</code>
+<start>3904.4000333333333</start>
+<end>3923.8000333333334</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>BW3 AMS</code>
+<start>3924.00005</start>
+<end>3936.3000333333334</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>BW3 AMS</code>
+<start>4160.900116666667</start>
+<end>4169.5001</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>BW3 AMS</code>
+<start>4417.60005</start>
+<end>4430.7000333333335</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>BW3 AMS</code>
+<start>4467.800033333333</start>
+<end>4493.40305</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>BW4 AMS</code>
+<start>179.70008333333334</start>
+<end>188.80003333333335</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>BW4 AMS</code>
+<start>238.60003333333333</start>
+<end>254.70005</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>23M OR</code>
+<start>295.90005</start>
+<end>319.90005</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>23M OR</code>
+<start>453.3000333333333</start>
+<end>465.5000333333333</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>23M OR</code>
+<start>469.20003333333335</start>
+<end>482.8000333333333</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>23M OR</code>
+<start>488.40003333333334</start>
+<end>506.70003333333335</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>23M OR</code>
+<start>543.90005</start>
+<end>558.1000333333334</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>23M OR</code>
+<start>607.8000666666667</start>
+<end>627.6000333333334</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>23M OR</code>
+<start>677.30005</start>
+<end>688.80005</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>23M OR</code>
+<start>796.6000666666666</start>
+<end>810.5000833333334</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>23M OR</code>
+<start>965.8001166666667</start>
+<end>979.2000833333333</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>23M OR</code>
+<start>1295.90005</start>
+<end>1309.4005333333334</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>23M OR</code>
+<start>1374.9000333333333</start>
+<end>1395.4010166666667</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>23M OR</code>
+<start>1557.0000666666667</start>
+<end>1569.4024333333334</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>23M OR</code>
+<start>1576.8000833333333</start>
+<end>1590.8000666666667</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>23M OR</code>
+<start>1594.5000333333332</start>
+<end>1618.5000333333332</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>23M OR</code>
+<start>1854.5000333333332</start>
+<end>1878.5000333333332</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>23M OR</code>
+<start>1963.60005</start>
+<end>1979.30005</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>23M OR</code>
+<start>1998.60005</start>
+<end>2015.30005</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>23M OR</code>
+<start>2099.40595</start>
+<end>2117.100033333333</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>23M OR</code>
+<start>2196.90005</start>
+<end>2223.6001</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>23M OR</code>
+<start>2248.5000333333332</start>
+<end>2272.5000333333332</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>23M OR</code>
+<start>3145.30005</start>
+<end>3160.4001166666667</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>23M OR</code>
+<start>3164.50005</start>
+<end>3176.80005</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>23M OR</code>
+<start>3357.7000666666668</start>
+<end>3375.5000666666665</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>23M OR</code>
+<start>3377.70005</start>
+<end>3393.1001</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>23M OR</code>
+<start>3711.7000666666668</start>
+<end>3735.7000666666668</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>23M OR</code>
+<start>4192.500116666667</start>
+<end>4225.100033333333</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>23M OR</code>
+<start>4355.402016666667</start>
+<end>4374.7000333333335</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>23M OR</code>
+<start>4696.3000833333335</start>
+<end>4720.3000833333335</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>23M OR</code>
+<start>4762.700066666666</start>
+<end>4786.700066666666</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>23M OR</code>
+<start>5056.60005</start>
+<end>5074.900066666667</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>23M OR</code>
+<start>5085.100316666667</start>
+<end>5099.80005</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>ASC OR</code>
+<start>5088.70005</start>
+<end>5110.70005</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>CP OR</code>
+<start>617.00005</start>
+<end>627.6000333333334</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>CP OR</code>
+<start>801.5000333333334</start>
+<end>810.5000833333334</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>CP OR</code>
+<start>1301.4007833333333</start>
+<end>1309.4005333333334</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>CP OR</code>
+<start>3365.50005</start>
+<end>3375.5000666666665</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>CP OR</code>
+<start>3378.3000666666667</start>
+<end>3393.1001</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>CP OR</code>
+<start>4361.2000333333335</start>
+<end>4374.7000333333335</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>CP OR</code>
+<start>4701.000116666667</start>
+<end>4721.000116666667</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>CP OR</code>
+<start>4904.406666666667</start>
+<end>4924.406666666667</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>CP OR</code>
+<start>5153.800033333333</start>
+<end>5173.800033333333</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>Doelpunt OR</code>
+<start>4900.00005</start>
+<end>4917.00005</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>Kans OR</code>
+<start>1292.50005</start>
+<end>1309.4005333333334</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>Kans OR</code>
+<start>3357.4000333333333</start>
+<end>3374.4000333333333</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>Kans OR</code>
+<start>3917.7000666666668</start>
+<end>3934.3000333333334</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>Kans OR</code>
+<start>4355.10005</start>
+<end>4372.10005</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>Kans OR</code>
+<start>4897.500083333333</start>
+<end>4914.500083333333</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>Kans OR</code>
+<start>5132.00005</start>
+<end>5149.00005</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>SC OR</code>
+<start>5143.80005</start>
+<end>5149.90005</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>23M AMS</code>
+<start>199.90005</start>
+<end>222.69006666666667</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>23M AMS</code>
+<start>222.70006666666666</start>
+<end>227.40003333333334</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>23M AMS</code>
+<start>259.40003333333334</start>
+<end>281.70003333333335</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>23M AMS</code>
+<start>317.10003333333333</start>
+<end>338.5000333333333</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>23M AMS</code>
+<start>388.3000333333333</start>
+<end>412.3000333333333</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>23M AMS</code>
+<start>413.5000333333333</start>
+<end>433.60003333333333</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>23M AMS</code>
+<start>563.10005</start>
+<end>587.10005</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>23M AMS</code>
+<start>723.6000333333334</start>
+<end>737.2000333333333</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>23M AMS</code>
+<start>744.4000666666667</start>
+<end>767.80005</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>23M AMS</code>
+<start>769.5000333333334</start>
+<end>781.3000833333333</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>23M AMS</code>
+<start>925.90005</start>
+<end>949.90005</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>23M AMS</code>
+<start>1005.90005</start>
+<end>1021.6000333333334</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>23M AMS</code>
+<start>1021.6001000000001</start>
+<end>1038.1000333333334</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>23M AMS</code>
+<start>1059.7000333333333</start>
+<end>1083.7000333333333</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>23M AMS</code>
+<start>1442.1000666666666</start>
+<end>1457.70005</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>23M AMS</code>
+<start>1652.00005</start>
+<end>1665.00005</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>23M AMS</code>
+<start>1756.5000333333332</start>
+<end>1779.3000333333334</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>23M AMS</code>
+<start>1789.60005</start>
+<end>1813.60005</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>23M AMS</code>
+<start>1912.3000333333334</start>
+<end>1936.3000333333334</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>23M AMS</code>
+<start>2034.30005</start>
+<end>2046.7000333333333</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>23M AMS</code>
+<start>2048.405783333333</start>
+<end>2072.405783333333</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>23M AMS</code>
+<start>2269.200116666667</start>
+<end>2282.406716666667</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>23M AMS</code>
+<start>2307.5000333333332</start>
+<end>2331.5000333333332</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>23M AMS</code>
+<start>3193.4000666666666</start>
+<end>3205.60015</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>23M AMS</code>
+<start>3281.4000666666666</start>
+<end>3296.90005</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>23M AMS</code>
+<start>3424.20005</start>
+<end>3447.60005</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>23M AMS</code>
+<start>3469.80005</start>
+<end>3487.10005</end>
+</instance>
+<instance>
+<ID>331</ID>
+<code>23M AMS</code>
+<start>3528.70005</start>
+<end>3543.600033333333</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>23M AMS</code>
+<start>3578.40005</start>
+<end>3593.50005</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>23M AMS</code>
+<start>3612.4000666666666</start>
+<end>3629.9000833333334</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>23M AMS</code>
+<start>3739.8000666666667</start>
+<end>3763.4000333333333</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>23M AMS</code>
+<start>3843.4000333333333</start>
+<end>3867.0900166666665</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>23M AMS</code>
+<start>3867.1000166666668</start>
+<end>3880.8000333333334</end>
+</instance>
+<instance>
+<ID>337</ID>
+<code>23M AMS</code>
+<start>3911.4000333333333</start>
+<end>3930.99005</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>23M AMS</code>
+<start>3931.00005</start>
+<end>3934.3000333333334</end>
+</instance>
+<instance>
+<ID>339</ID>
+<code>23M AMS</code>
+<start>3956.800616666667</start>
+<end>3980.5001333333335</end>
+</instance>
+<instance>
+<ID>340</ID>
+<code>23M AMS</code>
+<start>4288.1001</start>
+<end>4301.2000333333335</end>
+</instance>
+<instance>
+<ID>341</ID>
+<code>23M AMS</code>
+<start>4331.900033333333</start>
+<end>4355.900033333333</end>
+</instance>
+<instance>
+<ID>342</ID>
+<code>23M AMS</code>
+<start>4417.100066666667</start>
+<end>4428.7000333333335</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>23M AMS</code>
+<start>4470.600033333333</start>
+<end>4491.40305</end>
+</instance>
+<instance>
+<ID>344</ID>
+<code>23M AMS</code>
+<start>4735.30005</start>
+<end>4759.30005</end>
+</instance>
+<instance>
+<ID>345</ID>
+<code>23M AMS</code>
+<start>4802.600033333333</start>
+<end>4824.70005</end>
+</instance>
+<instance>
+<ID>346</ID>
+<code>23M AMS</code>
+<start>4984.00005</start>
+<end>4993.490566666666</end>
+</instance>
+<instance>
+<ID>347</ID>
+<code>23M AMS</code>
+<start>4993.500566666667</start>
+<end>4993.590533333333</end>
+</instance>
+<instance>
+<ID>348</ID>
+<code>23M AMS</code>
+<start>4993.600533333333</start>
+<end>4993.6907</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>23M AMS</code>
+<start>4993.7007</start>
+<end>4993.8083</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>23M AMS</code>
+<start>4993.8083</start>
+<end>4993.8183</end>
+</instance>
+<instance>
+<ID>351</ID>
+<code>23M AMS</code>
+<start>4993.8183</start>
+<end>5002.4061833333335</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>23M AMS</code>
+<start>5033.5000666666665</start>
+<end>5050.2006</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>23M AMS</code>
+<start>5189.600033333333</start>
+<end>5213.600033333333</end>
+</instance>
+<instance>
+<ID>354</ID>
+<code>ASC AMS</code>
+<start>1461.5000666666667</start>
+<end>1483.5000666666667</end>
+</instance>
+<instance>
+<ID>355</ID>
+<code>ASC AMS</code>
+<start>1647.0000666666667</start>
+<end>1669.0000666666667</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>ASC AMS</code>
+<start>1697.7000333333333</start>
+<end>1719.7000333333333</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>ASC AMS</code>
+<start>2113.00005</start>
+<end>2135.00005</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>ASC AMS</code>
+<start>4466.2000333333335</start>
+<end>4488.2000333333335</end>
+</instance>
+<instance>
+<ID>359</ID>
+<code>ASC AMS</code>
+<start>4512.5000666666665</start>
+<end>4534.5000666666665</end>
+</instance>
+<instance>
+<ID>360</ID>
+<code>ASC AMS</code>
+<start>4546.00005</start>
+<end>4568.00005</end>
+</instance>
+<instance>
+<ID>361</ID>
+<code>CP AMS</code>
+<start>264.3000333333333</start>
+<end>281.70003333333335</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>CP AMS</code>
+<start>569.9000333333333</start>
+<end>589.7000333333333</end>
+</instance>
+<instance>
+<ID>363</ID>
+<code>CP AMS</code>
+<start>937.7000333333333</start>
+<end>957.7000333333333</end>
+</instance>
+<instance>
+<ID>364</ID>
+<code>CP AMS</code>
+<start>1029.4000666666666</start>
+<end>1038.1000333333334</end>
+</instance>
+<instance>
+<ID>365</ID>
+<code>CP AMS</code>
+<start>1066.0000666666667</start>
+<end>1084.1000333333334</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>CP AMS</code>
+<start>1447.4011166666667</start>
+<end>1457.70005</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>CP AMS</code>
+<start>1467.40255</start>
+<end>1478.3000666666667</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>CP AMS</code>
+<start>1657.50005</start>
+<end>1665.00005</end>
+</instance>
+<instance>
+<ID>369</ID>
+<code>CP AMS</code>
+<start>1801.80005</start>
+<end>1815.7900333333334</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>CP AMS</code>
+<start>1815.8000333333334</start>
+<end>1821.40365</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>CP AMS</code>
+<start>1921.7000333333333</start>
+<end>1937.8001</end>
+</instance>
+<instance>
+<ID>372</ID>
+<code>CP AMS</code>
+<start>2039.60005</start>
+<end>2046.7000333333333</end>
+</instance>
+<instance>
+<ID>373</ID>
+<code>CP AMS</code>
+<start>2065.0000333333332</start>
+<end>2072.6000833333333</end>
+</instance>
+<instance>
+<ID>374</ID>
+<code>CP AMS</code>
+<start>2273.9000333333333</start>
+<end>2282.406716666667</end>
+</instance>
+<instance>
+<ID>375</ID>
+<code>CP AMS</code>
+<start>3534.50005</start>
+<end>3543.600033333333</end>
+</instance>
+<instance>
+<ID>376</ID>
+<code>CP AMS</code>
+<start>3583.600033333333</start>
+<end>3593.50005</end>
+</instance>
+<instance>
+<ID>377</ID>
+<code>CP AMS</code>
+<start>3599.3000333333334</start>
+<end>3609.8000333333334</end>
+</instance>
+<instance>
+<ID>378</ID>
+<code>CP AMS</code>
+<start>3620.70005</start>
+<end>3629.9000833333334</end>
+</instance>
+<instance>
+<ID>379</ID>
+<code>CP AMS</code>
+<start>3747.0000333333332</start>
+<end>3763.4000333333333</end>
+</instance>
+<instance>
+<ID>380</ID>
+<code>CP AMS</code>
+<start>3926.5000833333334</start>
+<end>3934.3000333333334</end>
+</instance>
+<instance>
+<ID>381</ID>
+<code>CP AMS</code>
+<start>3963.3013</start>
+<end>3980.5001333333335</end>
+</instance>
+<instance>
+<ID>382</ID>
+<code>CP AMS</code>
+<start>4340.50005</start>
+<end>4360.50005</end>
+</instance>
+<instance>
+<ID>383</ID>
+<code>CP AMS</code>
+<start>4476.000033333334</start>
+<end>4491.40305</end>
+</instance>
+<instance>
+<ID>384</ID>
+<code>CP AMS</code>
+<start>4807.90005</start>
+<end>4824.70005</end>
+</instance>
+<instance>
+<ID>385</ID>
+<code>CP AMS</code>
+<start>4993.300333333334</start>
+<end>5002.4061833333335</end>
+</instance>
+<instance>
+<ID>386</ID>
+<code>CP AMS</code>
+<start>5039.7007</start>
+<end>5050.2006</end>
+</instance>
+<instance>
+<ID>387</ID>
+<code>CP AMS</code>
+<start>5197.60005</start>
+<end>5217.40005</end>
+</instance>
+<instance>
+<ID>388</ID>
+<code>SC AMS</code>
+<start>1516.2001</start>
+<end>1526.2001</end>
+</instance>
+<instance>
+<ID>389</ID>
+<code>SC AMS</code>
+<start>1704.6000333333334</start>
+<end>1714.6000333333334</end>
+</instance>
+<instance>
+<ID>390</ID>
+<code>SC AMS</code>
+<start>1733.4033666666667</start>
+<end>1739.2000666666668</end>
+</instance>
+<instance>
+<ID>391</ID>
+<code>SC AMS</code>
+<start>2168.8000666666667</start>
+<end>2176.600066666667</end>
+</instance>
+<instance>
+<ID>392</ID>
+<code>SC AMS</code>
+<start>4524.20005</start>
+<end>4530.600033333333</end>
+</instance>
+<instance>
+<ID>393</ID>
+<code>SC AMS</code>
+<start>4543.60005</start>
+<end>4548.50005</end>
+</instance>
+<instance>
+<ID>394</ID>
+<code>SC AMS</code>
+<start>4599.50005</start>
+<end>4606.300066666667</end>
+</instance>
+<instance>
+<ID>395</ID>
+<code>Cirkelpass AMS</code>
+<start>418.60003333333333</start>
+<end>433.60003333333333</end>
+</instance>
+<instance>
+<ID>396</ID>
+<code>Doelpunt AMS</code>
+<start>256.70011666666664</start>
+<end>273.70011666666664</end>
+</instance>
+<instance>
+<ID>397</ID>
+<code>Doelpunt AMS</code>
+<start>344.80005</start>
+<end>361.80005</end>
+</instance>
+<instance>
+<ID>398</ID>
+<code>Doelpunt AMS</code>
+<start>930.3000333333333</start>
+<end>947.3000333333333</end>
+</instance>
+<instance>
+<ID>399</ID>
+<code>Doelpunt AMS</code>
+<start>1506.4017333333334</start>
+<end>1521.89005</end>
+</instance>
+<instance>
+<ID>400</ID>
+<code>Doelpunt AMS</code>
+<start>2159.3000333333334</start>
+<end>2174.790033333333</end>
+</instance>
+<instance>
+<ID>401</ID>
+<code>Doelpunt AMS</code>
+<start>2174.8000333333334</start>
+<end>2174.890033333333</end>
+</instance>
+<instance>
+<ID>402</ID>
+<code>Doelpunt AMS</code>
+<start>4803.4043833333335</start>
+<end>4820.4043833333335</end>
+</instance>
+<instance>
+<ID>403</ID>
+<code>Kans AMS</code>
+<start>229.30008333333333</start>
+<end>246.30008333333333</end>
+</instance>
+<instance>
+<ID>404</ID>
+<code>Kans AMS</code>
+<start>256.0000333333333</start>
+<end>273.0000333333333</end>
+</instance>
+<instance>
+<ID>405</ID>
+<code>Kans AMS</code>
+<start>929.5000333333334</start>
+<end>946.5000333333334</end>
+</instance>
+<instance>
+<ID>406</ID>
+<code>Kans AMS</code>
+<start>1004.8001</start>
+<end>1021.6000333333334</end>
+</instance>
+<instance>
+<ID>407</ID>
+<code>Kans AMS</code>
+<start>1505.00005</start>
+<end>1522.00005</end>
+</instance>
+<instance>
+<ID>408</ID>
+<code>Kans AMS</code>
+<start>1693.1000333333334</start>
+<end>1708.5900833333333</end>
+</instance>
+<instance>
+<ID>409</ID>
+<code>Kans AMS</code>
+<start>1708.6000833333333</start>
+<end>1708.6901166666667</end>
+</instance>
+<instance>
+<ID>410</ID>
+<code>Kans AMS</code>
+<start>1708.7001166666666</start>
+<end>1708.7900833333333</end>
+</instance>
+<instance>
+<ID>411</ID>
+<code>Kans AMS</code>
+<start>1708.8000833333333</start>
+<end>1708.8900333333333</end>
+</instance>
+<instance>
+<ID>412</ID>
+<code>Kans AMS</code>
+<start>1708.9000333333333</start>
+<end>1710.9000333333333</end>
+</instance>
+<instance>
+<ID>413</ID>
+<code>Kans AMS</code>
+<start>1722.4038166666667</start>
+<end>1739.2000666666668</end>
+</instance>
+<instance>
+<ID>414</ID>
+<code>Kans AMS</code>
+<start>1794.8001</start>
+<end>1819.80005</end>
+</instance>
+<instance>
+<ID>415</ID>
+<code>Kans AMS</code>
+<start>2157.60005</start>
+<end>2173.09005</end>
+</instance>
+<instance>
+<ID>416</ID>
+<code>Kans AMS</code>
+<start>2173.10005</start>
+<end>2175.10005</end>
+</instance>
+<instance>
+<ID>417</ID>
+<code>Kans AMS</code>
+<start>2265.0000666666665</start>
+<end>2282.0000666666665</end>
+</instance>
+<instance>
+<ID>418</ID>
+<code>Kans AMS</code>
+<start>3526.9000333333333</start>
+<end>3543.600033333333</end>
+</instance>
+<instance>
+<ID>419</ID>
+<code>Kans AMS</code>
+<start>3739.4000333333333</start>
+<end>3756.4000333333333</end>
+</instance>
+<instance>
+<ID>420</ID>
+<code>Kans AMS</code>
+<start>4512.40425</start>
+<end>4527.890083333333</end>
+</instance>
+<instance>
+<ID>421</ID>
+<code>Kans AMS</code>
+<start>4527.900083333333</start>
+<end>4529.900083333333</end>
+</instance>
+<instance>
+<ID>422</ID>
+<code>Kans AMS</code>
+<start>4531.600066666667</start>
+<end>4547.090066666667</end>
+</instance>
+<instance>
+<ID>423</ID>
+<code>Kans AMS</code>
+<start>4547.100066666667</start>
+<end>4548.50005</end>
+</instance>
+<instance>
+<ID>424</ID>
+<code>Kans AMS</code>
+<start>4587.800033333333</start>
+<end>4603.2903166666665</end>
+</instance>
+<instance>
+<ID>425</ID>
+<code>Kans AMS</code>
+<start>4603.300316666667</start>
+<end>4605.300316666667</end>
+</instance>
+<instance>
+<ID>426</ID>
+<code>Kans AMS</code>
+<start>4800.100133333333</start>
+<end>4817.100133333333</end>
+</instance>
+<instance>
+<ID>427</ID>
+<code>Kans AMS</code>
+<start>4983.70005</start>
+<end>5000.70005</end>
+</instance>
+<instance>
+<ID>428</ID>
+<code>Kans AMS</code>
+<start>5191.80005</start>
+<end>5208.80005</end>
+</instance>
+<instance>
+<ID>429</ID>
+<code>Groen AMS</code>
+<start>1950.7000333333333</start>
+<end>1965.7000333333333</end>
+</instance>
+<instance>
+<ID>430</ID>
+<code>Groen OR</code>
+<start>2220.3000333333334</start>
+<end>2235.3000333333334</end>
+</instance>
+<instance>
+<ID>431</ID>
+<code>Groen OR</code>
+<start>3408.3001</start>
+<end>3423.3001</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>BS0 OR</code>
+<R>0</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>BS1 OR</code>
+<R>0</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>BS2 OR</code>
+<R>0</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>BS3 OR</code>
+<R>0</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>BS4 OR</code>
+<R>0</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>BW1 OR</code>
+<R>0</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>BW2 OR</code>
+<R>0</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>BW3 OR</code>
+<R>0</R>
+<G>0</G>
+<B>0</B>
+</row>
+<row>
+<code>BS0 AMS</code>
+<R>2313</R>
+<G>2313</G>
+<B>2313</B>
+</row>
+<row>
+<code>BS1 AMS</code>
+<R>2313</R>
+<G>2313</G>
+<B>2313</B>
+</row>
+<row>
+<code>BS2 AMS</code>
+<R>2313</R>
+<G>2313</G>
+<B>2313</B>
+</row>
+<row>
+<code>BS3 AMS</code>
+<R>2313</R>
+<G>2313</G>
+<B>2313</B>
+</row>
+<row>
+<code>BS4 AMS</code>
+<R>2313</R>
+<G>2313</G>
+<B>2313</B>
+</row>
+<row>
+<code>BW1 AMS</code>
+<R>2313</R>
+<G>2313</G>
+<B>2313</B>
+</row>
+<row>
+<code>BW2 AMS</code>
+<R>2313</R>
+<G>2313</G>
+<B>2313</B>
+</row>
+<row>
+<code>BW3 AMS</code>
+<R>2313</R>
+<G>2313</G>
+<B>2313</B>
+</row>
+<row>
+<code>BW4 AMS</code>
+<R>2313</R>
+<G>2313</G>
+<B>2313</B>
+</row>
+<row>
+<code>23M OR</code>
+<R>11051</R>
+<G>11051</G>
+<B>11051</B>
+</row>
+<row>
+<code>ASC OR</code>
+<R>11051</R>
+<G>11051</G>
+<B>11051</B>
+</row>
+<row>
+<code>CP OR</code>
+<R>11051</R>
+<G>11051</G>
+<B>11051</B>
+</row>
+<row>
+<code>Doelpunt OR</code>
+<R>11051</R>
+<G>11051</G>
+<B>11051</B>
+</row>
+<row>
+<code>Kans OR</code>
+<R>11051</R>
+<G>11051</G>
+<B>11051</B>
+</row>
+<row>
+<code>SC OR</code>
+<R>11051</R>
+<G>11051</G>
+<B>11051</B>
+</row>
+<row>
+<code>23M AMS</code>
+<R>16448</R>
+<G>16448</G>
+<B>16448</B>
+</row>
+<row>
+<code>ASC AMS</code>
+<R>16448</R>
+<G>16448</G>
+<B>16448</B>
+</row>
+<row>
+<code>CP AMS</code>
+<R>16448</R>
+<G>16448</G>
+<B>16448</B>
+</row>
+<row>
+<code>SC AMS</code>
+<R>16448</R>
+<G>16448</G>
+<B>16448</B>
+</row>
+<row>
+<code>Cirkelpass AMS</code>
+<R>16448</R>
+<G>16448</G>
+<B>16448</B>
+</row>
+<row>
+<code>Doelpunt AMS</code>
+<R>16448</R>
+<G>16448</G>
+<B>16448</B>
+</row>
+<row>
+<code>Kans AMS</code>
+<R>16448</R>
+<G>16448</G>
+<B>16448</B>
+</row>
+<row>
+<code>Groen AMS</code>
+<R>0</R>
+<G>41634</G>
+<B>0</B>
+</row>
+<row>
+<code>Groen OR</code>
+<R>0</R>
+<G>41634</G>
+<B>0</B>
+</row>
+<row>
+<code>SPECIAL -</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>SPECIAL +</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Amber</code>
+<R>15420</R>
+<G>1542</G>
+<B>1285</B>
+</row>
+<row>
+<code>Juul</code>
+<R>15420</R>
+<G>1542</G>
+<B>1285</B>
+</row>
+<row>
+<code>Renske</code>
+<R>15420</R>
+<G>1542</G>
+<B>1285</B>
+</row>
+<row>
+<code>Thirza</code>
+<R>15420</R>
+<G>1542</G>
+<B>1285</B>
+</row>
+</ROWS>
+</file>

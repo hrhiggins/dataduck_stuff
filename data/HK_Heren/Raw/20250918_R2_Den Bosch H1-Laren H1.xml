@@ -1,0 +1,2209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>ARBITRAGE</code>
+<start>6193.497159177739</start>
+<end>6231.775391606154</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>ASC DBS</code>
+<start>1761.2009333333333</start>
+<end>1771.2009333333333</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>ASC DBS</code>
+<start>1814.20005</start>
+<end>1824.20005</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>ASC DBS</code>
+<start>1932.4000333333333</start>
+<end>1942.4000333333333</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>ASC DBS</code>
+<start>5275.903783333333</start>
+<end>5285.903783333333</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>ASC DBS</code>
+<start>6540.400033333333</start>
+<end>6550.400033333333</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>ASC LAR</code>
+<start>2421.5000333333332</start>
+<end>2431.5000333333332</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>ASC LAR</code>
+<start>2466.0001</start>
+<end>2476.0001</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>ASC LAR</code>
+<start>2488.3000333333334</start>
+<end>2498.3000333333334</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>ASC LAR</code>
+<start>6426.452433208955</start>
+<end>6445.900116666667</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>ASC LAR</code>
+<start>6678.500166666667</start>
+<end>6688.500166666667</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>ASC LAR</code>
+<start>6729.1001</start>
+<end>6739.1001</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>BS1 DBS</code>
+<start>2052.2001</start>
+<end>2081.3000666666667</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>BS1 DBS</code>
+<start>2571.00005</start>
+<end>2594.20005</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>BS1 DBS</code>
+<start>2623.5001</start>
+<end>2675.3000333333334</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>BS1 DBS</code>
+<start>3130.4000333333333</start>
+<end>3150.60005</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>BS1 DBS</code>
+<start>3223.7000666666668</start>
+<end>3237.90005</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>BS1 DBS</code>
+<start>3368.90005</start>
+<end>3387.500066666667</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>BS1 DBS</code>
+<start>3460.100066666667</start>
+<end>3486.40005</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>BS1 DBS</code>
+<start>3657.300116666667</start>
+<end>3668.7000333333335</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>BS1 DBS</code>
+<start>3728.1000333333336</start>
+<end>3740.3000333333334</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>BS1 DBS</code>
+<start>3795.90005</start>
+<end>3811.2000166666667</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>BS1 DBS</code>
+<start>4717.7001</start>
+<end>4758.30005</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>BS1 DBS</code>
+<start>4801.90005</start>
+<end>4863.7000333333335</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>BS1 DBS</code>
+<start>5072.000033333333</start>
+<end>5089.80015</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>BS1 DBS</code>
+<start>5393.300033333333</start>
+<end>5403.400033333333</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>BS1 DBS</code>
+<start>6041.800083333333</start>
+<end>6061.7000499999995</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>BS1 DBS</code>
+<start>6152.200033333333</start>
+<end>6167.000099999999</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>BS1 DBS</code>
+<start>6261.500033333333</start>
+<end>6287.500016666666</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>BS1 DBS</code>
+<start>6357.400033333333</start>
+<end>6394.700033333333</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>BS1 LAR</code>
+<start>1604.5000333333332</start>
+<end>1643.5000333333332</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>BS1 LAR</code>
+<start>1689.3000666666667</start>
+<end>1696.6000666666666</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>BS1 LAR</code>
+<start>2107.3000333333334</start>
+<end>2114.10005</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>BS1 LAR</code>
+<start>2162.8000333333334</start>
+<end>2176.8000666666667</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>BS1 LAR</code>
+<start>2214.8000666666667</start>
+<end>2227.90005</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>BS1 LAR</code>
+<start>2291.9000166666665</start>
+<end>2332.8000333333334</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>BS1 LAR</code>
+<start>2332.8100333333336</start>
+<end>2369.7000333333335</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>BS1 LAR</code>
+<start>2677.000016666667</start>
+<end>2685.00005</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>BS1 LAR</code>
+<start>2917.5018333333333</start>
+<end>2952.8000333333334</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>BS1 LAR</code>
+<start>2979.7000166666667</start>
+<end>3004.2000166666667</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>BS1 LAR</code>
+<start>3040.5000333333332</start>
+<end>3046.1000333333336</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>BS1 LAR</code>
+<start>3508.2000666666668</start>
+<end>3539.2000166666667</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>BS1 LAR</code>
+<start>3569.5000333333332</start>
+<end>3589.00005</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>BS1 LAR</code>
+<start>3812.7000333333335</start>
+<end>3822.3002500000002</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>BS1 LAR</code>
+<start>4576.500033333333</start>
+<end>4594.100083333333</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>BS1 LAR</code>
+<start>4705.400033333333</start>
+<end>4712.2001</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>BS1 LAR</code>
+<start>4779.900083333333</start>
+<end>4793.60005</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>BS1 LAR</code>
+<start>4879.60005</start>
+<end>4895.800033333333</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>BS1 LAR</code>
+<start>4971.500333333333</start>
+<end>4994.7000333333335</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>BS1 LAR</code>
+<start>5030.400033333333</start>
+<end>5047.100066666666</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>BS1 LAR</code>
+<start>5047.110066666666</start>
+<end>5060.100316666666</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>BS1 LAR</code>
+<start>5098.900066666666</start>
+<end>5119.000016666666</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>BS1 LAR</code>
+<start>5348.100083333333</start>
+<end>5363.100216666667</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>BS1 LAR</code>
+<start>5418.200033333333</start>
+<end>5425.400033333333</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>BS1 LAR</code>
+<start>5800.3000999999995</start>
+<end>5815.400049999999</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>BS1 LAR</code>
+<start>5816.100066666666</start>
+<end>5828.300033333333</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>BS1 LAR</code>
+<start>5892.4001</start>
+<end>5901.900033333333</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>BS1 LAR</code>
+<start>5938.7001</start>
+<end>5951.500033333333</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>BS1 LAR</code>
+<start>5981.400033333333</start>
+<end>5994.700066666666</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>BS1 LAR</code>
+<start>5996.30005</start>
+<end>6008.500033333333</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>BS1 LAR</code>
+<start>6023.000033333333</start>
+<end>6038.300033333333</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>BS1 LAR</code>
+<start>6319.402099999999</start>
+<end>6335.400033333333</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>BS1 LAR</code>
+<start>6641.400066666666</start>
+<end>6652.500099999999</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>BS2 DBS</code>
+<start>1495.1000666666666</start>
+<end>1508.50005</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>BS2 DBS</code>
+<start>2228.9001</start>
+<end>2239.300116666667</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>BS2 DBS</code>
+<start>2840.100066666667</start>
+<end>2849.7000666666668</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>BS2 DBS</code>
+<start>2954.4000166666665</start>
+<end>2966.90005</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>BS2 DBS</code>
+<start>3269.000266666667</start>
+<end>3281.10005</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>BS2 DBS</code>
+<start>3385.900016666667</start>
+<end>3443.500066666667</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>BS2 DBS</code>
+<start>3696.8000833333335</start>
+<end>3717.6000333333336</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>BS2 DBS</code>
+<start>4523.700083333333</start>
+<end>4560.900116666667</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>BS2 DBS</code>
+<start>5220.300033333333</start>
+<end>5236.300033333333</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>BS2 DBS</code>
+<start>5468.900033333333</start>
+<end>5499.600016666666</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>BS2 DBS</code>
+<start>5694.7000499999995</start>
+<end>5717.00005</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>BS2 DBS</code>
+<start>6513.500083333333</start>
+<end>6525.800033333333</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>BS2 DBS</code>
+<start>6634.400066666666</start>
+<end>6643.500083333333</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>BS2 DBS</code>
+<start>6778.500099999999</start>
+<end>6800.300083333333</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>BS2 LAR</code>
+<start>1508.5000333333332</start>
+<end>1537.2000333333333</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>BS2 LAR</code>
+<start>1694.4000166666665</start>
+<end>1703.8000333333334</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>BS2 LAR</code>
+<start>1888.4002666666665</start>
+<end>1898.8001</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>BS2 LAR</code>
+<start>2011.9001166666667</start>
+<end>2047.1001666666666</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>BS2 LAR</code>
+<start>2079.2001166666664</start>
+<end>2084.100033333333</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>BS2 LAR</code>
+<start>2180.2000333333335</start>
+<end>2205.2000166666667</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>BS2 LAR</code>
+<start>2370.7000333333335</start>
+<end>2388.3000166666666</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>BS2 LAR</code>
+<start>2390.700083333333</start>
+<end>2407.600716666667</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>BS2 LAR</code>
+<start>3044.600066666667</start>
+<end>3068.0000333333332</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>BS2 LAR</code>
+<start>3352.2000166666667</start>
+<end>3362.40005</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>BS2 LAR</code>
+<start>3773.4000333333333</start>
+<end>3785.7000333333335</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>BS2 LAR</code>
+<start>4502.3000833333335</start>
+<end>4519.000033333333</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>BS2 LAR</code>
+<start>4895.100033333333</start>
+<end>4914.600016666666</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>BS2 LAR</code>
+<start>4914.6100166666665</start>
+<end>4927.400066666666</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>BS2 LAR</code>
+<start>5361.9000166666665</start>
+<end>5369.900033333333</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>BS2 LAR</code>
+<start>5376.4000166666665</start>
+<end>5389.300016666666</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>BS2 LAR</code>
+<start>5623.700066666666</start>
+<end>5651.600066666666</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>BS2 LAR</code>
+<start>5653.900299999999</start>
+<end>5669.900033333333</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>BS2 LAR</code>
+<start>6113.100033333333</start>
+<end>6139.900033333333</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>BS2 LAR</code>
+<start>6217.60005</start>
+<end>6230.500099999999</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>BS2 LAR</code>
+<start>6619.800066666667</start>
+<end>6625.000083333333</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>BS2 LAR</code>
+<start>6659.00005</start>
+<end>6665.800033333333</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>BS2 LAR</code>
+<start>6812.7000499999995</start>
+<end>6820.8000999999995</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>BS3 DBS</code>
+<start>1669.5000833333334</start>
+<end>1675.1000333333332</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>BS3 DBS</code>
+<start>1921.9000333333333</start>
+<end>1933.5000333333332</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>BS3 DBS</code>
+<start>2119.300116666667</start>
+<end>2144.7000666666668</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>BS3 DBS</code>
+<start>2144.710066666667</start>
+<end>2152.40005</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>BS3 DBS</code>
+<start>2592.500016666667</start>
+<end>2606.500016666667</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>BS3 DBS</code>
+<start>2904.8000166666666</start>
+<end>2912.0000333333332</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>BS3 DBS</code>
+<start>3084.5000333333332</start>
+<end>3094.70005</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>BS3 DBS</code>
+<start>3237.90025</start>
+<end>3264.70005</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>BS3 DBS</code>
+<start>3312.90005</start>
+<end>3323.6000333333336</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>BS3 DBS</code>
+<start>3595.0000333333332</start>
+<end>3622.40005</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>BS3 DBS</code>
+<start>4931.60005</start>
+<end>4943.300033333333</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>BS3 DBS</code>
+<start>5266.10005</start>
+<end>5282.4000166666665</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>BS3 DBS</code>
+<start>5954.500033333333</start>
+<end>5967.700033333333</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>BS3 DBS</code>
+<start>6006.800033333333</start>
+<end>6017.10005</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>BS3 DBS</code>
+<start>6065.400033333333</start>
+<end>6081.600016666666</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>BS3 LAR</code>
+<start>1547.90005</start>
+<end>1562.0000333333332</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>BS3 LAR</code>
+<start>2532.10005</start>
+<end>2544.60005</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>BS3 LAR</code>
+<start>2618.8000666666667</start>
+<end>2625.100033333333</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>BS3 LAR</code>
+<start>2685.3000333333334</start>
+<end>2691.9000833333334</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>BS3 LAR</code>
+<start>3007.9000333333333</start>
+<end>3024.6000333333336</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>BS3 LAR</code>
+<start>3153.3000333333334</start>
+<end>3203.6000333333336</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>BS3 LAR</code>
+<start>3203.610033333334</start>
+<end>3219.4000666666666</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>BS3 LAR</code>
+<start>3648.8000500000003</start>
+<end>3659.50005</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>BS3 LAR</code>
+<start>3723.6000333333336</start>
+<end>3730.6000166666668</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>BS3 LAR</code>
+<start>3788.500066666667</start>
+<end>3798.3000166666666</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>BS3 LAR</code>
+<start>4711.0001</start>
+<end>4719.300033333333</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>BS3 LAR</code>
+<start>4791.900083333333</start>
+<end>4801.900033333333</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>BS3 LAR</code>
+<start>5058.10005</start>
+<end>5065.500016666666</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>BS3 LAR</code>
+<start>5146.1003</start>
+<end>5164.800066666667</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>BS3 LAR</code>
+<start>5686.200033333333</start>
+<end>5695.800033333333</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>BS3 LAR</code>
+<start>5831.500016666666</start>
+<end>5847.00005</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>BS3 LAR</code>
+<start>6177.200033333333</start>
+<end>6207.000033333333</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>BS3 LAR</code>
+<start>6333.300016666666</start>
+<end>6338.30005</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>BS4 DBS</code>
+<start>1679.9000333333333</start>
+<end>1687.9000333333333</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>BS4 DBS</code>
+<start>1751.90015</start>
+<end>1771.2009333333333</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>BS4 DBS</code>
+<start>2272.5001333333335</start>
+<end>2288.2006333333334</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>BS4 DBS</code>
+<start>2885.2000333333335</start>
+<end>2891.0001166666666</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>BS4 DBS</code>
+<start>2892.100033333333</start>
+<end>2907.40005</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>BS4 DBS</code>
+<start>3068.8002666666666</start>
+<end>3086.90005</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>BS4 DBS</code>
+<start>3092.20005</start>
+<end>3109.9000333333333</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>BS4 DBS</code>
+<start>3112.8000333333334</start>
+<end>3121.20005</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>BS4 DBS</code>
+<start>3287.8000166666666</start>
+<end>3315.4000333333333</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>BS4 DBS</code>
+<start>3322.3000500000003</start>
+<end>3328.6000333333336</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>BS4 DBS</code>
+<start>3339.5000333333332</start>
+<end>3344.3000166666666</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>BS4 DBS</code>
+<start>4605.800033333333</start>
+<end>4659.400083333333</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>BS4 DBS</code>
+<start>4678.300433333333</start>
+<end>4689.900033333333</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>BS4 DBS</code>
+<start>4689.910033333334</start>
+<end>4699.9001</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>BS4 DBS</code>
+<start>4699.9101</start>
+<end>4706.6001166666665</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>BS4 DBS</code>
+<start>4762.9000166666665</start>
+<end>4776.300033333333</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>BS4 DBS</code>
+<start>5256.70035</start>
+<end>5265.300066666667</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>BS4 DBS</code>
+<start>5411.000033333333</start>
+<end>5420.400033333333</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>BS4 DBS</code>
+<start>5718.500033333333</start>
+<end>5731.7000499999995</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>BS4 DBS</code>
+<start>5732.80005</start>
+<end>5754.600066666666</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>BS4 DBS</code>
+<start>5845.500033333333</start>
+<end>5874.700033333333</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>BS4 DBS</code>
+<start>6534.3000999999995</start>
+<end>6550.400033333333</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>BS4 LAR</code>
+<start>1564.5001499999998</start>
+<end>1583.7000833333332</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>BS4 LAR</code>
+<start>1643.5000333333332</start>
+<end>1657.3001</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>BS4 LAR</code>
+<start>2418.6001</start>
+<end>2431.5000333333332</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>BS4 LAR</code>
+<start>5129.700016666667</start>
+<end>5141.7000499999995</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>BS4 LAR</code>
+<start>5185.9000166666665</start>
+<end>5195.600033333333</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>BS4 LAR</code>
+<start>6138.500083333333</start>
+<end>6154.80005</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>BS4 LAR</code>
+<start>6412.900033333333</start>
+<end>6427.3000999999995</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>BS4 LAR</code>
+<start>6678.500033333333</start>
+<end>6688.500166666667</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>BW1 DBS</code>
+<start>1556.7000666666668</start>
+<end>1565.7000333333333</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>BW1 DBS</code>
+<start>1656.6000166666668</start>
+<end>1670.6000333333332</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>BW1 DBS</code>
+<start>1698.3000333333334</start>
+<end>1738.50005</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>BW1 DBS</code>
+<start>2516.9000333333333</start>
+<end>2531.40005</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>BW1 DBS</code>
+<start>5005.700016666667</start>
+<end>5031.300033333333</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>BW1 DBS</code>
+<start>5115.10005</start>
+<end>5130.300016666666</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>BW1 DBS</code>
+<start>5190.100033333333</start>
+<end>5201.700016666667</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>BW1 DBS</code>
+<start>5456.100033333333</start>
+<end>5466.000033333333</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>BW1 DBS</code>
+<start>5664.300033333333</start>
+<end>5686.600016666666</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>BW1 DBS</code>
+<start>6345.300033333333</start>
+<end>6358.700033333333</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>BW1 DBS</code>
+<start>6421.700033333333</start>
+<end>6430.6001</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>BW1 LAR</code>
+<start>1906.6000333333332</start>
+<end>1916.4000333333333</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>BW1 LAR</code>
+<start>2601.5000833333334</start>
+<end>2614.2000666666668</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>BW1 LAR</code>
+<start>3115.9000333333333</start>
+<end>3130.6000333333336</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>BW1 LAR</code>
+<start>3321.6000333333336</start>
+<end>3331.9000666666666</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>BW1 LAR</code>
+<start>3339.00005</start>
+<end>3353.7000333333335</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>BW1 LAR</code>
+<start>3441.3000333333334</start>
+<end>3459.5000333333332</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>BW1 LAR</code>
+<start>3482.0000333333332</start>
+<end>3494.6000333333336</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>BW1 LAR</code>
+<start>3618.3000833333335</start>
+<end>3645.8000500000003</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>BW1 LAR</code>
+<start>4598.4000166666665</start>
+<end>4606.000016666667</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>BW1 LAR</code>
+<start>4654.2000499999995</start>
+<end>4667.700083333333</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>BW1 LAR</code>
+<start>4755.1001166666665</start>
+<end>4764.500033333333</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>BW1 LAR</code>
+<start>4770.900033333333</start>
+<end>4780.800033333333</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>BW1 LAR</code>
+<start>4943.4000166666665</start>
+<end>4953.1001166666665</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>BW1 LAR</code>
+<start>4953.2001</start>
+<end>4961.100066666667</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>BW1 LAR</code>
+<start>5431.100016666666</start>
+<end>5461.600033333333</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>BW1 LAR</code>
+<start>5780.700016666667</start>
+<end>5789.500083333333</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>BW1 LAR</code>
+<start>5919.000016666666</start>
+<end>5933.7000499999995</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>BW1 LAR</code>
+<start>6162.600033333333</start>
+<end>6177.100033333333</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>BW1 LAR</code>
+<start>6395.700033333333</start>
+<end>6413.300033333333</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>BW1 LAR</code>
+<start>6799.900066666666</start>
+<end>6809.1006</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>BW3 DBS</code>
+<start>1531.9000333333333</start>
+<end>1543.7001166666666</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>BW3 DBS</code>
+<start>3019.30015</start>
+<end>3039.7000333333335</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>BW3 DBS</code>
+<start>3489.1000333333336</start>
+<end>3510.00005</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>BW3 DBS</code>
+<start>4588.600033333333</start>
+<end>4603.4000166666665</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>BW3 DBS</code>
+<start>4662.6001</start>
+<end>4680.600033333333</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>BW3 DBS</code>
+<start>4922.0001999999995</start>
+<end>4933.600083333333</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>BW3 DBS</code>
+<start>5758.50005</start>
+<end>5785.700033333333</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>BW3 DBS</code>
+<start>5946.100183333333</start>
+<end>5956.9000166666665</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>BW3 DBS</code>
+<start>6201.500033333333</start>
+<end>6214.9000166666665</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>BW3 DBS</code>
+<start>6524.500116666666</start>
+<end>6536.700066666666</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>BW3 LAR</code>
+<start>4994.3000833333335</start>
+<end>5011.200033333333</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>BW3 LAR</code>
+<start>5196.4000166666665</start>
+<end>5220.900033333333</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>BW3 LAR</code>
+<start>6338.10005</start>
+<end>6350.700033333333</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>BW4 DBS</code>
+<start>1911.20005</start>
+<end>1921.4000333333333</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>BW4 DBS</code>
+<start>2200.2000666666668</start>
+<end>2215.60005</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>BW4 DBS</code>
+<start>3326.4000333333333</start>
+<end>3342.00005</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>BW4 DBS</code>
+<start>4947.8000833333335</start>
+<end>4958.2000333333335</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>BW4 DBS</code>
+<start>5869.300033333333</start>
+<end>5884.400033333333</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>BW4 LAR</code>
+<start>6423.6001</start>
+<end>6445.900116666667</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>CP DBS</code>
+<start>1724.4000166666665</start>
+<end>1738.50005</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>CP DBS</code>
+<start>1901.1000333333332</start>
+<end>1911.8000333333334</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>CP DBS</code>
+<start>1923.7000166666667</start>
+<end>1942.4000333333333</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>CP DBS</code>
+<start>2149.0001166666666</start>
+<end>2160.100033333333</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>CP DBS</code>
+<start>2320.9000166666665</start>
+<end>2331.4000333333333</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>CP DBS</code>
+<start>2896.500016666667</start>
+<end>2907.40005</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>CP DBS</code>
+<start>2907.4100500000004</start>
+<end>2915.4000333333333</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>CP DBS</code>
+<start>3027.3000666666667</start>
+<end>3037.90005</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>CP DBS</code>
+<start>3254.0000333333332</start>
+<end>3264.70005</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>CP DBS</code>
+<start>3611.7000333333335</start>
+<end>3622.40005</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>CP DBS</code>
+<start>3731.9000333333333</start>
+<end>3745.8000500000003</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>CP DBS</code>
+<start>3800.9000333333333</start>
+<end>3811.2000166666667</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>CP DBS</code>
+<start>4550.200066666666</start>
+<end>4560.900116666667</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>CP DBS</code>
+<start>4591.500316666667</start>
+<end>4601.6001166666665</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>CP DBS</code>
+<start>4684.1001166666665</start>
+<end>4699.9001</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>CP DBS</code>
+<start>4747.7000333333335</start>
+<end>4758.30005</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>CP DBS</code>
+<start>4853.100066666667</start>
+<end>4863.7000333333335</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>CP DBS</code>
+<start>4932.7000333333335</start>
+<end>4943.300033333333</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>CP DBS</code>
+<start>5010.600083333333</start>
+<end>5031.300033333333</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>CP DBS</code>
+<start>5079.000016666666</start>
+<end>5089.80015</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>CP DBS</code>
+<start>5272.100033333333</start>
+<end>5282.4000166666665</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>CP DBS</code>
+<start>5398.000033333333</start>
+<end>5413.500033333333</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>CP DBS</code>
+<start>5413.510033333333</start>
+<end>5420.400033333333</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>CP DBS</code>
+<start>5489.300016666666</start>
+<end>5499.600016666666</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>CP DBS</code>
+<start>5706.500033333333</start>
+<end>5717.00005</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>CP DBS</code>
+<start>5768.800016666666</start>
+<end>5779.500133333333</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>CP DBS</code>
+<start>5867.100033333333</start>
+<end>5877.900033333333</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>CP DBS</code>
+<start>5911.800116666666</start>
+<end>5924.30005</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>CP DBS</code>
+<start>6008.100033333333</start>
+<end>6024.800116666666</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>CP DBS</code>
+<start>6307.7000499999995</start>
+<end>6319.300033333333</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>CP DBS</code>
+<start>6533.500033333333</start>
+<end>6550.400033333333</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>CP DBS</code>
+<start>6794.3000999999995</start>
+<end>6805.200016666667</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>CP LAR</code>
+<start>1549.2000666666668</start>
+<end>1562.0000333333332</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>CP LAR</code>
+<start>1647.7000166666667</start>
+<end>1662.0000333333332</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>CP LAR</code>
+<start>2417.70005</start>
+<end>2431.5000333333332</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>CP LAR</code>
+<start>2529.5000333333332</start>
+<end>2544.60005</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>CP LAR</code>
+<start>3205.70005</start>
+<end>3219.4000666666666</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>CP LAR</code>
+<start>3719.90005</start>
+<end>3730.6000166666668</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>CP LAR</code>
+<start>4995.500033333333</start>
+<end>5011.200033333333</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>CP LAR</code>
+<start>5184.200083333333</start>
+<end>5195.600033333333</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>CP LAR</code>
+<start>5658.512066666666</start>
+<end>5669.900033333333</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>CP LAR</code>
+<start>6138.800033333333</start>
+<end>6154.80005</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>EIND</code>
+<start>2691.7000666666668</start>
+<end>2693.7000666666668</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>EIND</code>
+<start>3823.2001833333334</start>
+<end>3825.2001833333334</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>EIND</code>
+<start>5503.800066666667</start>
+<end>5505.800066666667</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>EIND</code>
+<start>6820.9000166666665</start>
+<end>6822.9000166666665</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>GOAL DBS</code>
+<start>1853.90005</start>
+<end>1868.90005</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>GOAL DBS</code>
+<start>1978.5000833333334</start>
+<end>1993.5000833333334</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>GOAL DBS</code>
+<start>3730.8000500000003</start>
+<end>3745.8000500000003</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>GOAL DBS</code>
+<start>6586.50005</start>
+<end>6601.50005</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>GOAL LAR</code>
+<start>6477.800033333333</start>
+<end>6492.800033333333</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>GOAL LAR</code>
+<start>6751.800016666666</start>
+<end>6766.800016666666</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>GROEN DBS</code>
+<start>5354.000499999999</start>
+<end>5504.000499999999</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>Hoge Bal DBS</code>
+<start>1759.4000166666665</start>
+<end>1772.4000166666665</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>Hoge Bal DBS</code>
+<start>2145.0000666666665</start>
+<end>2158.0000666666665</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>Hoge Bal DBS</code>
+<start>2584.90005</start>
+<end>2594.20005</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>Hoge Bal DBS</code>
+<start>3084.90005</start>
+<end>3094.70005</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>Hoge Bal DBS</code>
+<start>3228.3000500000003</start>
+<end>3237.90005</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>Hoge Bal DBS</code>
+<start>3614.0000333333332</start>
+<end>3623.2000333333335</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>Hoge Bal DBS</code>
+<start>4554.001083333334</start>
+<end>4567.001083333334</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>Hoge Bal DBS</code>
+<start>4850.300033333333</start>
+<end>4863.300033333333</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>Hoge Bal DBS</code>
+<start>5084.406233333333</start>
+<end>5096.590033333333</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>Hoge Bal DBS</code>
+<start>5392.30005</start>
+<end>5405.30005</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>Hoge Bal DBS</code>
+<start>5426.900033333333</start>
+<end>5436.500033333333</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>Hoge Bal DBS</code>
+<start>5474.300033333333</start>
+<end>5487.300033333333</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>Hoge Bal DBS</code>
+<start>5492.600016666666</start>
+<end>5503.600033333333</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>Hoge Bal DBS</code>
+<start>5742.500033333333</start>
+<end>5754.600066666666</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>Hoge Bal DBS</code>
+<start>5778.100033333333</start>
+<end>5785.700033333333</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>Hoge Bal DBS</code>
+<start>6151.400049999999</start>
+<end>6164.400049999999</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>Hoge Bal DBS</code>
+<start>6268.200033333333</start>
+<end>6281.200033333333</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>Hoge Bal DBS</code>
+<start>6386.2000499999995</start>
+<end>6399.2000499999995</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>Hoge Bal DBS</code>
+<start>6633.700033333333</start>
+<end>6639.590133333333</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>Hoge Bal DBS</code>
+<start>6639.600133333333</start>
+<end>6643.500083333333</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>Hoge Bal LAR</code>
+<start>1694.5000166666666</start>
+<end>1703.8000333333334</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>Hoge Bal LAR</code>
+<start>2106.6000166666668</start>
+<end>2114.10005</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>Hoge Bal LAR</code>
+<start>2943.5000333333332</start>
+<end>2952.8000333333334</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>Hoge Bal LAR</code>
+<start>3122.7000833333336</start>
+<end>3130.6000333333336</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>Hoge Bal LAR</code>
+<start>3650.7000833333336</start>
+<end>3659.50005</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>Hoge Bal LAR</code>
+<start>3789.0000333333332</start>
+<end>3798.3000166666666</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>Hoge Bal LAR</code>
+<start>4510.0000666666665</start>
+<end>4519.000033333333</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>Hoge Bal LAR</code>
+<start>4660.7000333333335</start>
+<end>4667.700083333333</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>Hoge Bal LAR</code>
+<start>4784.100066666667</start>
+<end>4793.60005</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>Hoge Bal LAR</code>
+<start>4793.61005</start>
+<end>4801.900033333333</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>Hoge Bal LAR</code>
+<start>5656.800116666666</start>
+<end>5669.800116666666</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>Hoge Bal LAR</code>
+<start>5833.100149999999</start>
+<end>5846.100149999999</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>Hoge Bal LAR</code>
+<start>6812.700116666666</start>
+<end>6820.8000999999995</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>Kans DBS</code>
+<start>1724.9000333333333</start>
+<end>1737.9000333333333</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>Kans DBS</code>
+<start>2203.8000333333334</start>
+<end>2215.60005</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>Kans DBS</code>
+<start>3028.1000333333336</start>
+<end>3039.7000333333335</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>Kans DBS</code>
+<start>3254.8000333333334</start>
+<end>3267.8000333333334</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>Kans DBS</code>
+<start>4551.100033333333</start>
+<end>4564.100033333333</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>Kans DBS</code>
+<start>4564.110033333333</start>
+<end>4572.50005</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>Kans DBS</code>
+<start>4592.7000333333335</start>
+<end>4603.4000166666665</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>Kans DBS</code>
+<start>4688.500083333333</start>
+<end>4699.9001</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>Kans DBS</code>
+<start>5330.300083333333</start>
+<end>5340.9099166666665</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>Kans DBS</code>
+<start>5872.500033333333</start>
+<end>5884.400033333333</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>Kans DBS</code>
+<start>6534.300033333333</start>
+<end>6547.300033333333</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>Kans LAR</code>
+<start>6483.400033333333</start>
+<end>6493.990033333333</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>Kans LAR</code>
+<start>6494.000033333333</start>
+<end>6497.000033333333</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>Q1</code>
+<start>1497.5000333333332</start>
+<end>2693.7000666666668</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>Q2</code>
+<start>2835.500016666667</start>
+<end>3825.2001833333334</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>Q3</code>
+<start>4504.400083333333</start>
+<end>5505.800066666667</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>Q4</code>
+<start>5626.000033333333</start>
+<end>6822.9000166666665</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>SC DBS</code>
+<start>1809.0000833333334</start>
+<end>1821.0000833333334</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>SC DBS</code>
+<start>1854.6000666666666</start>
+<end>1866.6000666666666</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>SC DBS</code>
+<start>1979.7001166666664</start>
+<end>1991.7001166666664</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>SC DBS</code>
+<start>5321.700283333333</start>
+<end>5333.700283333333</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>SC DBS</code>
+<start>6584.700083333333</start>
+<end>6596.700083333333</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>SC LAR</code>
+<start>2464.2001</start>
+<end>2473.10005</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>SC LAR</code>
+<start>2485.90005</start>
+<end>2497.90005</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>SC LAR</code>
+<start>2508.3000666666667</start>
+<end>2520.3000666666667</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>SC LAR</code>
+<start>6476.300833333333</start>
+<end>6488.300833333333</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>SC LAR</code>
+<start>6727.10005</start>
+<end>6739.10005</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>SC LAR</code>
+<start>6752.300016666666</start>
+<end>6764.300016666666</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>START</code>
+<start>1496.5000333333332</start>
+<end>1499.5000333333332</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>START</code>
+<start>2834.500016666667</start>
+<end>2837.500016666667</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>START</code>
+<start>4503.400083333333</start>
+<end>4506.400083333333</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>START</code>
+<start>5625.000033333333</start>
+<end>5628.000033333333</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ARBITRAGE</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>ASC LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS1 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS1 LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS2 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS2 LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS3 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS3 LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS4 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BS4 LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW1 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW1 LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW2 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW2 LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW3 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW3 LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>BW4 DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>BW4 LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>CP LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>EIND</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>GOAL LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>GROEN DBS</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+<row>
+<code>Hoge Bal DBS</code>
+<R>0</R>
+<G>63993</G>
+<B>0</B>
+</row>
+<row>
+<code>Hoge Bal LAR</code>
+<R>65536</R>
+<G>16448</G>
+<B>65536</B>
+</row>
+<row>
+<code>Kans DBS</code>
+<R>47545</R>
+<G>64764</G>
+<B>52428</B>
+</row>
+<row>
+<code>Kans LAR</code>
+<R>47545</R>
+<G>52428</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q1</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q2</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q3</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Q4</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>SC DBS</code>
+<R>0</R>
+<G>64250</G>
+<B>37522</B>
+</row>
+<row>
+<code>SC LAR</code>
+<R>65536</R>
+<G>12079</G>
+<B>37522</B>
+</row>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>57825</G>
+<B>52428</B>
+</row>
+</ROWS>
+</file>

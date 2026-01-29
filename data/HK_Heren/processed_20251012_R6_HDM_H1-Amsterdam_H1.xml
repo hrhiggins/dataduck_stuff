@@ -1,0 +1,1787 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+	<ALL_INSTANCES>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>0</ID>
+			<start>133.425</start>
+			<end>153.425</end>
+		</instance>
+		<instance>
+			<code>start</code>
+			<ID>1</ID>
+			<start>135.425</start>
+			<end>145.425</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>2</ID>
+			<start>137.424</start>
+			<end>169.221</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>3</ID>
+			<start>149.221</start>
+			<end>172.677</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_2</code>
+			<ID>4</ID>
+			<start>162.677</start>
+			<end>187.758</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>5</ID>
+			<start>177.758</start>
+			<end>205.26</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>6</ID>
+			<start>185.26</start>
+			<end>205.792</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_2</code>
+			<ID>7</ID>
+			<start>195.792</start>
+			<end>236.803</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>8</ID>
+			<start>216.803</start>
+			<end>252.293</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>9</ID>
+			<start>232.293</start>
+			<end>257.293</end>
+		</instance>
+		<instance>
+			<code>amsterdam cause_of_penalty_corner</code>
+			<ID>10</ID>
+			<start>235.29</start>
+			<end>268.28999999999996</end>
+		</instance>
+		<instance>
+			<code>amsterdam penalty_corner</code>
+			<ID>11</ID>
+			<start>292.738</start>
+			<end>312.738</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>12</ID>
+			<start>292.739</start>
+			<end>317.739</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>13</ID>
+			<start>297.989</start>
+			<end>317.989</end>
+		</instance>
+		<instance>
+			<code>amsterdam cause_of_penalty_corner</code>
+			<ID>14</ID>
+			<start>298.239</start>
+			<end>323.239</end>
+		</instance>
+		<instance>
+			<code>amsterdam penalty_corner</code>
+			<ID>15</ID>
+			<start>348.74</start>
+			<end>368.74</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>16</ID>
+			<start>355.989</start>
+			<end>372.239</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>17</ID>
+			<start>362.239</start>
+			<end>387.739</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>18</ID>
+			<start>367.739</start>
+			<end>398.271</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_2</code>
+			<ID>19</ID>
+			<start>377.523</start>
+			<end>432.522</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>20</ID>
+			<start>378.271</start>
+			<end>398.271</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>21</ID>
+			<start>412.522</start>
+			<end>459.53</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>22</ID>
+			<start>449.53</start>
+			<end>467.776</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>23</ID>
+			<start>450.773</start>
+			<end>475.773</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_4</code>
+			<ID>24</ID>
+			<start>457.776</start>
+			<end>470.773</end>
+		</instance>
+		<instance>
+			<code>amsterdam cause_of_penalty_corner</code>
+			<ID>25</ID>
+			<start>460.772</start>
+			<end>493.772</end>
+		</instance>
+		<instance>
+			<code>amsterdam penalty_corner</code>
+			<ID>26</ID>
+			<start>517.022</start>
+			<end>537.022</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>27</ID>
+			<start>522.771</start>
+			<end>551.771</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>28</ID>
+			<start>531.771</start>
+			<end>583.775</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>29</ID>
+			<start>563.775</start>
+			<end>596.775</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>30</ID>
+			<start>581.058</start>
+			<end>626.311</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>31</ID>
+			<start>606.311</start>
+			<end>633.059</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>32</ID>
+			<start>623.059</start>
+			<end>639.314</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>33</ID>
+			<start>629.314</start>
+			<end>653.314</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>34</ID>
+			<start>643.314</start>
+			<end>674.56</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>35</ID>
+			<start>654.56</start>
+			<end>690.558</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>36</ID>
+			<start>670.558</start>
+			<end>723.561</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>37</ID>
+			<start>703.561</start>
+			<end>735.062</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>38</ID>
+			<start>715.062</start>
+			<end>740.059</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>39</ID>
+			<start>715.305</start>
+			<end>740.305</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>40</ID>
+			<start>720.059</start>
+			<end>740.059</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>41</ID>
+			<start>726.091</start>
+			<end>758.591</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>42</ID>
+			<start>738.591</start>
+			<end>809.843</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>43</ID>
+			<start>789.843</start>
+			<end>823.095</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>44</ID>
+			<start>803.095</start>
+			<end>840.341</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>45</ID>
+			<start>820.341</start>
+			<end>851.345</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>46</ID>
+			<start>831.345</start>
+			<end>867.843</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>47</ID>
+			<start>847.843</start>
+			<end>867.843</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>48</ID>
+			<start>849.092</start>
+			<end>874.092</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>49</ID>
+			<start>850.591</start>
+			<end>883.591</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>50</ID>
+			<start>857.341</start>
+			<end>867.591</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_4</code>
+			<ID>51</ID>
+			<start>857.591</start>
+			<end>869.092</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>52</ID>
+			<start>866.341</start>
+			<end>899.092</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>53</ID>
+			<start>879.092</start>
+			<end>904.351</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>54</ID>
+			<start>894.351</start>
+			<end>909.348</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_2</code>
+			<ID>55</ID>
+			<start>899.348</start>
+			<end>937.843</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_3</code>
+			<ID>56</ID>
+			<start>917.843</start>
+			<end>1004.591</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>57</ID>
+			<start>984.591</start>
+			<end>1029.625</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>58</ID>
+			<start>1009.625</start>
+			<end>1029.625</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_2</code>
+			<ID>59</ID>
+			<start>1013.625</start>
+			<end>1053.396</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>60</ID>
+			<start>1033.396</start>
+			<end>1054.627</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>61</ID>
+			<start>1034.627</start>
+			<end>1059.627</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>62</ID>
+			<start>1037.128</start>
+			<end>1070.128</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>63</ID>
+			<start>1052.127</start>
+			<end>1077.127</end>
+		</instance>
+		<instance>
+			<code>hdm goal_attempt</code>
+			<ID>64</ID>
+			<start>1056.375</start>
+			<end>1089.375</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>65</ID>
+			<start>1058.877</start>
+			<end>1078.877</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>66</ID>
+			<start>1072.875</start>
+			<end>1092.875</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>67</ID>
+			<start>1078.374</start>
+			<end>1098.383</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>68</ID>
+			<start>1084.626</start>
+			<end>1109.626</end>
+		</instance>
+		<instance>
+			<code>hdm goal_attempt</code>
+			<ID>69</ID>
+			<start>1085.408</start>
+			<end>1118.408</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_4</code>
+			<ID>70</ID>
+			<start>1088.383</start>
+			<end>1104.626</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>71</ID>
+			<start>1101.407</start>
+			<end>1130.669</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_2</code>
+			<ID>72</ID>
+			<start>1120.669</start>
+			<end>1170.908</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>73</ID>
+			<start>1150.908</start>
+			<end>1171.658</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>74</ID>
+			<start>1161.658</start>
+			<end>1177.908</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_4</code>
+			<ID>75</ID>
+			<start>1167.908</start>
+			<end>1180.157</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>76</ID>
+			<start>1170.157</start>
+			<end>1310.693</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>77</ID>
+			<start>1298.693</start>
+			<end>1338.445</end>
+		</instance>
+		<instance>
+			<code>start</code>
+			<ID>78</ID>
+			<start>1300.693</start>
+			<end>1310.693</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>79</ID>
+			<start>1318.445</start>
+			<end>1381.451</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>80</ID>
+			<start>1361.451</start>
+			<end>1381.451</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_2</code>
+			<ID>81</ID>
+			<start>1370.945</start>
+			<end>1384.693</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_2</code>
+			<ID>82</ID>
+			<start>1374.693</start>
+			<end>1414.447</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>83</ID>
+			<start>1394.447</start>
+			<end>1414.447</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>84</ID>
+			<start>1401.692</start>
+			<end>1425.948</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>85</ID>
+			<start>1405.948</start>
+			<end>1426.693</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>86</ID>
+			<start>1406.693</start>
+			<end>1431.693</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>87</ID>
+			<start>1410.443</start>
+			<end>1443.443</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>88</ID>
+			<start>1426.943</start>
+			<end>1469.452</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_3</code>
+			<ID>89</ID>
+			<start>1449.452</start>
+			<end>1483.944</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_2</code>
+			<ID>90</ID>
+			<start>1473.944</start>
+			<end>1502.206</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>91</ID>
+			<start>1482.206</start>
+			<end>1530.197</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>92</ID>
+			<start>1510.197</start>
+			<end>1534.947</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>93</ID>
+			<start>1524.947</start>
+			<end>1557.197</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>94</ID>
+			<start>1537.197</start>
+			<end>1563.197</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>95</ID>
+			<start>1548.695</start>
+			<end>1573.695</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>96</ID>
+			<start>1552.228</start>
+			<end>1577.228</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>97</ID>
+			<start>1553.197</start>
+			<end>1568.695</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>98</ID>
+			<start>1576.726</start>
+			<end>1607.494</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_3</code>
+			<ID>99</ID>
+			<start>1587.494</start>
+			<end>1650.981</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>100</ID>
+			<start>1630.981</start>
+			<end>1683.978</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>101</ID>
+			<start>1663.978</start>
+			<end>1721.316</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>102</ID>
+			<start>1701.316</start>
+			<end>1732.767</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>103</ID>
+			<start>1712.767</start>
+			<end>1784.764</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>104</ID>
+			<start>1760.761</start>
+			<end>1785.761</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>105</ID>
+			<start>1763.26</start>
+			<end>1788.26</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>106</ID>
+			<start>1764.764</start>
+			<end>1790.512</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>107</ID>
+			<start>1766.263</start>
+			<end>1791.263</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal</code>
+			<ID>108</ID>
+			<start>1768.263</start>
+			<end>1783.263</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>109</ID>
+			<start>1770.512</start>
+			<end>1790.512</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>110</ID>
+			<start>1802.044</start>
+			<end>1837.047</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_2</code>
+			<ID>111</ID>
+			<start>1827.047</start>
+			<end>1848.795</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>112</ID>
+			<start>1828.795</start>
+			<end>1861.795</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>113</ID>
+			<start>1845.045</start>
+			<end>1865.045</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>114</ID>
+			<start>1851.31</start>
+			<end>1870.313</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>115</ID>
+			<start>1860.313</start>
+			<end>1906.045</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>116</ID>
+			<start>1886.045</start>
+			<end>1926.043</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>117</ID>
+			<start>1906.043</start>
+			<end>1940.306</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>118</ID>
+			<start>1930.306</start>
+			<end>1964.801</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>119</ID>
+			<start>1944.801</start>
+			<end>2006.329</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>120</ID>
+			<start>1996.329</start>
+			<end>2020.579</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>121</ID>
+			<start>2000.579</start>
+			<end>2036.579</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_2</code>
+			<ID>122</ID>
+			<start>2026.579</start>
+			<end>2080.08</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>123</ID>
+			<start>2060.08</start>
+			<end>2109.579</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>124</ID>
+			<start>2089.579</start>
+			<end>2114.092</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>125</ID>
+			<start>2094.092</start>
+			<end>2128.08</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>126</ID>
+			<start>2108.08</start>
+			<end>2134.594</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>127</ID>
+			<start>2124.594</start>
+			<end>2169.329</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>128</ID>
+			<start>2147.582</start>
+			<end>2180.582</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>129</ID>
+			<start>2149.329</start>
+			<end>2169.329</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>130</ID>
+			<start>2164.863</start>
+			<end>2177.113</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_4</code>
+			<ID>131</ID>
+			<start>2167.113</start>
+			<end>2193.117</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>132</ID>
+			<start>2167.342</start>
+			<end>2187.342</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_2</code>
+			<ID>133</ID>
+			<start>2183.117</start>
+			<end>2201.123</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>134</ID>
+			<start>2191.123</start>
+			<end>2219.364</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>135</ID>
+			<start>2199.364</start>
+			<end>2224.364</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>136</ID>
+			<start>2201.864</start>
+			<end>2234.864</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>137</ID>
+			<start>2217.113</start>
+			<end>3000.506</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>138</ID>
+			<start>2988.506</start>
+			<end>3008.506</end>
+		</instance>
+		<instance>
+			<code>start</code>
+			<ID>139</ID>
+			<start>2990.506</start>
+			<end>3000.506</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_2</code>
+			<ID>140</ID>
+			<start>2994.002</start>
+			<end>3019.5</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>141</ID>
+			<start>3005.248</start>
+			<end>3030.248</end>
+		</instance>
+		<instance>
+			<code>hdm goal_attempt</code>
+			<ID>142</ID>
+			<start>3007.504</start>
+			<end>3032.504</end>
+		</instance>
+		<instance>
+			<code>hdm goal_attempt</code>
+			<ID>143</ID>
+			<start>3007.999</start>
+			<end>3032.999</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_2</code>
+			<ID>144</ID>
+			<start>3009.5</start>
+			<end>3025.248</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>145</ID>
+			<start>3019.253</start>
+			<end>3034.249</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_4</code>
+			<ID>146</ID>
+			<start>3024.249</start>
+			<end>3042.25</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>147</ID>
+			<start>3032.25</start>
+			<end>3092.499</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>148</ID>
+			<start>3082.499</start>
+			<end>3102.751</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>149</ID>
+			<start>3092.751</start>
+			<end>3104.749</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_2</code>
+			<ID>150</ID>
+			<start>3094.749</start>
+			<end>3122.999</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_3</code>
+			<ID>151</ID>
+			<start>3102.999</start>
+			<end>3122.999</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>152</ID>
+			<start>3105.749</start>
+			<end>3123.783</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_4</code>
+			<ID>153</ID>
+			<start>3113.783</start>
+			<end>3126.034</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>154</ID>
+			<start>3116.034</start>
+			<end>3134.034</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_2</code>
+			<ID>155</ID>
+			<start>3124.034</start>
+			<end>3152.035</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>156</ID>
+			<start>3132.035</start>
+			<end>3180.283</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>157</ID>
+			<start>3160.283</start>
+			<end>3190.533</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>158</ID>
+			<start>3163.283</start>
+			<end>3196.283</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>159</ID>
+			<start>3170.533</start>
+			<end>3190.533</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>160</ID>
+			<start>3184.533</start>
+			<end>3245.29</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>161</ID>
+			<start>3235.29</start>
+			<end>3257.034</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>162</ID>
+			<start>3242.785</start>
+			<end>3267.785</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_4</code>
+			<ID>163</ID>
+			<start>3247.034</start>
+			<end>3262.785</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>164</ID>
+			<start>3254.785</start>
+			<end>3288.794</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>165</ID>
+			<start>3268.794</start>
+			<end>3326.785</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>166</ID>
+			<start>3306.785</start>
+			<end>3334.031</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>167</ID>
+			<start>3314.031</start>
+			<end>3339.031</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>168</ID>
+			<start>3316.816</start>
+			<end>3349.816</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>169</ID>
+			<start>3331.816</start>
+			<end>3369.066</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>170</ID>
+			<start>3340.565</start>
+			<end>3373.565</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>171</ID>
+			<start>3349.066</start>
+			<end>3369.066</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>172</ID>
+			<start>3354.815</start>
+			<end>3388.319</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>173</ID>
+			<start>3378.319</start>
+			<end>3394.568</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>174</ID>
+			<start>3384.568</start>
+			<end>3418.069</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>175</ID>
+			<start>3398.069</start>
+			<end>3431.069</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>176</ID>
+			<start>3414.815</start>
+			<end>3456.07</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>177</ID>
+			<start>3436.07</start>
+			<end>3471.108</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>178</ID>
+			<start>3451.108</start>
+			<end>3479.85</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>179</ID>
+			<start>3469.85</start>
+			<end>3504.355</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_3</code>
+			<ID>180</ID>
+			<start>3484.355</start>
+			<end>3512.355</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>181</ID>
+			<start>3492.355</start>
+			<end>3562.102</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>182</ID>
+			<start>3542.102</start>
+			<end>3566.102</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>183</ID>
+			<start>3546.102</start>
+			<end>3571.102</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>184</ID>
+			<start>3547.351</start>
+			<end>3572.351</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>185</ID>
+			<start>3558.851</start>
+			<end>3595.352</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>186</ID>
+			<start>3575.352</start>
+			<end>3618.605</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>187</ID>
+			<start>3598.605</start>
+			<end>3624.611</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>188</ID>
+			<start>3614.611</start>
+			<end>3647.605</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>189</ID>
+			<start>3627.605</start>
+			<end>3647.605</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>190</ID>
+			<start>3628.608</start>
+			<end>3662.107</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>191</ID>
+			<start>3642.107</start>
+			<end>3676.602</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>192</ID>
+			<start>3656.602</start>
+			<end>3682.602</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>193</ID>
+			<start>3672.602</start>
+			<end>3690.885</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>194</ID>
+			<start>3680.885</start>
+			<end>3742.641</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>195</ID>
+			<start>3722.641</start>
+			<end>3768.14</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>196</ID>
+			<start>3748.14</start>
+			<end>3783.638</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>197</ID>
+			<start>3763.638</start>
+			<end>3801.386</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>198</ID>
+			<start>3781.386</start>
+			<end>3827.635</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>199</ID>
+			<start>3799.669</start>
+			<end>3824.669</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>200</ID>
+			<start>3800.419</start>
+			<end>3833.419</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>201</ID>
+			<start>3807.635</start>
+			<end>3827.635</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>202</ID>
+			<start>3812.919</start>
+			<end>3837.919</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>203</ID>
+			<start>3814.921</start>
+			<end>3847.921</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>204</ID>
+			<start>3815.668</start>
+			<end>3835.668</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>205</ID>
+			<start>3833.921</start>
+			<end>3862.169</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>206</ID>
+			<start>3841.421</start>
+			<end>3866.421</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>207</ID>
+			<start>3842.169</start>
+			<end>3862.169</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>208</ID>
+			<start>3846.918</start>
+			<end>3871.918</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal</code>
+			<ID>209</ID>
+			<start>3851.669</start>
+			<end>3866.669</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>210</ID>
+			<start>3863.672</start>
+			<end>3907.169</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>211</ID>
+			<start>3887.169</start>
+			<end>3916.669</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>212</ID>
+			<start>3895.669</start>
+			<end>3930.68</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_3</code>
+			<ID>213</ID>
+			<start>3896.669</start>
+			<end>3916.669</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>214</ID>
+			<start>3910.68</start>
+			<end>4105.709</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>215</ID>
+			<start>4090.956</start>
+			<end>4115.956</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>216</ID>
+			<start>4093.709</start>
+			<end>4113.709</end>
+		</instance>
+		<instance>
+			<code>start</code>
+			<ID>217</ID>
+			<start>4095.709</start>
+			<end>4105.709</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>218</ID>
+			<start>4104.204</start>
+			<end>4137.958</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_3</code>
+			<ID>219</ID>
+			<start>4117.958</start>
+			<end>4139.451</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>220</ID>
+			<start>4129.451</start>
+			<end>4156.703</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>221</ID>
+			<start>4136.703</start>
+			<end>4181.705</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>222</ID>
+			<start>4161.705</start>
+			<end>4201.206</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>223</ID>
+			<start>4191.206</start>
+			<end>4223.203</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_3</code>
+			<ID>224</ID>
+			<start>4203.203</start>
+			<end>4223.203</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>225</ID>
+			<start>4207.203</start>
+			<end>4236.963</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>226</ID>
+			<start>4223.239</start>
+			<end>4248.239</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_3</code>
+			<ID>227</ID>
+			<start>4226.963</start>
+			<end>4243.239</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>228</ID>
+			<start>4235.736</start>
+			<end>4270.737</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>229</ID>
+			<start>4250.737</start>
+			<end>4295.741</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>230</ID>
+			<start>4275.741</start>
+			<end>4302.491</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>231</ID>
+			<start>4292.491</start>
+			<end>4325.236</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>232</ID>
+			<start>4311.239</start>
+			<end>4336.239</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>233</ID>
+			<start>4313.023</start>
+			<end>4338.023</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>234</ID>
+			<start>4314.771</start>
+			<end>4347.771</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>235</ID>
+			<start>4315.236</start>
+			<end>4331.239</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>236</ID>
+			<start>4327.021</start>
+			<end>4352.021</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>237</ID>
+			<start>4328.02</start>
+			<end>4361.02</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>238</ID>
+			<start>4331.771</start>
+			<end>4351.771</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>239</ID>
+			<start>4345.023</start>
+			<end>4378.787</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>240</ID>
+			<start>4368.787</start>
+			<end>4411.277</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>241</ID>
+			<start>4391.277</start>
+			<end>4433.273</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>242</ID>
+			<start>4413.273</start>
+			<end>4443.024</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>243</ID>
+			<start>4423.024</start>
+			<end>4452.529</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>244</ID>
+			<start>4432.529</start>
+			<end>4476.772</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>245</ID>
+			<start>4456.772</start>
+			<end>4522.526</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_3</code>
+			<ID>246</ID>
+			<start>4502.526</start>
+			<end>4564.52</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>247</ID>
+			<start>4544.52</start>
+			<end>4569.52</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>248</ID>
+			<start>4556.057</start>
+			<end>4569.555</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_4</code>
+			<ID>249</ID>
+			<start>4559.555</start>
+			<end>4597.304</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>250</ID>
+			<start>4587.304</start>
+			<end>4623.556</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>251</ID>
+			<start>4603.556</start>
+			<end>4632.811</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_3</code>
+			<ID>252</ID>
+			<start>4622.811</start>
+			<end>4634.308</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_2</code>
+			<ID>253</ID>
+			<start>4624.308</start>
+			<end>4643.059</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>254</ID>
+			<start>4633.059</start>
+			<end>4658.059</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>255</ID>
+			<start>4638.059</start>
+			<end>4683.554</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>256</ID>
+			<start>4663.554</start>
+			<end>4688.554</end>
+		</instance>
+		<instance>
+			<code>hdm goal_attempt</code>
+			<ID>257</ID>
+			<start>4664.556</start>
+			<end>4697.556</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>258</ID>
+			<start>4678.555</start>
+			<end>4707.841</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>259</ID>
+			<start>4687.839</start>
+			<end>4712.839</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>260</ID>
+			<start>4687.841</start>
+			<end>4712.841</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>261</ID>
+			<start>4699.343</start>
+			<end>4720.089</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>262</ID>
+			<start>4703.339</start>
+			<end>4728.339</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>263</ID>
+			<start>4706.59</start>
+			<end>4739.59</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>264</ID>
+			<start>4710.089</start>
+			<end>4723.339</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>265</ID>
+			<start>4722.089</start>
+			<end>4757.842</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>266</ID>
+			<start>4730.839</start>
+			<end>4755.839</end>
+		</instance>
+		<instance>
+			<code>hdm goal_attempt</code>
+			<ID>267</ID>
+			<start>4732.841</start>
+			<end>4765.841</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>268</ID>
+			<start>4737.842</start>
+			<end>4757.842</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_1</code>
+			<ID>269</ID>
+			<start>4747.092</start>
+			<end>4776.342</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_3</code>
+			<ID>270</ID>
+			<start>4766.342</start>
+			<end>4779.087</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_2</code>
+			<ID>271</ID>
+			<start>4769.087</start>
+			<end>4810.592</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>272</ID>
+			<start>4790.592</start>
+			<end>4825.589</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>273</ID>
+			<start>4815.589</start>
+			<end>4846.595</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_4</code>
+			<ID>274</ID>
+			<start>4826.595</start>
+			<end>4846.595</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>275</ID>
+			<start>4826.839</start>
+			<end>4872.84</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_3</code>
+			<ID>276</ID>
+			<start>4852.84</start>
+			<end>4883.838</end>
+		</instance>
+		<instance>
+			<code>amsterdam circle_penetration</code>
+			<ID>277</ID>
+			<start>4863.838</start>
+			<end>4888.838</end>
+		</instance>
+		<instance>
+			<code>amsterdam goal_attempt</code>
+			<ID>278</ID>
+			<start>4865.372</start>
+			<end>4890.372</end>
+		</instance>
+		<instance>
+			<code>amsterdam cause_of_penalty_corner</code>
+			<ID>279</ID>
+			<start>4867.122</start>
+			<end>4900.122</end>
+		</instance>
+		<instance>
+			<code>amsterdam penalty_corner</code>
+			<ID>280</ID>
+			<start>4924.871</start>
+			<end>4944.871</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_4</code>
+			<ID>281</ID>
+			<start>4934.871</start>
+			<end>4966.124</end>
+		</instance>
+		<instance>
+			<code>hdm circle_penetration</code>
+			<ID>282</ID>
+			<start>4952.123</start>
+			<end>4977.123</end>
+		</instance>
+		<instance>
+			<code>hdm cause_of_penalty_stroke</code>
+			<ID>283</ID>
+			<start>4955.623</start>
+			<end>4980.623</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>284</ID>
+			<start>4956.124</start>
+			<end>4972.123</end>
+		</instance>
+		<instance>
+			<code>hdm goal</code>
+			<ID>285</ID>
+			<start>5009.122</start>
+			<end>5024.122</end>
+		</instance>
+		<instance>
+			<code>hdm penalty_stroke</code>
+			<ID>286</ID>
+			<start>5018.872</start>
+			<end>5028.872</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>287</ID>
+			<start>5051.911</start>
+			<end>5071.911</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_1</code>
+			<ID>288</ID>
+			<start>5061.909</start>
+			<end>5075.41</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_4</code>
+			<ID>289</ID>
+			<start>5065.41</start>
+			<end>5105.161</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_1</code>
+			<ID>290</ID>
+			<start>5085.161</start>
+			<end>5109.909</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_2</code>
+			<ID>291</ID>
+			<start>5089.909</start>
+			<end>5138.915</end>
+		</instance>
+		<instance>
+			<code>hdm ball_restart_3</code>
+			<ID>292</ID>
+			<start>5118.915</start>
+			<end>5146.161</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_1</code>
+			<ID>293</ID>
+			<start>5136.161</start>
+			<end>5163.912</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_restart_2</code>
+			<ID>294</ID>
+			<start>5143.912</start>
+			<end>5170.158</end>
+		</instance>
+		<instance>
+			<code>hdm ball_win_2</code>
+			<ID>295</ID>
+			<start>5160.158</start>
+			<end>5176.915</end>
+		</instance>
+		<instance>
+			<code>amsterdam ball_win_3</code>
+			<ID>296</ID>
+			<start>5166.915</start>
+			<end>5177.157</end>
+		</instance>
+	</ALL_INSTANCES>
+</file>

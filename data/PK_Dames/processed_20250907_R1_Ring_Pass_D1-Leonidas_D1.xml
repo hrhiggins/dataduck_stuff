@@ -1,0 +1,2174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>1</ID>
+<start>8.794094539323565</start>
+<end>20.89315112631882</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>2</ID>
+<start>8.795066582327284</start>
+<end>11.795066582327284</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>3</ID>
+<start>18.29511037599052</start>
+<end>48.89579654198945</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>4</ID>
+<start>47.59416129098994</start>
+<end>60.69495308166471</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>5</ID>
+<start>50.5958137919939</start>
+<end>58.70001766733608</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>6</ID>
+<start>59.647654041</start>
+<end>66.39659249800616</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>7</ID>
+<start>81.89168420633227</start>
+<end>99.80002095833116</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>8</ID>
+<start>88.79575137432948</start>
+<end>105.29457708199492</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>9</ID>
+<start>111.09512458165291</start>
+<end>131.09679349899145</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>10</ID>
+<start>133.89044758199125</start>
+<end>146.39673941665393</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>11</ID>
+<start>147.99611354066505</start>
+<end>173.60142629132395</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>12</ID>
+<start>162.4963413336661</start>
+<end>177.59555379133636</end>
+<code>leonidas ball_win_4</code>
+</instance>
+<instance>
+<ID>13</ID>
+<start>179.19564891833852</start>
+<end>188.39518045700234</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>14</ID>
+<start>195.69580024799296</start>
+<end>205.49622987432582</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>15</ID>
+<start>202.49622987432582</start>
+<end>232.69727783299044</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>16</ID>
+<start>230.19478837466548</start>
+<end>238.69335483300296</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>17</ID>
+<start>238.89557716733944</start>
+<end>257.7955094153279</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>18</ID>
+<start>260.59579366567027</start>
+<end>272.2089586663261</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>19</ID>
+<start>261.1988645406587</start>
+<end>278.9963410396601</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>20</ID>
+<start>281.495620915331</start>
+<end>293.3950653313284</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>21</ID>
+<start>283.9968674586662</start>
+<end>293.3950653313284</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>22</ID>
+<start>302.49536520832123</start>
+<end>334.1950136239853</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>23</ID>
+<start>318.1948450403291</start>
+<end>334.1950136239853</end>
+<code>ring_pass</code>
+</instance>
+<instance>
+<ID>24</ID>
+<start>332.39440099966635</start>
+<end>344.996676707329</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>25</ID>
+<start>344.0947449573167</start>
+<end>371.5951530836583</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>26</ID>
+<start>368.5951530836583</start>
+<end>380.79555112499236</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>27</ID>
+<start>384.09583170665593</start>
+<end>397.29590395666736</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>28</ID>
+<start>394.29590395666736</start>
+<end>405.9001632080006</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>29</ID>
+<start>394.89559145699656</start>
+<end>406.344027499</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>30</ID>
+<start>397.344027499</start>
+<end>412.7949021666645</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>31</ID>
+<start>403.7949021666645</start>
+<end>419.2950304989899</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>32</ID>
+<start>410.2950304989899</start>
+<end>433.39660591566303</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>33</ID>
+<start>421.58839049965866</start>
+<end>435.29158412400324</end>
+<code>leonidas ball_win_4</code>
+</instance>
+<instance>
+<ID>34</ID>
+<start>440.1949064166636</start>
+<end>451.89531129066626</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>35</ID>
+<start>440.3009728753307</start>
+<end>453.99999795833077</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>36</ID>
+<start>442.89531129066626</start>
+<end>465.5948513323345</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>37</ID>
+<start>456.5948513323345</start>
+<end>479.29512999967096</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>38</ID>
+<start>470.29512999967096</start>
+<end>486.7966790823248</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>39</ID>
+<start>477.7966790823248</start>
+<end>514.2972547489885</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>40</ID>
+<start>572.3958788753405</start>
+<end>598.7957001253286</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>41</ID>
+<start>592.1958660833352</start>
+<end>604.7915241239855</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>42</ID>
+<start>595.7915241239855</start>
+<end>608.79526220766</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>43</ID>
+<start>596.3959953749874</start>
+<end>603.3016582493293</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>44</ID>
+<start>599.79526220766</start>
+<end>632.7952744576684</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>45</ID>
+<start>635.4954473740047</start>
+<end>659.5959895826595</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>46</ID>
+<start>659.7946906239928</start>
+<end>698.3025050423424</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>47</ID>
+<start>687.1919526253278</start>
+<end>700.696102750329</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>48</ID>
+<start>713.7419429583242</start>
+<end>738.7034790406791</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>49</ID>
+<start>725.3924718749993</start>
+<end>736.596682290991</end>
+<code>ring_pass</code>
+</instance>
+<instance>
+<ID>50</ID>
+<start>727.596682290991</start>
+<end>740.5961650416618</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>51</ID>
+<start>743.1122865413292</start>
+<end>759.6940432906599</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>52</ID>
+<start>747.696422540998</start>
+<end>759.6940432906599</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>53</ID>
+<start>748.6940432906599</start>
+<end>763.6940432906599</end>
+<code>ring_pass goal</code>
+</instance>
+<instance>
+<ID>54</ID>
+<start>787.8623766249857</start>
+<end>818.3953514156674</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>55</ID>
+<start>818.295299083335</start>
+<end>852.2049001656592</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>56</ID>
+<start>841.1952989156642</start>
+<end>858.0945937076656</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>57</ID>
+<start>849.0945937076656</start>
+<end>863.6950926236648</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>58</ID>
+<start>854.6950926236648</start>
+<end>871.6950648743322</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>59</ID>
+<start>875.1967601659923</start>
+<end>894.6000309176609</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>60</ID>
+<start>883.5929392913259</start>
+<end>906.1912427923297</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>61</ID>
+<start>903.1912427923297</start>
+<end>922.5960600846664</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>62</ID>
+<start>919.5956677086531</start>
+<end>931.8956599156662</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>63</ID>
+<start>920.5978104999904</start>
+<end>931.8956599156662</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>64</ID>
+<start>936.7861114993348</start>
+<end>962.9932052910062</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>65</ID>
+<start>964.6948197906532</start>
+<end>981.7000404993368</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>66</ID>
+<start>970.6950025833349</start>
+<end>989.6920960400004</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>67</ID>
+<start>986.0949652916581</start>
+<end>1001.7952496243322</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>68</ID>
+<start>986.6920960400004</start>
+<end>1001.7952496243322</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>69</ID>
+<start>1006.0980532083197</start>
+<end>1025.8000616666682</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>70</ID>
+<start>1014.7912651656643</start>
+<end>1052.6964630823334</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>71</ID>
+<start>1040.5963213329871</start>
+<end>1052.6964630823334</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>72</ID>
+<start>1043.6964630823334</start>
+<end>1058.5918181243362</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>73</ID>
+<start>1062.8894713750037</start>
+<end>1086.998663458998</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>74</ID>
+<start>1086.6959427069994</start>
+<end>1105.8920225409952</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>75</ID>
+<start>1106.9949244569873</start>
+<end>1147.151</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>76</ID>
+<start>1167.997165417341</start>
+<end>1199.0119061249982</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>77</ID>
+<start>1169.693166667</start>
+<end>1172.693166667</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>78</ID>
+<start>1185.5938277499936</start>
+<end>1214.295610124994</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>79</ID>
+<start>1211.7952362076755</start>
+<end>1228.293610956994</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>80</ID>
+<start>1231.89467929133</start>
+<end>1243.5953147933296</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>81</ID>
+<start>1233.895128334668</start>
+<end>1245.5999462916686</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>82</ID>
+<start>1234.5953147933296</start>
+<end>1257.493954123997</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>83</ID>
+<start>1255.7950621673249</start>
+<end>1275.3000664169952</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>84</ID>
+<start>1264.2948126253232</start>
+<end>1278.982711497664</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>85</ID>
+<start>1275.982711497664</start>
+<end>1289.4999633323266</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>86</ID>
+<start>1278.3957412906568</start>
+<end>1292.5948025826522</end>
+<code>leonidas ball_win_4</code>
+</instance>
+<instance>
+<ID>87</ID>
+<start>1291.8930859989914</start>
+<end>1323.3999469163439</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>88</ID>
+<start>1312.2948015403344</start>
+<end>1333.1957129150019</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>89</ID>
+<start>1324.1957129150019</start>
+<end>1352.996100874334</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>90</ID>
+<start>1358.4950846660051</start>
+<end>1390.214</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>91</ID>
+<start>1377.5970110843366</start>
+<end>1423.5951102499941</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>92</ID>
+<start>1425.4971020839894</start>
+<end>1443.2920270003287</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>93</ID>
+<start>1445.1957558753263</start>
+<end>1501.1959408766602</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>94</ID>
+<start>1508.2937328750018</start>
+<end>1526.4898327913284</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>95</ID>
+<start>1511.4965130833234</start>
+<end>1526.4898327913284</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>96</ID>
+<start>1534.7699209163245</start>
+<end>1555.100029875336</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>97</ID>
+<start>1543.9960457503296</start>
+<end>1557.4919811243306</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>98</ID>
+<start>1548.4919811243306</start>
+<end>1574.2953363753359</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>99</ID>
+<start>1565.2953363753359</start>
+<end>1583.3947705836595</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>100</ID>
+<start>1586.995823833654</start>
+<end>1596.2951497486613</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>101</ID>
+<start>1601.4991623326628</start>
+<end>1628.1967709169944</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>102</ID>
+<start>1602.7952792483177</start>
+<end>1612.4999876673469</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>103</ID>
+<start>1612.7931744159876</start>
+<end>1628.1967709169944</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>104</ID>
+<start>1633.194979708334</start>
+<end>1645.512</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>105</ID>
+<start>1634.4943438746664</start>
+<end>1657.695089373667</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>106</ID>
+<start>1664.4960393326658</start>
+<end>1729.068473333</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>107</ID>
+<start>1716.597322749343</start>
+<end>1727.8960088743277</end>
+<code>ring_pass</code>
+</instance>
+<instance>
+<ID>108</ID>
+<start>1718.8960088743277</start>
+<end>1730.1891855813342</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>109</ID>
+<start>1721.1891855813342</start>
+<end>1734.2951224993287</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>110</ID>
+<start>1744.493268540342</start>
+<end>1759.9932641226706</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>111</ID>
+<start>1746.9959949150002</start>
+<end>1759.9932641226706</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>112</ID>
+<start>1747.7979528326641</start>
+<end>1755.199398915</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>113</ID>
+<start>1762.1930653330053</start>
+<end>1776.2006785836672</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>114</ID>
+<start>1777.3955178336569</start>
+<end>1794.2950874986568</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>115</ID>
+<start>1803.0983959996672</start>
+<end>1818.2037261683213</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>116</ID>
+<start>1807.0945235830009</start>
+<end>1863.396711540338</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>117</ID>
+<start>1847.995237166325</start>
+<end>1863.396711540338</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>118</ID>
+<start>1873.3065200836518</start>
+<end>1907.8999715836712</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>119</ID>
+<start>1884.294651373652</start>
+<end>1900.2947551649931</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>120</ID>
+<start>1896.7914998336598</start>
+<end>1914.9923916246528</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>121</ID>
+<start>1928.7932293749984</start>
+<end>1958.199924957997</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>122</ID>
+<start>1938.701368750317</start>
+<end>1956.0950782916602</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>123</ID>
+<start>1947.0950782916602</start>
+<end>1960.8976332496559</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>124</ID>
+<start>1963.095057414658</start>
+<end>1981.1955779166615</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>125</ID>
+<start>1966.6967269989946</start>
+<end>1981.1955779166615</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>126</ID>
+<start>1971.1955779166615</start>
+<end>1984.1955779166615</end>
+<code>leonidas cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>127</ID>
+<start>2026.392475000672</start>
+<end>2035.300088082996</end>
+<code>leonidas penalty_corner</code>
+</instance>
+<instance>
+<ID>128</ID>
+<start>2036.7939069156555</start>
+<end>2055.3999864586785</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>129</ID>
+<start>2044.2553317076504</start>
+<end>2069.5927814999886</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>130</ID>
+<start>2071.995502457325</start>
+<end>2087.097619124672</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>131</ID>
+<start>2085.495772457993</start>
+<end>2091.6045816666565</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>132</ID>
+<start>2100.696019373996</start>
+<end>2115.496043248669</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>133</ID>
+<start>2111.2780292909965</start>
+<end>2129.3922982489926</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>134</ID>
+<start>2112.496043248669</start>
+<end>2122.005680042332</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>135</ID>
+<start>2117.201386331654</start>
+<end>2129.3922982489926</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>136</ID>
+<start>2120.3922982489926</start>
+<end>2139.0947474996588</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>137</ID>
+<start>2137.594751998991</start>
+<end>2166.6952515423322</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>138</ID>
+<start>2166.3952184586637</start>
+<end>2190.99631837499</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>139</ID>
+<start>2167.0025347083265</start>
+<end>2177.399958292003</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>140</ID>
+<start>2189.994504832326</start>
+<end>2209.0999996676665</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>141</ID>
+<start>2194.0958823746605</start>
+<end>2207.095478541995</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>142</ID>
+<start>2198.095478541995</start>
+<end>2213.796211249997</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>143</ID>
+<start>2204.796211249997</start>
+<end>2217.595223666336</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>144</ID>
+<start>2208.595223666336</start>
+<end>2221.894833874994</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>145</ID>
+<start>2220.6953714589954</start>
+<end>2255.301766667327</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>146</ID>
+<start>2244.4056294583274</start>
+<end>2262.895047374329</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>147</ID>
+<start>2263.699000249656</start>
+<end>2290.7972680413327</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>148</ID>
+<start>2265.492412291328</start>
+<end>2268.492412291328</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>149</ID>
+<start>2289.2451274163254</start>
+<end>2299.0957235399965</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>150</ID>
+<start>2298.397984039657</start>
+<end>2309.4908035826634</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>151</ID>
+<start>2310.5439272493286</start>
+<end>2330.1000212083286</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>152</ID>
+<start>2319.0967761659927</start>
+<end>2332.89574795866</end>
+<code>leonidas ball_win_4</code>
+</instance>
+<instance>
+<ID>153</ID>
+<start>2336.2029958336548</start>
+<end>2362.0000151673403</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>154</ID>
+<start>2350.991200750994</start>
+<end>2370.0957726663382</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>155</ID>
+<start>2361.0957726663382</start>
+<end>2383.295167042006</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>156</ID>
+<start>2382.0944251250016</start>
+<end>2421.00002558333</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>157</ID>
+<start>2407.2949992076647</start>
+<end>2418.894528373665</end>
+<code>ring_pass</code>
+</instance>
+<instance>
+<ID>158</ID>
+<start>2409.894528373665</start>
+<end>2422.8933142473225</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>159</ID>
+<start>2413.8933142473225</start>
+<end>2427.296838748323</end>
+<code>ring_pass ball_win_4</code>
+</instance>
+<instance>
+<ID>160</ID>
+<start>2414.387741374004</start>
+<end>2427.296838748323</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>161</ID>
+<start>2438.4947836676624</start>
+<end>2451.81243437501</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>162</ID>
+<start>2440.6947587916493</start>
+<end>2460.8953371253274</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>163</ID>
+<start>2459.2949092513195</start>
+<end>2497.096708916997</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>164</ID>
+<start>2495.3935414596517</start>
+<end>2531.396775584337</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>165</ID>
+<start>2531.693638292326</start>
+<end>2552.000149667333</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>166</ID>
+<start>2540.994813583671</start>
+<end>2557.29565062532</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>167</ID>
+<start>2557.2058188743367</start>
+<end>2570.595603415322</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>168</ID>
+<start>2558.2989084576693</start>
+<end>2568.201702958335</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>169</ID>
+<start>2561.595603415322</start>
+<end>2575.294172581319</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>170</ID>
+<start>2581.8960366246733</start>
+<end>2598.5945649163286</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>171</ID>
+<start>2603.432607749326</start>
+<end>2619.4000094173407</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>172</ID>
+<start>2608.295838709322</start>
+<end>2623.4965370416594</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>173</ID>
+<start>2620.4965370416594</start>
+<end>2628.193376625656</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>174</ID>
+<start>2629.470865165991</start>
+<end>2664.4948702913216</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>175</ID>
+<start>2663.0948056669968</start>
+<end>2683.38</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>176</ID>
+<start>2671.594744832992</start>
+<end>2688.095205166326</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>177</ID>
+<start>2679.095205166326</start>
+<end>2704.4962997923294</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>178</ID>
+<start>2686.6951127079883</start>
+<end>2704.4962997923294</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>179</ID>
+<start>2713.50231904232</start>
+<end>2726.300014250668</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>180</ID>
+<start>2715.294829292009</start>
+<end>2727.9951758746565</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>181</ID>
+<start>2732.1029292496496</start>
+<end>2745.794619500992</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>182</ID>
+<start>2746.8953512503176</start>
+<end>2762.5999557083264</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>183</ID>
+<start>2748.5943977910006</start>
+<end>2760.494643625331</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>184</ID>
+<start>2751.494643625331</start>
+<end>2766.397175707667</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>185</ID>
+<start>2768.8954810409987</start>
+<end>2782.300064624323</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>186</ID>
+<start>2772.09511979066</start>
+<end>2783.095158623662</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>187</ID>
+<start>2774.095158623662</start>
+<end>2787.294465331329</end>
+<code>leonidas ball_win_4</code>
+</instance>
+<instance>
+<ID>188</ID>
+<start>2817.9948672483188</start>
+<end>2830.592597707991</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>189</ID>
+<start>2827.796080583329</start>
+<end>2840.9958080833303</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>190</ID>
+<start>2836.3960880833206</start>
+<end>2868.5947885403266</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>191</ID>
+<start>2839.1949163753393</start>
+<end>2847.400080166669</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>192</ID>
+<start>2859.5947885403266</start>
+<end>2877.094886167004</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>193</ID>
+<start>2875.98709595733</start>
+<end>2891.9838342513353</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>194</ID>
+<start>2876.1960178330014</start>
+<end>2888.184</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>195</ID>
+<start>2892.0953437909957</start>
+<end>2910.500009417004</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>196</ID>
+<start>2899.4948553316553</start>
+<end>2912.6953681246637</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>197</ID>
+<start>2903.6953681246637</start>
+<end>2927.296403958327</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>198</ID>
+<start>2930.295497040658</start>
+<end>2948.6948691666735</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>199</ID>
+<start>2947.7697332493212</start>
+<end>2961.3005912090007</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>200</ID>
+<start>2948.194860624995</start>
+<end>2959.2950301243272</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>201</ID>
+<start>2950.2950301243272</start>
+<end>2966.795416458324</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>202</ID>
+<start>2957.795416458324</start>
+<end>2978.394900290992</end>
+<code>leonidas ball_win_4</code>
+</instance>
+<instance>
+<ID>203</ID>
+<start>2982.195385166001</start>
+<end>2999.595484873999</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>204</ID>
+<start>2984.5952539563355</start>
+<end>2993.199971041998</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>205</ID>
+<start>2985.5955542926717</start>
+<end>2999.595484873999</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>206</ID>
+<start>3004.0814208336633</start>
+<end>3019.8946825829976</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>207</ID>
+<start>3025.0969564586667</start>
+<end>3041.295263416329</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>208</ID>
+<start>3040.195186207324</start>
+<end>3051.3948497076576</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>209</ID>
+<start>3052.1945146663247</start>
+<end>3089.899930167321</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>210</ID>
+<start>3078.794773957663</start>
+<end>3096.6925599999936</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>211</ID>
+<start>3115.9167279579974</start>
+<end>3129.9953178746523</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>212</ID>
+<start>3131.495746958</start>
+<end>3152.5999952086645</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>213</ID>
+<start>3135.0949103763355</start>
+<end>3150.6015228756733</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>214</ID>
+<start>3141.6015228756733</start>
+<end>3160.4946853333377</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>215</ID>
+<start>3151.4946853333377</start>
+<end>3163.683415166315</end>
+<code>ring_pass ball_win_4</code>
+</instance>
+<instance>
+<ID>216</ID>
+<start>3168.494389207007</start>
+<end>3189.100079708338</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>217</ID>
+<start>3177.9953154579994</start>
+<end>3191.29650441666</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>218</ID>
+<start>3192.654</start>
+<end>3205.1950959989954</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>219</ID>
+<start>3200.4956323333195</start>
+<end>3212.1953567916644</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>220</ID>
+<start>3202.1950959989954</start>
+<end>3214.3000003343404</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>221</ID>
+<start>3203.1953567916644</start>
+<end>3219.5959410013365</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>222</ID>
+<start>3219.2964595003236</start>
+<end>3227.094761332324</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>223</ID>
+<start>3231.0950863739963</start>
+<end>3249.9000625000017</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>224</ID>
+<start>3238.795092957663</start>
+<end>3262.994754333658</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>225</ID>
+<start>3273.1946929159926</start>
+<end>3296.80000479266</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>226</ID>
+<start>3285.7959950003287</start>
+<end>3319.2015868339995</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>227</ID>
+<start>3310.2015868339995</start>
+<end>3332.6947181253217</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>228</ID>
+<start>3323.6947181253217</start>
+<end>3357.3953665409913</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>229</ID>
+<start>3354.3953665409913</start>
+<end>3370.1000679993267</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>230</ID>
+<start>3358.994808083652</start>
+<end>3377.9951430399874</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>231</ID>
+<start>3375.797687332331</start>
+<end>3400.4000471660056</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>232</ID>
+<start>3389.39576758166</start>
+<end>3411.5945709163298</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>233</ID>
+<start>3398.1963962919913</start>
+<end>3411.5945709163298</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>234</ID>
+<start>3420.594519540656</start>
+<end>3438.495425707987</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>235</ID>
+<start>3422.336592958</start>
+<end>3425.336592958</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>236</ID>
+<start>3436.0921932059878</start>
+<end>3456.300049583007</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>237</ID>
+<start>3440.5958175410074</start>
+<end>3467.393683416001</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>238</ID>
+<start>3454.3946920419908</start>
+<end>3467.393683416001</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>239</ID>
+<start>3457.393683416001</start>
+<end>3470.393683416001</end>
+<code>leonidas cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>240</ID>
+<start>3509.6947845826667</start>
+<end>3520.001939707997</end>
+<code>leonidas penalty_corner</code>
+</instance>
+<instance>
+<ID>241</ID>
+<start>3520.1031216240085</start>
+<end>3539.19554349967</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>242</ID>
+<start>3523.8947055823264</start>
+<end>3539.19554349967</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>243</ID>
+<start>3528.19554349967</start>
+<end>3543.19554349967</end>
+<code>ring_pass goal</code>
+</instance>
+<instance>
+<ID>244</ID>
+<start>3570.0949199163215</start>
+<end>3582.505015459667</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>245</ID>
+<start>3571.394771960327</start>
+<end>3586.295269792671</end>
+<code>ring_pass ball_win_2</code>
+</instance>
+<instance>
+<ID>246</ID>
+<start>3577.295269792671</start>
+<end>3597.6949693743286</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>247</ID>
+<start>3602.294618208325</start>
+<end>3619.8945912073414</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>248</ID>
+<start>3617.992969832005</start>
+<end>3632.690214292666</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>249</ID>
+<start>3633.2947346253304</start>
+<end>3642.0946350003264</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>250</ID>
+<start>3640.8948368333226</start>
+<end>3650.7768681663397</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>251</ID>
+<start>3652.59463162499</start>
+<end>3667.099994666331</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>252</ID>
+<start>3655.9952268336565</start>
+<end>3670.2970067916717</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>253</ID>
+<start>3668.4948182909966</start>
+<end>3698.500060041325</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>254</ID>
+<start>3685.493407832325</start>
+<end>3696.4949281239956</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>255</ID>
+<start>3687.4949281239956</start>
+<end>3700.1948615403267</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>256</ID>
+<start>3691.1948615403267</start>
+<end>3710.478980375001</end>
+<code>leonidas ball_win_4</code>
+</instance>
+<instance>
+<ID>257</ID>
+<start>3713.9917250403305</start>
+<end>3843.9917250403305</end>
+<code>leonidas green_card</code>
+</instance>
+<instance>
+<ID>258</ID>
+<start>3738.5962645826567</start>
+<end>3751.175</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>259</ID>
+<start>3738.894865040657</start>
+<end>3754.4979366249986</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>260</ID>
+<start>3745.096146915664</start>
+<end>3760.194881416327</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>261</ID>
+<start>3751.194881416327</start>
+<end>3773.100952207342</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>262</ID>
+<start>3764.100952207342</start>
+<end>3787.296724249333</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>263</ID>
+<start>3786.895559581996</start>
+<end>3808.494489166329</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>264</ID>
+<start>3805.494489166329</start>
+<end>3816.195470874995</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>265</ID>
+<start>3807.992554292334</start>
+<end>3820.3948382909903</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>266</ID>
+<start>3809.3948382909903</start>
+<end>3824.3948382909903</end>
+<code>ring_pass goal</code>
+</instance>
+<instance>
+<ID>267</ID>
+<start>3813.395958708334</start>
+<end>3820.3948382909903</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>268</ID>
+<start>3850.5946229983338</start>
+<end>3871.8935252483325</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>269</ID>
+<start>3859.4929406226534</start>
+<end>3871.8935252483325</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>270</ID>
+<start>3861.8935252483325</start>
+<end>3874.8935252483325</end>
+<code>leonidas cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>271</ID>
+<start>3907.9961924173413</start>
+<end>3919.699968458336</end>
+<code>leonidas cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>272</ID>
+<start>3909.4949787929922</start>
+<end>3919.699968458336</end>
+<code>leonidas penalty_corner</code>
+</instance>
+<instance>
+<ID>273</ID>
+<start>3931.9951036666566</start>
+<end>3944.9951036666566</end>
+<code>leonidas cause_of_penalty_stroke</code>
+</instance>
+<instance>
+<ID>274</ID>
+<start>3934.5947119983284</start>
+<end>3948.5947119983284</end>
+<code>leonidas penalty_corner</code>
+</instance>
+<instance>
+<ID>275</ID>
+<start>3974.4936888330035</start>
+<end>3988.0999722093297</end>
+<code>leonidas goal</code>
+</instance>
+<instance>
+<ID>276</ID>
+<start>3981.292694751326</start>
+<end>3988.0999722093297</end>
+<code>leonidas penalty_stroke</code>
+</instance>
+<instance>
+<ID>277</ID>
+<start>4007.403930707999</start>
+<end>4023.900062541</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>278</ID>
+<start>4012.794787167316</start>
+<end>4028.2965805003273</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>279</ID>
+<start>4044.0965156253237</start>
+<end>4064.81</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>280</ID>
+<start>4061.81</start>
+<end>4076.2936470823347</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>281</ID>
+<start>4068.892924375661</start>
+<end>4082.197101332326</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>282</ID>
+<start>4074.2961722496575</start>
+<end>4082.197101332326</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>283</ID>
+<start>4081.2238860823263</start>
+<end>4092.6964120419943</end>
+<code>leonidas</code>
+</instance>
+<instance>
+<ID>284</ID>
+<start>4082.7944936649974</start>
+<end>4094.800091416006</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>285</ID>
+<start>4083.6964120419943</start>
+<end>4102.194766582995</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>286</ID>
+<start>4108.394744457661</start>
+<end>4122.995374833323</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>287</ID>
+<start>4125.395257581991</start>
+<end>4141.796146611316</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>288</ID>
+<start>4125.965</start>
+<end>4136.500062457324</end>
+<code>leonidas ball_restart_3</code>
+</instance>
+<instance>
+<ID>289</ID>
+<start>4132.796146611316</start>
+<end>4149.49502257</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>290</ID>
+<start>4148.696290320988</start>
+<end>4176.595004688654</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>291</ID>
+<start>4175.802931439652</start>
+<end>4185.695203901339</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>292</ID>
+<start>4187.295832941986</start>
+<end>4204.395759648999</end>
+<code>leonidas ball_restart_2</code>
+</instance>
+<instance>
+<ID>293</ID>
+<start>4209.694282033657</start>
+<end>4223.395941118656</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>294</ID>
+<start>4215.095522576002</start>
+<end>4228.497257915004</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>295</ID>
+<start>4219.497257915004</start>
+<end>4233.588946998998</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>296</ID>
+<start>4224.588946998998</start>
+<end>4241.796249289666</end>
+<code>leonidas ball_win_4</code>
+</instance>
+<instance>
+<ID>297</ID>
+<start>4232.796249289666</start>
+<end>4247.695532123987</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>298</ID>
+<start>4238.695532123987</start>
+<end>4255.694448289988</end>
+<code>leonidas ball_win_3</code>
+</instance>
+<instance>
+<ID>299</ID>
+<start>4252.694448289988</start>
+<end>4258.696412415002</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>300</ID>
+<start>4263.89542698867</start>
+<end>4279.5952906556595</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>301</ID>
+<start>4280.895398366997</start>
+<end>4290.7956184039995</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>302</ID>
+<start>4287.7956184039995</start>
+<end>4313.0954088643275</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>303</ID>
+<start>4299.09615519733</start>
+<end>4313.0954088643275</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>304</ID>
+<start>4312.896328739661</start>
+<end>4334.60552910868</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>305</ID>
+<start>4319.095564315674</start>
+<end>4332.495336649655</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>306</ID>
+<start>4323.495336649655</start>
+<end>4336.795618399672</end>
+<code>ring_pass ball_win_1</code>
+</instance>
+<instance>
+<ID>307</ID>
+<start>4332.695544649998</start>
+<end>4348.095137816672</end>
+<code>leonidas circle_penetration</code>
+</instance>
+<instance>
+<ID>308</ID>
+<start>4334.793630357996</start>
+<end>4348.095137816672</end>
+<code>leonidas ball_restart_4</code>
+</instance>
+<instance>
+<ID>309</ID>
+<start>4353.493143738667</start>
+<end>4372.596234857664</end>
+<code>ring_pass ball_restart_1</code>
+</instance>
+<instance>
+<ID>310</ID>
+<start>4372.895447691661</start>
+<end>4383.09455169465</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>311</ID>
+<start>4381.896742111331</start>
+<end>4397.000009951</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>312</ID>
+<start>4385.895998741328</start>
+<end>4402.395286200991</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>313</ID>
+<start>4394.694813074997</start>
+<end>4524.694813074997</end>
+<code>leonidas green_card</code>
+</instance>
+<instance>
+<ID>314</ID>
+<start>4419.695163111001</start>
+<end>4433.3999657606755</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>315</ID>
+<start>4419.896937302667</start>
+<end>4431.395979511001</end>
+<code>ring_pass</code>
+</instance>
+<instance>
+<ID>316</ID>
+<start>4422.395979511001</start>
+<end>4437.295812302328</end>
+<code>leonidas ball_win_1</code>
+</instance>
+<instance>
+<ID>317</ID>
+<start>4434.295812302328</start>
+<end>4450.10005664734</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>318</ID>
+<start>4434.995945525001</start>
+<end>4457.696064820669</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>319</ID>
+<start>4448.696064820669</start>
+<end>4464.596564278669</end>
+<code>leonidas ball_win_2</code>
+</instance>
+<instance>
+<ID>320</ID>
+<start>4455.596564278669</start>
+<end>4481.397045066339</end>
+<code>ring_pass ball_win_3</code>
+</instance>
+<instance>
+<ID>321</ID>
+<start>4481.893311481326</start>
+<end>4491.792238899003</end>
+<code>ring_pass ball_restart_3</code>
+</instance>
+<instance>
+<ID>322</ID>
+<start>4492.595568691333</start>
+<end>4503.795318318675</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>323</ID>
+<start>4501.2965228589965</start>
+<end>4515.296176441987</end>
+<code>ring_pass circle_penetration</code>
+</instance>
+<instance>
+<ID>324</ID>
+<start>4503.4962267766605</start>
+<end>4515.296176441987</end>
+<code>ring_pass ball_restart_4</code>
+</instance>
+<instance>
+<ID>325</ID>
+<start>4521.0945597753325</start>
+<end>4535.795685738665</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>326</ID>
+<start>4539.197434694999</start>
+<end>4550.195274194664</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+<instance>
+<ID>327</ID>
+<start>4549.994915944661</start>
+<end>4563.873581654</end>
+<code>leonidas ball_restart_1</code>
+</instance>
+<instance>
+<ID>328</ID>
+<start>4565.195739122327</start>
+<end>4595.994535278997</end>
+<code>ring_pass ball_restart_2</code>
+</instance>
+</ALL_INSTANCES>
+<SORT_INFO>
+<sort_type>sort order</sort_type>
+</SORT_INFO>
+<ROWS>
+<row>
+<sort_order>0</sort_order>
+<code>RPD BS1</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>1</sort_order>
+<code>RPD BS2</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>2</sort_order>
+<code>RPD BS3</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>3</sort_order>
+<code>RPD BS4</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>4</sort_order>
+<code>RPD BW1</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>5</sort_order>
+<code>RPD BW2</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>6</sort_order>
+<code>RPD BW3</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>7</sort_order>
+<code>RPD BW4</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>8</sort_order>
+<code>RPD CP</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>9</sort_order>
+<code>RPD CP NBB</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>10</sort_order>
+<code>RPD Goal</code>
+<R>1501</R>
+<G>14526</G>
+<B>28708</B>
+</row>
+<row>
+<sort_order>11</sort_order>
+<code>LEO Kaart</code>
+<R>7643</R>
+<G>42741</G>
+<B>733</B>
+</row>
+<row>
+<sort_order>12</sort_order>
+<code>Start</code>
+<R>9548</R>
+<G>54439</G>
+<B>1131</B>
+</row>
+<row>
+<sort_order>13</sort_order>
+<code>LEO BS1</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>14</sort_order>
+<code>LEO BS2</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>15</sort_order>
+<code>LEO BS3</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>16</sort_order>
+<code>LEO BS4</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>17</sort_order>
+<code>LEO BW1</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>18</sort_order>
+<code>LEO BW2</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>19</sort_order>
+<code>LEO BW3</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>20</sort_order>
+<code>LEO BW4</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>21</sort_order>
+<code>LEO CP</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>22</sort_order>
+<code>LEO CP NBB</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>23</sort_order>
+<code>LEO Goal</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>24</sort_order>
+<code>LEO SC</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>25</sort_order>
+<code>LEO ASC</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>26</sort_order>
+<code>LEO SB</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+<row>
+<sort_order>27</sort_order>
+<code>LEO ASB</code>
+<R>40929</R>
+<G>0</G>
+<B>7286</B>
+</row>
+</ROWS>
+</file>

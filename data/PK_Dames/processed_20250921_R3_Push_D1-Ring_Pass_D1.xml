@@ -1,0 +1,4834 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>ring_pass cause_of_penalty_stroke</code>
+<start>1042.400112249</start>
+<end>1052.400112249</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>1</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>3991.500140062</start>
+<end>4001.500140062</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>2</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>4704.100164154</start>
+<end>4714.100164154</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>3</ID>
+<code>ring_pass circle_penetration</code>
+<start>215.600101565</start>
+<end>235.200116125</end>
+<label>
+<text>CP R3 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+</instance>
+<instance>
+<ID>4</ID>
+<code>ring_pass circle_penetration</code>
+<start>358.80018958</start>
+<end>374.600134466</end>
+<label>
+<text>CP L1 RP</text>
+</label>
+</instance>
+<instance>
+<ID>5</ID>
+<code>ring_pass circle_penetration</code>
+<start>413.000101058</start>
+<end>433.000101058</end>
+<label>
+<text>CP R1 RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>6</ID>
+<code>ring_pass circle_penetration</code>
+<start>823.40010871</start>
+<end>843.40010871</end>
+<label>
+<text>CP L2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>7</ID>
+<code>ring_pass circle_penetration</code>
+<start>1038.603089805</start>
+<end>1058.603089805</end>
+<label>
+<text>CP R2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>8</ID>
+<code>ring_pass circle_penetration</code>
+<start>1457.800152804</start>
+<end>1477.800152804</end>
+<label>
+<text>CP L1 RP</text>
+</label>
+</instance>
+<instance>
+<ID>9</ID>
+<code>ring_pass circle_penetration</code>
+<start>1486.800182198</start>
+<end>1519.800156</end>
+<label>
+<text>CP R1 RP</text>
+</label>
+<label>
+<text>CP R2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>10</ID>
+<code>ring_pass circle_penetration</code>
+<start>1683.203172754</start>
+<end>1703.203172754</end>
+<label>
+<text>CP L2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>11</ID>
+<code>ring_pass circle_penetration</code>
+<start>1723.802892588</start>
+<end>1743.802892588</end>
+<label>
+<text>CP L3 RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>12</ID>
+<code>ring_pass circle_penetration</code>
+<start>2034.400144524</start>
+<end>2054.100197562</end>
+<label>
+<text>CP R2 RP</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>13</ID>
+<code>ring_pass circle_penetration</code>
+<start>2219.500132542</start>
+<end>2239.500132542</end>
+<label>
+<text>CP MID RP</text>
+</label>
+</instance>
+<instance>
+<ID>14</ID>
+<code>ring_pass circle_penetration</code>
+<start>2254.900182656</start>
+<end>2274.900182656</end>
+<label>
+<text>CP L2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>15</ID>
+<code>ring_pass circle_penetration</code>
+<start>2314.800137482</start>
+<end>2334.800137482</end>
+<label>
+<text>CP R3 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+</instance>
+<instance>
+<ID>16</ID>
+<code>ring_pass circle_penetration</code>
+<start>2375.300192124</start>
+<end>2395.300192124</end>
+<label>
+<text>CP L2 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+</instance>
+<instance>
+<ID>17</ID>
+<code>ring_pass circle_penetration</code>
+<start>2407.300196942</start>
+<end>2427.300196942</end>
+<label>
+<text>CP L1 RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>18</ID>
+<code>ring_pass circle_penetration</code>
+<start>4132.30015786</start>
+<end>4152.30015786</end>
+<label>
+<text>CP R1 RP</text>
+</label>
+</instance>
+<instance>
+<ID>19</ID>
+<code>ring_pass circle_penetration</code>
+<start>4238.600148802</start>
+<end>4258.600148802</end>
+<label>
+<text>CP R1 RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>20</ID>
+<code>ring_pass circle_penetration</code>
+<start>4386.000172348</start>
+<end>4406.000172348</end>
+<label>
+<text>CP R2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>21</ID>
+<code>ring_pass circle_penetration</code>
+<start>4552.000210342</start>
+<end>4572.000210342</end>
+<label>
+<text>CP R3 RP</text>
+</label>
+<label>
+<text>Goal RP</text>
+</label>
+</instance>
+<instance>
+<ID>22</ID>
+<code>ring_pass circle_penetration</code>
+<start>4638.70016511</start>
+<end>4658.70016511</end>
+<label>
+<text>CP L2 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+</instance>
+<instance>
+<ID>23</ID>
+<code>ring_pass circle_penetration</code>
+<start>4701.900184588</start>
+<end>4721.900184588</end>
+<label>
+<text>CP R2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>24</ID>
+<code>ring_pass circle_penetration</code>
+<start>5130.000157776</start>
+<end>5150.000157776</end>
+<label>
+<text>CP R3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>25</ID>
+<code>ring_pass circle_penetration</code>
+<start>5421.100195856</start>
+<end>5441.100195856</end>
+<label>
+<text>CP R2 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>26</ID>
+<code>ring_pass circle_penetration</code>
+<start>5866.300131148</start>
+<end>5886.300131148</end>
+<label>
+<text>CP L3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>27</ID>
+<code>ring_pass circle_penetration</code>
+<start>6147.50019471</start>
+<end>6167.50019471</end>
+<label>
+<text>CP L1 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+</instance>
+<instance>
+<ID>28</ID>
+<code>ring_pass goal</code>
+<start>1107.200144226</start>
+<end>1122.200144226</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>ring_pass goal</code>
+<start>4557.50016557</start>
+<end>4572.50016557</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>ring_pass goal_attempt</code>
+<start>219.800165926</start>
+<end>234.800165926</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>ring_pass goal_attempt</code>
+<start>2319.200197628</start>
+<end>2334.200197628</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>ring_pass goal_attempt</code>
+<start>2380.900155248</start>
+<end>2395.900155248</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>ring_pass goal_attempt</code>
+<start>4388.900238346</start>
+<end>4403.900238346</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>ring_pass goal_attempt</code>
+<start>4642.900582124</start>
+<end>4657.900582124</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>ring_pass goal_attempt</code>
+<start>5133.600156126</start>
+<end>5148.600156126</end>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>36</ID>
+<code>ring_pass goal_attempt</code>
+<start>5428.200164054</start>
+<end>5443.200164054</end>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>37</ID>
+<code>ring_pass goal_attempt</code>
+<start>6155.600139024</start>
+<end>6170.600139024</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>ring_pass ball_restart_1</code>
+<start>739.100108221</start>
+<end>751.300172451</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>39</ID>
+<code>ring_pass ball_restart_1</code>
+<start>813.000118033</start>
+<end>849.500116887</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>Fom: Opponent</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP L2 RP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>40</ID>
+<code>ring_pass ball_restart_1</code>
+<start>941.800176909</start>
+<end>955.100108006</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>41</ID>
+<code>ring_pass ball_restart_1</code>
+<start>1008.100129262</start>
+<end>1023.512040806</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>Fom: Opponent</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>42</ID>
+<code>ring_pass ball_restart_1</code>
+<start>1255.200165671</start>
+<end>1262.100155807</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>43</ID>
+<code>ring_pass ball_restart_1</code>
+<start>1584.80016445</start>
+<end>1600.200171546</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>44</ID>
+<code>ring_pass ball_restart_1</code>
+<start>2139.800179856</start>
+<end>2153.20021613</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>45</ID>
+<code>ring_pass ball_restart_1</code>
+<start>2169.500178158</start>
+<end>2186.700171418</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>46</ID>
+<code>ring_pass ball_restart_1</code>
+<start>2483.200139078</start>
+<end>2495.400179332</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>47</ID>
+<code>ring_pass ball_restart_1</code>
+<start>2541.300244412</start>
+<end>2557.500167808</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>48</ID>
+<code>ring_pass ball_restart_1</code>
+<start>2629.40014981</start>
+<end>2635.100151546</end>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>49</ID>
+<code>ring_pass ball_restart_1</code>
+<start>4387.80298817</start>
+<end>4414.800152334</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R2 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>50</ID>
+<code>ring_pass ball_restart_1</code>
+<start>4503.3002604</start>
+<end>4515.300172774</end>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>51</ID>
+<code>ring_pass ball_restart_1</code>
+<start>5381.500148608</start>
+<end>5396.900142284</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>52</ID>
+<code>ring_pass ball_restart_1</code>
+<start>5416.900147862</start>
+<end>5440.800180826</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R2 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>53</ID>
+<code>ring_pass ball_restart_1</code>
+<start>5566.300245124</start>
+<end>5587.80021804</end>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>54</ID>
+<code>ring_pass ball_restart_1</code>
+<start>5615.900166442</start>
+<end>5629.900584264</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>55</ID>
+<code>ring_pass ball_restart_1</code>
+<start>5750.000168614</start>
+<end>5766.700158896</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>Hoge bal RP</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>56</ID>
+<code>ring_pass ball_restart_1</code>
+<start>5976.600168448</start>
+<end>5984.700199112</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>57</ID>
+<code>ring_pass ball_restart_1</code>
+<start>6043.900088968</start>
+<end>6074.400157808</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>Hoge bal RP</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>58</ID>
+<code>ring_pass ball_restart_2</code>
+<start>182.200153871</start>
+<end>205.100097487</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>59</ID>
+<code>ring_pass ball_restart_2</code>
+<start>332.600108459</start>
+<end>374.600134466</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>Fom: Opponent</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP L1 RP</text>
+</label>
+</instance>
+<instance>
+<ID>60</ID>
+<code>ring_pass ball_restart_2</code>
+<start>451.80010842</start>
+<end>468.30012324</end>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>61</ID>
+<code>ring_pass ball_restart_2</code>
+<start>699.600119665</start>
+<end>725.900111772</end>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>62</ID>
+<code>ring_pass ball_restart_2</code>
+<start>887.800127568</start>
+<end>895.80025347</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>63</ID>
+<code>ring_pass ball_restart_2</code>
+<start>1269.109350732</start>
+<end>1284.201707102</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>64</ID>
+<code>ring_pass ball_restart_2</code>
+<start>1809.905524688</start>
+<end>1822.501941628</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>65</ID>
+<code>ring_pass ball_restart_2</code>
+<start>1893.10018379</start>
+<end>1909.000142016</end>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>66</ID>
+<code>ring_pass ball_restart_2</code>
+<start>2554.500167808</start>
+<end>2579.400134856</end>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>67</ID>
+<code>ring_pass ball_restart_2</code>
+<start>3685.700154032</start>
+<end>3706.400082182</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>68</ID>
+<code>ring_pass ball_restart_2</code>
+<start>3774.600293444</start>
+<end>3783.800209422</end>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>69</ID>
+<code>ring_pass ball_restart_2</code>
+<start>4083.700146094</start>
+<end>4117.400149778</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+</instance>
+<instance>
+<ID>70</ID>
+<code>ring_pass ball_restart_2</code>
+<start>4631.000170228</start>
+<end>4681.200196768</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP L2 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>71</ID>
+<code>ring_pass ball_restart_2</code>
+<start>4987.000199822</start>
+<end>5004.700190954</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>72</ID>
+<code>ring_pass ball_restart_2</code>
+<start>5393.900142284</start>
+<end>5404.600161074</end>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>73</ID>
+<code>ring_pass ball_restart_2</code>
+<start>5993.600303156</start>
+<end>6016.100311182</end>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>74</ID>
+<code>ring_pass ball_restart_3</code>
+<start>209.600107211</start>
+<end>235.200116125</end>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R3 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+</instance>
+<instance>
+<ID>75</ID>
+<code>ring_pass ball_restart_3</code>
+<start>281.600107915</start>
+<end>301.50011288</end>
+<label>
+<text>BS 4 RP</text>
+</label>
+</instance>
+<instance>
+<ID>76</ID>
+<code>ring_pass ball_restart_3</code>
+<start>506.800111616</start>
+<end>517.700107277</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>Fom: Opponent</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>77</ID>
+<code>ring_pass ball_restart_3</code>
+<start>771.100190551</start>
+<end>782.500128367</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>78</ID>
+<code>ring_pass ball_restart_3</code>
+<start>1444.205338624</start>
+<end>1461.008317954</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>79</ID>
+<code>ring_pass ball_restart_3</code>
+<start>2183.700171418</start>
+<end>2193.400145002</end>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>80</ID>
+<code>ring_pass ball_restart_3</code>
+<start>2209.80026284</start>
+<end>2222.300192084</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+</instance>
+<instance>
+<ID>81</ID>
+<code>ring_pass ball_restart_3</code>
+<start>2246.700214314</start>
+<end>2280.100170482</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP L2 RP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>82</ID>
+<code>ring_pass ball_restart_3</code>
+<start>3978.100143048</start>
+<end>3990.700163544</end>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>83</ID>
+<code>ring_pass ball_restart_3</code>
+<start>4434.400196132</start>
+<end>4445.100176966</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>84</ID>
+<code>ring_pass ball_restart_3</code>
+<start>4530.20019824</start>
+<end>4545.100251506</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>85</ID>
+<code>ring_pass ball_restart_3</code>
+<start>5117.50017396</start>
+<end>5147.600168</end>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R3 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>86</ID>
+<code>ring_pass ball_restart_3</code>
+<start>5210.50013619</start>
+<end>5236.20016226</end>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>87</ID>
+<code>ring_pass ball_restart_3</code>
+<start>5497.800152244</start>
+<end>5511.600152496</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>ring_pass ball_restart_3</code>
+<start>5763.700158896</start>
+<end>5790.800167192</end>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>89</ID>
+<code>ring_pass ball_restart_3</code>
+<start>5868.10015336</start>
+<end>5886.90022509</end>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP L3 RP</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+</instance>
+<instance>
+<ID>90</ID>
+<code>ring_pass ball_restart_3</code>
+<start>6071.400157808</start>
+<end>6088.80015689</end>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>91</ID>
+<code>ring_pass ball_restart_4</code>
+<start>298.50011288</start>
+<end>311.600116702</end>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>92</ID>
+<code>ring_pass ball_restart_4</code>
+<start>411.000110368</start>
+<end>428.100131614</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>Fom: Opponent</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R1 RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>93</ID>
+<code>ring_pass ball_restart_4</code>
+<start>582.000110891</start>
+<end>596.600121252</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>Fom: Opponent</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>94</ID>
+<code>ring_pass ball_restart_4</code>
+<start>1044.800140764</start>
+<end>1051.400184135</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>Fom: Opponent</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R2 RP</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>95</ID>
+<code>ring_pass ball_restart_4</code>
+<start>1464.400286822</start>
+<end>1480.80011226</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP L1 RP</text>
+</label>
+</instance>
+<instance>
+<ID>96</ID>
+<code>ring_pass ball_restart_4</code>
+<start>1505.200188234</start>
+<end>1523.600175222</end>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R2 RP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>97</ID>
+<code>ring_pass ball_restart_4</code>
+<start>1684.803173586</start>
+<end>1711.107119166</end>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP L2 RP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>98</ID>
+<code>ring_pass ball_restart_4</code>
+<start>2219.300192084</start>
+<end>2242.500153054</end>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP MID RP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>99</ID>
+<code>ring_pass ball_restart_4</code>
+<start>2344.900203362</start>
+<end>2380.600149998</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>ring_pass ball_restart_4</code>
+<start>2395.000173914</start>
+<end>2415.500044844</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>ring_pass ball_restart_4</code>
+<start>2427.60007129</start>
+<end>2437.800201902</end>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>102</ID>
+<code>ring_pass ball_restart_4</code>
+<start>3790.60022292</start>
+<end>3810.10015558</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>103</ID>
+<code>ring_pass ball_restart_4</code>
+<start>4114.400149778</start>
+<end>4138.200138716</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>ring_pass ball_restart_4</code>
+<start>4150.600172696</start>
+<end>4160.200212578</end>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>105</ID>
+<code>ring_pass ball_restart_4</code>
+<start>4221.700158636</start>
+<end>4253.400151266</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R1 RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>106</ID>
+<code>ring_pass ball_restart_4</code>
+<start>4786.600141036</start>
+<end>4799.90039012</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>ring_pass ball_restart_4</code>
+<start>4815.30015094</start>
+<end>4850.100133724</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>108</ID>
+<code>ring_pass ball_restart_4</code>
+<start>5246.000250744</start>
+<end>5264.10021261</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>109</ID>
+<code>ring_pass ball_restart_4</code>
+<start>5455.500158088</start>
+<end>5491.900160008</end>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>110</ID>
+<code>ring_pass ball_restart_4</code>
+<start>5883.90022509</start>
+<end>5893.60017913</end>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>111</ID>
+<code>ring_pass ball_restart_4</code>
+<start>6143.00014826</start>
+<end>6173.600185338</end>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP L1 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+</instance>
+<instance>
+<ID>112</ID>
+<code>ring_pass ball_win_1</code>
+<start>482.800102467</start>
+<end>496.800112218</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>Fom: Opponent</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>113</ID>
+<code>ring_pass ball_win_1</code>
+<start>636.700130376</start>
+<end>656.30012484</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>114</ID>
+<code>ring_pass ball_win_1</code>
+<start>680.000111014</start>
+<end>702.600119665</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>115</ID>
+<code>ring_pass ball_win_1</code>
+<start>957.000133369</start>
+<end>970.900134782</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>Hoge bal RP</text>
+</label>
+</instance>
+<instance>
+<ID>116</ID>
+<code>ring_pass ball_win_1</code>
+<start>1173.700170753</start>
+<end>1190.500472655</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>117</ID>
+<code>ring_pass ball_win_1</code>
+<start>1223.200267943</start>
+<end>1237.700201557</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>118</ID>
+<code>ring_pass ball_win_1</code>
+<start>1875.30016186</start>
+<end>1896.10018379</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>119</ID>
+<code>ring_pass ball_win_1</code>
+<start>2002.40022002</start>
+<end>2032.000168916</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>120</ID>
+<code>ring_pass ball_win_1</code>
+<start>2591.500161558</start>
+<end>2619.900206524</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>121</ID>
+<code>ring_pass ball_win_1</code>
+<start>3759.600276288</start>
+<end>3777.600293444</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>122</ID>
+<code>ring_pass ball_win_1</code>
+<start>3948.600172338</start>
+<end>3965.300220486</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>123</ID>
+<code>ring_pass ball_win_1</code>
+<start>5335.100149118</start>
+<end>5359.600144376</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>124</ID>
+<code>ring_pass ball_win_1</code>
+<start>5552.20014383</start>
+<end>5569.300245124</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+</instance>
+<instance>
+<ID>125</ID>
+<code>ring_pass ball_win_1</code>
+<start>5834.002122628</start>
+<end>5848.30018588</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>126</ID>
+<code>ring_pass ball_win_2</code>
+<start>264.20011365</start>
+<end>284.600107915</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>Fom: Opponent</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>127</ID>
+<code>ring_pass ball_win_2</code>
+<start>307.800122097</start>
+<end>328.100134961</end>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>128</ID>
+<code>ring_pass ball_win_2</code>
+<start>1648.801013522</start>
+<end>1687.803173586</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+</instance>
+<instance>
+<ID>129</ID>
+<code>ring_pass ball_win_2</code>
+<start>1717.609755556</start>
+<end>1739.908258608</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP L3 RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>130</ID>
+<code>ring_pass ball_win_2</code>
+<start>3821.200165502</start>
+<end>3863.100164624</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>131</ID>
+<code>ring_pass ball_win_2</code>
+<start>4326.200218226</start>
+<end>4337.900147582</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>132</ID>
+<code>ring_pass ball_win_2</code>
+<start>4549.300243296</start>
+<end>4572.500152818</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R3 RP</text>
+</label>
+<label>
+<text>Goal RP</text>
+</label>
+</instance>
+<instance>
+<ID>133</ID>
+<code>ring_pass ball_win_2</code>
+<start>5000.800139784</start>
+<end>5033.200158406</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>134</ID>
+<code>ring_pass ball_win_2</code>
+<start>5045.50013562</start>
+<end>5065.500188934</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>135</ID>
+<code>ring_pass ball_win_2</code>
+<start>5094.900173048</start>
+<end>5120.50017396</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>136</ID>
+<code>ring_pass ball_win_2</code>
+<start>5354.100145792</start>
+<end>5376.100207254</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>137</ID>
+<code>ring_pass ball_win_2</code>
+<start>5852.603466814</start>
+<end>5871.10015336</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>138</ID>
+<code>ring_pass ball_win_3</code>
+<start>201.400121216</start>
+<end>212.600107211</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>139</ID>
+<code>ring_pass ball_win_3</code>
+<start>2035.60014486</start>
+<end>2054.100197562</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R2 RP</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>140</ID>
+<code>ring_pass ball_win_3</code>
+<start>4270.300217202</start>
+<end>4314.400151206</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>141</ID>
+<code>ring_pass ball_win_3</code>
+<start>4693.600208578</start>
+<end>4714.100164154</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R2 RP</text>
+</label>
+<label>
+<text>ASC RP</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>142</ID>
+<code>ring_pass ball_win_3</code>
+<start>5196.300151094</start>
+<end>5213.50013619</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>143</ID>
+<code>ring_pass ball_win_3</code>
+<start>5899.600178552</start>
+<end>5949.60016311</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>144</ID>
+<code>ring_pass ball_win_3</code>
+<start>6090.500135386</start>
+<end>6146.00014826</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+</instance>
+<instance>
+<ID>145</ID>
+<code>ring_pass ball_win_4</code>
+<start>1735.109719016</start>
+<end>1746.80325294</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>146</ID>
+<code>ring_pass ball_win_4</code>
+<start>2317.600274688</start>
+<end>2347.900203362</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP R3 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+</instance>
+<instance>
+<ID>147</ID>
+<code>ring_pass penalty_stroke</code>
+<start>1111.700116427</start>
+<end>1122.100137964</end>
+<label>
+<text>Goal</text>
+</label>
+</instance>
+<instance>
+<ID>148</ID>
+<code>ring_pass penalty_corner</code>
+<start>4039.90023468</start>
+<end>4054.90023468</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>149</ID>
+<code>ring_pass penalty_corner</code>
+<start>4769.900188878</start>
+<end>4784.900188878</end>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>Groen PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>150</ID>
+<code>push green_card</code>
+<start>4597.200134424</start>
+<end>4727.200134424</end>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>CP RP</text>
+</label>
+<label>
+<text>CP L2 RP</text>
+</label>
+<label>
+<text>Kans RP</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>CP R2 RP</text>
+</label>
+</instance>
+<instance>
+<ID>151</ID>
+<code>push green_card</code>
+<start>4765.500162918</start>
+<end>4895.500162918</end>
+<label>
+<text>BS 4 RP</text>
+</label>
+<label>
+<text>BW 1 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>152</ID>
+<code>ring_pass green_card</code>
+<start>1777.405653882</start>
+<end>1907.405653882</end>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+<label>
+<text>SCA PUSH</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>153</ID>
+<code>ring_pass green_card</code>
+<start>1923.70020473</start>
+<end>2053.70020473</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>154</ID>
+<code>ring_pass green_card</code>
+<start>5940.300157796</start>
+<end>6070.300157796</end>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>BW 3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BW 2 PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+<label>
+<text>Hoge bal RP</text>
+</label>
+</instance>
+<instance>
+<ID>155</ID>
+<code>push cause_of_penalty_corner</code>
+<start>1599.700133872</start>
+<end>1609.700133872</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>156</ID>
+<code>push cause_of_penalty_corner</code>
+<start>1820.808118944</start>
+<end>1830.808118944</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>157</ID>
+<code>push cause_of_penalty_corner</code>
+<start>3869.200152636</start>
+<end>3879.200152636</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>158</ID>
+<code>push cause_of_penalty_corner</code>
+<start>3919.200219012</start>
+<end>3929.200219012</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>159</ID>
+<code>push cause_of_penalty_corner</code>
+<start>5670.000180746</start>
+<end>5680.000180746</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>160</ID>
+<code>push goal_attempt</code>
+<start>675.600113228</start>
+<end>690.600113228</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>161</ID>
+<code>push goal_attempt</code>
+<start>791.000128074</start>
+<end>806.000128074</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>push goal_attempt</code>
+<start>919.200141178</start>
+<end>934.200141178</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>push goal_attempt</code>
+<start>1566.500157914</start>
+<end>1581.500157914</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>push goal_attempt</code>
+<start>1976.60023528</start>
+<end>1991.60023528</end>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>165</ID>
+<code>push goal_attempt</code>
+<start>4337.300226738</start>
+<end>4352.300226738</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>push goal_attempt</code>
+<start>4484.500149684</start>
+<end>4499.500149684</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>push goal_attempt</code>
+<start>5297.200154682</start>
+<end>5312.200154682</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>push ball_restart_1</code>
+<start>236.800113323</start>
+<end>254.200126343</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>169</ID>
+<code>push ball_restart_1</code>
+<start>378.900179735</start>
+<end>395.900111231</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>170</ID>
+<code>push ball_restart_1</code>
+<start>530.800112001</start>
+<end>581.900108411</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>push ball_restart_1</code>
+<start>593.600121252</start>
+<end>620.600142237</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>172</ID>
+<code>push ball_restart_1</code>
+<start>846.500116887</start>
+<end>872.200110366</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>173</ID>
+<code>push ball_restart_1</code>
+<start>1031.000133308</start>
+<end>1047.800140764</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>174</ID>
+<code>push ball_restart_1</code>
+<start>1520.600175222</start>
+<end>1559.300277908</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>175</ID>
+<code>push ball_restart_1</code>
+<start>1708.107119166</start>
+<end>1725.609755556</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>176</ID>
+<code>push ball_restart_1</code>
+<start>2029.000168916</start>
+<end>2043.60014486</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>177</ID>
+<code>push ball_restart_1</code>
+<start>2110.200142512</start>
+<end>2142.800179856</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>178</ID>
+<code>push ball_restart_1</code>
+<start>2239.500153054</start>
+<end>2249.700214314</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>179</ID>
+<code>push ball_restart_1</code>
+<start>2277.100170482</start>
+<end>2325.600274688</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>180</ID>
+<code>push ball_restart_1</code>
+<start>2452.600402632</start>
+<end>2486.200139078</end>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>181</ID>
+<code>push ball_restart_1</code>
+<start>3807.10015558</start>
+<end>3829.200165502</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>182</ID>
+<code>push ball_restart_1</code>
+<start>4061.90022086</start>
+<end>4086.700146094</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>183</ID>
+<code>push ball_restart_1</code>
+<start>4163.100230648</start>
+<end>4205.302927904</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>184</ID>
+<code>push ball_restart_1</code>
+<start>4270.700226684</start>
+<end>4278.300217202</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>185</ID>
+<code>push ball_restart_1</code>
+<start>4411.800152334</start>
+<end>4437.400196132</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>186</ID>
+<code>push ball_restart_1</code>
+<start>4460.400221078</start>
+<end>4506.3002604</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>187</ID>
+<code>push ball_restart_1</code>
+<start>4678.200196768</start>
+<end>4701.600208578</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>188</ID>
+<code>push ball_restart_1</code>
+<start>5191.200143018</start>
+<end>5204.300151094</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>189</ID>
+<code>push ball_restart_1</code>
+<start>5284.653485992</start>
+<end>5314.300162078</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>190</ID>
+<code>push ball_restart_2</code>
+<start>146.400129941</start>
+<end>162.703234839</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>191</ID>
+<code>push ball_restart_2</code>
+<start>251.200126343</start>
+<end>272.20011365</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>192</ID>
+<code>push ball_restart_2</code>
+<start>392.900111231</start>
+<end>408.600131743</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>push ball_restart_2</code>
+<start>434.100124196</start>
+<end>454.80010842</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>194</ID>
+<code>push ball_restart_2</code>
+<start>469.90011882</start>
+<end>490.800102467</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>195</ID>
+<code>push ball_restart_2</code>
+<start>617.600142237</start>
+<end>640.300121705</end>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>196</ID>
+<code>push ball_restart_2</code>
+<start>653.30012484</start>
+<end>688.000111014</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>197</ID>
+<code>push ball_restart_2</code>
+<start>869.200110366</start>
+<end>890.800127568</end>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>198</ID>
+<code>push ball_restart_2</code>
+<start>1136.400115357</start>
+<end>1166.600166799</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>199</ID>
+<code>push ball_restart_2</code>
+<start>1433.306301404</start>
+<end>1447.205338624</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>200</ID>
+<code>push ball_restart_2</code>
+<start>1556.300277908</start>
+<end>1568.600158916</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>201</ID>
+<code>push ball_restart_2</code>
+<start>1930.100151626</start>
+<end>1978.900171256</end>
+<label>
+<text>Groen RP</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>202</ID>
+<code>push ball_restart_2</code>
+<start>2576.400134856</start>
+<end>2599.500161558</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>203</ID>
+<code>push ball_restart_2</code>
+<start>4311.400151206</start>
+<end>4334.200218226</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>204</ID>
+<code>push ball_restart_2</code>
+<start>4599.400137594</start>
+<end>4603.600237446</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Geel PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>205</ID>
+<code>push ball_restart_2</code>
+<start>5001.700190954</start>
+<end>5008.800139784</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>206</ID>
+<code>push ball_restart_2</code>
+<start>5030.200158406</start>
+<end>5053.50013562</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>207</ID>
+<code>push ball_restart_2</code>
+<start>5078.300245048</start>
+<end>5102.900173048</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>208</ID>
+<code>push ball_restart_2</code>
+<start>5584.80021804</start>
+<end>5618.900166442</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>209</ID>
+<code>push ball_restart_2</code>
+<start>5787.800167192</start>
+<end>5799.900141546</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>210</ID>
+<code>push ball_restart_2</code>
+<start>5946.60016311</start>
+<end>5967.60015272</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Groen RP</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>211</ID>
+<code>push ball_restart_2</code>
+<start>6027.900136414</start>
+<end>6038.600152222</end>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>212</ID>
+<code>push ball_restart_2</code>
+<start>6085.80015689</start>
+<end>6098.500135386</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>213</ID>
+<code>push ball_restart_3</code>
+<start>159.703234839</start>
+<end>185.200153871</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>214</ID>
+<code>push ball_restart_3</code>
+<start>722.900111772</start>
+<end>742.100108221</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>215</ID>
+<code>push ball_restart_3</code>
+<start>1163.600166799</start>
+<end>1174.600145591</end>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>216</ID>
+<code>push ball_restart_3</code>
+<start>1204.000175407</start>
+<end>1231.200267943</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>217</ID>
+<code>push ball_restart_3</code>
+<start>1565.600158916</start>
+<end>1587.80016445</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>218</ID>
+<code>push ball_restart_3</code>
+<start>1597.200171546</start>
+<end>1609.700133872</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R2 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>219</ID>
+<code>push ball_restart_3</code>
+<start>1783.40672424</start>
+<end>1812.905524688</end>
+<label>
+<text>Groen RP</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>220</ID>
+<code>push ball_restart_3</code>
+<start>2616.900206524</start>
+<end>2632.40014981</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Hoge bal PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>221</ID>
+<code>push ball_restart_3</code>
+<start>5356.600144376</start>
+<end>5362.100145792</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>222</ID>
+<code>push ball_restart_3</code>
+<start>5373.100207254</start>
+<end>5384.500148608</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>223</ID>
+<code>push ball_restart_3</code>
+<start>5532.200197934</start>
+<end>5554.300154564</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>push ball_restart_3</code>
+<start>5667.700143574</start>
+<end>5680.000180746</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>225</ID>
+<code>push ball_restart_3</code>
+<start>5796.900141546</start>
+<end>5812.100659724</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>push ball_restart_4</code>
+<start>637.300121705</start>
+<end>644.700130376</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>227</ID>
+<code>push ball_restart_4</code>
+<start>971.600166633</start>
+<end>1011.100129262</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>228</ID>
+<code>push ball_restart_4</code>
+<start>1171.600145591</start>
+<end>1181.700170753</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>229</ID>
+<code>push ball_restart_4</code>
+<start>1234.700201557</start>
+<end>1258.200165671</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>230</ID>
+<code>push ball_restart_4</code>
+<start>1975.900171256</start>
+<end>1990.900143888</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>231</ID>
+<code>push ball_restart_4</code>
+<start>2528.900185152</start>
+<end>2544.300244412</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>232</ID>
+<code>push ball_restart_4</code>
+<start>3760.400162526</start>
+<end>3767.600276288</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>233</ID>
+<code>push ball_restart_4</code>
+<start>3873.000145438</start>
+<end>3879.200152636</end>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>234</ID>
+<code>push ball_restart_4</code>
+<start>4354.500158738</start>
+<end>4369.50014905</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>push ball_restart_4</code>
+<start>4374.50016146</start>
+<end>4390.80298817</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>236</ID>
+<code>push ball_restart_4</code>
+<start>5311.300162078</start>
+<end>5343.100149118</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>237</ID>
+<code>push ball_restart_4</code>
+<start>5631.40014491</start>
+<end>5651.100216506</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP MID PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>238</ID>
+<code>push ball_restart_4</code>
+<start>5964.60015272</start>
+<end>5979.600168448</end>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>239</ID>
+<code>push ball_win_1</code>
+<start>303.600116702</start>
+<end>315.800122097</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>240</ID>
+<code>push ball_win_1</code>
+<start>420.100131614</start>
+<end>437.100124196</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>241</ID>
+<code>push ball_win_1</code>
+<start>509.70010727700003</start>
+<end>533.800112001</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>242</ID>
+<code>push ball_win_1</code>
+<start>774.500128367</start>
+<end>808.200117817</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>243</ID>
+<code>push ball_win_1</code>
+<start>1453.008317954</start>
+<end>1467.400286822</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>244</ID>
+<code>push ball_win_1</code>
+<start>1731.908258608</start>
+<end>1743.109719016</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>245</ID>
+<code>push ball_win_1</code>
+<start>2414.600162586</start>
+<end>2430.60007129</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>246</ID>
+<code>push ball_win_1</code>
+<start>2434.30020968</start>
+<end>2455.600402632</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>247</ID>
+<code>push ball_win_1</code>
+<start>3775.800209422</start>
+<end>3793.60022292</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>248</ID>
+<code>push ball_win_1</code>
+<start>3957.300220486</start>
+<end>3981.100143048</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>249</ID>
+<code>push ball_win_1</code>
+<start>4152.200212578</start>
+<end>4166.100230648</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>250</ID>
+<code>push ball_win_1</code>
+<start>4245.400151266</start>
+<end>4273.700226684</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>251</ID>
+<code>push ball_win_1</code>
+<start>4437.100176966</start>
+<end>4463.400221078</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>252</ID>
+<code>push ball_win_1</code>
+<start>4537.100251506</start>
+<end>4557.300243296</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>253</ID>
+<code>push ball_win_1</code>
+<start>4801.80022069</start>
+<end>4818.30015094</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>254</ID>
+<code>push ball_win_1</code>
+<start>4842.100133724</start>
+<end>4863.200198482</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>255</ID>
+<code>push ball_win_1</code>
+<start>5057.500188934</start>
+<end>5081.300245048</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>256</ID>
+<code>push ball_win_1</code>
+<start>5139.600168</start>
+<end>5164.20020574</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BOP</text>
+</label>
+</instance>
+<instance>
+<ID>257</ID>
+<code>push ball_win_1</code>
+<start>5260.20021534</start>
+<end>5287.653485992</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>BS 1 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>258</ID>
+<code>push ball_win_1</code>
+<start>5432.800180826</start>
+<end>5458.500158088</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>259</ID>
+<code>push ball_win_1</code>
+<start>5507.900221664</start>
+<end>5535.200197934</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>260</ID>
+<code>push ball_win_1</code>
+<start>5885.60017913</start>
+<end>5907.600178552</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>261</ID>
+<code>push ball_win_1</code>
+<start>6169.100171998</start>
+<end>6182.400174886</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>262</ID>
+<code>push ball_win_2</code>
+<start>197.100097487</start>
+<end>209.400121216</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>263</ID>
+<code>push ball_win_2</code>
+<start>743.300172451</start>
+<end>774.100190551</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>264</ID>
+<code>push ball_win_2</code>
+<start>887.80025347</start>
+<end>944.800176909</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP MID PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>265</ID>
+<code>push ball_win_2</code>
+<start>1276.201707102</start>
+<end>1288.207869092</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>266</ID>
+<code>push ball_win_2</code>
+<start>1738.80325294</start>
+<end>1786.40672424</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>267</ID>
+<code>push ball_win_2</code>
+<start>1901.000142016</start>
+<end>1933.100151626</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>268</ID>
+<code>push ball_win_2</code>
+<start>2487.400179332</start>
+<end>2531.900185152</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>269</ID>
+<code>push ball_win_2</code>
+<start>4519.400134674</start>
+<end>4533.20019824</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>270</ID>
+<code>push ball_win_2</code>
+<start>6016.900147694</start>
+<end>6030.900136414</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>271</ID>
+<code>push ball_win_3</code>
+<start>947.100108006</start>
+<end>965.000133369</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>272</ID>
+<code>push ball_win_3</code>
+<start>1182.500472655</start>
+<end>1207.000175407</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>273</ID>
+<code>push ball_win_3</code>
+<start>1254.100155807</start>
+<end>1272.109350732</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>274</ID>
+<code>push ball_win_3</code>
+<start>1814.501941628</start>
+<end>1830.808118944</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>275</ID>
+<code>push ball_win_3</code>
+<start>2145.20021613</start>
+<end>2172.500178158</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>276</ID>
+<code>push ball_win_3</code>
+<start>3718.900164268</start>
+<end>3763.400162526</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>277</ID>
+<code>push ball_win_3</code>
+<start>3855.100164624</start>
+<end>3876.000145438</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP MID PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>278</ID>
+<code>push ball_win_3</code>
+<start>4329.900147582</start>
+<end>4357.500158738</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>CP PUSH</text>
+</label>
+<label>
+<text>CP R2 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>279</ID>
+<code>push ball_win_3</code>
+<start>5396.600161074</start>
+<end>5419.900147862</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>280</ID>
+<code>push ball_win_3</code>
+<start>5621.900584264</start>
+<end>5634.40014491</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>281</ID>
+<code>push ball_win_3</code>
+<start>5840.30018588</start>
+<end>5860.603466814</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>282</ID>
+<code>push ball_win_3</code>
+<start>5976.700199112</start>
+<end>5996.600303156</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>283</ID>
+<code>push circle_penetration</code>
+<start>630.600113325</start>
+<end>650.600113325</end>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>284</ID>
+<code>push circle_penetration</code>
+<start>670.900098201</start>
+<end>690.900098201</end>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>285</ID>
+<code>push circle_penetration</code>
+<start>719.600136453</start>
+<end>739.600136453</end>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>286</ID>
+<code>push circle_penetration</code>
+<start>787.200112183</start>
+<end>807.200112183</end>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>287</ID>
+<code>push circle_penetration</code>
+<start>915.800160267</start>
+<end>935.800160267</end>
+<label>
+<text>CP MID PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>288</ID>
+<code>push circle_penetration</code>
+<start>1166.200144105</start>
+<end>1186.200144105</end>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>289</ID>
+<code>push circle_penetration</code>
+<start>1232.100148733</start>
+<end>1252.100148733</end>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>290</ID>
+<code>push circle_penetration</code>
+<start>1561.10055961</start>
+<end>1581.10055961</end>
+<label>
+<text>CP R3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>291</ID>
+<code>push circle_penetration</code>
+<start>1592.800164986</start>
+<end>1612.800164986</end>
+<label>
+<text>CP R2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>292</ID>
+<code>push circle_penetration</code>
+<start>1815.511096502</start>
+<end>1830.808118944</end>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>293</ID>
+<code>push circle_penetration</code>
+<start>1957.00013933</start>
+<end>1991.100175492</end>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+<label>
+<text>BS 4 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>294</ID>
+<code>push circle_penetration</code>
+<start>1993.900068508</start>
+<end>2013.900068508</end>
+<label>
+<text>CP MID PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>295</ID>
+<code>push circle_penetration</code>
+<start>2150.100232266</start>
+<end>2170.100232266</end>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>296</ID>
+<code>push circle_penetration</code>
+<start>2522.70015064</start>
+<end>2542.70015064</end>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>297</ID>
+<code>push circle_penetration</code>
+<start>3855.70018132</start>
+<end>3875.70018132</end>
+<label>
+<text>CP MID PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>298</ID>
+<code>push circle_penetration</code>
+<start>4331.000146428</start>
+<end>4351.000146428</end>
+<label>
+<text>CP R2 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>299</ID>
+<code>push circle_penetration</code>
+<start>4366.401480822</start>
+<end>4386.401480822</end>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>300</ID>
+<code>push circle_penetration</code>
+<start>4479.10020077</start>
+<end>4499.10020077</end>
+<label>
+<text>CP L1 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>301</ID>
+<code>push circle_penetration</code>
+<start>5292.100152908</start>
+<end>5312.100152908</end>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+<label>
+<text>Kans PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>302</ID>
+<code>push circle_penetration</code>
+<start>5591.000150052</start>
+<end>5611.000150052</end>
+<label>
+<text>CP L2 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>303</ID>
+<code>push circle_penetration</code>
+<start>5625.500176018</start>
+<end>5645.500176018</end>
+<label>
+<text>CP MID PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>304</ID>
+<code>push circle_penetration</code>
+<start>5665.200143154</start>
+<end>5680.000180746</end>
+<label>
+<text>CP R1 PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>305</ID>
+<code>push circle_penetration</code>
+<start>5959.400196308</start>
+<end>5979.400196308</end>
+<label>
+<text>CP L3 PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>306</ID>
+<code>push penalty_stroke</code>
+<start>5726.200175204</start>
+<end>5753.000168614</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>307</ID>
+<code>push penalty_corner</code>
+<start>1647.200174358</start>
+<end>1662.200174358</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>308</ID>
+<code>push penalty_corner</code>
+<start>1866.400160586</start>
+<end>1881.400160586</end>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>309</ID>
+<code>push penalty_corner</code>
+<start>3917.600211968</start>
+<end>3929.200219012</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>ASC PUSH</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>310</ID>
+<code>push penalty_corner</code>
+<start>3944.200247394</start>
+<end>3956.600172338</end>
+<label>
+<text>BB PUSH</text>
+</label>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>311</ID>
+<code>umpiring</code>
+<start>164.900123325</start>
+<end>184.900123325</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>umpiring</code>
+<start>430.442987187</start>
+<end>450.442987187</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>umpiring</code>
+<start>450.452987187</start>
+<end>452.000158646</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>umpiring</code>
+<start>791.50020492</start>
+<end>811.50020492</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>umpiring</code>
+<start>1041.400118166</start>
+<end>1061.400118166</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>umpiring</code>
+<start>1250.208251984</start>
+<end>1270.208251984</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>umpiring</code>
+<start>2612.700181346</start>
+<end>2632.700181346</end>
+<label>
+<text>BS 1 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>318</ID>
+<code>umpiring</code>
+<start>3977.900165912</start>
+<end>3997.900165912</end>
+<label>
+<text>BS 3 RP</text>
+</label>
+</instance>
+<instance>
+<ID>319</ID>
+<code>umpiring</code>
+<start>3997.910165912</start>
+<end>4007.100139628</end>
+<label>
+<text>ASC RP</text>
+</label>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>320</ID>
+<code>umpiring</code>
+<start>4084.400171606</start>
+<end>4104.400171606</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>umpiring</code>
+<start>4158.30014304</start>
+<end>4178.30014304</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>umpiring</code>
+<start>4706.000139328</start>
+<end>4726.000139328</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>umpiring</code>
+<start>5037.40021048</start>
+<end>5057.40021048</end>
+<label>
+<text>Balverlies</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+</instance>
+<instance>
+<ID>324</ID>
+<code>umpiring</code>
+<start>5903.700185824</start>
+<end>5923.700185824</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>end</code>
+<start>1287.207869092</start>
+<end>1289.207869092</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>end</code>
+<start>2634.100151546</start>
+<end>2636.100151546</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>end</code>
+<start>4862.200198482</start>
+<end>4864.200198482</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>end</code>
+<start>6181.400174886</start>
+<end>6183.400174886</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>start</code>
+<start>147.700162276</start>
+<end>149.700162276</end>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>330</ID>
+<code>start</code>
+<start>1434.500204908</start>
+<end>1436.500204908</end>
+<label>
+<text>BS 2 PUSH</text>
+</label>
+<label>
+<text>BB PUSH</text>
+</label>
+</instance>
+<instance>
+<ID>331</ID>
+<code>start</code>
+<start>3687.100128588</start>
+<end>3689.100128588</end>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>332</ID>
+<code>start</code>
+<start>4988.200152162</start>
+<end>4990.200152162</end>
+<label>
+<text>BS 2 RP</text>
+</label>
+<label>
+<text>BB RP</text>
+</label>
+<label>
+<text>To: Opponent</text>
+</label>
+</instance>
+<instance>
+<ID>333</ID>
+<code>cause_of_penalty_stroke</code>
+<start>1041.900181301</start>
+<end>1053.900108615</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+<instance>
+<ID>334</ID>
+<code>cause_of_penalty_stroke</code>
+<start>5668.400238624</start>
+<end>5678.400238624</end>
+<label>
+<text>Overtreding</text>
+</label>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>ASB RP</code>
+<R>30069</R>
+<G>53713</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC RP</code>
+<R>30069</R>
+<G>53713</G>
+<B>65536</B>
+</row>
+<row>
+<code>CP RP</code>
+<R>30069</R>
+<G>53713</G>
+<B>65536</B>
+</row>
+<row>
+<code>Goal RP</code>
+<R>30069</R>
+<G>53713</G>
+<B>65536</B>
+</row>
+<row>
+<code>Kans RP</code>
+<R>30069</R>
+<G>53713</G>
+<B>65536</B>
+</row>
+<row>
+<code>BS 1 RP</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BS 2 RP</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BS 3 RP</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BS 4 RP</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BW 1 RP</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BW 2 RP</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BW 3 RP</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>BW 4 RP</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>SBA RP</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>SCA RP</code>
+<R>38036</R>
+<G>58339</G>
+<B>65278</B>
+</row>
+<row>
+<code>Groen PUSH</code>
+<R>2570</R>
+<G>33924</G>
+<B>1542</B>
+</row>
+<row>
+<code>Groen RP</code>
+<R>2570</R>
+<G>33924</G>
+<B>1542</B>
+</row>
+<row>
+<code>ASC PUSH</code>
+<R>38550</R>
+<G>54227</G>
+<B>24415</B>
+</row>
+<row>
+<code>Kans PUSH</code>
+<R>38550</R>
+<G>54227</G>
+<B>24415</B>
+</row>
+<row>
+<code>BS 1 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BS 2 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BS 3 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BS 4 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BW 1 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BW 2 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>BW 3 PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>CP PUSH</code>
+<R>26268</R>
+<G>39976</G>
+<B>13658</B>
+</row>
+<row>
+<code>SBA PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>SCA PUSH</code>
+<R>26214</R>
+<G>40092</G>
+<B>13621</B>
+</row>
+<row>
+<code>ARBITRAGE</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Einde</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>Start</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASB</code>
+<R>31097</R>
+<G>31097</G>
+<B>31097</B>
+</row>
+</ROWS>
+</file>

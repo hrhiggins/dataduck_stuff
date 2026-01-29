@@ -1,0 +1,2629 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>0</ID>
+<code>start</code>
+<start>0.0</start>
+<end>2.400168251</end>
+</instance>
+<instance>
+<ID>1</ID>
+<code>start</code>
+<start>1057.500259887</start>
+<end>1061.500259887</end>
+</instance>
+<instance>
+<ID>2</ID>
+<code>start</code>
+<start>2214.906243832</start>
+<end>2218.906243832</end>
+</instance>
+<instance>
+<ID>3</ID>
+<code>start</code>
+<start>3377.100181125</start>
+<end>3381.100181125</end>
+</instance>
+<instance>
+<ID>4</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>112.70014586</start>
+<end>124.70014586</end>
+</instance>
+<instance>
+<ID>5</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>176.400134716</start>
+<end>188.400134716</end>
+</instance>
+<instance>
+<ID>6</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>1293.300200739</start>
+<end>1305.300200739</end>
+</instance>
+<instance>
+<ID>7</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>1686.300251562</start>
+<end>1698.300251562</end>
+</instance>
+<instance>
+<ID>8</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>1751.300037752</start>
+<end>1763.300037752</end>
+</instance>
+<instance>
+<ID>9</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>2057.306647728</start>
+<end>2069.306647728</end>
+</instance>
+<instance>
+<ID>10</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>2343.100080776</start>
+<end>2355.100080776</end>
+</instance>
+<instance>
+<ID>11</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>3268.300098081</start>
+<end>3280.300098081</end>
+</instance>
+<instance>
+<ID>12</ID>
+<code>ring_pass cause_of_penalty_corner</code>
+<start>4441.106404773</start>
+<end>4453.106404773</end>
+</instance>
+<instance>
+<ID>13</ID>
+<code>ring_pass</code>
+<start>18.400091358</start>
+<end>40.600139535</end>
+</instance>
+<instance>
+<ID>14</ID>
+<code>ring_pass</code>
+<start>79.100173285</start>
+<end>221.100160354</end>
+</instance>
+<instance>
+<ID>15</ID>
+<code>ring_pass</code>
+<start>282.900202508</start>
+<end>293.804545187</end>
+</instance>
+<instance>
+<ID>16</ID>
+<code>ring_pass</code>
+<start>296.500189999</start>
+<end>307.013943374</end>
+</instance>
+<instance>
+<ID>17</ID>
+<code>ring_pass</code>
+<start>331.000202787</start>
+<end>351.500138082</end>
+</instance>
+<instance>
+<ID>18</ID>
+<code>ring_pass</code>
+<start>389.102285006</start>
+<end>402.100100524</end>
+</instance>
+<instance>
+<ID>19</ID>
+<code>ring_pass</code>
+<start>561.600152527</start>
+<end>580.500158031</end>
+</instance>
+<instance>
+<ID>20</ID>
+<code>ring_pass</code>
+<start>629.201640729</start>
+<end>644.30045917</end>
+</instance>
+<instance>
+<ID>21</ID>
+<code>ring_pass</code>
+<start>712.703246758</start>
+<end>726.706193194</end>
+</instance>
+<instance>
+<ID>22</ID>
+<code>ring_pass</code>
+<start>774.512535318</start>
+<end>798.70010534</end>
+</instance>
+<instance>
+<ID>23</ID>
+<code>ring_pass</code>
+<start>803.400545153</start>
+<end>828.500198146</end>
+</instance>
+<instance>
+<ID>24</ID>
+<code>ring_pass</code>
+<start>836.200114397</start>
+<end>854.900088807</end>
+</instance>
+<instance>
+<ID>25</ID>
+<code>ring_pass</code>
+<start>855.700089242</start>
+<end>872.800112386</end>
+</instance>
+<instance>
+<ID>26</ID>
+<code>ring_pass</code>
+<start>891.207847268</start>
+<end>912.816573664</end>
+</instance>
+<instance>
+<ID>27</ID>
+<code>ring_pass</code>
+<start>967.200092011</start>
+<end>988.015205886</end>
+</instance>
+<instance>
+<ID>28</ID>
+<code>ring_pass</code>
+<start>1018.409255139</start>
+<end>1051.109512583</end>
+</instance>
+<instance>
+<ID>29</ID>
+<code>ring_pass</code>
+<start>1079.006106081</start>
+<end>1119.00019258</end>
+</instance>
+<instance>
+<ID>30</ID>
+<code>ring_pass</code>
+<start>1139.800165285</start>
+<end>1156.100071348</end>
+</instance>
+<instance>
+<ID>31</ID>
+<code>ring_pass</code>
+<start>1166.100143696</start>
+<end>1175.200139384</end>
+</instance>
+<instance>
+<ID>32</ID>
+<code>ring_pass</code>
+<start>1195.302266072</start>
+<end>1214.300092133</end>
+</instance>
+<instance>
+<ID>33</ID>
+<code>ring_pass</code>
+<start>1268.705092068</start>
+<end>1355.800471724</end>
+</instance>
+<instance>
+<ID>34</ID>
+<code>ring_pass</code>
+<start>1361.600097237</start>
+<end>1401.500160488</end>
+</instance>
+<instance>
+<ID>35</ID>
+<code>ring_pass</code>
+<start>1483.900167068</start>
+<end>1488.400116473</end>
+</instance>
+<instance>
+<ID>36</ID>
+<code>ring_pass</code>
+<start>1547.50027301</start>
+<end>1560.200104135</end>
+</instance>
+<instance>
+<ID>37</ID>
+<code>ring_pass</code>
+<start>1570.500379622</start>
+<end>1597.500187122</end>
+</instance>
+<instance>
+<ID>38</ID>
+<code>ring_pass</code>
+<start>1689.781936996</start>
+<end>1789.000164723</end>
+</instance>
+<instance>
+<ID>39</ID>
+<code>ring_pass</code>
+<start>1820.200138225</start>
+<end>1828.40010584</end>
+</instance>
+<instance>
+<ID>40</ID>
+<code>ring_pass</code>
+<start>1884.900173986</start>
+<end>1903.50010475</end>
+</instance>
+<instance>
+<ID>41</ID>
+<code>ring_pass</code>
+<start>1938.500166752</start>
+<end>1949.700160012</end>
+</instance>
+<instance>
+<ID>42</ID>
+<code>ring_pass</code>
+<start>1988.000185399</start>
+<end>2025.100147216</end>
+</instance>
+<instance>
+<ID>43</ID>
+<code>ring_pass</code>
+<start>2059.201555416</start>
+<end>2143.300091188</end>
+</instance>
+<instance>
+<ID>44</ID>
+<code>ring_pass</code>
+<start>2172.100097397</start>
+<end>2186.900122415</end>
+</instance>
+<instance>
+<ID>45</ID>
+<code>ring_pass</code>
+<start>2191.500193602</start>
+<end>2198.600112415</end>
+</instance>
+<instance>
+<ID>46</ID>
+<code>ring_pass</code>
+<start>2215.807794769</start>
+<end>2235.000156144</end>
+</instance>
+<instance>
+<ID>47</ID>
+<code>ring_pass</code>
+<start>2283.600098607</start>
+<end>2406.500167879</end>
+</instance>
+<instance>
+<ID>48</ID>
+<code>ring_pass</code>
+<start>2459.500234483</start>
+<end>2469.600106545</end>
+</instance>
+<instance>
+<ID>49</ID>
+<code>ring_pass</code>
+<start>2477.30010742</start>
+<end>2486.60014992</end>
+</instance>
+<instance>
+<ID>50</ID>
+<code>ring_pass</code>
+<start>2563.205342517</start>
+<end>2586.700108954</end>
+</instance>
+<instance>
+<ID>51</ID>
+<code>ring_pass</code>
+<start>2624.10007076</start>
+<end>2646.000154259</end>
+</instance>
+<instance>
+<ID>52</ID>
+<code>ring_pass</code>
+<start>2875.00021733</start>
+<end>2905.900150612</end>
+</instance>
+<instance>
+<ID>53</ID>
+<code>ring_pass</code>
+<start>2914.700124925</start>
+<end>2939.500149424</end>
+</instance>
+<instance>
+<ID>54</ID>
+<code>ring_pass</code>
+<start>2954.000142501</start>
+<end>2974.300072519</end>
+</instance>
+<instance>
+<ID>55</ID>
+<code>ring_pass</code>
+<start>3018.500202389</start>
+<end>3023.101263014</end>
+</instance>
+<instance>
+<ID>56</ID>
+<code>ring_pass</code>
+<start>3095.800085205</start>
+<end>3121.900155141</end>
+</instance>
+<instance>
+<ID>57</ID>
+<code>ring_pass</code>
+<start>3167.200094039</start>
+<end>3176.800096477</end>
+</instance>
+<instance>
+<ID>58</ID>
+<code>ring_pass</code>
+<start>3187.100092764</start>
+<end>3205.800118367</end>
+</instance>
+<instance>
+<ID>59</ID>
+<code>ring_pass</code>
+<start>3222.30015088</start>
+<end>3254.114502318</end>
+</instance>
+<instance>
+<ID>60</ID>
+<code>ring_pass</code>
+<start>3258.800168718</start>
+<end>3321.70014734</end>
+</instance>
+<instance>
+<ID>61</ID>
+<code>ring_pass</code>
+<start>3334.600206864</start>
+<end>3359.100092961</end>
+</instance>
+<instance>
+<ID>62</ID>
+<code>ring_pass</code>
+<start>3361.300143655</start>
+<end>3411.600108469</end>
+</instance>
+<instance>
+<ID>63</ID>
+<code>ring_pass</code>
+<start>3473.400096846</start>
+<end>3479.900118035</end>
+</instance>
+<instance>
+<ID>64</ID>
+<code>ring_pass</code>
+<start>3503.400511659</start>
+<end>3522.400142471</end>
+</instance>
+<instance>
+<ID>65</ID>
+<code>ring_pass</code>
+<start>3524.800121663</start>
+<end>3531.700103227</end>
+</instance>
+<instance>
+<ID>66</ID>
+<code>ring_pass</code>
+<start>3560.91223521</start>
+<end>3573.600089837</end>
+</instance>
+<instance>
+<ID>67</ID>
+<code>ring_pass</code>
+<start>3612.900154001</start>
+<end>3619.700142813</end>
+</instance>
+<instance>
+<ID>68</ID>
+<code>ring_pass</code>
+<start>3633.50019173</start>
+<end>3641.111344348</end>
+</instance>
+<instance>
+<ID>69</ID>
+<code>ring_pass</code>
+<start>3698.306830136</start>
+<end>3719.700310041</end>
+</instance>
+<instance>
+<ID>70</ID>
+<code>ring_pass</code>
+<start>3739.201390118</start>
+<end>3765.400150581</end>
+</instance>
+<instance>
+<ID>71</ID>
+<code>ring_pass</code>
+<start>3923.800087548</start>
+<end>3972.200152031</end>
+</instance>
+<instance>
+<ID>72</ID>
+<code>ring_pass</code>
+<start>3987.300074601</start>
+<end>3994.00019836</end>
+</instance>
+<instance>
+<ID>73</ID>
+<code>ring_pass</code>
+<start>4000.712744573</start>
+<end>4008.80009626</end>
+</instance>
+<instance>
+<ID>74</ID>
+<code>ring_pass</code>
+<start>4052.711760327</start>
+<end>4059.600161201</end>
+</instance>
+<instance>
+<ID>75</ID>
+<code>ring_pass</code>
+<start>4116.600074629</start>
+<end>4127.304265446</end>
+</instance>
+<instance>
+<ID>76</ID>
+<code>ring_pass</code>
+<start>4132.30020557</start>
+<end>4171.000256383</end>
+</instance>
+<instance>
+<ID>77</ID>
+<code>ring_pass</code>
+<start>4214.701809697</start>
+<end>4227.600142066</end>
+</instance>
+<instance>
+<ID>78</ID>
+<code>ring_pass</code>
+<start>4287.300159303</start>
+<end>4303.40016344</end>
+</instance>
+<instance>
+<ID>79</ID>
+<code>ring_pass</code>
+<start>4348.000181536</start>
+<end>4352.200102739</end>
+</instance>
+<instance>
+<ID>80</ID>
+<code>ring_pass</code>
+<start>4408.200109985</start>
+<end>4507.60010048</end>
+</instance>
+<instance>
+<ID>81</ID>
+<code>ring_pass ball_restart_1</code>
+<start>279.900202508</start>
+<end>293.804545187</end>
+</instance>
+<instance>
+<ID>82</ID>
+<code>ring_pass ball_restart_1</code>
+<start>386.102285006</start>
+<end>402.100100524</end>
+</instance>
+<instance>
+<ID>83</ID>
+<code>ring_pass ball_restart_1</code>
+<start>558.600152527</start>
+<end>573.400118654</end>
+</instance>
+<instance>
+<ID>84</ID>
+<code>ring_pass ball_restart_1</code>
+<start>888.207847268</start>
+<end>912.816573664</end>
+</instance>
+<instance>
+<ID>85</ID>
+<code>ring_pass ball_restart_1</code>
+<start>964.200092011</start>
+<end>988.015205886</end>
+</instance>
+<instance>
+<ID>86</ID>
+<code>ring_pass ball_restart_1</code>
+<start>1275.800330567</start>
+<end>1305.000175928</end>
+</instance>
+<instance>
+<ID>87</ID>
+<code>ring_pass ball_restart_1</code>
+<start>1480.900167068</start>
+<end>1488.400116473</end>
+</instance>
+<instance>
+<ID>88</ID>
+<code>ring_pass ball_restart_1</code>
+<start>1817.200138225</start>
+<end>1828.40010584</end>
+</instance>
+<instance>
+<ID>89</ID>
+<code>ring_pass ball_restart_1</code>
+<start>1935.500166752</start>
+<end>1949.700160012</end>
+</instance>
+<instance>
+<ID>90</ID>
+<code>ring_pass ball_restart_1</code>
+<start>1985.000185399</start>
+<end>2025.100147216</end>
+</instance>
+<instance>
+<ID>91</ID>
+<code>ring_pass ball_restart_1</code>
+<start>2280.600098607</start>
+<end>2301.300144543</end>
+</instance>
+<instance>
+<ID>92</ID>
+<code>ring_pass ball_restart_1</code>
+<start>2872.00021733</start>
+<end>2896.400146564</end>
+</instance>
+<instance>
+<ID>93</ID>
+<code>ring_pass ball_restart_1</code>
+<start>3092.800085205</start>
+<end>3108.80009733</end>
+</instance>
+<instance>
+<ID>94</ID>
+<code>ring_pass ball_restart_1</code>
+<start>3331.600206864</start>
+<end>3359.100092961</end>
+</instance>
+<instance>
+<ID>95</ID>
+<code>ring_pass ball_restart_1</code>
+<start>3500.400511659</start>
+<end>3522.400142471</end>
+</instance>
+<instance>
+<ID>96</ID>
+<code>ring_pass ball_restart_1</code>
+<start>3557.91223521</start>
+<end>3573.600089837</end>
+</instance>
+<instance>
+<ID>97</ID>
+<code>ring_pass ball_restart_1</code>
+<start>3609.900154001</start>
+<end>3619.700142813</end>
+</instance>
+<instance>
+<ID>98</ID>
+<code>ring_pass ball_restart_1</code>
+<start>3695.306830136</start>
+<end>3719.700310041</end>
+</instance>
+<instance>
+<ID>99</ID>
+<code>ring_pass ball_restart_1</code>
+<start>3920.800087548</start>
+<end>3955.600156478</end>
+</instance>
+<instance>
+<ID>100</ID>
+<code>ring_pass ball_restart_1</code>
+<start>4113.600074629</start>
+<end>4127.304265446</end>
+</instance>
+<instance>
+<ID>101</ID>
+<code>ring_pass ball_restart_1</code>
+<start>4211.701809697</start>
+<end>4227.600142066</end>
+</instance>
+<instance>
+<ID>102</ID>
+<code>ring_pass ball_restart_1</code>
+<start>4405.200109985</start>
+<end>4442.800095523</end>
+</instance>
+<instance>
+<ID>103</ID>
+<code>ring_pass ball_restart_2</code>
+<start>15.400091358000001</start>
+<end>40.600139535</end>
+</instance>
+<instance>
+<ID>104</ID>
+<code>ring_pass ball_restart_2</code>
+<start>76.100173285</start>
+<end>122.100139296</end>
+</instance>
+<instance>
+<ID>105</ID>
+<code>ring_pass ball_restart_2</code>
+<start>293.500189999</start>
+<end>307.013943374</end>
+</instance>
+<instance>
+<ID>106</ID>
+<code>ring_pass ball_restart_2</code>
+<start>626.201640729</start>
+<end>644.30045917</end>
+</instance>
+<instance>
+<ID>107</ID>
+<code>ring_pass ball_restart_2</code>
+<start>718.300091195</start>
+<end>726.706193194</end>
+</instance>
+<instance>
+<ID>108</ID>
+<code>ring_pass ball_restart_2</code>
+<start>800.400545153</start>
+<end>828.500198146</end>
+</instance>
+<instance>
+<ID>109</ID>
+<code>ring_pass ball_restart_2</code>
+<start>1567.500379622</start>
+<end>1585.200107373</end>
+</instance>
+<instance>
+<ID>110</ID>
+<code>ring_pass ball_restart_2</code>
+<start>2212.807794769</start>
+<end>2235.000156144</end>
+</instance>
+<instance>
+<ID>111</ID>
+<code>ring_pass ball_restart_2</code>
+<start>2296.300144543</start>
+<end>2352.100086275</end>
+</instance>
+<instance>
+<ID>112</ID>
+<code>ring_pass ball_restart_2</code>
+<start>2892.500161877</start>
+<end>2905.900150612</end>
+</instance>
+<instance>
+<ID>113</ID>
+<code>ring_pass ball_restart_2</code>
+<start>3103.80009733</start>
+<end>3121.900155141</end>
+</instance>
+<instance>
+<ID>114</ID>
+<code>ring_pass ball_restart_2</code>
+<start>3184.100092764</start>
+<end>3205.800118367</end>
+</instance>
+<instance>
+<ID>115</ID>
+<code>ring_pass ball_restart_2</code>
+<start>3375.600111875</start>
+<end>3411.600108469</end>
+</instance>
+<instance>
+<ID>116</ID>
+<code>ring_pass ball_restart_2</code>
+<start>4049.711760327</start>
+<end>4059.600161201</end>
+</instance>
+<instance>
+<ID>117</ID>
+<code>ring_pass ball_restart_2</code>
+<start>4129.30020557</start>
+<end>4151.30505357</end>
+</instance>
+<instance>
+<ID>118</ID>
+<code>ring_pass ball_restart_3</code>
+<start>833.200114397</start>
+<end>854.900088807</end>
+</instance>
+<instance>
+<ID>119</ID>
+<code>ring_pass ball_restart_3</code>
+<start>1023.100162209</start>
+<end>1051.109512583</end>
+</instance>
+<instance>
+<ID>120</ID>
+<code>ring_pass ball_restart_3</code>
+<start>1087.108969581</start>
+<end>1119.00019258</end>
+</instance>
+<instance>
+<ID>121</ID>
+<code>ring_pass ball_restart_3</code>
+<start>1370.600152676</start>
+<end>1401.500160488</end>
+</instance>
+<instance>
+<ID>122</ID>
+<code>ring_pass ball_restart_3</code>
+<start>2566.10019089</start>
+<end>2586.700108954</end>
+</instance>
+<instance>
+<ID>123</ID>
+<code>ring_pass ball_restart_3</code>
+<start>3219.30015088</start>
+<end>3254.114502318</end>
+</instance>
+<instance>
+<ID>124</ID>
+<code>ring_pass ball_restart_3</code>
+<start>3371.603012594</start>
+<end>3378.700078843</end>
+</instance>
+<instance>
+<ID>125</ID>
+<code>ring_pass ball_restart_3</code>
+<start>3521.800121663</start>
+<end>3531.700103227</end>
+</instance>
+<instance>
+<ID>126</ID>
+<code>ring_pass ball_restart_3</code>
+<start>3950.600156478</start>
+<end>3972.200152031</end>
+</instance>
+<instance>
+<ID>127</ID>
+<code>ring_pass ball_restart_3</code>
+<start>4146.30505357</start>
+<end>4171.000256383</end>
+</instance>
+<instance>
+<ID>128</ID>
+<code>ring_pass ball_restart_4</code>
+<start>173.30627164</start>
+<end>187.800138466</end>
+</instance>
+<instance>
+<ID>129</ID>
+<code>ring_pass ball_restart_4</code>
+<start>568.70016172</start>
+<end>580.500158031</end>
+</instance>
+<instance>
+<ID>130</ID>
+<code>ring_pass ball_restart_4</code>
+<start>852.700089242</start>
+<end>872.800112386</end>
+</instance>
+<instance>
+<ID>131</ID>
+<code>ring_pass ball_restart_4</code>
+<start>1136.800165285</start>
+<end>1156.100071348</end>
+</instance>
+<instance>
+<ID>132</ID>
+<code>ring_pass ball_restart_4</code>
+<start>1358.600097237</start>
+<end>1375.600152676</end>
+</instance>
+<instance>
+<ID>133</ID>
+<code>ring_pass ball_restart_4</code>
+<start>1580.200107373</start>
+<end>1597.500187122</end>
+</instance>
+<instance>
+<ID>134</ID>
+<code>ring_pass ball_restart_4</code>
+<start>2474.30010742</start>
+<end>2486.60014992</end>
+</instance>
+<instance>
+<ID>135</ID>
+<code>ring_pass ball_restart_4</code>
+<start>2921.900105674</start>
+<end>2939.500149424</end>
+</instance>
+<instance>
+<ID>136</ID>
+<code>ring_pass ball_restart_4</code>
+<start>2965.600171402</start>
+<end>2974.300072519</end>
+</instance>
+<instance>
+<ID>137</ID>
+<code>ring_pass ball_restart_4</code>
+<start>3358.300143655</start>
+<end>3376.603012594</end>
+</instance>
+<instance>
+<ID>138</ID>
+<code>ring_pass ball_restart_4</code>
+<start>4437.800095523</start>
+<end>4450.800139023</end>
+</instance>
+<instance>
+<ID>139</ID>
+<code>ring_pass ball_win_1</code>
+<start>706.703246758</start>
+<end>723.300091195</end>
+</instance>
+<instance>
+<ID>140</ID>
+<code>ring_pass ball_win_1</code>
+<start>768.512535318</start>
+<end>798.70010534</end>
+</instance>
+<instance>
+<ID>141</ID>
+<code>ring_pass ball_win_1</code>
+<start>1073.006106081</start>
+<end>1092.108969581</end>
+</instance>
+<instance>
+<ID>142</ID>
+<code>ring_pass ball_win_1</code>
+<start>1262.705092068</start>
+<end>1280.800330567</end>
+</instance>
+<instance>
+<ID>143</ID>
+<code>ring_pass ball_win_1</code>
+<start>1541.50027301</start>
+<end>1560.200104135</end>
+</instance>
+<instance>
+<ID>144</ID>
+<code>ring_pass ball_win_1</code>
+<start>1878.900173986</start>
+<end>1903.50010475</end>
+</instance>
+<instance>
+<ID>145</ID>
+<code>ring_pass ball_win_1</code>
+<start>2618.10007076</start>
+<end>2646.000154259</end>
+</instance>
+<instance>
+<ID>146</ID>
+<code>ring_pass ball_win_1</code>
+<start>3012.500202389</start>
+<end>3023.101263014</end>
+</instance>
+<instance>
+<ID>147</ID>
+<code>ring_pass ball_win_1</code>
+<start>3161.200094039</start>
+<end>3176.800096477</end>
+</instance>
+<instance>
+<ID>148</ID>
+<code>ring_pass ball_win_1</code>
+<start>3627.50019173</start>
+<end>3641.111344348</end>
+</instance>
+<instance>
+<ID>149</ID>
+<code>ring_pass ball_win_1</code>
+<start>3733.201390118</start>
+<end>3765.400150581</end>
+</instance>
+<instance>
+<ID>150</ID>
+<code>ring_pass ball_win_1</code>
+<start>4281.300159303</start>
+<end>4303.40016344</end>
+</instance>
+<instance>
+<ID>151</ID>
+<code>ring_pass ball_win_1</code>
+<start>4342.000181536</start>
+<end>4352.200102739</end>
+</instance>
+<instance>
+<ID>152</ID>
+<code>ring_pass ball_win_2</code>
+<start>325.000202787</start>
+<end>351.500138082</end>
+</instance>
+<instance>
+<ID>153</ID>
+<code>ring_pass ball_win_2</code>
+<start>2185.500193602</start>
+<end>2198.600112415</end>
+</instance>
+<instance>
+<ID>154</ID>
+<code>ring_pass ball_win_2</code>
+<start>2453.500234483</start>
+<end>2469.600106545</end>
+</instance>
+<instance>
+<ID>155</ID>
+<code>ring_pass ball_win_2</code>
+<start>2948.000142501</start>
+<end>2970.600171402</end>
+</instance>
+<instance>
+<ID>156</ID>
+<code>ring_pass ball_win_2</code>
+<start>3467.400096846</start>
+<end>3479.900118035</end>
+</instance>
+<instance>
+<ID>157</ID>
+<code>ring_pass ball_win_2</code>
+<start>3994.712744573</start>
+<end>4008.80009626</end>
+</instance>
+<instance>
+<ID>158</ID>
+<code>ring_pass ball_win_3</code>
+<start>1012.409255139</start>
+<end>1028.100162209</end>
+</instance>
+<instance>
+<ID>159</ID>
+<code>ring_pass ball_win_3</code>
+<start>1189.302266072</start>
+<end>1214.300092133</end>
+</instance>
+<instance>
+<ID>160</ID>
+<code>ring_pass ball_win_3</code>
+<start>2166.100097397</start>
+<end>2186.900122415</end>
+</instance>
+<instance>
+<ID>161</ID>
+<code>ring_pass ball_win_3</code>
+<start>2557.205342517</start>
+<end>2571.10019089</end>
+</instance>
+<instance>
+<ID>162</ID>
+<code>ring_pass ball_win_3</code>
+<start>3252.800168718</start>
+<end>3277.900090395</end>
+</instance>
+<instance>
+<ID>163</ID>
+<code>ring_pass ball_win_4</code>
+<start>1160.100143696</start>
+<end>1175.200139384</end>
+</instance>
+<instance>
+<ID>164</ID>
+<code>ring_pass ball_win_4</code>
+<start>2053.201555416</start>
+<end>2067.50821329</end>
+</instance>
+<instance>
+<ID>165</ID>
+<code>ring_pass ball_win_4</code>
+<start>2908.700124925</start>
+<end>2925.302712361</end>
+</instance>
+<instance>
+<ID>166</ID>
+<code>ring_pass ball_win_4</code>
+<start>3981.300074601</start>
+<end>3994.00019836</end>
+</instance>
+<instance>
+<ID>167</ID>
+<code>ring_pass circle_penetration</code>
+<start>110.900097484</start>
+<end>120.900097484</end>
+</instance>
+<instance>
+<ID>168</ID>
+<code>ring_pass circle_penetration</code>
+<start>176.006390216</start>
+<end>186.006390216</end>
+</instance>
+<instance>
+<ID>169</ID>
+<code>ring_pass circle_penetration</code>
+<start>336.200132849</start>
+<end>346.200132849</end>
+</instance>
+<instance>
+<ID>170</ID>
+<code>ring_pass circle_penetration</code>
+<start>862.7000842</start>
+<end>872.7000842</end>
+</instance>
+<instance>
+<ID>171</ID>
+<code>ring_pass circle_penetration</code>
+<start>1043.410471085</start>
+<end>1053.410471085</end>
+</instance>
+<instance>
+<ID>172</ID>
+<code>ring_pass circle_penetration</code>
+<start>1286.500136332</start>
+<end>1296.500136332</end>
+</instance>
+<instance>
+<ID>173</ID>
+<code>ring_pass circle_penetration</code>
+<start>1380.200173988</start>
+<end>1390.200173988</end>
+</instance>
+<instance>
+<ID>174</ID>
+<code>ring_pass circle_penetration</code>
+<start>2339.00081415</start>
+<end>2349.00081415</end>
+</instance>
+<instance>
+<ID>175</ID>
+<code>ring_pass circle_penetration</code>
+<start>3240.500156569</start>
+<end>3250.500156569</end>
+</instance>
+<instance>
+<ID>176</ID>
+<code>ring_pass circle_penetration</code>
+<start>3266.000179456</start>
+<end>3276.000179456</end>
+</instance>
+<instance>
+<ID>177</ID>
+<code>ring_pass circle_penetration</code>
+<start>3957.014174289</start>
+<end>3967.014174289</end>
+</instance>
+<instance>
+<ID>178</ID>
+<code>ring_pass circle_penetration</code>
+<start>4294.900144941</start>
+<end>4304.900144941</end>
+</instance>
+<instance>
+<ID>179</ID>
+<code>ring_pass circle_penetration</code>
+<start>4440.800067461</start>
+<end>4450.800067461</end>
+</instance>
+<instance>
+<ID>180</ID>
+<code>ring_pass goal_attempt</code>
+<start>335.40006002</start>
+<end>347.40006002</end>
+</instance>
+<instance>
+<ID>181</ID>
+<code>ring_pass goal_attempt</code>
+<start>3955.70611797</start>
+<end>3967.70611797</end>
+</instance>
+<instance>
+<ID>182</ID>
+<code>ring_pass penalty_corner</code>
+<start>162.100108735</start>
+<end>175.100108735</end>
+</instance>
+<instance>
+<ID>183</ID>
+<code>ring_pass penalty_corner</code>
+<start>209.000252899</start>
+<end>222.000252899</end>
+</instance>
+<instance>
+<ID>184</ID>
+<code>ring_pass penalty_corner</code>
+<start>1342.900195412</start>
+<end>1355.900195412</end>
+</instance>
+<instance>
+<ID>185</ID>
+<code>ring_pass penalty_corner</code>
+<start>1748.000181815</start>
+<end>1761.000181815</end>
+</instance>
+<instance>
+<ID>186</ID>
+<code>ring_pass penalty_corner</code>
+<start>1771.100097537</start>
+<end>1784.100097537</end>
+</instance>
+<instance>
+<ID>187</ID>
+<code>ring_pass penalty_corner</code>
+<start>2128.400098937</start>
+<end>2141.400098937</end>
+</instance>
+<instance>
+<ID>188</ID>
+<code>ring_pass penalty_corner</code>
+<start>2388.900135489</start>
+<end>2401.900135489</end>
+</instance>
+<instance>
+<ID>189</ID>
+<code>ring_pass penalty_corner</code>
+<start>3313.600152965</start>
+<end>3326.600152965</end>
+</instance>
+<instance>
+<ID>190</ID>
+<code>ring_pass penalty_corner</code>
+<start>4488.800154794</start>
+<end>4501.800154794</end>
+</instance>
+<instance>
+<ID>191</ID>
+<code>breda green_card</code>
+<start>1570.800132435</start>
+<end>1690.800132435</end>
+</instance>
+<instance>
+<ID>192</ID>
+<code>breda green_card</code>
+<start>3223.400105379</start>
+<end>3343.400105379</end>
+</instance>
+<instance>
+<ID>193</ID>
+<code>ring_pass green_card</code>
+<start>3068.100155205</start>
+<end>3188.100155205</end>
+</instance>
+<instance>
+<ID>194</ID>
+<code>ring_pass green_card</code>
+<start>4040.300122512</start>
+<end>4160.300122512001</end>
+</instance>
+<instance>
+<ID>195</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>464.800125265</start>
+<end>476.800125265</end>
+</instance>
+<instance>
+<ID>196</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>518.400108333</start>
+<end>530.400108333</end>
+</instance>
+<instance>
+<ID>197</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>1488.400069283</start>
+<end>1500.400069283</end>
+</instance>
+<instance>
+<ID>198</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>1833.100131159</start>
+<end>1845.100131159</end>
+</instance>
+<instance>
+<ID>199</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>2671.114950196</start>
+<end>2683.114950196</end>
+</instance>
+<instance>
+<ID>200</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>2720.900137112</start>
+<end>2732.900137112</end>
+</instance>
+<instance>
+<ID>201</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>2745.20017868</start>
+<end>2757.20017868</end>
+</instance>
+<instance>
+<ID>202</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>3856.106123876</start>
+<end>3868.106123876</end>
+</instance>
+<instance>
+<ID>203</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>4228.400076629</start>
+<end>4240.400076629</end>
+</instance>
+<instance>
+<ID>204</ID>
+<code>breda cause_of_penalty_corner</code>
+<start>4349.700138109</start>
+<end>4361.700138109</end>
+</instance>
+<instance>
+<ID>205</ID>
+<code>breda</code>
+<start>0.0</start>
+<end>14.80112142</end>
+</instance>
+<instance>
+<ID>206</ID>
+<code>breda</code>
+<start>38.600139535</start>
+<end>68.20014216</end>
+</instance>
+<instance>
+<ID>207</ID>
+<code>breda</code>
+<start>219.100160354</start>
+<end>278.302327292</end>
+</instance>
+<instance>
+<ID>208</ID>
+<code>breda</code>
+<start>291.804545187</start>
+<end>298.500189999</end>
+</instance>
+<instance>
+<ID>209</ID>
+<code>breda</code>
+<start>305.013943374</start>
+<end>333.000202787</end>
+</instance>
+<instance>
+<ID>210</ID>
+<code>breda</code>
+<start>355.004935895</start>
+<end>391.102285006</end>
+</instance>
+<instance>
+<ID>211</ID>
+<code>breda</code>
+<start>400.100100524</start>
+<end>563.600152527</end>
+</instance>
+<instance>
+<ID>212</ID>
+<code>breda</code>
+<start>578.500158031</start>
+<end>631.201640729</end>
+</instance>
+<instance>
+<ID>213</ID>
+<code>breda</code>
+<start>642.30045917</start>
+<end>714.703246758</end>
+</instance>
+<instance>
+<ID>214</ID>
+<code>breda</code>
+<start>724.706193194</start>
+<end>776.512535318</end>
+</instance>
+<instance>
+<ID>215</ID>
+<code>breda</code>
+<start>826.500198146</start>
+<end>838.200114397</end>
+</instance>
+<instance>
+<ID>216</ID>
+<code>breda</code>
+<start>870.800112386</start>
+<end>893.207847268</end>
+</instance>
+<instance>
+<ID>217</ID>
+<code>breda</code>
+<start>910.816573664</start>
+<end>969.200092011</end>
+</instance>
+<instance>
+<ID>218</ID>
+<code>breda</code>
+<start>995.200110388</start>
+<end>1020.409255139</end>
+</instance>
+<instance>
+<ID>219</ID>
+<code>breda</code>
+<start>1049.109512583</start>
+<end>1057.60010446</end>
+</instance>
+<instance>
+<ID>220</ID>
+<code>breda</code>
+<start>1058.300111949</start>
+<end>1081.006106081</end>
+</instance>
+<instance>
+<ID>221</ID>
+<code>breda</code>
+<start>1125.800469269</start>
+<end>1141.800165285</end>
+</instance>
+<instance>
+<ID>222</ID>
+<code>breda</code>
+<start>1154.100071348</start>
+<end>1168.100143696</end>
+</instance>
+<instance>
+<ID>223</ID>
+<code>breda</code>
+<start>1179.500336196</start>
+<end>1197.302266072</end>
+</instance>
+<instance>
+<ID>224</ID>
+<code>breda</code>
+<start>1212.300092133</start>
+<end>1270.705092068</end>
+</instance>
+<instance>
+<ID>225</ID>
+<code>breda</code>
+<start>1407.800240426</start>
+<end>1485.900167068</end>
+</instance>
+<instance>
+<ID>226</ID>
+<code>breda</code>
+<start>1486.400116473</start>
+<end>1549.50027301</end>
+</instance>
+<instance>
+<ID>227</ID>
+<code>breda</code>
+<start>1595.500187122</start>
+<end>1691.781936996</end>
+</instance>
+<instance>
+<ID>228</ID>
+<code>breda</code>
+<start>1792.000143162</start>
+<end>1815.100185786</end>
+</instance>
+<instance>
+<ID>229</ID>
+<code>breda</code>
+<start>1826.40010584</start>
+<end>1886.900173986</end>
+</instance>
+<instance>
+<ID>230</ID>
+<code>breda</code>
+<start>1901.50010475</start>
+<end>1913.600082188</end>
+</instance>
+<instance>
+<ID>231</ID>
+<code>breda</code>
+<start>1916.10009594</start>
+<end>1940.500166752</end>
+</instance>
+<instance>
+<ID>232</ID>
+<code>breda</code>
+<start>1947.700160012</start>
+<end>1990.000185399</end>
+</instance>
+<instance>
+<ID>233</ID>
+<code>breda</code>
+<start>2032.200277892</start>
+<end>2061.201555416</end>
+</instance>
+<instance>
+<ID>234</ID>
+<code>breda</code>
+<start>2154.900118466</start>
+<end>2174.100097397</end>
+</instance>
+<instance>
+<ID>235</ID>
+<code>breda</code>
+<start>2184.900122415</start>
+<end>2193.500193602</end>
+</instance>
+<instance>
+<ID>236</ID>
+<code>breda</code>
+<start>2206.400157476</start>
+<end>2215.900168394</end>
+</instance>
+<instance>
+<ID>237</ID>
+<code>breda</code>
+<start>2233.000156144</start>
+<end>2285.600098607</end>
+</instance>
+<instance>
+<ID>238</ID>
+<code>breda</code>
+<start>2405.700158753</start>
+<end>2461.500234483</end>
+</instance>
+<instance>
+<ID>239</ID>
+<code>breda</code>
+<start>2467.600106545</start>
+<end>2479.30010742</end>
+</instance>
+<instance>
+<ID>240</ID>
+<code>breda</code>
+<start>2484.60014992</start>
+<end>2565.205342517</end>
+</instance>
+<instance>
+<ID>241</ID>
+<code>breda</code>
+<start>2584.700108954</start>
+<end>2626.10007076</end>
+</instance>
+<instance>
+<ID>242</ID>
+<code>breda</code>
+<start>2644.000154259</start>
+<end>2877.00021733</end>
+</instance>
+<instance>
+<ID>243</ID>
+<code>breda</code>
+<start>2903.900150612</start>
+<end>2916.700124925</end>
+</instance>
+<instance>
+<ID>244</ID>
+<code>breda</code>
+<start>2937.500149424</start>
+<end>2956.000142501</end>
+</instance>
+<instance>
+<ID>245</ID>
+<code>breda</code>
+<start>2972.300072519</start>
+<end>3020.500202389</end>
+</instance>
+<instance>
+<ID>246</ID>
+<code>breda</code>
+<start>3021.101263014</start>
+<end>3097.800085205</end>
+</instance>
+<instance>
+<ID>247</ID>
+<code>breda</code>
+<start>3127.100280083</start>
+<end>3169.200094039</end>
+</instance>
+<instance>
+<ID>248</ID>
+<code>breda</code>
+<start>3252.114502318</start>
+<end>3260.800168718</end>
+</instance>
+<instance>
+<ID>249</ID>
+<code>breda</code>
+<start>3319.70014734</start>
+<end>3336.600206864</end>
+</instance>
+<instance>
+<ID>250</ID>
+<code>breda</code>
+<start>3409.600108469</start>
+<end>3475.400096846</end>
+</instance>
+<instance>
+<ID>251</ID>
+<code>breda</code>
+<start>3477.900118035</start>
+<end>3505.400511659</end>
+</instance>
+<instance>
+<ID>252</ID>
+<code>breda</code>
+<start>3520.400142471</start>
+<end>3526.800121663</end>
+</instance>
+<instance>
+<ID>253</ID>
+<code>breda</code>
+<start>3529.700103227</start>
+<end>3562.91223521</end>
+</instance>
+<instance>
+<ID>254</ID>
+<code>breda</code>
+<start>3571.600089837</start>
+<end>3612.500147314</end>
+</instance>
+<instance>
+<ID>255</ID>
+<code>breda</code>
+<start>3617.700142813</start>
+<end>3635.50019173</end>
+</instance>
+<instance>
+<ID>256</ID>
+<code>breda</code>
+<start>3639.111344348</start>
+<end>3700.306830136</end>
+</instance>
+<instance>
+<ID>257</ID>
+<code>breda</code>
+<start>3717.700310041</start>
+<end>3741.201390118</end>
+</instance>
+<instance>
+<ID>258</ID>
+<code>breda</code>
+<start>3763.400150581</start>
+<end>3925.800087548</end>
+</instance>
+<instance>
+<ID>259</ID>
+<code>breda</code>
+<start>3970.200152031</start>
+<end>3989.300074601</end>
+</instance>
+<instance>
+<ID>260</ID>
+<code>breda</code>
+<start>3992.00019836</start>
+<end>4002.712744573</end>
+</instance>
+<instance>
+<ID>261</ID>
+<code>breda</code>
+<start>4006.80009626</start>
+<end>4054.711760327</end>
+</instance>
+<instance>
+<ID>262</ID>
+<code>breda</code>
+<start>4057.600161201</start>
+<end>4118.600074629</end>
+</instance>
+<instance>
+<ID>263</ID>
+<code>breda</code>
+<start>4125.304265446</start>
+<end>4132.403135946</end>
+</instance>
+<instance>
+<ID>264</ID>
+<code>breda</code>
+<start>4169.000256383</start>
+<end>4216.701809697</end>
+</instance>
+<instance>
+<ID>265</ID>
+<code>breda</code>
+<start>4225.600142066</start>
+<end>4289.300159303</end>
+</instance>
+<instance>
+<ID>266</ID>
+<code>breda</code>
+<start>4301.40016344</start>
+<end>4350.000181536</end>
+</instance>
+<instance>
+<ID>267</ID>
+<code>breda</code>
+<start>4350.200102739</start>
+<end>4410.200109985</end>
+</instance>
+<instance>
+<ID>268</ID>
+<code>breda ball_restart_1</code>
+<start>352.004935895</start>
+<end>386.200076695</end>
+</instance>
+<instance>
+<ID>269</ID>
+<code>breda ball_restart_1</code>
+<start>580.100098094</start>
+<end>628.000127855</end>
+</instance>
+<instance>
+<ID>270</ID>
+<code>breda ball_restart_1</code>
+<start>916.100101664</start>
+<end>969.200092011</end>
+</instance>
+<instance>
+<ID>271</ID>
+<code>breda ball_restart_1</code>
+<start>992.200110388</start>
+<end>1020.409255139</end>
+</instance>
+<instance>
+<ID>272</ID>
+<code>breda ball_restart_1</code>
+<start>1122.800469269</start>
+<end>1141.800165285</end>
+</instance>
+<instance>
+<ID>273</ID>
+<code>breda ball_restart_1</code>
+<start>1151.100071348</start>
+<end>1168.100143696</end>
+</instance>
+<instance>
+<ID>274</ID>
+<code>breda ball_restart_1</code>
+<start>1176.500336196</start>
+<end>1197.302266072</end>
+</instance>
+<instance>
+<ID>275</ID>
+<code>breda ball_restart_1</code>
+<start>1404.800240426</start>
+<end>1466.500145769</end>
+</instance>
+<instance>
+<ID>276</ID>
+<code>breda ball_restart_1</code>
+<start>1599.600098311</start>
+<end>1620.600223185</end>
+</instance>
+<instance>
+<ID>277</ID>
+<code>breda ball_restart_1</code>
+<start>1789.000143162</start>
+<end>1815.100185786</end>
+</instance>
+<instance>
+<ID>278</ID>
+<code>breda ball_restart_1</code>
+<start>2029.200277892</start>
+<end>2061.201555416</end>
+</instance>
+<instance>
+<ID>279</ID>
+<code>breda ball_restart_1</code>
+<start>2151.900118466</start>
+<end>2174.100097397</end>
+</instance>
+<instance>
+<ID>280</ID>
+<code>breda ball_restart_1</code>
+<start>2402.700158753</start>
+<end>2431.400196478</end>
+</instance>
+<instance>
+<ID>281</ID>
+<code>breda ball_restart_1</code>
+<start>2594.900064953</start>
+<end>2626.10007076</end>
+</instance>
+<instance>
+<ID>282</ID>
+<code>breda ball_restart_1</code>
+<start>2976.700068268</start>
+<end>3020.500202389</end>
+</instance>
+<instance>
+<ID>283</ID>
+<code>breda ball_restart_1</code>
+<start>3124.100280083</start>
+<end>3169.200094039</end>
+</instance>
+<instance>
+<ID>284</ID>
+<code>breda ball_restart_1</code>
+<start>3420.700153068</start>
+<end>3451.807281083</end>
+</instance>
+<instance>
+<ID>285</ID>
+<code>breda ball_restart_1</code>
+<start>3800.400209913</start>
+<end>3817.000131538</end>
+</instance>
+<instance>
+<ID>286</ID>
+<code>breda ball_restart_1</code>
+<start>3967.200152031</start>
+<end>3989.300074601</end>
+</instance>
+<instance>
+<ID>287</ID>
+<code>breda ball_restart_1</code>
+<start>4166.000256383</start>
+<end>4216.701809697</end>
+</instance>
+<instance>
+<ID>288</ID>
+<code>breda ball_restart_2</code>
+<start>0.0</start>
+<end>12.000156357</end>
+</instance>
+<instance>
+<ID>289</ID>
+<code>breda ball_restart_2</code>
+<start>221.705291105</start>
+<end>257.100156605</end>
+</instance>
+<instance>
+<ID>290</ID>
+<code>breda ball_restart_2</code>
+<start>646.600122669</start>
+<end>683.100050302</end>
+</instance>
+<instance>
+<ID>291</ID>
+<code>breda ball_restart_2</code>
+<start>1055.300111949</start>
+<end>1067.000188761</end>
+</instance>
+<instance>
+<ID>292</ID>
+<code>breda ball_restart_2</code>
+<start>1617.400221373</start>
+<end>1691.781936996</end>
+</instance>
+<instance>
+<ID>293</ID>
+<code>breda ball_restart_2</code>
+<start>1913.10009594</start>
+<end>1934.000292751</end>
+</instance>
+<instance>
+<ID>294</ID>
+<code>breda ball_restart_2</code>
+<start>2203.400157476</start>
+<end>2215.900168394</end>
+</instance>
+<instance>
+<ID>295</ID>
+<code>breda ball_restart_2</code>
+<start>2230.000156144</start>
+<end>2285.600098607</end>
+</instance>
+<instance>
+<ID>296</ID>
+<code>breda ball_restart_2</code>
+<start>2513.500162669</start>
+<end>2565.205342517</end>
+</instance>
+<instance>
+<ID>297</ID>
+<code>breda ball_restart_2</code>
+<start>2662.100112446</start>
+<end>2680.900107946</end>
+</instance>
+<instance>
+<ID>298</ID>
+<code>breda ball_restart_2</code>
+<start>3446.807281083</start>
+<end>3475.400096846</end>
+</instance>
+<instance>
+<ID>299</ID>
+<code>breda ball_restart_2</code>
+<start>3812.000131538</start>
+<end>3834.400090225</end>
+</instance>
+<instance>
+<ID>300</ID>
+<code>breda ball_restart_2</code>
+<start>4036.50277839</start>
+<end>4054.711760327</end>
+</instance>
+<instance>
+<ID>301</ID>
+<code>breda ball_restart_3</code>
+<start>7.000156357</start>
+<end>14.80112142</end>
+</instance>
+<instance>
+<ID>302</ID>
+<code>breda ball_restart_3</code>
+<start>318.513491625</start>
+<end>333.000202787</end>
+</instance>
+<instance>
+<ID>303</ID>
+<code>breda ball_restart_3</code>
+<start>1062.000188761</start>
+<end>1081.006106081</end>
+</instance>
+<instance>
+<ID>304</ID>
+<code>breda ball_restart_3</code>
+<start>1237.301381634</start>
+<end>1251.600142631</end>
+</instance>
+<instance>
+<ID>305</ID>
+<code>breda ball_restart_3</code>
+<start>2861.400162269</start>
+<end>2877.00021733</end>
+</instance>
+<instance>
+<ID>306</ID>
+<code>breda ball_restart_3</code>
+<start>3474.900118035</start>
+<end>3505.400511659</end>
+</instance>
+<instance>
+<ID>307</ID>
+<code>breda ball_restart_3</code>
+<start>3666.20011047</start>
+<end>3688.515288766</end>
+</instance>
+<instance>
+<ID>308</ID>
+<code>breda ball_restart_3</code>
+<start>3770.000187019</start>
+<end>3799.100084582</end>
+</instance>
+<instance>
+<ID>309</ID>
+<code>breda ball_restart_3</code>
+<start>3831.600193252</start>
+<end>3847.700061688</end>
+</instance>
+<instance>
+<ID>310</ID>
+<code>breda ball_restart_3</code>
+<start>4080.608749764</start>
+<end>4113.100101627</end>
+</instance>
+<instance>
+<ID>311</ID>
+<code>breda ball_restart_3</code>
+<start>4319.400153129</start>
+<end>4343.400133191</end>
+</instance>
+<instance>
+<ID>312</ID>
+<code>breda ball_restart_4</code>
+<start>49.000205535</start>
+<end>68.20014216</end>
+</instance>
+<instance>
+<ID>313</ID>
+<code>breda ball_restart_4</code>
+<start>255.400175918</start>
+<end>278.302327292</end>
+</instance>
+<instance>
+<ID>314</ID>
+<code>breda ball_restart_4</code>
+<start>420.700148875</start>
+<end>475.700106702</end>
+</instance>
+<instance>
+<ID>315</ID>
+<code>breda ball_restart_4</code>
+<start>678.100050302</start>
+<end>714.703246758</end>
+</instance>
+<instance>
+<ID>316</ID>
+<code>breda ball_restart_4</code>
+<start>766.80011288</start>
+<end>776.512535318</end>
+</instance>
+<instance>
+<ID>317</ID>
+<code>breda ball_restart_4</code>
+<start>1246.600142631</start>
+<end>1270.705092068</end>
+</instance>
+<instance>
+<ID>318</ID>
+<code>breda ball_restart_4</code>
+<start>1465.600116893</start>
+<end>1485.900167068</end>
+</instance>
+<instance>
+<ID>319</ID>
+<code>breda ball_restart_4</code>
+<start>1963.800143887</start>
+<end>1986.700158024</end>
+</instance>
+<instance>
+<ID>320</ID>
+<code>breda ball_restart_4</code>
+<start>2426.400196478</start>
+<end>2461.500234483</end>
+</instance>
+<instance>
+<ID>321</ID>
+<code>breda ball_restart_4</code>
+<start>2844.600145933</start>
+<end>2859.500134495</end>
+</instance>
+<instance>
+<ID>322</ID>
+<code>breda ball_restart_4</code>
+<start>3018.101263014</start>
+<end>3032.900085389</end>
+</instance>
+<instance>
+<ID>323</ID>
+<code>breda ball_restart_4</code>
+<start>3063.90829833</start>
+<end>3097.800085205</end>
+</instance>
+<instance>
+<ID>324</ID>
+<code>breda ball_restart_4</code>
+<start>3636.111344348</start>
+<end>3671.20011047</end>
+</instance>
+<instance>
+<ID>325</ID>
+<code>breda ball_restart_4</code>
+<start>3683.515288766</start>
+<end>3700.306830136</end>
+</instance>
+<instance>
+<ID>326</ID>
+<code>breda ball_restart_4</code>
+<start>3844.800090127</start>
+<end>3864.600152438</end>
+</instance>
+<instance>
+<ID>327</ID>
+<code>breda ball_restart_4</code>
+<start>4340.400171683</start>
+<end>4350.000181536</end>
+</instance>
+<instance>
+<ID>328</ID>
+<code>breda ball_win_1</code>
+<start>213.100160354</start>
+<end>226.705291105</end>
+</instance>
+<instance>
+<ID>329</ID>
+<code>breda ball_win_1</code>
+<start>572.500158031</start>
+<end>585.100098094</end>
+</instance>
+<instance>
+<ID>330</ID>
+<code>breda ball_win_1</code>
+<start>820.500198146</start>
+<end>838.200114397</end>
+</instance>
+<instance>
+<ID>331</ID>
+<code>breda ball_win_1</code>
+<start>864.800112386</start>
+<end>883.600125762</end>
+</instance>
+<instance>
+<ID>332</ID>
+<code>breda ball_win_1</code>
+<start>904.816573664</start>
+<end>921.100101664</end>
+</instance>
+<instance>
+<ID>333</ID>
+<code>breda ball_win_1</code>
+<start>1043.109512583</start>
+<end>1057.60010446</end>
+</instance>
+<instance>
+<ID>334</ID>
+<code>breda ball_win_1</code>
+<start>1589.500187122</start>
+<end>1604.600098311</end>
+</instance>
+<instance>
+<ID>335</ID>
+<code>breda ball_win_1</code>
+<start>1895.50010475</start>
+<end>1913.600082188</end>
+</instance>
+<instance>
+<ID>336</ID>
+<code>breda ball_win_1</code>
+<start>2178.900122415</start>
+<end>2193.500193602</end>
+</instance>
+<instance>
+<ID>337</ID>
+<code>breda ball_win_1</code>
+<start>2461.600106545</start>
+<end>2515.200192857</end>
+</instance>
+<instance>
+<ID>338</ID>
+<code>breda ball_win_1</code>
+<start>2578.700108954</start>
+<end>2594.907219892</end>
+</instance>
+<instance>
+<ID>339</ID>
+<code>breda ball_win_1</code>
+<start>2897.900150612</start>
+<end>2916.700124925</end>
+</instance>
+<instance>
+<ID>340</ID>
+<code>breda ball_win_1</code>
+<start>2931.500149424</start>
+<end>2956.000142501</end>
+</instance>
+<instance>
+<ID>341</ID>
+<code>breda ball_win_1</code>
+<start>2966.300072519</start>
+<end>2981.700068268</end>
+</instance>
+<instance>
+<ID>342</ID>
+<code>breda ball_win_1</code>
+<start>3246.114502318</start>
+<end>3260.800168718</end>
+</instance>
+<instance>
+<ID>343</ID>
+<code>breda ball_win_1</code>
+<start>3403.600108469</start>
+<end>3425.700153068</end>
+</instance>
+<instance>
+<ID>344</ID>
+<code>breda ball_win_1</code>
+<start>3523.700103227</start>
+<end>3562.91223521</end>
+</instance>
+<instance>
+<ID>345</ID>
+<code>breda ball_win_1</code>
+<start>3986.00019836</start>
+<end>4002.712744573</end>
+</instance>
+<instance>
+<ID>346</ID>
+<code>breda ball_win_1</code>
+<start>4295.40016344</start>
+<end>4319.60008719</end>
+</instance>
+<instance>
+<ID>347</ID>
+<code>breda ball_win_2</code>
+<start>394.100100524</start>
+<end>414.900189</end>
+</instance>
+<instance>
+<ID>348</ID>
+<code>breda ball_win_2</code>
+<start>636.30045917</start>
+<end>649.202624483</end>
+</instance>
+<instance>
+<ID>349</ID>
+<code>breda ball_win_2</code>
+<start>718.706193194</start>
+<end>771.80011288</end>
+</instance>
+<instance>
+<ID>350</ID>
+<code>breda ball_win_2</code>
+<start>1206.300092133</start>
+<end>1242.301381634</end>
+</instance>
+<instance>
+<ID>351</ID>
+<code>breda ball_win_2</code>
+<start>2638.000154259</start>
+<end>2658.510884759</end>
+</instance>
+<instance>
+<ID>352</ID>
+<code>breda ball_win_2</code>
+<start>3313.70014734</start>
+<end>3336.600206864</end>
+</instance>
+<instance>
+<ID>353</ID>
+<code>breda ball_win_2</code>
+<start>3514.400142471</start>
+<end>3526.800121663</end>
+</instance>
+<instance>
+<ID>354</ID>
+<code>breda ball_win_2</code>
+<start>3757.400150581</start>
+<end>3775.000187019</end>
+</instance>
+<instance>
+<ID>355</ID>
+<code>breda ball_win_2</code>
+<start>4000.80009626</start>
+<end>4023.711323822</end>
+</instance>
+<instance>
+<ID>356</ID>
+<code>breda ball_win_3</code>
+<start>32.600139535</start>
+<end>54.000205535</end>
+</instance>
+<instance>
+<ID>357</ID>
+<code>breda ball_win_3</code>
+<start>285.804545187</start>
+<end>298.500189999</end>
+</instance>
+<instance>
+<ID>358</ID>
+<code>breda ball_win_3</code>
+<start>299.013943374</start>
+<end>323.513491625</end>
+</instance>
+<instance>
+<ID>359</ID>
+<code>breda ball_win_3</code>
+<start>1480.400116473</start>
+<end>1498.200112971</end>
+</instance>
+<instance>
+<ID>360</ID>
+<code>breda ball_win_3</code>
+<start>1820.40010584</start>
+<end>1846.10014091</end>
+</instance>
+<instance>
+<ID>361</ID>
+<code>breda ball_win_3</code>
+<start>1941.700160012</start>
+<end>1965.900132825</end>
+</instance>
+<instance>
+<ID>362</ID>
+<code>breda ball_win_3</code>
+<start>3565.600089837</start>
+<end>3635.50019173</end>
+</instance>
+<instance>
+<ID>363</ID>
+<code>breda ball_win_3</code>
+<start>3711.700310041</start>
+<end>3741.201390118</end>
+</instance>
+<instance>
+<ID>364</ID>
+<code>breda ball_win_3</code>
+<start>4051.600161201</start>
+<end>4085.608749764</end>
+</instance>
+<instance>
+<ID>365</ID>
+<code>breda ball_win_3</code>
+<start>4119.304265446</start>
+<end>4132.403135946</end>
+</instance>
+<instance>
+<ID>366</ID>
+<code>breda ball_win_3</code>
+<start>4219.600142066</start>
+<end>4236.000158317</end>
+</instance>
+<instance>
+<ID>367</ID>
+<code>breda ball_win_4</code>
+<start>4344.200102739</start>
+<end>4360.900150483</end>
+</instance>
+<instance>
+<ID>368</ID>
+<code>breda circle_penetration</code>
+<start>465.202437116</start>
+<end>475.202437116</end>
+</instance>
+<instance>
+<ID>369</ID>
+<code>breda circle_penetration</code>
+<start>697.500130505</start>
+<end>715.100140568</end>
+</instance>
+<instance>
+<ID>370</ID>
+<code>breda circle_penetration</code>
+<start>957.200138303</start>
+<end>967.200138303</end>
+</instance>
+<instance>
+<ID>371</ID>
+<code>breda circle_penetration</code>
+<start>1250.600474444</start>
+<end>1260.600474444</end>
+</instance>
+<instance>
+<ID>372</ID>
+<code>breda circle_penetration</code>
+<start>1469.549493182</start>
+<end>1479.549493182</end>
+</instance>
+<instance>
+<ID>373</ID>
+<code>breda circle_penetration</code>
+<start>1486.900133032</start>
+<end>1496.900133032</end>
+</instance>
+<instance>
+<ID>374</ID>
+<code>breda circle_penetration</code>
+<start>1826.70616107</start>
+<end>1836.70616107</end>
+</instance>
+<instance>
+<ID>375</ID>
+<code>breda circle_penetration</code>
+<start>1924.000164198</start>
+<end>1934.000164198</end>
+</instance>
+<instance>
+<ID>376</ID>
+<code>breda circle_penetration</code>
+<start>1947.300155824</start>
+<end>1957.300155824</end>
+</instance>
+<instance>
+<ID>377</ID>
+<code>breda circle_penetration</code>
+<start>1967.114878523</start>
+<end>1977.114878523</end>
+</instance>
+<instance>
+<ID>378</ID>
+<code>breda circle_penetration</code>
+<start>2271.400201129</start>
+<end>2281.400201129</end>
+</instance>
+<instance>
+<ID>379</ID>
+<code>breda circle_penetration</code>
+<start>2410.108420067</start>
+<end>2420.108420067</end>
+</instance>
+<instance>
+<ID>380</ID>
+<code>breda circle_penetration</code>
+<start>2863.000218394</start>
+<end>2873.000218394</end>
+</instance>
+<instance>
+<ID>381</ID>
+<code>breda circle_penetration</code>
+<start>3003.100102054</start>
+<end>3013.100102054</end>
+</instance>
+<instance>
+<ID>382</ID>
+<code>breda circle_penetration</code>
+<start>3546.500156758</start>
+<end>3556.500156758</end>
+</instance>
+<instance>
+<ID>383</ID>
+<code>breda circle_penetration</code>
+<start>3617.500181543</start>
+<end>3627.500181543</end>
+</instance>
+<instance>
+<ID>384</ID>
+<code>breda circle_penetration</code>
+<start>3687.607040469</start>
+<end>3697.607040469</end>
+</instance>
+<instance>
+<ID>385</ID>
+<code>breda circle_penetration</code>
+<start>3730.600140226</start>
+<end>3740.600140226</end>
+</instance>
+<instance>
+<ID>386</ID>
+<code>breda circle_penetration</code>
+<start>3854.500191438</start>
+<end>3864.500191438</end>
+</instance>
+<instance>
+<ID>387</ID>
+<code>breda circle_penetration</code>
+<start>3912.200089234</start>
+<end>3922.200089234</end>
+</instance>
+<instance>
+<ID>388</ID>
+<code>breda circle_penetration</code>
+<start>4201.300108757</start>
+<end>4211.300108757</end>
+</instance>
+<instance>
+<ID>389</ID>
+<code>breda circle_penetration</code>
+<start>4349.407229859</start>
+<end>4359.407229859</end>
+</instance>
+<instance>
+<ID>390</ID>
+<code>breda goal_attempt</code>
+<start>957.612813633</start>
+<end>969.612813633</end>
+</instance>
+<instance>
+<ID>391</ID>
+<code>breda goal_attempt</code>
+<start>1534.300089313</start>
+<end>1546.300089313</end>
+</instance>
+<instance>
+<ID>392</ID>
+<code>breda goal_attempt</code>
+<start>1829.800093847</start>
+<end>1841.800093847</end>
+</instance>
+<instance>
+<ID>393</ID>
+<code>breda goal_attempt</code>
+<start>2270.800087793</start>
+<end>2282.800087793</end>
+</instance>
+<instance>
+<ID>394</ID>
+<code>breda goal_attempt</code>
+<start>2409.400158728</start>
+<end>2421.400158728</end>
+</instance>
+<instance>
+<ID>395</ID>
+<code>breda goal_attempt</code>
+<start>3002.800207616</start>
+<end>3014.800207616</end>
+</instance>
+<instance>
+<ID>396</ID>
+<code>breda goal_attempt</code>
+<start>3548.700170148</start>
+<end>3560.700170148</end>
+</instance>
+<instance>
+<ID>397</ID>
+<code>breda goal_attempt</code>
+<start>3619.200099601</start>
+<end>3631.200099601</end>
+</instance>
+<instance>
+<ID>398</ID>
+<code>breda penalty_corner</code>
+<start>516.200096832</start>
+<end>529.200096832</end>
+</instance>
+<instance>
+<ID>399</ID>
+<code>breda penalty_corner</code>
+<start>548.500310341</start>
+<end>561.500310341</end>
+</instance>
+<instance>
+<ID>400</ID>
+<code>breda penalty_corner</code>
+<start>1532.800183137</start>
+<end>1545.800183137</end>
+</instance>
+<instance>
+<ID>401</ID>
+<code>breda penalty_corner</code>
+<start>1877.90011205</start>
+<end>1890.90011205</end>
+</instance>
+<instance>
+<ID>402</ID>
+<code>breda penalty_corner</code>
+<start>2719.900115804</start>
+<end>2732.900115804</end>
+</instance>
+<instance>
+<ID>403</ID>
+<code>breda penalty_corner</code>
+<start>2744.107935738</start>
+<end>2757.107935738</end>
+</instance>
+<instance>
+<ID>404</ID>
+<code>breda penalty_corner</code>
+<start>2828.500155146</start>
+<end>2841.500155146</end>
+</instance>
+<instance>
+<ID>405</ID>
+<code>breda penalty_corner</code>
+<start>3900.700101158</start>
+<end>3913.700101158</end>
+</instance>
+<instance>
+<ID>406</ID>
+<code>breda penalty_corner</code>
+<start>4276.300087115</start>
+<end>4289.300087115</end>
+</instance>
+<instance>
+<ID>407</ID>
+<code>breda penalty_corner</code>
+<start>4398.200189856</start>
+<end>4411.200189856</end>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>START</code>
+<R>65536</R>
+<G>65536</G>
+<B>65536</B>
+</row>
+<row>
+<code>ASC Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>BB Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>BS 1 Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>BS 2 Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>BS 3 Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>BS 4 Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>BW 1 Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>BW 2 Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>BW 3 Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>BW 4 Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>CP Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>DPO Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>SC Ring Pass</code>
+<R>60395</R>
+<G>59110</G>
+<B>0</B>
+</row>
+<row>
+<code>Groen Breda</code>
+<R>18504</R>
+<G>62708</G>
+<B>15420</B>
+</row>
+<row>
+<code>Groen Ring Pass</code>
+<R>18504</R>
+<G>62708</G>
+<B>15420</B>
+</row>
+<row>
+<code>ASC Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>BB Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>BS 1 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>BS 2 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>BS 3 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>BS 4 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>BW 1 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>BW 2 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>BW 3 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>BW 4 Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>CP Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>DPO Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+<row>
+<code>SC Breda</code>
+<R>3598</R>
+<G>11308</G>
+<B>36237</B>
+</row>
+</ROWS>
+</file>

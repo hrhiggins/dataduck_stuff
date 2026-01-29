@@ -1,0 +1,1741 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+<ALL_INSTANCES>
+<instance>
+<ID>1</ID>
+<start>204.10637626984126</start>
+<end>205.10637626984126</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>2</ID>
+<start>219.30957601048752</start>
+<end>245.16077593537415</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>3</ID>
+<start>228.80397588860544</start>
+<end>251.5319757893991</end>
+<code>huizen ball_win_3</code>
+</instance>
+<instance>
+<ID>4</ID>
+<start>240.28557574121317</start>
+<end>269.4487756235828</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>5</ID>
+<start>254.85837555413832</start>
+<end>306.5431751473923</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>6</ID>
+<start>286.5431751473923</start>
+<end>301.5431751473923</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>7</ID>
+<start>295.04397503826533</start>
+<end>325.42157490504536</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>8</ID>
+<start>312.0455748200113</start>
+<end>331.7927747590703</end>
+<code>leiden ball_win_3</code>
+</instance>
+<instance>
+<ID>9</ID>
+<start>319.0007747307256</start>
+<end>334.0007747307256</end>
+<code>huizen ball_win_3</code>
+</instance>
+<instance>
+<ID>10</ID>
+<start>324.962374654195</start>
+<end>371.12717431831067</end>
+<code>huizen ball_restart_3</code>
+</instance>
+<instance>
+<ID>11</ID>
+<start>352.45197430130384</start>
+<end>367.45197430130384</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>12</ID>
+<start>362.27757417517006</start>
+<end>382.27757417517006</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>13</ID>
+<start>366.0311741269841</start>
+<end>384.67437408021544</end>
+<code>huizen ball_win_3</code>
+</instance>
+<instance>
+<ID>14</ID>
+<start>366.0311741269841</start>
+<end>401.5652</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>15</ID>
+<start>373.75917402777776</start>
+<end>388.75917402777776</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>16</ID>
+<start>394.0403998398526</start>
+<end>449.2579993877551</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>17</ID>
+<start>475.84679878968257</start>
+<end>513.5107985629252</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>18</ID>
+<start>495.3875985388322</start>
+<end>523.557198433957</end>
+<code>huizen ball_restart_3</code>
+</instance>
+<instance>
+<ID>19</ID>
+<start>513.0515983120748</start>
+<end>533.5715982412131</end>
+<code>leiden ball_win_2</code>
+</instance>
+<instance>
+<ID>20</ID>
+<start>551.4707978188776</start>
+<end>573.6787977905328</end>
+<code>huizen ball_restart_4</code>
+</instance>
+<instance>
+<ID>21</ID>
+<start>571.2323975651927</start>
+<end>586.2323975651927</end>
+<code>huizen ball_win_1</code>
+</instance>
+<instance>
+<ID>22</ID>
+<start>600.5987971882087</start>
+<end>615.5987971882087</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>23</ID>
+<start>617.1587969756235</start>
+<end>637.1587969756235</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>24</ID>
+<start>618.5619968934241</start>
+<end>633.5619968934241</end>
+<code>leiden cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>25</ID>
+<start>620.249996935941</start>
+<end>635.249996935941</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>26</ID>
+<start>660.7883999688208</start>
+<end>675.7883999688208</end>
+<code>leiden penalty_corner</code>
+</instance>
+<instance>
+<ID>27</ID>
+<start>664.7307998540249</start>
+<end>679.7307998540249</end>
+<code>leiden cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>28</ID>
+<start>666.7499998922902</start>
+<end>681.7499998922902</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>29</ID>
+<start>682.7068</start>
+<end>697.7068</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>30</ID>
+<start>682.7068</start>
+<end>697.7068</end>
+<code>leiden penalty_corner</code>
+</instance>
+<instance>
+<ID>31</ID>
+<start>692.7531998710317</start>
+<end>716.6171998214286</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>32</ID>
+<start>701.6955997562359</start>
+<end>716.6955997562359</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>33</ID>
+<start>705.4491997080498</start>
+<end>725.4491997080498</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>34</ID>
+<start>710.9691996371882</start>
+<end>736.2363995053855</end>
+<code>leiden ball_win_1</code>
+</instance>
+<instance>
+<ID>35</ID>
+<start>732.0555993664966</start>
+<end>757.5755992956349</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>36</ID>
+<start>746.6283991794218</start>
+<end>769.0571991482426</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>37</ID>
+<start>768.5979988973922</start>
+<end>783.5979988973922</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>38</ID>
+<start>770.8059988690476</start>
+<end>785.8059988690476</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>39</ID>
+<start>781.4043987329932</start>
+<end>824.3675984382086</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>40</ID>
+<start>814.1931983120749</start>
+<end>850.9947982213719</end>
+<code>leiden ball_win_1</code>
+</instance>
+<instance>
+<ID>41</ID>
+<start>845.3947982213718</start>
+<end>860.3947982213718</end>
+<code>leiden cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>42</ID>
+<start>850.3947982213718</start>
+<end>865.3947982213718</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>43</ID>
+<start>882.5547982213719</start>
+<end>897.5547982213719</end>
+<code>leiden penalty_corner</code>
+</instance>
+<instance>
+<ID>44</ID>
+<start>910.2347982213719</start>
+<end>925.2347982213719</end>
+<code>leiden penalty_corner</code>
+</instance>
+<instance>
+<ID>45</ID>
+<start>917.2747982213718</start>
+<end>932.2747982213718</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>46</ID>
+<start>922.2347982213719</start>
+<end>937.2347982213719</end>
+<code>huizen ball_win_1</code>
+</instance>
+<instance>
+<ID>47</ID>
+<start>939.0347982213718</start>
+<end>959.0347982213718</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>48</ID>
+<start>963.1947982213719</start>
+<end>978.1947982213719</end>
+<code>leiden ball_win_4</code>
+</instance>
+<instance>
+<ID>49</ID>
+<start>969.5947982213719</start>
+<end>989.5947982213719</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>50</ID>
+<start>972.1547982213718</start>
+<end>987.1547982213718</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>51</ID>
+<start>993.5947982213719</start>
+<end>1008.5947982213719</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>52</ID>
+<start>997.0747982213719</start>
+<end>1012.0747982213719</end>
+<code>huizen cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>53</ID>
+<start>1045.914798221372</start>
+<end>1060.914798221372</end>
+<code>huizen penalty_corner</code>
+</instance>
+<instance>
+<ID>54</ID>
+<start>1051.9944</start>
+<end>1066.9944</end>
+<code>huizen goal_attempt</code>
+</instance>
+<instance>
+<ID>55</ID>
+<start>1061.7544</start>
+<end>1081.7544</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>56</ID>
+<start>1071.8344</start>
+<end>1091.8344</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>57</ID>
+<start>1085.2744</start>
+<end>1109.5944</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>58</ID>
+<start>1102.5544</start>
+<end>1132.7944</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>59</ID>
+<start>1136.6344</start>
+<end>1156.6344</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>60</ID>
+<start>1167.7944</start>
+<end>1182.7944</end>
+<code>leiden cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>61</ID>
+<start>1205.1144</start>
+<end>1226.8344</end>
+<code>leiden penalty_corner</code>
+</instance>
+<instance>
+<ID>62</ID>
+<start>1213.7544</start>
+<end>1228.7544</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>63</ID>
+<start>1227.5144</start>
+<end>1250.3944</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>64</ID>
+<start>1394.19</start>
+<end>1395.19</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>65</ID>
+<start>1421.35</start>
+<end>1446.91</end>
+<code>huizen ball_win_1</code>
+</instance>
+<instance>
+<ID>66</ID>
+<start>1424.87</start>
+<end>1439.87</end>
+<code>leiden ball_win_4</code>
+</instance>
+<instance>
+<ID>67</ID>
+<start>1428.23</start>
+<end>1443.23</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>68</ID>
+<start>1439.43</start>
+<end>1468.55</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>69</ID>
+<start>1458.79</start>
+<end>1493.95</end>
+<code>leiden ball_win_3</code>
+</instance>
+<instance>
+<ID>70</ID>
+<start>1535.27</start>
+<end>1560.23</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>71</ID>
+<start>1570.79</start>
+<end>1594.63</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>72</ID>
+<start>1603.43</start>
+<end>1623.43</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>73</ID>
+<start>1608.71</start>
+<end>1623.71</end>
+<code>huizen ball_win_3</code>
+</instance>
+<instance>
+<ID>74</ID>
+<start>1627.11</start>
+<end>1651.27</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>75</ID>
+<start>1636.55</start>
+<end>1651.55</end>
+<code>huizen ball_win_3</code>
+</instance>
+<instance>
+<ID>76</ID>
+<start>1659.11</start>
+<end>1703.59</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>77</ID>
+<start>1690.47</start>
+<end>1715.27</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>78</ID>
+<start>1710.31</start>
+<end>1725.31</end>
+<code>huizen ball_win_2</code>
+</instance>
+<instance>
+<ID>79</ID>
+<start>1719.59</start>
+<end>1739.59</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>80</ID>
+<start>1735.11</start>
+<end>1759.91</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>81</ID>
+<start>1759.43</start>
+<end>1783.59</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>82</ID>
+<start>1777.03</start>
+<end>1806.15</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>83</ID>
+<start>1787.75</start>
+<end>1813.79</end>
+<code>leiden ball_win_4</code>
+</instance>
+<instance>
+<ID>84</ID>
+<start>1790.15</start>
+<end>1825.79</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>85</ID>
+<start>1794.95</start>
+<end>1809.95</end>
+<code>huizen ball_win_1</code>
+</instance>
+<instance>
+<ID>86</ID>
+<start>1806.79</start>
+<end>1826.79</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>87</ID>
+<start>1813.36</start>
+<end>1828.36</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>88</ID>
+<start>1825.2</start>
+<end>1845.2</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>89</ID>
+<start>1840.24</start>
+<end>1855.24</end>
+<code>leiden ball_win_3</code>
+</instance>
+<instance>
+<ID>90</ID>
+<start>1849.2</start>
+<end>1876.24</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>91</ID>
+<start>1866.8</start>
+<end>1886.8</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>92</ID>
+<start>1870.84</start>
+<end>1885.84</end>
+<code>huizen cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>93</ID>
+<start>1871.8</start>
+<end>1886.8</end>
+<code>huizen ball_win_3</code>
+</instance>
+<instance>
+<ID>94</ID>
+<start>1920.56</start>
+<end>1935.56</end>
+<code>huizen penalty_corner</code>
+</instance>
+<instance>
+<ID>95</ID>
+<start>1930.32</start>
+<end>1945.32</end>
+<code>huizen goal_attempt</code>
+</instance>
+<instance>
+<ID>96</ID>
+<start>1941.52</start>
+<end>1961.52</end>
+<code>huizen ball_restart_4</code>
+</instance>
+<instance>
+<ID>97</ID>
+<start>1953.04</start>
+<end>1978.76</end>
+<code>leiden ball_win_1</code>
+</instance>
+<instance>
+<ID>98</ID>
+<start>1975.76</start>
+<end>2007.76</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>99</ID>
+<start>2011.28</start>
+<end>2031.28</end>
+<code>huizen ball_restart_4</code>
+</instance>
+<instance>
+<ID>100</ID>
+<start>2039.76</start>
+<end>2084.399999885204</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>101</ID>
+<start>2071.439999848356</start>
+<end>2097.039999818594</end>
+<code>huizen ball_restart_3</code>
+</instance>
+<instance>
+<ID>102</ID>
+<start>2082.3199997902493</start>
+<end>2097.3199997902493</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>103</ID>
+<start>2084.879999776077</start>
+<end>2099.879999776077</end>
+<code>huizen goal_attempt</code>
+</instance>
+<instance>
+<ID>104</ID>
+<start>2102.4799996825395</start>
+<end>2122.4799996825395</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>105</ID>
+<start>2103.36</start>
+<end>2118.36</end>
+<code>huizen cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>106</ID>
+<start>2108.36</start>
+<end>2123.36</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>107</ID>
+<start>2160.519999722222</start>
+<end>2175.519999722222</end>
+<code>huizen penalty_corner</code>
+</instance>
+<instance>
+<ID>108</ID>
+<start>2163.2399997066327</start>
+<end>2178.2399997066327</end>
+<code>huizen goal_attempt</code>
+</instance>
+<instance>
+<ID>109</ID>
+<start>2179.719999618764</start>
+<end>2223.0799994940476</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>110</ID>
+<start>2215.5599994274376</start>
+<end>2253.159999332483</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>111</ID>
+<start>2243.239999278628</start>
+<end>2263.239999278628</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>112</ID>
+<start>2255.719999212018</start>
+<end>2270.719999212018</end>
+<code>huizen ball_win_1</code>
+</instance>
+<instance>
+<ID>113</ID>
+<start>2264.839999163832</start>
+<end>2293.959999114229</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>114</ID>
+<start>2289.639999030612</start>
+<end>2304.639999030612</end>
+<code>leiden ball_win_2</code>
+</instance>
+<instance>
+<ID>115</ID>
+<start>2295.399998999433</start>
+<end>2310.399998999433</end>
+<code>huizen ball_win_2</code>
+</instance>
+<instance>
+<ID>116</ID>
+<start>2317.9599988789682</start>
+<end>2370.7599987032313</end>
+<code>huizen ball_restart_4</code>
+</instance>
+<instance>
+<ID>117</ID>
+<start>2368.359998609694</start>
+<end>2426.9199984027778</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>118</ID>
+<start>2420.9999983276643</start>
+<end>2444.839998306406</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>119</ID>
+<start>2435.0399982256235</start>
+<end>2450.0399982256235</end>
+<code>leiden cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>120</ID>
+<start>2435.3999982511336</start>
+<end>2450.3999982511336</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>121</ID>
+<start>2476.9555999433105</start>
+<end>2491.9555999433105</end>
+<code>leiden penalty_corner</code>
+</instance>
+<instance>
+<ID>122</ID>
+<start>2487.515599886621</start>
+<end>2502.515599886621</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>123</ID>
+<start>2511.675599757653</start>
+<end>2535.99559973356</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>124</ID>
+<start>2529.2755996626984</start>
+<end>2544.2755996626984</end>
+<code>huizen ball_win_1</code>
+</instance>
+<instance>
+<ID>125</ID>
+<start>2566.2355994642858</start>
+<end>2586.2355994642858</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>126</ID>
+<start>2618.268</start>
+<end>2619.268</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>127</ID>
+<start>2634.5479998866213</start>
+<end>2654.5479998866213</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>128</ID>
+<start>2640.467999855442</start>
+<end>2670.547999801587</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>129</ID>
+<start>2669.2679997009636</start>
+<end>2689.2679997009636</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>130</ID>
+<start>2707.9879994940475</start>
+<end>2727.9879994940475</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>131</ID>
+<start>2711.827999472789</start>
+<end>2726.827999472789</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>132</ID>
+<start>2717.2679994444443</start>
+<end>2732.2679994444443</end>
+<code>huizen ball_win_1</code>
+</instance>
+<instance>
+<ID>133</ID>
+<start>2730.8679993707483</start>
+<end>2750.8679993707483</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>134</ID>
+<start>2736.627999339569</start>
+<end>2775.6679992389454</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>135</ID>
+<start>2765.7479991836735</start>
+<end>2790.667999131236</end>
+<code>leiden ball_win_2</code>
+</instance>
+<instance>
+<ID>136</ID>
+<start>2794.0679990334465</start>
+<end>2814.0679990334465</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>137</ID>
+<start>2803.987998979592</start>
+<end>2826.5479989654195</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>138</ID>
+<start>2823.6679988747164</start>
+<end>2860.3079987854308</end>
+<code>huizen ball_restart_3</code>
+</instance>
+<instance>
+<ID>139</ID>
+<start>2844.1479987641724</start>
+<end>2859.1479987641724</end>
+<code>leiden ball_win_1</code>
+</instance>
+<instance>
+<ID>140</ID>
+<start>2859.9879986805554</start>
+<end>2888.627998633787</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>141</ID>
+<start>2873.94799852466</start>
+<end>2903.94799852466</end>
+<code>leiden goal</code>
+</instance>
+<instance>
+<ID>142</ID>
+<start>2881.1079985671768</start>
+<end>2901.1079985671768</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>143</ID>
+<start>2888.94799852466</start>
+<end>2903.94799852466</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>144</ID>
+<start>2888.94799852466</start>
+<end>2903.94799852466</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>145</ID>
+<start>2925.4647999178005</start>
+<end>2940.4647999178005</end>
+<code>huizen cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>146</ID>
+<start>2972.3035400510203</start>
+<end>2987.3035400510203</end>
+<code>huizen penalty_corner</code>
+</instance>
+<instance>
+<ID>147</ID>
+<start>2973.903540042517</start>
+<end>2988.903540042517</end>
+<code>huizen goal_attempt</code>
+</instance>
+<instance>
+<ID>148</ID>
+<start>2993.3428</start>
+<end>3008.3428</end>
+<code>huizen goal_attempt</code>
+</instance>
+<instance>
+<ID>149</ID>
+<start>2993.3428</start>
+<end>3008.3428</end>
+<code>huizen penalty_corner</code>
+</instance>
+<instance>
+<ID>150</ID>
+<start>3031.569999992914</start>
+<end>3046.569999992914</end>
+<code>huizen penalty_stroke</code>
+</instance>
+<instance>
+<ID>151</ID>
+<start>3058.6495998809523</start>
+<end>3078.6495998809523</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>152</ID>
+<start>3085.3695997378118</start>
+<end>3109.0495997179705</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>153</ID>
+<start>3099.4495996626983</start>
+<end>3137.3695995946714</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>154</ID>
+<start>3132.889599581916</start>
+<end>3152.889599581916</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>155</ID>
+<start>3144.729599570578</start>
+<end>3196.409599543651</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>156</ID>
+<start>3191.4495995308957</start>
+<end>3206.4495995308957</end>
+<code>huizen ball_win_3</code>
+</instance>
+<instance>
+<ID>157</ID>
+<start>3191.4495995308957</start>
+<end>3206.4495995308957</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>158</ID>
+<start>3197.529599526644</start>
+<end>3221.5295995223923</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>159</ID>
+<start>3208.4095995167236</start>
+<end>3230.8095995138888</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>160</ID>
+<start>3214.9695995110546</start>
+<end>3229.9695995110546</end>
+<code>huizen ball_win_2</code>
+</instance>
+<instance>
+<ID>161</ID>
+<start>3222.9695995039683</start>
+<end>3237.9695995039683</end>
+<code>leiden ball_win_1</code>
+</instance>
+<instance>
+<ID>162</ID>
+<start>3237.2095994912133</start>
+<end>3257.2095994912133</end>
+<code>huizen ball_restart_4</code>
+</instance>
+<instance>
+<ID>163</ID>
+<start>3246.649599484127</start>
+<end>3278.0095994742064</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>164</ID>
+<start>3265.8495994671202</start>
+<end>3303.129599451531</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>165</ID>
+<start>3294.009599443027</start>
+<end>3309.009599443027</end>
+<code>leiden ball_win_3</code>
+</instance>
+<instance>
+<ID>166</ID>
+<start>3304.2495994345236</start>
+<end>3332.8895994260206</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>167</ID>
+<start>3312.8895994260206</start>
+<end>3342.609599413265</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>168</ID>
+<start>3315.929599423186</start>
+<end>3330.929599423186</end>
+<code>leiden ball_win_1</code>
+</instance>
+<instance>
+<ID>169</ID>
+<start>3323.129599417517</start>
+<end>3343.129599417517</end>
+<code>huizen ball_restart_4</code>
+</instance>
+<instance>
+<ID>170</ID>
+<start>3337.689599404762</start>
+<end>3366.169599397676</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>171</ID>
+<start>3355.7695993891725</start>
+<end>3375.7695993891725</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>172</ID>
+<start>3390.0095993608275</start>
+<end>3413.529599356576</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>173</ID>
+<start>3415.289599338152</start>
+<end>3459.4495993183104</end>
+<code>huizen ball_restart_3</code>
+</instance>
+<instance>
+<ID>174</ID>
+<start>3468.889599291383</start>
+<end>3488.889599291383</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>175</ID>
+<start>3484.8895992786283</start>
+<end>3504.8895992786283</end>
+<code>huizen ball_restart_4</code>
+</instance>
+<instance>
+<ID>176</ID>
+<start>3487.929599275794</start>
+<end>3502.929599275794</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>177</ID>
+<start>3498.969599265873</start>
+<end>3518.969599265873</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>178</ID>
+<start>3513.369599254535</start>
+<end>3551.9295992375282</end>
+<code>huizen ball_restart_3</code>
+</instance>
+<instance>
+<ID>179</ID>
+<start>3538.0095992318593</start>
+<end>3553.0095992318593</end>
+<code>leiden ball_win_1</code>
+</instance>
+<instance>
+<ID>180</ID>
+<start>3547.1295992247733</start>
+<end>3571.7695992205217</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>181</ID>
+<start>3574.1695992020973</start>
+<end>3598.169599197846</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>182</ID>
+<start>3586.1695991907595</start>
+<end>3606.1695991907595</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>183</ID>
+<start>3599.929599179422</start>
+<end>3619.929599179422</end>
+<code>huizen ball_restart_3</code>
+</instance>
+<instance>
+<ID>184</ID>
+<start>3615.6095991652496</start>
+<end>3630.6095991652496</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>185</ID>
+<start>3625.849599156746</start>
+<end>3649.2095991539118</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>186</ID>
+<start>3646.169599139739</start>
+<end>3681.049599126984</end>
+<code>huizen ball_restart_3</code>
+</instance>
+<instance>
+<ID>187</ID>
+<start>3675.769599114229</start>
+<end>3718.489599094388</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>188</ID>
+<start>3681.36959910856</start>
+<end>3696.36959910856</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>189</ID>
+<start>3726.809599070295</start>
+<end>3746.809599070295</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>190</ID>
+<start>3743.449599056122</start>
+<end>3769.009599046202</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>191</ID>
+<start>3744.8895990547053</start>
+<end>3764.8895990547053</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>192</ID>
+<start>3751.609599049036</start>
+<end>3771.609599049036</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>193</ID>
+<start>3779.9283999957484</start>
+<end>3799.9283999957484</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>194</ID>
+<start>3925.2752</start>
+<end>3926.2752</end>
+<code>start</code>
+</instance>
+<instance>
+<ID>195</ID>
+<start>3948.755199975907</start>
+<end>4007.4751999418936</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>196</ID>
+<start>4004.915199927721</start>
+<end>4019.915199927721</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>197</ID>
+<start>4013.715199919218</start>
+<end>4033.715199919218</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>198</ID>
+<start>4015.5951999135486</start>
+<end>4030.5951999135486</end>
+<code>leiden cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>199</ID>
+<start>4055.7127999957484</start>
+<end>4070.7127999957484</end>
+<code>leiden penalty_corner</code>
+</instance>
+<instance>
+<ID>200</ID>
+<start>4066.552799981576</start>
+<end>4081.552799981576</end>
+<code>leiden cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>201</ID>
+<start>4067.0727999858277</start>
+<end>4082.0727999858277</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>202</ID>
+<start>4075.7123999971654</start>
+<end>4105.712399997165</end>
+<code>leiden goal</code>
+</instance>
+<instance>
+<ID>203</ID>
+<start>4085.2724</start>
+<end>4100.2724</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>204</ID>
+<start>4085.2724</start>
+<end>4100.2724</end>
+<code>leiden penalty_corner</code>
+</instance>
+<instance>
+<ID>205</ID>
+<start>4126.029199953231</start>
+<end>4151.629199923469</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>206</ID>
+<start>4150.829199820011</start>
+<end>4200.146399998583</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>207</ID>
+<start>4184.62639997449</start>
+<end>4203.146399956066</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>208</ID>
+<start>4184.62639997449</start>
+<end>4223.0263998767</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>209</ID>
+<start>4206.226399859694</start>
+<end>4221.226399859694</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>210</ID>
+<start>4213.106399822846</start>
+<end>4228.106399822846</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>211</ID>
+<start>4219.026399791666</start>
+<end>4242.386399773242</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>212</ID>
+<start>4230.546399729308</start>
+<end>4280.466399569161</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>213</ID>
+<start>4277.106399479875</start>
+<end>4297.106399479875</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>214</ID>
+<start>4283.986399443027</start>
+<end>4310.02639938492</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>215</ID>
+<start>4288.9463994161</start>
+<end>4323.186399340986</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>216</ID>
+<start>4316.466399270124</start>
+<end>4331.466399270124</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>217</ID>
+<start>4332.466399183673</start>
+<end>4352.466399183673</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>218</ID>
+<start>4353.265999940476</start>
+<end>4373.265999940476</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>219</ID>
+<start>4372.305999838435</start>
+<end>4397.425999811508</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>220</ID>
+<start>4431.185999523809</start>
+<end>4464.945999450113</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>221</ID>
+<start>4452.305999410431</start>
+<end>4472.305999410431</end>
+<code>huizen ball_restart_2</code>
+</instance>
+<instance>
+<ID>222</ID>
+<start>4460.945999363662</start>
+<end>4488.625999322562</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>223</ID>
+<start>4493.105999192177</start>
+<end>4508.105999192177</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>224</ID>
+<start>4497.425999168084</start>
+<end>4512.425999168084</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>225</ID>
+<start>4504.145999132653</start>
+<end>4534.865999075963</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>226</ID>
+<start>4521.905999037698</start>
+<end>4536.905999037698</end>
+<code>leiden ball_win_2</code>
+</instance>
+<instance>
+<ID>227</ID>
+<start>4526.545999012188</start>
+<end>4546.545999012188</end>
+<code>huizen ball_restart_3</code>
+</instance>
+<instance>
+<ID>228</ID>
+<start>4530.865998989512</start>
+<end>4545.865998989512</end>
+<code>huizen ball_win_3</code>
+</instance>
+<instance>
+<ID>229</ID>
+<start>4538.065998951247</start>
+<end>4567.505998900227</end>
+<code>leiden ball_restart_2</code>
+</instance>
+<instance>
+<ID>230</ID>
+<start>4557.265998847789</start>
+<end>4585.905998802437</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>231</ID>
+<start>4577.265998741496</start>
+<end>4592.265998741496</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>232</ID>
+<start>4584.8656</start>
+<end>4599.8656</end>
+<code>leiden goal_attempt</code>
+</instance>
+<instance>
+<ID>233</ID>
+<start>4594.6255999489795</start>
+<end>4614.6255999489795</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>234</ID>
+<start>4606.625599885204</start>
+<end>4642.62559980017</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>235</ID>
+<start>4645.66559967687</start>
+<end>4678.625599607426</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>236</ID>
+<start>4667.42559955924</start>
+<end>4682.42559955924</end>
+<code>leiden circle_penetration</code>
+</instance>
+<instance>
+<ID>237</ID>
+<start>4680.225599491213</start>
+<end>4700.225599491213</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>238</ID>
+<start>4687.425599452948</start>
+<end>4702.425599452948</end>
+<code>leiden ball_win_3</code>
+</instance>
+<instance>
+<ID>239</ID>
+<start>4694.785599413265</start>
+<end>4714.785599413265</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>240</ID>
+<start>4701.505599377834</start>
+<end>4721.505599377834</end>
+<code>huizen ball_restart_1</code>
+</instance>
+<instance>
+<ID>241</ID>
+<start>4717.825599289966</start>
+<end>4737.825599289966</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>242</ID>
+<start>4746.305599138322</start>
+<end>4778.145599074546</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>243</ID>
+<start>4820.0612</start>
+<end>4840.0612</end>
+<code>leiden ball_restart_3</code>
+</instance>
+<instance>
+<ID>244</ID>
+<start>4842.941199879535</start>
+<end>4857.941199879535</end>
+<code>huizen circle_penetration</code>
+</instance>
+<instance>
+<ID>245</ID>
+<start>4864.821199734977</start>
+<end>4879.821199734977</end>
+<code>huizen cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>246</ID>
+<start>4865.34119975907</start>
+<end>4885.34119975907</end>
+<code>huizen ball_restart_4</code>
+</instance>
+<instance>
+<ID>247</ID>
+<start>4906.458399913548</start>
+<end>4921.458399913548</end>
+<code>huizen cause_of_penalty_corner</code>
+</instance>
+<instance>
+<ID>248</ID>
+<start>4909.218399924886</start>
+<end>4924.218399924886</end>
+<code>huizen penalty_corner</code>
+</instance>
+<instance>
+<ID>249</ID>
+<start>4941.217199931973</start>
+<end>4971.217199931973</end>
+<code>huizen goal</code>
+</instance>
+<instance>
+<ID>250</ID>
+<start>4947.737199977324</start>
+<end>4962.737199977324</end>
+<code>huizen penalty_corner</code>
+</instance>
+<instance>
+<ID>251</ID>
+<start>4956.217199931973</start>
+<end>4971.217199931973</end>
+<code>huizen goal_attempt</code>
+</instance>
+<instance>
+<ID>252</ID>
+<start>5014.457199620181</start>
+<end>5034.457199620181</end>
+<code>leiden ball_restart_4</code>
+</instance>
+<instance>
+<ID>253</ID>
+<start>5032.697199522392</start>
+<end>5052.697199522392</end>
+<code>leiden ball_restart_1</code>
+</instance>
+<instance>
+<ID>254</ID>
+<start>5043.5771994642855</start>
+<end>5074.137199407596</end>
+<code>leiden ball_restart_3</code>
+</instance>
+</ALL_INSTANCES>
+<ROWS>
+<row>
+<code>CHUKKA START</code>
+<R>63717</R>
+<G>65535</G>
+<B>14687</B>
+</row>
+<row>
+<code>HUIZ ASB</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ ASC</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ BS 1</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ BS 2</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ BS 3</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ BS 4</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ BW 1</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ BW 2</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ BW 3</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ BW 4</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ CP</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ Card</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ DP</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ GOALS</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ SB</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ SC</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>HUIZ SHOWDOWN</code>
+<R>6380</R>
+<G>0</G>
+<B>65419</B>
+</row>
+<row>
+<code>LEI ASC</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI BS 1</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI BS 2</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI BS 3</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI BS 4</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI BW 1</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI BW 2</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI BW 3</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI BW 4</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI CP</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI Card</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI DP</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI Goals</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI SB</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI SC</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI SHOWDOWN</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+<row>
+<code>LEI STROKE Won</code>
+<R>40924</R>
+<G>0</G>
+<B>14616</B>
+</row>
+</ROWS>
+</file>

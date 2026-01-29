@@ -1,0 +1,1625 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<file>
+  <ALL_INSTANCES>
+    <instance>
+      <code>den_bosch ball_restart_2</code>
+      <ID>0</ID>
+      <start>62.822</start>
+      <end>96.32</end>
+    </instance>
+    <instance>
+      <code>start</code>
+      <ID>1</ID>
+      <start>64.822</start>
+      <end>74.822</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>2</ID>
+      <start>76.32</start>
+      <end>105.575</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>3</ID>
+      <start>85.575</start>
+      <end>126.335</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>4</ID>
+      <start>106.335</start>
+      <end>142.515</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>5</ID>
+      <start>122.51499999999999</start>
+      <end>155.515</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>6</ID>
+      <start>138.536</start>
+      <end>183.286</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_3</code>
+      <ID>7</ID>
+      <start>163.286</start>
+      <end>258.289</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>8</ID>
+      <start>238.289</start>
+      <end>299.142</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>9</ID>
+      <start>279.142</start>
+      <end>303.385</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>10</ID>
+      <start>289.553</start>
+      <end>322.553</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_3</code>
+      <ID>11</ID>
+      <start>293.385</start>
+      <end>309.553</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>12</ID>
+      <start>304.82</start>
+      <end>358.582</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>13</ID>
+      <start>338.582</start>
+      <end>358.582</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>14</ID>
+      <start>340.825</start>
+      <end>384.57</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>15</ID>
+      <start>374.57</start>
+      <end>390.081</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_3</code>
+      <ID>16</ID>
+      <start>380.081</start>
+      <end>434.539</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>17</ID>
+      <start>414.539</start>
+      <end>452.083</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_3</code>
+      <ID>18</ID>
+      <start>432.083</start>
+      <end>470.954</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_3</code>
+      <ID>19</ID>
+      <start>450.954</start>
+      <end>470.954</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>20</ID>
+      <start>458.391</start>
+      <end>476.895</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>21</ID>
+      <start>466.895</start>
+      <end>497.64</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>22</ID>
+      <start>477.64</start>
+      <end>512.325</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>23</ID>
+      <start>492.325</start>
+      <end>517.325</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>24</ID>
+      <start>495.274</start>
+      <end>528.274</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>25</ID>
+      <start>503.597</start>
+      <end>528.597</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>26</ID>
+      <start>509.51</start>
+      <end>529.51</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>27</ID>
+      <start>514.851</start>
+      <end>541.861</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>28</ID>
+      <start>521.861</start>
+      <end>567.876</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_3</code>
+      <ID>29</ID>
+      <start>547.876</start>
+      <end>587.873</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>30</ID>
+      <start>567.873</start>
+      <end>593.163</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>31</ID>
+      <start>583.163</start>
+      <end>614.621</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>32</ID>
+      <start>594.621</start>
+      <end>652.114</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_2</code>
+      <ID>33</ID>
+      <start>642.114</start>
+      <end>655.126</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_3</code>
+      <ID>34</ID>
+      <start>645.126</start>
+      <end>661.622</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>35</ID>
+      <start>651.622</start>
+      <end>668.123</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>36</ID>
+      <start>657.6</start>
+      <end>682.6</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>37</ID>
+      <start>658.123</start>
+      <end>677.6</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>38</ID>
+      <start>669.611</start>
+      <end>684.103</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_3</code>
+      <ID>39</ID>
+      <start>674.103</start>
+      <end>718.871</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>40</ID>
+      <start>698.871</start>
+      <end>738.121</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_3</code>
+      <ID>41</ID>
+      <start>728.121</start>
+      <end>769.376</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>42</ID>
+      <start>749.376</start>
+      <end>769.889</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>43</ID>
+      <start>749.889</start>
+      <end>774.889</end>
+    </instance>
+    <instance>
+      <code>den_bosch cause_of_penalty_corner</code>
+      <ID>44</ID>
+      <start>754.539</start>
+      <end>779.539</end>
+    </instance>
+    <instance>
+      <code>den_bosch cause_of_penalty_corner</code>
+      <ID>45</ID>
+      <start>799.206</start>
+      <end>824.206</end>
+    </instance>
+    <instance>
+      <code>den_bosch penalty_corner</code>
+      <ID>46</ID>
+      <start>807.181</start>
+      <end>827.181</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal</code>
+      <ID>47</ID>
+      <start>817.844</start>
+      <end>832.844</end>
+    </instance>
+    <instance>
+      <code>den_bosch penalty_corner</code>
+      <ID>48</ID>
+      <start>825.679</start>
+      <end>845.679</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>49</ID>
+      <start>853.53</start>
+      <end>873.536</end>
+    </instance>
+    <instance>
+      <code>hdm circle_penetration</code>
+      <ID>50</ID>
+      <start>853.536</start>
+      <end>878.536</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>51</ID>
+      <start>866.511</start>
+      <end>900.251</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>52</ID>
+      <start>873.498</start>
+      <end>898.498</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>53</ID>
+      <start>877.616</start>
+      <end>910.616</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_2</code>
+      <ID>54</ID>
+      <start>880.251</start>
+      <end>900.251</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>55</ID>
+      <start>895.83</start>
+      <end>923.341</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>56</ID>
+      <start>903.341</start>
+      <end>939.075</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>57</ID>
+      <start>919.075</start>
+      <end>939.075</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>58</ID>
+      <start>925.845</start>
+      <end>964.686</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>59</ID>
+      <start>944.686</start>
+      <end>976.183</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>60</ID>
+      <start>966.183</start>
+      <end>993.675</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>61</ID>
+      <start>973.675</start>
+      <end>993.675</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_2</code>
+      <ID>62</ID>
+      <start>977.668</start>
+      <end>995.006</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>63</ID>
+      <start>985.006</start>
+      <end>1040.047</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>64</ID>
+      <start>1020.047</start>
+      <end>1053.079</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_2</code>
+      <ID>65</ID>
+      <start>1033.079</start>
+      <end>1182.827</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_2</code>
+      <ID>66</ID>
+      <start>1170.827</start>
+      <end>1242.785</end>
+    </instance>
+    <instance>
+      <code>start</code>
+      <ID>67</ID>
+      <start>1172.827</start>
+      <end>1182.827</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>68</ID>
+      <start>1222.785</start>
+      <end>1259.04</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>69</ID>
+      <start>1239.04</start>
+      <end>1278.548</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>70</ID>
+      <start>1268.548</start>
+      <end>1302.31</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>71</ID>
+      <start>1282.31</start>
+      <end>1334.013</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>72</ID>
+      <start>1314.013</start>
+      <end>1341.788</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>73</ID>
+      <start>1331.788</start>
+      <end>1360.533</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_2</code>
+      <ID>74</ID>
+      <start>1340.533</start>
+      <end>1375.155</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>75</ID>
+      <start>1355.155</start>
+      <end>1388.155</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>76</ID>
+      <start>1370.172</start>
+      <end>1391.68</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>77</ID>
+      <start>1381.68</start>
+      <end>1395.926</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_4</code>
+      <ID>78</ID>
+      <start>1385.926</start>
+      <end>1415.587</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>79</ID>
+      <start>1395.587</start>
+      <end>1415.587</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>80</ID>
+      <start>1404.908</start>
+      <end>1425.55</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>81</ID>
+      <start>1405.55</start>
+      <end>1430.55</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>82</ID>
+      <start>1407.05</start>
+      <end>1440.05</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>83</ID>
+      <start>1421.54</start>
+      <end>1464.321</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>84</ID>
+      <start>1454.321</start>
+      <end>1487.158</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_3</code>
+      <ID>85</ID>
+      <start>1467.158</start>
+      <end>1487.158</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>86</ID>
+      <start>1467.452</start>
+      <end>1512.686</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>87</ID>
+      <start>1492.686</start>
+      <end>1531.689</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>88</ID>
+      <start>1521.689</start>
+      <end>1533.977</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_4</code>
+      <ID>89</ID>
+      <start>1523.977</start>
+      <end>1567.996</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_3</code>
+      <ID>90</ID>
+      <start>1557.996</start>
+      <end>1595.979</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>91</ID>
+      <start>1575.979</start>
+      <end>1620.495</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>92</ID>
+      <start>1600.495</start>
+      <end>1633.988</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>93</ID>
+      <start>1623.988</start>
+      <end>1663.471</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>94</ID>
+      <start>1643.17</start>
+      <end>1668.17</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>95</ID>
+      <start>1643.471</start>
+      <end>1663.471</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>96</ID>
+      <start>1655.878</start>
+      <end>1689.138</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>97</ID>
+      <start>1669.138</start>
+      <end>1689.138</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>98</ID>
+      <start>1670.636</start>
+      <end>1697.883</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>99</ID>
+      <start>1672.463</start>
+      <end>1697.463</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>100</ID>
+      <start>1673.721</start>
+      <end>1698.721</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>101</ID>
+      <start>1677.883</start>
+      <end>1697.883</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>102</ID>
+      <start>1685.225</start>
+      <end>1719.974</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_4</code>
+      <ID>103</ID>
+      <start>1709.974</start>
+      <end>1725.488</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>104</ID>
+      <start>1715.488</start>
+      <end>1749.971</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>105</ID>
+      <start>1729.971</start>
+      <end>1782.728</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>106</ID>
+      <start>1762.728</start>
+      <end>1802.264</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>107</ID>
+      <start>1792.264</start>
+      <end>1824.225</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>108</ID>
+      <start>1804.225</start>
+      <end>1829.225</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>109</ID>
+      <start>1804.685</start>
+      <end>1829.685</end>
+    </instance>
+    <instance>
+      <code>den_bosch cause_of_penalty_corner</code>
+      <ID>110</ID>
+      <start>1814.245</start>
+      <end>1839.245</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>111</ID>
+      <start>1863.244</start>
+      <end>1888.244</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal</code>
+      <ID>112</ID>
+      <start>1865.493</start>
+      <end>1880.493</end>
+    </instance>
+    <instance>
+      <code>den_bosch penalty_corner</code>
+      <ID>113</ID>
+      <start>1871.834</start>
+      <end>1891.834</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>114</ID>
+      <start>1906.843</start>
+      <end>1926.843</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>115</ID>
+      <start>1913.867</start>
+      <end>1944.873</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>116</ID>
+      <start>1924.873</start>
+      <end>1949.873</end>
+    </instance>
+    <instance>
+      <code>den_bosch cause_of_penalty_stroke</code>
+      <ID>117</ID>
+      <start>1927.629</start>
+      <end>1952.629</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal</code>
+      <ID>118</ID>
+      <start>1969.771</start>
+      <end>1984.771</end>
+    </instance>
+    <instance>
+      <code>den_bosch penalty_stroke</code>
+      <ID>119</ID>
+      <start>1978.254</start>
+      <end>1988.254</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>120</ID>
+      <start>1997.389</start>
+      <end>2032.41</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_3</code>
+      <ID>121</ID>
+      <start>2012.41</start>
+      <end>2046.259</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_3</code>
+      <ID>122</ID>
+      <start>2026.259</start>
+      <end>2069.772</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>123</ID>
+      <start>2049.772</start>
+      <end>2080.315</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>124</ID>
+      <start>2065.05</start>
+      <end>2090.05</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>125</ID>
+      <start>2067.551</start>
+      <end>2100.551</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>126</ID>
+      <start>2070.315</start>
+      <end>2081.801</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_4</code>
+      <ID>127</ID>
+      <start>2071.801</start>
+      <end>2085.05</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>128</ID>
+      <start>2083.047</start>
+      <end>2157.911</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>129</ID>
+      <start>2137.911</start>
+      <end>2171.686</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>130</ID>
+      <start>2161.686</start>
+      <end>2177.683</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_3</code>
+      <ID>131</ID>
+      <start>2167.683</start>
+      <end>2178.674</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>132</ID>
+      <start>2168.674</start>
+      <end>2201.433</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_2</code>
+      <ID>133</ID>
+      <start>2181.433</start>
+      <end>2232.63</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>134</ID>
+      <start>2220.63</start>
+      <end>2252.882</end>
+    </instance>
+    <instance>
+      <code>start</code>
+      <ID>135</ID>
+      <start>2222.63</start>
+      <end>2232.63</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_3</code>
+      <ID>136</ID>
+      <start>2242.882</start>
+      <end>2255.882</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>137</ID>
+      <start>2245.882</start>
+      <end>2273.137</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>138</ID>
+      <start>2263.137</start>
+      <end>2297.633</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>139</ID>
+      <start>2277.633</start>
+      <end>2302.134</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>140</ID>
+      <start>2282.134</start>
+      <end>2307.134</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>141</ID>
+      <start>2286.881</start>
+      <end>2319.881</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>142</ID>
+      <start>2302.131</start>
+      <end>2327.131</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>143</ID>
+      <start>2302.631</start>
+      <end>2335.631</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>144</ID>
+      <start>2304.63</start>
+      <end>2324.63</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_4</code>
+      <ID>145</ID>
+      <start>2309.642</start>
+      <end>2322.131</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>146</ID>
+      <start>2321.881</start>
+      <end>2401.414</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>147</ID>
+      <start>2381.414</start>
+      <end>2406.414</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>148</ID>
+      <start>2382.414</start>
+      <end>2407.414</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>149</ID>
+      <start>2393.165</start>
+      <end>2419.664</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>150</ID>
+      <start>2399.664</start>
+      <end>2477.667</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>151</ID>
+      <start>2457.667</start>
+      <end>2520.427</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>152</ID>
+      <start>2500.427</start>
+      <end>2560.916</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>153</ID>
+      <start>2540.916</start>
+      <end>2573.662</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>154</ID>
+      <start>2553.662</start>
+      <end>2601.427</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_2</code>
+      <ID>155</ID>
+      <start>2581.427</start>
+      <end>2637.162</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>156</ID>
+      <start>2615.919</start>
+      <end>2638.414</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>157</ID>
+      <start>2617.162</start>
+      <end>2637.162</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>158</ID>
+      <start>2628.414</start>
+      <end>2644.913</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>159</ID>
+      <start>2634.913</start>
+      <end>2650.682</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>160</ID>
+      <start>2640.682</start>
+      <end>2670.162</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>161</ID>
+      <start>2650.162</start>
+      <end>2670.667</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>162</ID>
+      <start>2660.667</start>
+      <end>2684.411</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_4</code>
+      <ID>163</ID>
+      <start>2674.411</start>
+      <end>2703.667</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>164</ID>
+      <start>2683.667</start>
+      <end>2712.447</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>165</ID>
+      <start>2692.447</start>
+      <end>2727.448</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>166</ID>
+      <start>2717.448</start>
+      <end>2748.701</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>167</ID>
+      <start>2728.701</start>
+      <end>2754.199</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>168</ID>
+      <start>2744.199</start>
+      <end>2799.984</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>169</ID>
+      <start>2779.984</start>
+      <end>2799.984</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>170</ID>
+      <start>2781.979</start>
+      <end>2816.985</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>171</ID>
+      <start>2796.985</start>
+      <end>2857.734</end>
+    </instance>
+    <instance>
+      <code>hdm circle_penetration</code>
+      <ID>172</ID>
+      <start>2826.23</start>
+      <end>2851.23</end>
+    </instance>
+    <instance>
+      <code>hdm goal_attempt</code>
+      <ID>173</ID>
+      <start>2827.73</start>
+      <end>2852.73</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>174</ID>
+      <start>2837.734</start>
+      <end>2857.734</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>175</ID>
+      <start>2840.73</start>
+      <end>2856.579</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_3</code>
+      <ID>176</ID>
+      <start>2846.579</start>
+      <end>2875.089</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_3</code>
+      <ID>177</ID>
+      <start>2865.089</start>
+      <end>2895.08</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>178</ID>
+      <start>2875.08</start>
+      <end>2895.08</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>179</ID>
+      <start>2878.576</start>
+      <end>2919.329</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>180</ID>
+      <start>2905.077</start>
+      <end>2930.077</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>181</ID>
+      <start>2908.575</start>
+      <end>2933.575</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_3</code>
+      <ID>182</ID>
+      <start>2909.329</start>
+      <end>2925.077</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal</code>
+      <ID>183</ID>
+      <start>2910.826</start>
+      <end>2925.826</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>184</ID>
+      <start>2946.11</start>
+      <end>2966.11</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>185</ID>
+      <start>2949.11</start>
+      <end>2986.612</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>186</ID>
+      <start>2966.612</start>
+      <end>2991.612</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>187</ID>
+      <start>2980.864</start>
+      <end>3012.114</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>188</ID>
+      <start>2992.114</start>
+      <end>3031.117</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>189</ID>
+      <start>3011.117</start>
+      <end>3036.117</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>190</ID>
+      <start>3012.867</start>
+      <end>3045.867</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>191</ID>
+      <start>3030.864</start>
+      <end>3061.864</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>192</ID>
+      <start>3033.859</start>
+      <end>3058.859</end>
+    </instance>
+    <instance>
+      <code>den_bosch cause_of_penalty_corner</code>
+      <ID>193</ID>
+      <start>3034.36</start>
+      <end>3067.36</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>194</ID>
+      <start>3041.864</start>
+      <end>3061.864</end>
+    </instance>
+    <instance>
+      <code>den_bosch penalty_corner</code>
+      <ID>195</ID>
+      <start>3091.11</start>
+      <end>3111.11</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>196</ID>
+      <start>3096.36</start>
+      <end>3128.36</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>197</ID>
+      <start>3108.36</start>
+      <end>3146.361</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>198</ID>
+      <start>3136.361</start>
+      <end>3161.361</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>199</ID>
+      <start>3136.361</start>
+      <end>3156.361</end>
+    </instance>
+    <instance>
+      <code>den_bosch cause_of_penalty_corner</code>
+      <ID>200</ID>
+      <start>3139.614</start>
+      <end>3164.614</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>201</ID>
+      <start>3190.644</start>
+      <end>3223.644</end>
+    </instance>
+    <instance>
+      <code>den_bosch penalty_corner</code>
+      <ID>202</ID>
+      <start>3194.393</start>
+      <end>3214.393</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>203</ID>
+      <start>3207.147</start>
+      <end>3368.428</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_2</code>
+      <ID>204</ID>
+      <start>3356.428</start>
+      <end>3388.933</end>
+    </instance>
+    <instance>
+      <code>start</code>
+      <ID>205</ID>
+      <start>3358.428</start>
+      <end>3368.428</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>206</ID>
+      <start>3368.933</start>
+      <end>3414.931</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>207</ID>
+      <start>3394.931</start>
+      <end>3414.931</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>208</ID>
+      <start>3400.179</start>
+      <end>3437.681</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>209</ID>
+      <start>3417.681</start>
+      <end>3437.681</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>210</ID>
+      <start>3421.678</start>
+      <end>3456.679</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>211</ID>
+      <start>3436.679</start>
+      <end>3478.433</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>212</ID>
+      <start>3458.433</start>
+      <end>3485.691</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>213</ID>
+      <start>3465.691</start>
+      <end>3490.691</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>214</ID>
+      <start>3467.213</start>
+      <end>3500.213</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>215</ID>
+      <start>3481.962</start>
+      <end>3501.962</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>216</ID>
+      <start>3484.962</start>
+      <end>3509.962</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>217</ID>
+      <start>3485.715</start>
+      <end>3499.215</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>218</ID>
+      <start>3487.212</start>
+      <end>3520.212</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_4</code>
+      <ID>219</ID>
+      <start>3489.215</start>
+      <end>3504.962</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>220</ID>
+      <start>3504.962</start>
+      <end>3553.216</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_3</code>
+      <ID>221</ID>
+      <start>3533.216</start>
+      <end>3568.468</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_3</code>
+      <ID>222</ID>
+      <start>3548.468</start>
+      <end>3585.465</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>223</ID>
+      <start>3565.465</start>
+      <end>3594.465</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>224</ID>
+      <start>3574.465</start>
+      <end>3606.465</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>225</ID>
+      <start>3586.465</start>
+      <end>3612.465</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>226</ID>
+      <start>3592.465</start>
+      <end>3629.964</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>227</ID>
+      <start>3609.964</start>
+      <end>3654.712</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_2</code>
+      <ID>228</ID>
+      <start>3644.712</start>
+      <end>3660.746</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>229</ID>
+      <start>3650.746</start>
+      <end>3691.998</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>230</ID>
+      <start>3671.998</start>
+      <end>3709.5</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>231</ID>
+      <start>3689.5</start>
+      <end>3714.5</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>232</ID>
+      <start>3693.496</start>
+      <end>3718.496</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>233</ID>
+      <start>3695.496</start>
+      <end>3720.496</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>234</ID>
+      <start>3707.996</start>
+      <end>3744.496</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>235</ID>
+      <start>3724.496</start>
+      <end>3753.746</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>236</ID>
+      <start>3733.746</start>
+      <end>3758.75</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_3</code>
+      <ID>237</ID>
+      <start>3748.75</start>
+      <end>3782.498</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_4</code>
+      <ID>238</ID>
+      <start>3762.498</start>
+      <end>3782.498</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_2</code>
+      <ID>239</ID>
+      <start>3763.498</start>
+      <end>3797.249</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_2</code>
+      <ID>240</ID>
+      <start>3777.249</start>
+      <end>3822.748</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>241</ID>
+      <start>3802.748</start>
+      <end>3822.748</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>242</ID>
+      <start>3807.496</start>
+      <end>3846.753</end>
+    </instance>
+    <instance>
+      <code>hdm circle_penetration</code>
+      <ID>243</ID>
+      <start>3817.495</start>
+      <end>3842.495</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>244</ID>
+      <start>3826.753</start>
+      <end>3846.753</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>245</ID>
+      <start>3830.283</start>
+      <end>3859.032</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_1</code>
+      <ID>246</ID>
+      <start>3839.032</start>
+      <end>3894.031</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>247</ID>
+      <start>3874.031</start>
+      <end>3899.031</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>248</ID>
+      <start>3875.28</start>
+      <end>3908.28</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>249</ID>
+      <start>3893.03</start>
+      <end>3935.533</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_2</code>
+      <ID>250</ID>
+      <start>3915.533</start>
+      <end>3935.533</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_2</code>
+      <ID>251</ID>
+      <start>3923.536</start>
+      <end>3963.28</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_3</code>
+      <ID>252</ID>
+      <start>3943.28</start>
+      <end>3988.031</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_2</code>
+      <ID>253</ID>
+      <start>3978.031</start>
+      <end>3993.034</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_2</code>
+      <ID>254</ID>
+      <start>3983.034</start>
+      <end>4025.782</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>255</ID>
+      <start>4015.782</start>
+      <end>4037.046</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_2</code>
+      <ID>256</ID>
+      <start>4027.046</start>
+      <end>4065.28</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>257</ID>
+      <start>4045.28</start>
+      <end>4074.037</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_1</code>
+      <ID>258</ID>
+      <start>4052.034</start>
+      <end>4125.317</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_4</code>
+      <ID>259</ID>
+      <start>4054.037</start>
+      <end>4074.037</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>260</ID>
+      <start>4105.317</start>
+      <end>4184.824</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_2</code>
+      <ID>261</ID>
+      <start>4164.824</start>
+      <end>4214.068</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_restart_3</code>
+      <ID>262</ID>
+      <start>4194.068</start>
+      <end>4217.077</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>263</ID>
+      <start>4197.077</start>
+      <end>4222.077</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>264</ID>
+      <start>4198.315</start>
+      <end>4223.315</end>
+    </instance>
+    <instance>
+      <code>den_bosch circle_penetration</code>
+      <ID>265</ID>
+      <start>4204.315</start>
+      <end>4229.315</end>
+    </instance>
+    <instance>
+      <code>den_bosch goal_attempt</code>
+      <ID>266</ID>
+      <start>4208.815</start>
+      <end>4241.815</end>
+    </instance>
+    <instance>
+      <code>hdm ball_win_1</code>
+      <ID>267</ID>
+      <start>4209.564</start>
+      <end>4222.065</end>
+    </instance>
+    <instance>
+      <code>den_bosch ball_win_4</code>
+      <ID>268</ID>
+      <start>4212.065</start>
+      <end>4224.315</end>
+    </instance>
+    <instance>
+      <code>hdm ball_restart_1</code>
+      <ID>269</ID>
+      <start>4228.067</start>
+      <end>4260.819</end>
+    </instance>
+  </ALL_INSTANCES>
+</file>
