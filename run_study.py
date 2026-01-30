@@ -162,12 +162,12 @@ def build_dual_head_model(
         dropout=dropout1
     )
 
-    x = transformer_encoder(
-        x,
-        num_heads=num_heads,
-        ff_dim=ff_dim,
-        dropout=dropout2
-    )
+    #x = transformer_encoder(
+    #    x,
+    #    num_heads=num_heads,
+    #    ff_dim=ff_dim,
+    #    dropout=dropout2
+    #)
 
     # Global pooling
     x = tf.keras.layers.GlobalAveragePooling1D()(x)
