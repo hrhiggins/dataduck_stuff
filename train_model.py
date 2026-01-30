@@ -265,7 +265,7 @@ def main():
     time_snapshot = time.time()
 
     # Values work best:
-    number_of_trials = 32
+    number_of_trials = 24
     if device == "/CPU:0":
         number_of_processes = 8
 
