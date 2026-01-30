@@ -1,5 +1,6 @@
 import numpy as np
 import tensorflow as tf
+import random
 
 class WindowGenerator(tf.keras.utils.Sequence):
     def __init__(self, df, window, horizon, step, batch_size,
@@ -10,30 +11,33 @@ class WindowGenerator(tf.keras.utils.Sequence):
         self.step = step
         self.batch_size = batch_size
 
-        # -----------------------------
-        # CACHE PER-GAME DATA (FAST)
-        # -----------------------------
         self.games = {}
         for game_id, game_df in df.groupby(game_col):
-            # Convert features column (list of arrays) → (T, feature_dim) NumPy array
             features = np.stack(game_df[feature_col].to_list()).astype(np.float32)
-
-            # Convert goals → NumPy array
             goals = game_df[goal_col].to_numpy(dtype=np.float32)
-
             self.games[game_id] = (features, goals)
 
-        # -----------------------------
-        # PRECOMPUTE ALL WINDOW STARTS
-        # -----------------------------
-        self.index = []
+        self.game_ids = list(self.games.keys())  # order will be shuffled
+        self.windows_per_game = {}
+
         for game_id, (features, goals) in self.games.items():
             T = len(features)
             max_start = T - window - horizon
             if max_start <= 0:
+                self.windows_per_game[game_id] = []
                 continue
 
-            for start in range(0, max_start, step):
+            starts = list(range(0, max_start, step))
+            self.windows_per_game[game_id] = starts  # keep order, no shuffle
+
+        # Build a flat index of (game_id, start)
+        self._rebuild_index()
+
+    def _rebuild_index(self):
+
+        self.index = []
+        for game_id in self.game_ids:
+            for start in self.windows_per_game[game_id]:
                 self.index.append((game_id, start))
 
     def __len__(self):
@@ -49,7 +53,6 @@ class WindowGenerator(tf.keras.utils.Sequence):
         for game_id, start in batch_idx:
             features, goals = self.games[game_id]
 
-            # FAST: pure NumPy slicing
             window_feats = features[start : start + self.window]
             future_goals = goals[start + self.window : start + self.window + self.horizon]
 
@@ -64,3 +67,7 @@ class WindowGenerator(tf.keras.utils.Sequence):
                 "xg": np.array(y_xg_batch, dtype=np.float32),
             }
         )
+
+    def on_epoch_end(self):
+        random.shuffle(self.game_ids)   # shuffle games
+        self._rebuild_index()           # rebuild index in new game order

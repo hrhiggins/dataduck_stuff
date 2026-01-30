@@ -63,7 +63,9 @@ def objective(trial, training_data):
         batch_size=batch_size
     )
 
-    feature_dim = len(train_df.iloc[0]["features"])
+    # Feature dimension from cached data
+    first_game_id = next(iter(train_gen.games))
+    feature_dim = train_gen.games[first_game_id][0].shape[1]
 
     model = build_dual_head_model(
         sequence_length=window,
@@ -82,7 +84,6 @@ def objective(trial, training_data):
         TFKerasPruningCallback(trial, "val_xg_mse")
     ]
 
-    print("Starting model.fit...", flush=True)
     history = model.fit(
         train_gen,
         validation_data=val_gen,
@@ -104,7 +105,6 @@ def objective(trial, training_data):
     tf.keras.backend.clear_session()
 
     return rmse
-
 
 
 def transformer_encoder(x, num_heads, ff_dim, dropout):
