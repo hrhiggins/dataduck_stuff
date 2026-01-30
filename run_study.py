@@ -1,3 +1,4 @@
+
 from optuna_integration import TFKerasPruningCallback
 from keras.optimizers import Adam, RMSprop
 from sklearn.model_selection import train_test_split
@@ -17,33 +18,34 @@ def objective(trial, training_data):
 
     # --- Hyperparameters ---
     num_heads = trial.suggest_categorical("num_heads", [2])
-    ff_dim = trial.suggest_int("ff_dim", 18, 28)
+    ff_dim = trial.suggest_int("ff_dim", 22, 32)
     key_dim = trial.suggest_int("key_dim", 8, 32)
 
-    dropout1 = trial.suggest_float("dropout1", 0.05, 0.15)
+    dropout1 = trial.suggest_float("dropout1", 0.05, 0.12)
 
-    dense_units = trial.suggest_int("dense_units", 22, 34)
-    activation = trial.suggest_categorical("activation", ["tanh"])
+    dense_units = trial.suggest_int("dense_units", 26, 36)
+    activation = "tanh"
 
     ff_activation = trial.suggest_categorical("ff_activation", ["relu", "gelu", "tanh"])
-    pooling = trial.suggest_categorical("pooling", ["avg", "max"])
+    pooling = "max"
     xg_weight = trial.suggest_float("xg_weight", 0.1, 0.6)
-    xg_activation = trial.suggest_categorical("xg_activation", ["sigmoid", "linear"])
+    xg_activation = "linear"
 
     pos_dim = trial.suggest_int("pos_dim", 8, 64)
 
     optimizer_name = trial.suggest_categorical("optimizer", ["adam"])
     optimizer_type = Adam if optimizer_name == "adam" else RMSprop
-    learning_rate = trial.suggest_float("learning_rate", 1.5e-4, 3.5e-4)
+    learning_rate = trial.suggest_float("learning_rate", 1.2e-4, 2.2e-4)
 
     batch_size = trial.suggest_categorical("batch_size", [256, 512])
     epochs = trial.suggest_int("epochs", 8, 14)
+
     penalty_corner_weight = trial.suggest_float("penalty_corner_weight", 0.2, 0.8)
     penalty_stroke_weight = trial.suggest_float("penalty_stroke_weight", 0.5, 2.0)
     circle_entry_weight = trial.suggest_float("circle_entry_weight", 0.05, 0.3)
 
     # --- Windowing ---
-    window_seconds = 40
+    window_seconds = 60
     horizon_seconds = 12
     step_seconds = 1.0
 
@@ -129,6 +131,7 @@ def objective(trial, training_data):
 
 # --- Transformer Encoder ---
 def transformer_encoder(x, num_heads, ff_dim, key_dim, dropout, ff_activation):
+    # Multi-head attention
     attn_output = MultiHeadAttention(
         num_heads=num_heads,
         key_dim=key_dim,
@@ -138,8 +141,11 @@ def transformer_encoder(x, num_heads, ff_dim, key_dim, dropout, ff_activation):
     x = Add()([x, attn_output])
     x = LayerNormalization(epsilon=1e-6)(x)
 
+    # Feed-forward network with residual dropout
     ff_output = Dense(ff_dim, activation=ff_activation)(x)
+    ff_output = Dropout(dropout)(ff_output)
     ff_output = Dense(x.shape[-1])(ff_output)
+    ff_output = Dropout(dropout)(ff_output)
 
     x = Add()([x, ff_output])
     x = LayerNormalization(epsilon=1e-6)(x)
@@ -181,7 +187,7 @@ def build_dual_head_model(
 
     x = inputs + pos_encoding
 
-    # Transformer block 1
+    # Block 1
     x = transformer_encoder(
         x,
         num_heads=num_heads,
@@ -190,11 +196,20 @@ def build_dual_head_model(
         dropout=dropout1,
         ff_activation=ff_activation
     )
-
-    # Dropout between blocks
     x = Dropout(dropout1)(x)
 
-    # Transformer block 2
+    # Block 2
+    x = transformer_encoder(
+        x,
+        num_heads=num_heads,
+        ff_dim=ff_dim,
+        key_dim=key_dim,
+        dropout=dropout1,
+        ff_activation=ff_activation
+    )
+    x = Dropout(dropout1)(x)
+
+    # Block 3
     x = transformer_encoder(
         x,
         num_heads=num_heads,
@@ -225,12 +240,25 @@ def build_dual_head_model(
     penalty_stroke = Dense(1, activation="sigmoid", name="penalty_stroke")(x)
     circle_entry = Dense(1, activation="sigmoid", name="circle_entry")(x)
 
-    # Cosine learning rate schedule
-    lr_schedule = tf.keras.optimizers.schedules.CosineDecay(
+    # --- Warmup + Cosine Decay ---
+    warmup_steps = 2000
+    total_steps = 20000
+
+    cosine_decay = tf.keras.optimizers.schedules.CosineDecay(
         initial_learning_rate=learning_rate,
-        decay_steps=10000,  # safe default; Optuna will adjust via epochs
+        decay_steps=total_steps - warmup_steps,
         alpha=0.1
     )
+
+    def lr_with_warmup(step):
+        step = tf.cast(step, tf.float32)
+        return tf.cond(
+            step < warmup_steps,
+            lambda: learning_rate * (step / warmup_steps),
+            lambda: cosine_decay(step - warmup_steps)
+        )
+
+    lr_schedule = lr_with_warmup
 
     model = Model(inputs, [goal_prob, xg, penalty_corner, penalty_stroke, circle_entry])
 
