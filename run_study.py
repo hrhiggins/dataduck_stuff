@@ -19,12 +19,12 @@ from windowing import WindowGenerator
 def objective(trial, training_data):
     tf.keras.backend.clear_session()
 
-    num_heads = trial.suggest_int("num_heads", 2, 4)
-    ff_dim = trial.suggest_int("ff_dim", 64, 128)
+    num_heads = trial.suggest_int("num_heads", 2, 3)
+    ff_dim = trial.suggest_int("ff_dim", 32, 96)
     dropout1 = trial.suggest_float("dropout1", 0.0, 0.2)
     dropout2 = trial.suggest_float("dropout2", 0.0, 0.2)
 
-    dense_units = trial.suggest_int("dense_units", 16, 48)
+    dense_units = trial.suggest_int("dense_units", 16, 32)
     activation = trial.suggest_categorical("activation", ["relu", "tanh"])
 
     optimizer_name = trial.suggest_categorical("optimizer", ["adam"])
@@ -82,6 +82,7 @@ def objective(trial, training_data):
         TFKerasPruningCallback(trial, "val_xg_mse")
     ]
 
+    print("Starting model.fit...", flush=True)
     history = model.fit(
         train_gen,
         validation_data=val_gen,

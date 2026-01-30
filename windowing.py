@@ -26,6 +26,8 @@ class WindowGenerator(tf.keras.utils.Sequence):
         return len(self.index) // self.batch_size
 
     def __getitem__(self, idx):
+        print(f"Building batch {idx}", flush=True)
+
         batch_idx = self.index[idx * self.batch_size : (idx + 1) * self.batch_size]
 
         X_batch = []
