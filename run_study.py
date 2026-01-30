@@ -89,8 +89,7 @@ def objective(trial, training_data):
         train_gen,
         validation_data=val_gen,
         epochs=epochs,
-        callbacks=callbacks,
-        verbose=0
+        callbacks=callbacks
     )
 
     final_mse = history.history["val_xg_mse"][-1]
