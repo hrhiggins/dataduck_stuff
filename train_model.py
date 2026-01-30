@@ -1,5 +1,4 @@
 import os
-import pickle
 
 # Stop annoying Tensorflow warnings
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
@@ -13,15 +12,10 @@ from optuna.storages import JournalStorage
 from optuna.storages.journal import JournalFileBackend
 import time
 import numpy as np
-from preprocessing import pad_data_set
-from run_study import objective
-from preprocessing import smooth_data
-from preprocessing import normalise_test
-from preprocessing import get_data_columns
 from wakepy import keep
-from optuna.artifacts import FileSystemArtifactStore, download_artifact
 from keras.models import load_model
 import shutil
+from run_study import objective
 
 # If running on linux turn on:
 # mp.set_start_method("spawn", force=True)
@@ -134,7 +128,8 @@ def convert_to_time_series(df, sample_rate):
     time_values = [step / sample_rate for step in range(n_steps)]
 
     teams_present = sorted(df["team"].unique())
-    num_teams = len(teams_dict)
+    num_teams = len(teams_present)
+    team_index_map = {team: idx for idx, team in enumerate(teams_present)}
 
     team_lists = {}
     for team in teams_present:
@@ -156,7 +151,7 @@ def convert_to_time_series(df, sample_rate):
         vectors = []
         for lst in team_lists[team]:
             team_onehot = np.zeros(num_teams, dtype=np.float32)
-            team_onehot[team - 1] = 1.0
+            team_onehot[team_index_map[team]] = 1.0
             event_vector = codes_to_vector(lst)
             vectors.append(np.concatenate([team_onehot, event_vector]))
         data[column_name] = vectors
@@ -172,12 +167,10 @@ def convert_to_time_series(df, sample_rate):
     goal_code = codes_dict["goal"]
     goal_offset = goal_code - 1
     block_size = num_teams + NUM_CODES
-
-    goal_indices = []
-    for block_i in range(len(teams_present)):
-        base = block_i * block_size
-        goal_idx = base + num_teams + goal_offset
-        goal_indices.append(goal_idx)
+    goal_indices = [
+        block_i * block_size + num_teams + goal_offset
+        for block_i in range(num_teams)
+    ]
 
     goal_events = []
     cleaned_features = []
@@ -206,14 +199,14 @@ def convert_to_time_series(df, sample_rate):
 
 # https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/004_distributed.html
 # https://optuna.readthedocs.io/en/stable/faq.html#id2
-def run_study(time_snapshot, training_data, validation_data, number_of_trials, number_of_processes, artifact_store):
+def run_study(time_snapshot, training_data, number_of_trials, number_of_processes):
     study = optuna.create_study(directions=["minimize"], study_name="expected_goals",
                                 storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")),
                                 load_if_exists=True,
                                 pruner=optuna.pruners.HyperbandPruner(min_resource=5, max_resource="auto",
                                                                       reduction_factor=4))
 
-    study.optimize(lambda trial: objective(trial, training_data, validation_data, artifact_store), n_trials=(number_of_trials//number_of_processes))
+    study.optimize(lambda trial: objective(trial, training_data), n_trials=(number_of_trials//number_of_processes))
     return study
 
 def new_temp_dirs():
@@ -222,8 +215,6 @@ def new_temp_dirs():
     # Create directories for new data
     os.makedirs("temp/optuna/temp", exist_ok=True)
     os.makedirs("temp/optuna/temp/trial_saves", exist_ok=True)
-    os.makedirs("temp/optuna/temp/artifacts", exist_ok=True)
-    os.makedirs("temp/optuna/temp/best_attributes", exist_ok=True)
 
 
 # https://superfastpython.com/multiprocessing-pool-python/#How_to_Configure_the_Multiprocessing_Pool
@@ -231,8 +222,6 @@ def new_temp_dirs():
 # https://optuna.readthedocs.io/en/stable/reference/generated/optuna.load_study.html
 def main():
     new_temp_dirs()
-
-    artifact_store = FileSystemArtifactStore(base_path="temp/optuna/temp/artifacts")
 
     samples = 2
     list_of_files = import_data_from_file()
@@ -247,46 +236,27 @@ def main():
         df["game_id"] = game_id
         game_dfs.append(df)
 
-    all_games_df = pd.concat(game_dfs, ignore_index=True)
+    training_data = pd.concat(game_dfs, ignore_index=True)
     time_snapshot = time.time()
-
-    training_data, validation_data = validate_train_split_data(all_games_df, validation_ratio=0.8)
 
     # Values work best:
     number_of_trials = 32
     number_of_processes = 8
 
-    arguments = [(time_snapshot, training_data.copy(), validation_data.copy(), number_of_trials, number_of_processes, artifact_store),
-                 (time_snapshot, training_data.copy(), validation_data.copy(), number_of_trials, number_of_processes, artifact_store),
-                 (time_snapshot, training_data.copy(), validation_data.copy(), number_of_trials, number_of_processes, artifact_store),
-                 (time_snapshot, training_data.copy(), validation_data.copy(), number_of_trials, number_of_processes, artifact_store),
-                 (time_snapshot, training_data.copy(), validation_data.copy(), number_of_trials, number_of_processes, artifact_store),
-                 (time_snapshot, training_data.copy(), validation_data.copy(), number_of_trials, number_of_processes, artifact_store),
-                 (time_snapshot, training_data.copy(), validation_data.copy(), number_of_trials, number_of_processes, artifact_store),
-                 (time_snapshot, training_data.copy(), validation_data.copy(), number_of_trials, number_of_processes, artifact_store),]
+    arguments = [(time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),]
 
     with Pool(processes=number_of_processes) as pool:
         pool.starmap(run_study, arguments)
 
     # Access the data of the completed study
     completed_study = optuna.load_study(study_name="expected_goals", storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")))
-
-
-
-def validate_train_split_data(training_data, validation_ratio):
-    all_engines_list = sorted(training_data["game_id"].unique())
-    np.random.shuffle(all_engines_list)
-
-    split_point = int(len(all_engines_list) * validation_ratio)
-
-    training_engines = all_engines_list[:split_point]
-    validation_engines = all_engines_list[split_point:]
-
-    training_df = training_data[training_data["game_id"].isin(training_engines)]
-    validation_df = training_data[training_data["game_id"].isin(validation_engines)]
-
-    return training_df, validation_df
-
 
 if __name__ == "__main__":
     with keep.running():
