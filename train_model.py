@@ -257,6 +257,14 @@ def main():
 
     # Access the data of the completed study
     completed_study = optuna.load_study(study_name="expected_goals", storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")))
+    best_trial = completed_study.best_trial
+    best_parameters = best_trial.params
+    print(f"Best trial was trial {completed_study.best_trial.number} with RMSE: {completed_study.best_value}")
+    best_model_name = completed_study.best_trial.user_attrs.get("model_name")
+    best_model = load_model(f"temp/optuna/temp/trial_saves/{best_model_name}.keras")
+    print(f"temp/optuna/temp/trial_saves/{best_model_name}.keras")
+    return best_model
+
 
 if __name__ == "__main__":
     with keep.running():

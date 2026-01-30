@@ -7,6 +7,15 @@ from keras.layers import LSTM, Dense, GRU, Masking, Input
 import numpy as np
 from optuna.artifacts import upload_artifact
 from sklearn.model_selection import train_test_split
+from keras.layers import (
+    Input, Dense, LayerNormalization, Dropout,
+    MultiHeadAttention, Add
+)
+from keras.models import Model
+import tensorflow as tf
+
+
+
 
 
 
@@ -15,7 +24,8 @@ def objective(trial, training_data):
     # Model type
     model_type_name = trial.suggest_categorical("model_type", ["LSTM", "GRU"])
     model_type = LSTM if model_type_name == "LSTM" else GRU
-
+    num_heads = trial.suggest_int("num_heads", 2, 8)
+    ff_dim = trial.suggest_int("ff_dim", 64, 256)
     # Window + horizon
     window_time = trial.suggest_int("window_time", 15, 60)
     horizon_time = trial.suggest_int("horizon_time", 3, 8)
@@ -77,7 +87,9 @@ def objective(trial, training_data):
         dense_units=dense_units,
         activation=activation,
         optimizer_type=optimizer_type,
-        learning_rate=learning_rate
+        learning_rate=learning_rate,
+        num_heads=num_heads,
+        ff_dim=ff_dim
     )
 
     callbacks = [
@@ -150,10 +162,33 @@ def build_xg_windows(
     )
 
 
+def transformer_encoder(x, num_heads, ff_dim, dropout):
+    # Multi-head self-attention
+    attn_output = MultiHeadAttention(
+        num_heads=num_heads,
+        key_dim=ff_dim,
+        dropout=dropout
+    )(x, x)
+
+    # Residual + norm
+    x = Add()([x, attn_output])
+    x = LayerNormalization(epsilon=1e-6)(x)
+
+    # Feed-forward block
+    ff_output = Dense(ff_dim, activation="relu")(x)
+    ff_output = Dense(x.shape[-1])(ff_output)
+
+    # Residual + norm
+    x = Add()([x, ff_output])
+    x = LayerNormalization(epsilon=1e-6)(x)
+
+    return x
+
+
 def build_dual_head_model(
     sequence_length,
     feature_dim,
-    model_type,
+    model_type,  # ignored but kept for compatibility
     units1,
     dropout1,
     rec_dropout1,
@@ -163,26 +198,43 @@ def build_dual_head_model(
     dense_units,
     activation,
     optimizer_type,
-    learning_rate
+    learning_rate,
+    num_heads,
+    ff_dim
 ):
     inputs = Input(shape=(sequence_length, feature_dim))
 
-    x = model_type(
-        units1,
-        return_sequences=True,
-        dropout=dropout1,
-        recurrent_dropout=rec_dropout1
-    )(inputs)
+    # Positional encoding (trainable)
+    pos_encoding = tf.range(start=0, limit=sequence_length, delta=1)
+    pos_encoding = tf.keras.layers.Embedding(
+        input_dim=sequence_length,
+        output_dim=feature_dim
+    )(pos_encoding)
 
-    x = model_type(
-        units2,
-        return_sequences=False,
-        dropout=dropout2,
-        recurrent_dropout=rec_dropout2
-    )(x)
+    x = inputs + pos_encoding
 
+    # Transformer blocks
+    x = transformer_encoder(
+        x,
+        num_heads=num_heads,
+        ff_dim=ff_dim,
+        dropout=dropout1
+    )
+
+    x = transformer_encoder(
+        x,
+        num_heads=num_heads,
+        ff_dim=ff_dim,
+        dropout=dropout2
+    )
+
+    # Global pooling
+    x = tf.keras.layers.GlobalAveragePooling1D()(x)
+
+    # Dense layer
     x = Dense(dense_units, activation=activation)(x)
 
+    # Outputs
     goal_prob = Dense(1, activation="sigmoid", name="goal_prob")(x)
     xg = Dense(1, activation="linear", name="xg")(x)
 
