@@ -253,10 +253,11 @@ def main():
     time_snapshot = time.time()
 
     # Values work best:
-    number_of_trials = 32
-    number_of_processes = 8
+    number_of_trials = 40
+    if device == "cpu":
+        number_of_processes = 8
 
-    arguments = [(device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+        arguments = [(device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
                  (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
                  (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
                  (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
@@ -265,8 +266,11 @@ def main():
                  (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
                  (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes)]
 
-    with Pool(processes=number_of_processes) as pool:
-        pool.starmap(run_study, arguments)
+        with Pool(processes=number_of_processes) as pool:
+            pool.starmap(run_study, arguments)
+    else:
+        number_of_processes = 1
+        run_study(device, time_snapshot, training_data, number_of_trials, number_of_processes)
 
     # Access the data of the completed study
     completed_study = optuna.load_study(study_name="expected_goals", storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")))
