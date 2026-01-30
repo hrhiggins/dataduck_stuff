@@ -22,8 +22,8 @@ import tensorflow as tf
 #mp.set_start_method("spawn", force=True)
 
 import warnings
-warnings.filterwarnings("ignore", category=UserWarning)
-warnings.filterwarnings("ignore", category=FutureWarning)
+#warnings.filterwarnings("ignore", category=UserWarning)
+#warnings.filterwarnings("ignore", category=FutureWarning)
 
 
 
