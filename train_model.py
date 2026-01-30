@@ -249,6 +249,7 @@ def main():
 
         df["game_id"] = game_id
         game_dfs.append(df)
+    print("all games gathered")
 
     training_data = pd.concat(game_dfs, ignore_index=True)
     time_snapshot = time.time()
