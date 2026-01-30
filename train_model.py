@@ -218,8 +218,11 @@ def run_study(device, time_snapshot, number_of_trials, number_of_processes, df):
     study = optuna.create_study(directions=["minimize"], study_name="expected_goals",
                                 storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")),
                                 load_if_exists=True,
-                                pruner=optuna.pruners.HyperbandPruner(min_resource=5, max_resource="auto",
-                                                                      reduction_factor=4))
+                                #pruner=optuna.pruners.HyperbandPruner(min_resource=5, max_resource="auto",
+                                #                                      reduction_factor=4))
+                                pruner=optuna.pruners.MedianPruner(n_warmup_steps=2))
+
+    
     with tf.device(device):
         study.optimize(lambda trial: objective(trial, df), n_trials=(number_of_trials//number_of_processes))
     return study
@@ -259,7 +262,7 @@ def main():
     time_snapshot = time.time()
 
     # Values work best:
-    number_of_trials = 40
+    number_of_trials = 16
     if device == "/CPU:0":
         number_of_processes = 8
 

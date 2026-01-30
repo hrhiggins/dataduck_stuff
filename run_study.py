@@ -32,7 +32,7 @@ def objective(trial, training_data):
     learning_rate = trial.suggest_float("learning_rate", 1e-4, 5e-4)
 
     batch_size = trial.suggest_categorical("batch_size", [32, 64])
-    epochs = trial.suggest_int("epochs", 10, 30)
+    epochs = trial.suggest_int("epochs", 5, 10)
 
     window_seconds = 20
     horizon_seconds = 4

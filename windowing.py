@@ -2,32 +2,44 @@ import numpy as np
 import tensorflow as tf
 
 class WindowGenerator(tf.keras.utils.Sequence):
-    def __init__(self, df, window, horizon, step, batch_size, feature_col="features", goal_col="goal_event", game_col="game_id"):
-        self.df = df
+    def __init__(self, df, window, horizon, step, batch_size,
+                 feature_col="features", goal_col="goal_event", game_col="game_id"):
+
         self.window = window
         self.horizon = horizon
         self.step = step
         self.batch_size = batch_size
-        self.feature_col = feature_col
-        self.goal_col = goal_col
-        self.game_col = game_col
 
-        # Pre-group by game to avoid repeated work
-        self.games = list(df.groupby(game_col))
+        # -----------------------------
+        # CACHE PER-GAME DATA (FAST)
+        # -----------------------------
+        self.games = {}
+        for game_id, game_df in df.groupby(game_col):
+            # Convert features column (list of arrays) → (T, feature_dim) NumPy array
+            features = np.stack(game_df[feature_col].to_list()).astype(np.float32)
 
-        # Precompute total number of windows
+            # Convert goals → NumPy array
+            goals = game_df[goal_col].to_numpy(dtype=np.float32)
+
+            self.games[game_id] = (features, goals)
+
+        # -----------------------------
+        # PRECOMPUTE ALL WINDOW STARTS
+        # -----------------------------
         self.index = []
-        for game_id, game_df in self.games:
-            num_steps = len(game_df)
-            for i in range(0, num_steps - window - horizon, step):
-                self.index.append((game_id, i))
+        for game_id, (features, goals) in self.games.items():
+            T = len(features)
+            max_start = T - window - horizon
+            if max_start <= 0:
+                continue
+
+            for start in range(0, max_start, step):
+                self.index.append((game_id, start))
 
     def __len__(self):
         return len(self.index) // self.batch_size
 
     def __getitem__(self, idx):
-        #print(f"Building batch {idx}", flush=True)
-
         batch_idx = self.index[idx * self.batch_size : (idx + 1) * self.batch_size]
 
         X_batch = []
@@ -35,14 +47,15 @@ class WindowGenerator(tf.keras.utils.Sequence):
         y_xg_batch = []
 
         for game_id, start in batch_idx:
-            game_df = dict(self.games)[game_id]
+            features, goals = self.games[game_id]
 
-            window_feats = game_df[self.feature_col].iloc[start : start + self.window]
-            future_goals = game_df[self.goal_col].iloc[start + self.window : start + self.window + self.horizon]
+            # FAST: pure NumPy slicing
+            window_feats = features[start : start + self.window]
+            future_goals = goals[start + self.window : start + self.window + self.horizon]
 
-            X_batch.append(np.stack(window_feats))
-            y_goal_batch.append(1 if any(future_goals) else 0)
-            y_xg_batch.append(sum(future_goals))
+            X_batch.append(window_feats)
+            y_goal_batch.append(1.0 if np.any(future_goals) else 0.0)
+            y_xg_batch.append(np.sum(future_goals))
 
         return (
             np.array(X_batch, dtype=np.float32),
