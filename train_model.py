@@ -12,7 +12,7 @@ from optuna.storages import JournalStorage
 from optuna.storages.journal import JournalFileBackend
 import time
 import numpy as np
-#from wakepy import keep
+from wakepy import keep
 from keras.models import load_model
 import shutil
 from run_study import objective
@@ -286,8 +286,8 @@ def main():
 
 
 if __name__ == "__main__":
-   # with keep.running():
-    start = time.time()
-    main()
-    end = time.time()
-    print(f"The program took {end - start} seconds to run")
+   with keep.running():
+       start = time.time()
+       main()
+       end = time.time()
+       print(f"The program took {end - start} seconds to run")

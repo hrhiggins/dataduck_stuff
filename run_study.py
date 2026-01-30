@@ -13,44 +13,35 @@ from keras.layers import (
 )
 from keras.models import Model
 import tensorflow as tf
-
-
-
-
+import gc
 
 
 def objective(trial, training_data):
+    tf.keras.backend.clear_session()
 
     # Model type
-    model_type_name = trial.suggest_categorical("model_type", ["LSTM", "GRU"])
-    model_type = LSTM if model_type_name == "LSTM" else GRU
-    num_heads = trial.suggest_int("num_heads", 2, 8)
-    ff_dim = trial.suggest_int("ff_dim", 64, 256)
+    #model_type_name = trial.suggest_categorical("model_type", ["LSTM", "GRU"])
+    #model_type = LSTM if model_type_name == "LSTM" else GRU
+    num_heads = trial.suggest_int("num_heads", 2, 4)
+    ff_dim = trial.suggest_int("ff_dim", 64, 128)
+    dropout1 = trial.suggest_float("dropout1", 0.0, 0.2)
+    dropout2 = trial.suggest_float("dropout2", 0.0, 0.2)
     # Window + horizon
-    window_time = trial.suggest_int("window_time", 15, 60)
-    horizon_time = trial.suggest_int("horizon_time", 3, 8)
-
-    # LSTM/GRU layers
-    units1 = trial.suggest_int("units1", 50, 100)
-    dropout1 = trial.suggest_float("dropout1", 0.2, 0.5)
-    rec_dropout1 = trial.suggest_float("rec_dropout1", 0.0, 0.5)
-
-    units2 = trial.suggest_int("units2", 20, 50)
-    dropout2 = trial.suggest_float("dropout2", 0.2, 0.5)
-    rec_dropout2 = trial.suggest_float("rec_dropout2", 0.0, 0.5)
+    window_time = trial.suggest_int("window_time", 10, 30)
+    horizon_time = trial.suggest_int("horizon_time", 2, 5)
 
     # Dense layer
     dense_units = trial.suggest_int("dense_units", 16, 48)
-    activation = trial.suggest_categorical("activation", ["relu", "tanh", "elu"])
+    activation = trial.suggest_categorical("activation", ["relu", "tanh"])
 
     # Optimizer
-    optimizer_name = trial.suggest_categorical("optimizer", ["adam", "rmsprop"])
+    optimizer_name = trial.suggest_categorical("optimizer", ["adam"])
     optimizer_type = Adam if optimizer_name == "adam" else RMSprop
-    learning_rate = trial.suggest_float("learning_rate", 1e-4, 1e-3)
+    learning_rate = trial.suggest_float("learning_rate", 1e-4, 5e-4)
 
     # Training params
-    batch_size = trial.suggest_categorical("batch_size", [32, 64, 128])
-    epochs = trial.suggest_int("epochs", 20, 60)
+    batch_size = trial.suggest_categorical("batch_size", [32, 64])
+    epochs = trial.suggest_int("epochs", 10, 30)
 
     # Build windows
     X, y_goal, y_xg, game_ids = build_xg_windows(
@@ -77,13 +68,8 @@ def objective(trial, training_data):
     model = build_dual_head_model(
         sequence_length=X.shape[1],
         feature_dim=feature_dim,
-        model_type=model_type,
-        units1=units1,
         dropout1=dropout1,
-        rec_dropout1=rec_dropout1,
-        units2=units2,
         dropout2=dropout2,
-        rec_dropout2=rec_dropout2,
         dense_units=dense_units,
         activation=activation,
         optimizer_type=optimizer_type,
@@ -109,9 +95,13 @@ def objective(trial, training_data):
     final_mse = history.history["val_xg_mse"][-1]
     rmse = np.sqrt(final_mse)
 
-    model_name = f"trial_{trial.number}_dual_head"
-    model.save(f"temp/optuna/temp/trial_saves/{model_name}.keras")
-    trial.set_user_attr("model_name", model_name)
+    # Save only if this trial is the best so far
+    if trial.study.best_trial is None or rmse < trial.study.best_value:
+        model_name = f"best_model"
+        model.save(f"temp/optuna/temp/trial_saves/{model_name}.keras")
+        trial.set_user_attr("model_name", model_name)
+    del model, history, X_train, X_val, y_goal_train, y_goal_val, y_xg_train, y_xg_val
+    gc.collect()
 
     return rmse
 
@@ -188,13 +178,8 @@ def transformer_encoder(x, num_heads, ff_dim, dropout):
 def build_dual_head_model(
     sequence_length,
     feature_dim,
-    model_type,  # ignored but kept for compatibility
-    units1,
     dropout1,
-    rec_dropout1,
-    units2,
     dropout2,
-    rec_dropout2,
     dense_units,
     activation,
     optimizer_type,
