@@ -1,4 +1,5 @@
 import os
+os.environ["TF_XLA_FLAGS"] = "--tf_xla_enable_xla_devices=false"
 
 # Stop annoying Tensorflow warnings
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
@@ -20,6 +21,8 @@ import tensorflow as tf
 
 # If running on linux turn on:
 #mp.set_start_method("spawn", force=True)
+from tensorflow.keras import mixed_precision
+mixed_precision.set_global_policy("mixed_float16")
 
 import warnings
 #warnings.filterwarnings("ignore", category=UserWarning)
@@ -222,7 +225,7 @@ def run_study(device, time_snapshot, number_of_trials, number_of_processes, df):
                                 #                                      reduction_factor=4))
                                 pruner=optuna.pruners.MedianPruner(n_warmup_steps=2))
 
-    
+
     with tf.device(device):
         study.optimize(lambda trial: objective(trial, df), n_trials=(number_of_trials//number_of_processes))
     return study
@@ -262,7 +265,7 @@ def main():
     time_snapshot = time.time()
 
     # Values work best:
-    number_of_trials = 16
+    number_of_trials = 32
     if device == "/CPU:0":
         number_of_processes = 8
 

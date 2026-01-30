@@ -19,8 +19,8 @@ from windowing import WindowGenerator
 def objective(trial, training_data):
     tf.keras.backend.clear_session()
 
-    num_heads = trial.suggest_int("num_heads", 2, 3)
-    ff_dim = trial.suggest_int("ff_dim", 32, 96)
+    num_heads = trial.suggest_int("num_heads", 2)
+    ff_dim = trial.suggest_int("ff_dim", 32, 64)
     dropout1 = trial.suggest_float("dropout1", 0.0, 0.2)
     dropout2 = trial.suggest_float("dropout2", 0.0, 0.2)
 
@@ -31,7 +31,8 @@ def objective(trial, training_data):
     optimizer_type = Adam if optimizer_name == "adam" else RMSprop
     learning_rate = trial.suggest_float("learning_rate", 1e-4, 5e-4)
 
-    batch_size = trial.suggest_categorical("batch_size", [32, 64])
+    #batch_size = trial.suggest_categorical("batch_size", [32, 64])
+    batch_size = trial.suggest_categorical("batch_size", [64, 128, 256])
     epochs = trial.suggest_int("epochs", 5, 10)
 
     window_seconds = 20
