@@ -210,6 +210,7 @@ def convert_to_time_series(df, sample_rate):
 # https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/004_distributed.html
 # https://optuna.readthedocs.io/en/stable/faq.html#id2
 def run_study(device, time_snapshot, training_data, number_of_trials, number_of_processes):
+    os.makedirs("temp/optuna/journals", exist_ok=True)
     study = optuna.create_study(directions=["minimize"], study_name="expected_goals",
                                 storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")),
                                 load_if_exists=True,
@@ -254,7 +255,7 @@ def main():
 
     # Values work best:
     number_of_trials = 40
-    if device == "cpu":
+    if device == "/CPU:0":
         number_of_processes = 8
 
         arguments = [(device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
@@ -284,8 +285,8 @@ def main():
 
 
 if __name__ == "__main__":
-    #with keep.running():
-    start = time.time()
-    main()
-    end = time.time()
-    print(f"The program took {end - start} seconds to run")
+    with keep.running():
+        start = time.time()
+        main()
+        end = time.time()
+        print(f"The program took {end - start} seconds to run")
