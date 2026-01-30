@@ -15,6 +15,8 @@ import gc
 # ============================================================
 # WindowGenerator: local + global inputs
 # ============================================================
+import numpy as np
+import tensorflow as tf
 
 class WindowGenerator(tf.keras.utils.Sequence):
     def __init__(
@@ -24,7 +26,7 @@ class WindowGenerator(tf.keras.utils.Sequence):
         horizon,
         step,
         batch_size,
-        global_len=120,                 # length of global sequence
+        global_len=120,
         feature_col="features",
         goal_col="goal_event",
         pc_col="penalty_corner_event",
@@ -32,7 +34,7 @@ class WindowGenerator(tf.keras.utils.Sequence):
         ce_col="circle_entry_event",
         game_col="game_id"
     ):
-        super().__init__()
+        super().__init__()  # important so Keras treats this as a Sequence
 
         self.window = window
         self.horizon = horizon
@@ -49,10 +51,11 @@ class WindowGenerator(tf.keras.utils.Sequence):
             pss = game_df[ps_col].to_numpy(dtype=np.float32)
             ces = game_df[ce_col].to_numpy(dtype=np.float32)
 
-            # Precompute global sequence (downsampled)
             T = len(features)
             if T < 2:
                 continue
+
+            # Global sequence (downsampled over full game)
             idx = np.linspace(0, T - 1, self.global_len).astype(int)
             global_features = features[idx]
 
@@ -158,16 +161,21 @@ class WindowGenerator(tf.keras.utils.Sequence):
         y_ps = np.concatenate(y_ps, axis=0)
         y_ce = np.concatenate(y_ce, axis=0)
 
-        return (
-            [local_batch, global_batch],
-            {
-                "goal_prob": y_goal,
-                "xg": y_xg,
-                "penalty_corner": y_pc,
-                "penalty_stroke": y_ps,
-                "circle_entry": y_ce,
-            }
-        )
+        # IMPORTANT: return dict of inputs, not a list
+        inputs = {
+            "local_input": local_batch,
+            "global_input": global_batch,
+        }
+
+        targets = {
+            "goal_prob": y_goal,
+            "xg": y_xg,
+            "penalty_corner": y_pc,
+            "penalty_stroke": y_ps,
+            "circle_entry": y_ce,
+        }
+
+        return inputs, targets
 
     def on_epoch_end(self):
         np.random.shuffle(self.order)
