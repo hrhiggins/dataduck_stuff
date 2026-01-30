@@ -19,12 +19,13 @@ from windowing import WindowGenerator
 def objective(trial, training_data):
     tf.keras.backend.clear_session()
 
-    num_heads = trial.suggest_int("num_heads", 2, 3)
-    ff_dim = trial.suggest_int("ff_dim", 32, 64)
-    dropout1 = trial.suggest_float("dropout1", 0.0, 0.2)
-    dropout2 = trial.suggest_float("dropout2", 0.0, 0.2)
+    #num_heads = trial.suggest_int("num_heads", 2, 3)
+    num_heads = trial.suggest_categorical("num_heads", [2])
+    ff_dim = trial.suggest_int("ff_dim", 16, 48)
+    dropout1 = trial.suggest_float("dropout1", 0.0, 0.15)
+    dropout2 = trial.suggest_float("dropout2", 0.0, 0.15)
 
-    dense_units = trial.suggest_int("dense_units", 16, 32)
+    dense_units = trial.suggest_int("dense_units", 8, 24)
     activation = trial.suggest_categorical("activation", ["relu", "tanh"])
 
     optimizer_name = trial.suggest_categorical("optimizer", ["adam"])
@@ -32,8 +33,8 @@ def objective(trial, training_data):
     learning_rate = trial.suggest_float("learning_rate", 1e-4, 5e-4)
 
     #batch_size = trial.suggest_categorical("batch_size", [32, 64])
-    batch_size = trial.suggest_categorical("batch_size", [64, 128, 256])
-    epochs = trial.suggest_int("epochs", 5, 30)
+    batch_size = trial.suggest_categorical("batch_size", [128, 256, 512])
+    epochs = trial.suggest_int("epochs", 10, 20)
 
     window_seconds = 40
     horizon_seconds = 12
@@ -89,7 +90,8 @@ def objective(trial, training_data):
         train_gen,
         validation_data=val_gen,
         epochs=epochs,
-        callbacks=callbacks
+        callbacks=callbacks,
+        validation_freq=3
     )
 
     final_mse = history.history["val_xg_mse"][-1]
@@ -187,7 +189,6 @@ def build_dual_head_model(
             "xg": "mse"
         },
         metrics={
-            "goal_prob": ["accuracy"],
             "xg": ["mse"]
         }
     )
