@@ -108,7 +108,7 @@ def objective(trial, training_data):
         validation_data=val_gen,
         epochs=epochs,
         callbacks=callbacks,
-        validation_freq=1,
+        validation_freq=3,
         verbose=0
     )
 
@@ -191,7 +191,10 @@ def build_dual_head_model(
         ff_activation=ff_activation
     )
 
-    # Transformer block 2 (always on)
+    # Dropout between blocks
+    x = Dropout(dropout1)(x)
+
+    # Transformer block 2
     x = transformer_encoder(
         x,
         num_heads=num_heads,
@@ -207,20 +210,32 @@ def build_dual_head_model(
     else:
         x = tf.keras.layers.GlobalMaxPooling1D()(x)
 
-    # Dense layer
+    # Shared dense layer
     x = Dense(dense_units, activation=activation)(x)
 
-    # Outputs
+    # Goal probability head
     goal_prob = Dense(1, activation="sigmoid", name="goal_prob")(x)
-    xg = Dense(1, activation=xg_activation, name="xg")(x)
+
+    # xG head (linear tuning)
+    xg_hidden = Dense(16, activation="gelu")(x)
+    xg = Dense(1, activation=xg_activation, name="xg")(xg_hidden)
+
+    # Other event heads
     penalty_corner = Dense(1, activation="sigmoid", name="penalty_corner")(x)
     penalty_stroke = Dense(1, activation="sigmoid", name="penalty_stroke")(x)
     circle_entry = Dense(1, activation="sigmoid", name="circle_entry")(x)
 
+    # Cosine learning rate schedule
+    lr_schedule = tf.keras.optimizers.schedules.CosineDecay(
+        initial_learning_rate=learning_rate,
+        decay_steps=10000,  # safe default; Optuna will adjust via epochs
+        alpha=0.1
+    )
+
     model = Model(inputs, [goal_prob, xg, penalty_corner, penalty_stroke, circle_entry])
 
     model.compile(
-        optimizer=optimizer_type(learning_rate=learning_rate),
+        optimizer=optimizer_type(learning_rate=lr_schedule),
         loss={
             "goal_prob": "binary_crossentropy",
             "xg": "mse",
