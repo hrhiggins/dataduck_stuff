@@ -19,7 +19,7 @@ from run_study import objective
 import tensorflow as tf
 
 # If running on linux turn on:
-mp.set_start_method("spawn", force=True)
+#mp.set_start_method("spawn", force=True)
 
 
 
