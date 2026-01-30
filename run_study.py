@@ -19,7 +19,7 @@ from windowing import WindowGenerator
 def objective(trial, training_data):
     tf.keras.backend.clear_session()
 
-    num_heads = trial.suggest_int("num_heads", 2)
+    num_heads = trial.suggest_int("num_heads", 2, 3)
     ff_dim = trial.suggest_int("ff_dim", 32, 64)
     dropout1 = trial.suggest_float("dropout1", 0.0, 0.2)
     dropout2 = trial.suggest_float("dropout2", 0.0, 0.2)
