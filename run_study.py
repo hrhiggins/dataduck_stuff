@@ -108,7 +108,7 @@ def objective(trial, training_data):
         validation_data=val_gen,
         epochs=epochs,
         callbacks=callbacks,
-        validation_freq=3,
+        validation_freq=1,
         verbose=0
     )
 
