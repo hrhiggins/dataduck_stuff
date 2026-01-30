@@ -40,6 +40,9 @@ def objective(trial, training_data):
 
     batch_size = trial.suggest_categorical("batch_size", [256, 512])
     epochs = trial.suggest_int("epochs", 8, 14)
+    penalty_stroke_weight = trial.suggest_float("penalty_corner_weight", 0.5, 2.0)
+    penalty_corner_weight = trial.suggest_float("penalty_stroke_weight", 0.2, 0.8)
+    circle_entry_weight = trial.suggest_float("circle_entry_weight", 0.05, 0.3)
 
     # --- Windowing ---
     window_seconds = 40
@@ -93,7 +96,10 @@ def objective(trial, training_data):
         xg_weight=xg_weight,
         xg_activation=xg_activation,
         use_second_block=use_second_block,
-        pos_dim=pos_dim
+        pos_dim=pos_dim,
+        penalty_corner_weight=penalty_corner_weight,
+        penalty_stroke_weight=penalty_stroke_weight,
+        circle_entry_weight=circle_entry_weight
     )
 
     callbacks = [
@@ -160,7 +166,10 @@ def build_dual_head_model(
     xg_weight,
     xg_activation,
     use_second_block,
-    pos_dim
+    pos_dim,
+    penalty_corner_weight,
+    penalty_stroke_weight,
+    circle_entry_weight
 ):
     inputs = Input(shape=(sequence_length, feature_dim))
 
@@ -208,18 +217,27 @@ def build_dual_head_model(
     # Outputs
     goal_prob = Dense(1, activation="sigmoid", name="goal_prob")(x)
     xg = Dense(1, activation=xg_activation, name="xg")(x)
+    penalty_corner = Dense(1, activation="sigmoid", name="penalty_corner")(x)
+    penalty_stroke = Dense(1, activation="sigmoid", name="penalty_stroke")(x)
+    circle_entry = Dense(1, activation="sigmoid", name="circle_entry")(x)
 
-    model = Model(inputs, [goal_prob, xg])
+    model = Model(inputs, [goal_prob, xg, penalty_corner, penalty_stroke, circle_entry])
 
     model.compile(
         optimizer=optimizer_type(learning_rate=learning_rate),
         loss={
             "goal_prob": "binary_crossentropy",
-            "xg": "mse"
+            "xg": "mse",
+            "penalty_corner": "binary_crossentropy",
+            "penalty_stroke": "binary_crossentropy",
+            "circle_entry": "binary_crossentropy"
         },
         loss_weights={
             "goal_prob": 1.0,
-            "xg": xg_weight
+            "xg": xg_weight,
+            "penalty_corner": penalty_corner_weight,
+            "penalty_stroke": penalty_stroke_weight,
+            "circle_entry": circle_entry_weight
         },
         metrics={
             "xg": ["mse"]

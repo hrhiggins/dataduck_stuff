@@ -181,38 +181,72 @@ def convert_to_time_series(df, sample_rate):
         feature_vectors.append(np.concatenate(combined))
 
     # Extract goal event
-    goal_code = codes_dict["goal"]
-    goal_offset = goal_code - 1
-    block_size = num_teams + NUM_CODES
-    goal_indices = [
-        block_i * block_size + num_teams + goal_offset
-        for block_i in range(num_teams)
-    ]
+    # --- Extract key events (goal, penalty corner, penalty stroke, circle entry) ---
 
+    # Event codes
+    goal_code = codes_dict["goal"]
+    pc_code = codes_dict["penalty_corner"]
+    ps_code = codes_dict["penalty_stroke"]
+    ce_code = codes_dict["circle_penetration"]
+
+    # Offsets inside each team block
+    goal_offset = goal_code - 1
+    pc_offset = pc_code - 1
+    ps_offset = ps_code - 1
+    ce_offset = ce_code - 1
+
+    block_size = num_teams + NUM_CODES
+
+    # Compute indices for each team block
+    def make_indices(offset):
+        return [
+            block_i * block_size + num_teams + offset
+            for block_i in range(num_teams)
+        ]
+
+    goal_indices = make_indices(goal_offset)
+    pc_indices = make_indices(pc_offset)
+    ps_indices = make_indices(ps_offset)
+    ce_indices = make_indices(ce_offset)
+
+    # Output arrays
     goal_events = []
+    pc_events = []
+    ps_events = []
+    ce_events = []
     cleaned_features = []
 
     for vec in feature_vectors:
-        goal_flag = 0
-        for idx in goal_indices:
-            if idx < len(vec) and vec[idx] == 1.0:
-                goal_flag = 1
-                break
+        # Detect events
+        goal_flag = any(idx < len(vec) and vec[idx] == 1.0 for idx in goal_indices)
+        pc_flag = any(idx < len(vec) and vec[idx] == 1.0 for idx in pc_indices)
+        ps_flag = any(idx < len(vec) and vec[idx] == 1.0 for idx in ps_indices)
+        ce_flag = any(idx < len(vec) and vec[idx] == 1.0 for idx in ce_indices)
 
-        goal_events.append(goal_flag)
+        goal_events.append(int(goal_flag))
+        pc_events.append(int(pc_flag))
+        ps_events.append(int(ps_flag))
+        ce_events.append(int(ce_flag))
 
+        # Remove goal indices from features (keep PC, PS, CE in features)
         valid_goal_indices = [idx for idx in goal_indices if idx < len(vec)]
         vec_no_goal = np.delete(vec, valid_goal_indices)
         cleaned_features.append(vec_no_goal)
 
+    # Add to dataframe
     data["features"] = cleaned_features
     data["goal_event"] = goal_events
+    data["penalty_corner_event"] = pc_events
+    data["penalty_stroke_event"] = ps_events
+    data["circle_entry_event"] = ce_events
 
     time_series = pd.DataFrame(data)
-    df = time_series[["time", "features", "goal_event"]].copy()
+    df = time_series[
+        ["time", "features", "goal_event",
+         "penalty_corner_event", "penalty_stroke_event", "circle_entry_event"]
+    ].copy()
 
     return df
-
 
 # https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/004_distributed.html
 # https://optuna.readthedocs.io/en/stable/faq.html#id2
@@ -223,7 +257,6 @@ def run_study(device, time_snapshot, number_of_trials, number_of_processes, df):
                                 load_if_exists=True,
                                 pruner=optuna.pruners.HyperbandPruner(min_resource=3, max_resource="auto",
                                                                       reduction_factor=3))
-
 
     with tf.device(device):
         study.optimize(lambda trial: objective(trial, df), n_trials=(number_of_trials//number_of_processes))
