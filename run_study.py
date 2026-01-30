@@ -96,9 +96,7 @@ def objective(trial, training_data):
     final_mse = history.history["val_xg_mse"][-1]
     rmse = np.sqrt(final_mse)
 
-    best_value = trial.study.best_value if trial.study.best_trial else float("inf")
-
-    if rmse < best_value:
+    if trial.number == 0 or rmse < trial.study.best_value:
         model_name = "best_model"
         model.save(f"temp/optuna/temp/trial_saves/{model_name}.keras")
         trial.set_user_attr("model_name", model_name)
