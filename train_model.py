@@ -250,7 +250,7 @@ def main():
                  (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
                  (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
                  (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
-                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),]
+                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes)]
 
     with Pool(processes=number_of_processes) as pool:
         pool.starmap(run_study, arguments)
