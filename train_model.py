@@ -244,7 +244,7 @@ def new_temp_dirs():
 def main():
     new_temp_dirs()
 
-    samples = 2
+    samples = 1
     list_of_files = import_data_from_file()
 
     game_dfs = []
