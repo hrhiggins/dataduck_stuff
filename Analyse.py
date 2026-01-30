@@ -118,12 +118,11 @@ def compute_profiles_for_all_teams(df, all_teams):
     return attacking, defensive
 
 
-
 def main():
     samples = 1
     list_of_files = import_data_from_file()
 
-    model = tf.keras.models.load_model("best_model.keras")
+    model = tf.keras.models.load_model("temp/optuna/temp/trial_saves/best_model.keras")
 
     all_predictions = []
     all_teams = set()
