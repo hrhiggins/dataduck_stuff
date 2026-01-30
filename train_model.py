@@ -221,9 +221,8 @@ def run_study(device, time_snapshot, number_of_trials, number_of_processes, df):
     study = optuna.create_study(directions=["minimize"], study_name="expected_goals",
                                 storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")),
                                 load_if_exists=True,
-                                #pruner=optuna.pruners.HyperbandPruner(min_resource=5, max_resource="auto",
-                                #                                      reduction_factor=4))
-                                pruner=optuna.pruners.MedianPruner(n_warmup_steps=2))
+                                pruner=optuna.pruners.HyperbandPruner(min_resource=3, max_resource="auto",
+                                                                      reduction_factor=3))
 
 
     with tf.device(device):
