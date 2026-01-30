@@ -215,7 +215,7 @@ def run_study(device, time_snapshot, training_data, number_of_trials, number_of_
                                 load_if_exists=True,
                                 pruner=optuna.pruners.HyperbandPruner(min_resource=5, max_resource="auto",
                                                                       reduction_factor=4))
-    with device:
+    with tf.device(device):
         study.optimize(lambda trial: objective(trial, training_data), n_trials=(number_of_trials//number_of_processes))
     return study
 
