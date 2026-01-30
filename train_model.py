@@ -285,8 +285,8 @@ def main():
 
 
 if __name__ == "__main__":
-    with keep.running():
-        start = time.time()
-        main()
-        end = time.time()
-        print(f"The program took {end - start} seconds to run")
+   # with keep.running():
+    start = time.time()
+    main()
+    end = time.time()
+    print(f"The program took {end - start} seconds to run")
