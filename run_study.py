@@ -14,48 +14,59 @@ from keras.layers import (
 from keras.models import Model
 import tensorflow as tf
 import gc
+from windowing import WindowGenerator
 
-
-def objective(trial, X, y_goal, y_xg, game_ids):
+def objective(trial, training_data):
     tf.keras.backend.clear_session()
 
-    # Model type
-    #model_type_name = trial.suggest_categorical("model_type", ["LSTM", "GRU"])
-    #model_type = LSTM if model_type_name == "LSTM" else GRU
     num_heads = trial.suggest_int("num_heads", 2, 4)
     ff_dim = trial.suggest_int("ff_dim", 64, 128)
     dropout1 = trial.suggest_float("dropout1", 0.0, 0.2)
     dropout2 = trial.suggest_float("dropout2", 0.0, 0.2)
 
-    # Dense layer
     dense_units = trial.suggest_int("dense_units", 16, 48)
     activation = trial.suggest_categorical("activation", ["relu", "tanh"])
 
-    # Optimizer
     optimizer_name = trial.suggest_categorical("optimizer", ["adam"])
     optimizer_type = Adam if optimizer_name == "adam" else RMSprop
     learning_rate = trial.suggest_float("learning_rate", 1e-4, 5e-4)
 
-    # Training params
     batch_size = trial.suggest_categorical("batch_size", [32, 64])
     epochs = trial.suggest_int("epochs", 10, 30)
 
-    # Split by game_id
-    unique_games = np.unique(game_ids)
+    window_seconds = 20
+    horizon_seconds = 4
+    step_seconds = 0.5
+
+    window = int(window_seconds / step_seconds)
+    horizon = int(horizon_seconds / step_seconds)
+
+    unique_games = training_data["game_id"].unique()
     train_games, val_games = train_test_split(unique_games, test_size=0.2, random_state=42)
 
-    train_mask = np.isin(game_ids, train_games)
-    val_mask = np.isin(game_ids, val_games)
+    train_df = training_data[training_data["game_id"].isin(train_games)]
+    val_df = training_data[training_data["game_id"].isin(val_games)]
 
-    X_train, X_val = X[train_mask], X[val_mask]
-    y_goal_train, y_goal_val = y_goal[train_mask], y_goal[val_mask]
-    y_xg_train, y_xg_val = y_xg[train_mask], y_xg[val_mask]
+    train_gen = WindowGenerator(
+        df=train_df,
+        window=window,
+        horizon=horizon,
+        step=1,
+        batch_size=batch_size
+    )
 
-    feature_dim = X.shape[2]
+    val_gen = WindowGenerator(
+        df=val_df,
+        window=window,
+        horizon=horizon,
+        step=1,
+        batch_size=batch_size
+    )
 
-    # Build model
+    feature_dim = len(train_df.iloc[0]["features"])
+
     model = build_dual_head_model(
-        sequence_length=X.shape[1],
+        sequence_length=window,
         feature_dim=feature_dim,
         dropout1=dropout1,
         dropout2=dropout2,
@@ -72,11 +83,9 @@ def objective(trial, X, y_goal, y_xg, game_ids):
     ]
 
     history = model.fit(
-        X_train,
-        {"goal_prob": y_goal_train, "xg": y_xg_train},
-        validation_data=(X_val, {"goal_prob": y_goal_val, "xg": y_xg_val}),
+        train_gen,
+        validation_data=val_gen,
         epochs=epochs,
-        batch_size=batch_size,
         callbacks=callbacks,
         verbose=0
     )
@@ -84,18 +93,16 @@ def objective(trial, X, y_goal, y_xg, game_ids):
     final_mse = history.history["val_xg_mse"][-1]
     rmse = np.sqrt(final_mse)
 
-    # Save only if this trial is the best so far
     if trial.study.best_trial is None or rmse < trial.study.best_value:
-        model_name = f"best_model"
+        model_name = "best_model"
         model.save(f"temp/optuna/temp/trial_saves/{model_name}.keras")
         trial.set_user_attr("model_name", model_name)
 
-    del model, history
+    del model, history, train_gen, val_gen
     gc.collect()
     tf.keras.backend.clear_session()
 
     return rmse
-
 
 
 

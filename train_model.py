@@ -213,7 +213,7 @@ def convert_to_time_series(df, sample_rate):
 
 # https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/004_distributed.html
 # https://optuna.readthedocs.io/en/stable/faq.html#id2
-def run_study(device, time_snapshot, number_of_trials, number_of_processes, X, y_goal, y_xg, game_ids):
+def run_study(device, time_snapshot, number_of_trials, number_of_processes, df):
     os.makedirs("temp/optuna/journals", exist_ok=True)
     study = optuna.create_study(directions=["minimize"], study_name="expected_goals",
                                 storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")),
@@ -221,7 +221,7 @@ def run_study(device, time_snapshot, number_of_trials, number_of_processes, X, y
                                 pruner=optuna.pruners.HyperbandPruner(min_resource=5, max_resource="auto",
                                                                       reduction_factor=4))
     with tf.device(device):
-        study.optimize(lambda trial: objective(trial, X, y_goal, y_xg, game_ids), n_trials=(number_of_trials//number_of_processes))
+        study.optimize(lambda trial: objective(trial, df), n_trials=(number_of_trials//number_of_processes))
     return study
 
 def new_temp_dirs():
@@ -258,32 +258,25 @@ def main():
     training_data = pd.concat(game_dfs, ignore_index=True)
     time_snapshot = time.time()
 
-    X, y_goal, y_xg, game_ids = build_xg_windows(
-        df=training_data,
-        window_seconds=20,  # pick a fixed value
-        step_seconds=0.5,
-        horizon_seconds=4  # pick a fixed value
-    )
-
     # Values work best:
     number_of_trials = 40
     if device == "/CPU:0":
         number_of_processes = 8
 
-        arguments = [(device, time_snapshot, number_of_trials, number_of_processes, X, y_goal, y_xg, game_ids),
-                 (device, time_snapshot, number_of_trials, number_of_processes, X, y_goal, y_xg, game_ids),
-                 (device, time_snapshot, number_of_trials, number_of_processes, X, y_goal, y_xg, game_ids),
-                 (device, time_snapshot, number_of_trials, number_of_processes, X, y_goal, y_xg, game_ids),
-                 (device, time_snapshot, number_of_trials, number_of_processes, X, y_goal, y_xg, game_ids),
-                 (device, time_snapshot, number_of_trials, number_of_processes, X, y_goal, y_xg, game_ids),
-                 (device, time_snapshot, number_of_trials, number_of_processes, X, y_goal, y_xg, game_ids),
-                 (device, time_snapshot, number_of_trials, number_of_processes, X, y_goal, y_xg, game_ids)]
+        arguments = [(device, time_snapshot, number_of_trials, number_of_processes, training_data.copy()),
+                 (device, time_snapshot, number_of_trials, number_of_processes, training_data.copy()),
+                 (device, time_snapshot, number_of_trials, number_of_processes, training_data.copy()),
+                 (device, time_snapshot, number_of_trials, number_of_processes, training_data.copy()),
+                 (device, time_snapshot, number_of_trials, number_of_processes, training_data.copy()),
+                 (device, time_snapshot, number_of_trials, number_of_processes, training_data.copy()),
+                 (device, time_snapshot, number_of_trials, number_of_processes, training_data.copy()),
+                 (device, time_snapshot, number_of_trials, number_of_processes, training_data.copy())]
 
         with Pool(processes=number_of_processes) as pool:
             pool.starmap(run_study, arguments)
     else:
         number_of_processes = 1
-        run_study(device, time_snapshot, number_of_trials, number_of_processes, X, y_goal, y_xg, game_ids)
+        run_study(device, time_snapshot, number_of_trials, number_of_processes, training_data.copy())
 
     # Access the data of the completed study
     completed_study = optuna.load_study(study_name="expected_goals", storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")))
@@ -294,51 +287,6 @@ def main():
     best_model = load_model(f"temp/optuna/temp/trial_saves/{best_model_name}.keras")
     print(f"temp/optuna/temp/trial_saves/{best_model_name}.keras")
     return best_model
-
-def build_xg_windows(
-    df,
-    window_seconds,
-    step_seconds,
-    horizon_seconds,
-    feature_col="features",
-    goal_col="goal_event",
-    game_col="game_id"
-):
-    window = int(window_seconds / step_seconds)
-    horizon = int(horizon_seconds / step_seconds)
-
-    X, y_goal, y_xg, game_ids = [], [], [], []
-
-    lengths = df[feature_col].apply(lambda x: x.shape[0])
-    if lengths.nunique() != 1:
-        raise ValueError(f"Inconsistent feature vector lengths:\n{lengths.value_counts()}")
-
-    feature_dim = lengths.iloc[0]
-
-    for game_id, game_df in df.groupby(game_col):
-        features = game_df[feature_col].tolist()
-        goals = game_df[goal_col].tolist()
-        num_steps = len(features)
-
-        for i in range(num_steps - window - horizon):
-            window_feats = features[i:i + window]
-
-            if any(f.shape[0] != feature_dim for f in window_feats):
-                continue
-
-            X.append(np.stack(window_feats))
-            future = goals[i + window : i + window + horizon]
-
-            y_goal.append(1 if any(future) else 0)
-            y_xg.append(sum(future))
-            game_ids.append(game_id)
-
-    return (
-        np.array(X, dtype=np.float32),
-        np.array(y_goal, dtype=np.float32),
-        np.array(y_xg, dtype=np.float32),
-        np.array(game_ids)
-    )
 
 
 if __name__ == "__main__":
