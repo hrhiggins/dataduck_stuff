@@ -21,20 +21,23 @@ def objective(trial, training_data):
 
     #num_heads = trial.suggest_int("num_heads", 2, 3)
     num_heads = trial.suggest_categorical("num_heads", [2])
-    ff_dim = trial.suggest_int("ff_dim", 16, 48)
-    dropout1 = trial.suggest_float("dropout1", 0.0, 0.15)
-    dropout2 = trial.suggest_float("dropout2", 0.0, 0.15)
+    ff_dim = trial.suggest_int("ff_dim", 18, 28)
+    dropout1 = trial.suggest_float("dropout1", 0.05, 0.15)
+    #dropout2 = trial.suggest_float("dropout2", 0.0, 0.15)
 
-    dense_units = trial.suggest_int("dense_units", 8, 24)
-    activation = trial.suggest_categorical("activation", ["relu", "tanh"])
+    dense_units = trial.suggest_int("dense_units", 22, 34)
+    activation = trial.suggest_categorical("activation", ["tanh"])
 
     optimizer_name = trial.suggest_categorical("optimizer", ["adam"])
     optimizer_type = Adam if optimizer_name == "adam" else RMSprop
-    learning_rate = trial.suggest_float("learning_rate", 1e-4, 5e-4)
+    learning_rate = trial.suggest_float("learning_rate", 1.5e-4, 3.5e-4)
 
     #batch_size = trial.suggest_categorical("batch_size", [32, 64])
-    batch_size = trial.suggest_categorical("batch_size", [128, 256, 512])
-    epochs = trial.suggest_int("epochs", 10, 20)
+    batch_size = trial.suggest_categorical("batch_size", [256, 512])
+    epochs = trial.suggest_int("epochs", 8, 14)
+    ff_activation = trial.suggest_categorical("ff_activation", ["relu", "gelu", "tanh"])
+    pooling = trial.suggest_categorical("pooling", ["avg", "max"])
+    xg_weight = trial.suggest_float("xg_weight", 0.1, 0.6)
 
     window_seconds = 40
     horizon_seconds = 12
@@ -73,13 +76,15 @@ def objective(trial, training_data):
         sequence_length=window,
         feature_dim=feature_dim,
         dropout1=dropout1,
-        dropout2=dropout2,
         dense_units=dense_units,
         activation=activation,
         optimizer_type=optimizer_type,
         learning_rate=learning_rate,
         num_heads=num_heads,
-        ff_dim=ff_dim
+        ff_dim=ff_dim,
+        ff_activation=ff_activation,
+        pooling=pooling,
+        xg_weight=xg_weight
     )
 
     callbacks = [
@@ -109,7 +114,7 @@ def objective(trial, training_data):
     return rmse
 
 
-def transformer_encoder(x, num_heads, ff_dim, dropout):
+def transformer_encoder(x, num_heads, ff_dim, dropout, ff_activation):
     # Multi-head self-attention
     attn_output = MultiHeadAttention(
         num_heads=num_heads,
@@ -122,7 +127,7 @@ def transformer_encoder(x, num_heads, ff_dim, dropout):
     x = LayerNormalization(epsilon=1e-6)(x)
 
     # Feed-forward block
-    ff_output = Dense(ff_dim, activation="relu")(x)
+    ff_output = Dense(ff_dim, activation=ff_activation)(x)
     ff_output = Dense(x.shape[-1])(ff_output)
 
     # Residual + norm
@@ -136,13 +141,15 @@ def build_dual_head_model(
     sequence_length,
     feature_dim,
     dropout1,
-    dropout2,
     dense_units,
     activation,
     optimizer_type,
     learning_rate,
     num_heads,
-    ff_dim
+    ff_dim,
+    ff_activation,
+    pooling,
+    xg_weight
 ):
     inputs = Input(shape=(sequence_length, feature_dim))
 
@@ -160,19 +167,15 @@ def build_dual_head_model(
         x,
         num_heads=num_heads,
         ff_dim=ff_dim,
-        dropout=dropout1
+        dropout=dropout1,
+        ff_activation=ff_activation
     )
 
-    #x = transformer_encoder(
-    #    x,
-    #    num_heads=num_heads,
-    #    ff_dim=ff_dim,
-    #    dropout=dropout2
-    #)
-
     # Global pooling
-    x = tf.keras.layers.GlobalAveragePooling1D()(x)
-
+    if pooling == "avg":
+        x = tf.keras.layers.GlobalAveragePooling1D()(x)
+    else:
+        x = tf.keras.layers.GlobalMaxPooling1D()(x)
     # Dense layer
     x = Dense(dense_units, activation=activation)(x)
 
@@ -190,7 +193,7 @@ def build_dual_head_model(
         },
         loss_weights={
             "goal_prob": 1.0,
-            "xg": 0.3
+            "xg": xg_weight
         },
         metrics={
             "xg": ["mse"]
