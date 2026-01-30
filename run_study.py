@@ -147,12 +147,12 @@ def build_dual_head_model(
     inputs = Input(shape=(sequence_length, feature_dim))
 
     # Positional encoding (trainable)
-    pos_encoding = tf.range(start=0, limit=sequence_length, delta=1)
     pos_encoding = tf.keras.layers.Embedding(
         input_dim=sequence_length,
         output_dim=feature_dim
-    )(pos_encoding)
+    )(tf.range(sequence_length))
 
+    pos_encoding = tf.expand_dims(pos_encoding, axis=0)
     x = inputs + pos_encoding
 
     # Transformer blocks

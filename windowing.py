@@ -79,7 +79,7 @@ class WindowGenerator(tf.keras.utils.Sequence):
 
             X_batch.append(X_g)
             y_goal.append((future_g.sum(axis=1) > 0).astype(np.float32))
-            y_xg.append(future_g.sum(axis=1).astype(np.float32))
+            y_xg.append((future_g.sum(axis=1) > 0).astype(np.float32))
 
         # Concatenate across games
         X_batch = np.concatenate(X_batch, axis=0)
