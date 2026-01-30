@@ -12,7 +12,7 @@ from optuna.storages import JournalStorage
 from optuna.storages.journal import JournalFileBackend
 import time
 import numpy as np
-from wakepy import keep
+#from wakepy import keep
 from keras.models import load_model
 import shutil
 from run_study import objective
