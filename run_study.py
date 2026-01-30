@@ -33,11 +33,11 @@ def objective(trial, training_data):
 
     #batch_size = trial.suggest_categorical("batch_size", [32, 64])
     batch_size = trial.suggest_categorical("batch_size", [64, 128, 256])
-    epochs = trial.suggest_int("epochs", 5, 15)
+    epochs = trial.suggest_int("epochs", 5, 30)
 
     window_seconds = 40
     horizon_seconds = 12
-    step_seconds = 0.5
+    step_seconds = 1.0
 
     window = int(window_seconds / step_seconds)
     horizon = int(horizon_seconds / step_seconds)
