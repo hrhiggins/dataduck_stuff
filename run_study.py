@@ -22,7 +22,7 @@ def objective(trial, training_data):
     num_heads = trial.suggest_int("num_heads", 2, 3)
     ff_dim = trial.suggest_int("ff_dim", 32, 64)
     dropout1 = trial.suggest_float("dropout1", 0.0, 0.2)
-    dropout2 = trial.suggest_float("dropout2", 0.0, 0.2)
+    #dropout2 = trial.suggest_float("dropout2", 0.0, 0.2)
 
     dense_units = trial.suggest_int("dense_units", 16, 32)
     activation = trial.suggest_categorical("activation", ["relu", "tanh"])
