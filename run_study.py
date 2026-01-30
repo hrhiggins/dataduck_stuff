@@ -1,4 +1,3 @@
-
 from optuna_integration import TFKerasPruningCallback
 from keras.optimizers import Adam, RMSprop
 from sklearn.model_selection import train_test_split
@@ -11,6 +10,28 @@ import tensorflow as tf
 import numpy as np
 import gc
 from windowing import WindowGenerator
+
+
+# --- Warmup + Cosine LR Schedule ---
+class WarmupCosine(tf.keras.optimizers.schedules.LearningRateSchedule):
+    def __init__(self, base_lr, warmup_steps=2000, total_steps=20000):
+        super().__init__()
+        self.base_lr = base_lr
+        self.warmup_steps = warmup_steps
+        self.total_steps = total_steps
+        self.cosine = tf.keras.optimizers.schedules.CosineDecay(
+            initial_learning_rate=base_lr,
+            decay_steps=total_steps - warmup_steps,
+            alpha=0.1
+        )
+
+    def __call__(self, step):
+        step = tf.cast(step, tf.float32)
+        return tf.cond(
+            step < self.warmup_steps,
+            lambda: self.base_lr * (step / self.warmup_steps),
+            lambda: self.cosine(step - self.warmup_steps)
+        )
 
 
 def objective(trial, training_data):
@@ -28,6 +49,7 @@ def objective(trial, training_data):
 
     ff_activation = trial.suggest_categorical("ff_activation", ["relu", "gelu", "tanh"])
     pooling = "max"
+
     xg_weight = trial.suggest_float("xg_weight", 0.1, 0.6)
     xg_activation = "linear"
 
@@ -35,9 +57,10 @@ def objective(trial, training_data):
 
     optimizer_name = trial.suggest_categorical("optimizer", ["adam"])
     optimizer_type = Adam if optimizer_name == "adam" else RMSprop
+
     learning_rate = trial.suggest_float("learning_rate", 1.2e-4, 2.2e-4)
 
-    batch_size = trial.suggest_categorical("batch_size", [256, 512])
+    batch_size = 512
     epochs = trial.suggest_int("epochs", 8, 14)
 
     penalty_corner_weight = trial.suggest_float("penalty_corner_weight", 0.2, 0.8)
@@ -110,7 +133,7 @@ def objective(trial, training_data):
         validation_data=val_gen,
         epochs=epochs,
         callbacks=callbacks,
-        validation_freq=3,
+        validation_freq=1,   # REQUIRED for pruning
         verbose=0
     )
 
@@ -241,24 +264,11 @@ def build_dual_head_model(
     circle_entry = Dense(1, activation="sigmoid", name="circle_entry")(x)
 
     # --- Warmup + Cosine Decay ---
-    warmup_steps = 2000
-    total_steps = 20000
-
-    cosine_decay = tf.keras.optimizers.schedules.CosineDecay(
-        initial_learning_rate=learning_rate,
-        decay_steps=total_steps - warmup_steps,
-        alpha=0.1
+    lr_schedule = WarmupCosine(
+        base_lr=learning_rate,
+        warmup_steps=2000,
+        total_steps=20000
     )
-
-    def lr_with_warmup(step):
-        step = tf.cast(step, tf.float32)
-        return tf.cond(
-            step < warmup_steps,
-            lambda: learning_rate * (step / warmup_steps),
-            lambda: cosine_decay(step - warmup_steps)
-        )
-
-    lr_schedule = lr_with_warmup
 
     model = Model(inputs, [goal_prob, xg, penalty_corner, penalty_stroke, circle_entry])
 
