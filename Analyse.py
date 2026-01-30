@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-from tqdm import tqdm
 import time
 from wakepy import keep
 import tensorflow as tf
