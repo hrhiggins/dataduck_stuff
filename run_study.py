@@ -30,8 +30,6 @@ def objective(trial, training_data):
     xg_weight = trial.suggest_float("xg_weight", 0.1, 0.6)
     xg_activation = trial.suggest_categorical("xg_activation", ["sigmoid", "linear"])
 
-    use_second_block = trial.suggest_categorical("use_second_block", [True, False])
-
     pos_dim = trial.suggest_int("pos_dim", 8, 64)
 
     optimizer_name = trial.suggest_categorical("optimizer", ["adam"])
@@ -40,8 +38,8 @@ def objective(trial, training_data):
 
     batch_size = trial.suggest_categorical("batch_size", [256, 512])
     epochs = trial.suggest_int("epochs", 8, 14)
-    penalty_stroke_weight = trial.suggest_float("penalty_corner_weight", 0.5, 2.0)
-    penalty_corner_weight = trial.suggest_float("penalty_stroke_weight", 0.2, 0.8)
+    penalty_corner_weight = trial.suggest_float("penalty_corner_weight", 0.2, 0.8)
+    penalty_stroke_weight = trial.suggest_float("penalty_stroke_weight", 0.5, 2.0)
     circle_entry_weight = trial.suggest_float("circle_entry_weight", 0.05, 0.3)
 
     # --- Windowing ---
@@ -95,7 +93,6 @@ def objective(trial, training_data):
         pooling=pooling,
         xg_weight=xg_weight,
         xg_activation=xg_activation,
-        use_second_block=use_second_block,
         pos_dim=pos_dim,
         penalty_corner_weight=penalty_corner_weight,
         penalty_stroke_weight=penalty_stroke_weight,
@@ -111,7 +108,8 @@ def objective(trial, training_data):
         validation_data=val_gen,
         epochs=epochs,
         callbacks=callbacks,
-        validation_freq=3
+        validation_freq=3,
+        verbose=0
     )
 
     final_mse = history.history["val_xg_mse"][-1]
@@ -165,7 +163,6 @@ def build_dual_head_model(
     pooling,
     xg_weight,
     xg_activation,
-    use_second_block,
     pos_dim,
     penalty_corner_weight,
     penalty_stroke_weight,
@@ -194,16 +191,15 @@ def build_dual_head_model(
         ff_activation=ff_activation
     )
 
-    # Optional second block
-    if use_second_block:
-        x = transformer_encoder(
-            x,
-            num_heads=num_heads,
-            ff_dim=ff_dim,
-            key_dim=key_dim,
-            dropout=dropout1,
-            ff_activation=ff_activation
-        )
+    # Transformer block 2 (always on)
+    x = transformer_encoder(
+        x,
+        num_heads=num_heads,
+        ff_dim=ff_dim,
+        key_dim=key_dim,
+        dropout=dropout1,
+        ff_activation=ff_activation
+    )
 
     # Pooling
     if pooling == "avg":
