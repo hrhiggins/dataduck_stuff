@@ -12,7 +12,6 @@ import gc
 from windowing import WindowGenerator
 
 
-# --- Warmup + Cosine LR Schedule ---
 class WarmupCosine(tf.keras.optimizers.schedules.LearningRateSchedule):
     def __init__(self, base_lr, warmup_steps=2000, total_steps=20000):
         super().__init__()
@@ -32,6 +31,13 @@ class WarmupCosine(tf.keras.optimizers.schedules.LearningRateSchedule):
             lambda: self.base_lr * (step / self.warmup_steps),
             lambda: self.cosine(step - self.warmup_steps)
         )
+
+    def get_config(self):
+        return {
+            "base_lr": self.base_lr,
+            "warmup_steps": self.warmup_steps,
+            "total_steps": self.total_steps,
+        }
 
 
 def objective(trial, training_data):
