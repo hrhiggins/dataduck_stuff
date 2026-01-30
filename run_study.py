@@ -32,6 +32,7 @@ class WindowGenerator(tf.keras.utils.Sequence):
         ce_col="circle_entry_event",
         game_col="game_id"
     ):
+        super().__init__()
 
         self.window = window
         self.horizon = horizon
