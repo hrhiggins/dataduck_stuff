@@ -16,7 +16,7 @@ import tensorflow as tf
 import gc
 
 
-def objective(trial, training_data):
+def objective(trial, X, y_goal, y_xg, game_ids):
     tf.keras.backend.clear_session()
 
     # Model type
@@ -26,9 +26,6 @@ def objective(trial, training_data):
     ff_dim = trial.suggest_int("ff_dim", 64, 128)
     dropout1 = trial.suggest_float("dropout1", 0.0, 0.2)
     dropout2 = trial.suggest_float("dropout2", 0.0, 0.2)
-    # Window + horizon
-    window_time = trial.suggest_int("window_time", 10, 30)
-    horizon_time = trial.suggest_int("horizon_time", 2, 5)
 
     # Dense layer
     dense_units = trial.suggest_int("dense_units", 16, 48)
@@ -42,14 +39,6 @@ def objective(trial, training_data):
     # Training params
     batch_size = trial.suggest_categorical("batch_size", [32, 64])
     epochs = trial.suggest_int("epochs", 10, 30)
-
-    # Build windows
-    X, y_goal, y_xg, game_ids = build_xg_windows(
-        df=training_data,
-        window_seconds=window_time,
-        step_seconds=0.5,
-        horizon_seconds=horizon_time
-    )
 
     # Split by game_id
     unique_games = np.unique(game_ids)
@@ -100,56 +89,14 @@ def objective(trial, training_data):
         model_name = f"best_model"
         model.save(f"temp/optuna/temp/trial_saves/{model_name}.keras")
         trial.set_user_attr("model_name", model_name)
-    del model, history, X_train, X_val, y_goal_train, y_goal_val, y_xg_train, y_xg_val
+
+    del model, history
     gc.collect()
+    tf.keras.backend.clear_session()
 
     return rmse
 
 
-def build_xg_windows(
-    df,
-    window_seconds,
-    step_seconds,
-    horizon_seconds,
-    feature_col="features",
-    goal_col="goal_event",
-    game_col="game_id"
-):
-    window = int(window_seconds / step_seconds)
-    horizon = int(horizon_seconds / step_seconds)
-
-    X, y_goal, y_xg, game_ids = [], [], [], []
-
-    lengths = df[feature_col].apply(lambda x: x.shape[0])
-    if lengths.nunique() != 1:
-        raise ValueError(f"Inconsistent feature vector lengths:\n{lengths.value_counts()}")
-
-    feature_dim = lengths.iloc[0]
-
-    for game_id, game_df in df.groupby(game_col):
-        features = game_df[feature_col].tolist()
-        goals = game_df[goal_col].tolist()
-        num_steps = len(features)
-
-        for i in range(num_steps - window - horizon):
-            window_feats = features[i:i + window]
-
-            if any(f.shape[0] != feature_dim for f in window_feats):
-                continue
-
-            X.append(np.stack(window_feats))
-            future = goals[i + window : i + window + horizon]
-
-            y_goal.append(1 if any(future) else 0)
-            y_xg.append(sum(future))
-            game_ids.append(game_id)
-
-    return (
-        np.array(X, dtype=np.float32),
-        np.array(y_goal, dtype=np.float32),
-        np.array(y_xg, dtype=np.float32),
-        np.array(game_ids)
-    )
 
 
 def transformer_encoder(x, num_heads, ff_dim, dropout):
