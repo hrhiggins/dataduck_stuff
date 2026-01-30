@@ -16,9 +16,10 @@ from wakepy import keep
 from keras.models import load_model
 import shutil
 from run_study import objective
+import tensorflow as tf
 
 # If running on linux turn on:
-# mp.set_start_method("spawn", force=True)
+mp.set_start_method("spawn", force=True)
 
 
 
@@ -57,6 +58,15 @@ def get_team_id(team_name):
         next_team_id += 1
 
     return teams_dict[team_name]
+
+
+def get_tf_device():
+    gpus = tf.config.list_logical_devices("GPU")
+    if gpus:
+        return "/GPU:0"
+    else:
+        return "/CPU:0"
+
 
 
 def codes_to_vector(code_list):
@@ -199,14 +209,14 @@ def convert_to_time_series(df, sample_rate):
 
 # https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/004_distributed.html
 # https://optuna.readthedocs.io/en/stable/faq.html#id2
-def run_study(time_snapshot, training_data, number_of_trials, number_of_processes):
+def run_study(device, time_snapshot, training_data, number_of_trials, number_of_processes):
     study = optuna.create_study(directions=["minimize"], study_name="expected_goals",
                                 storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")),
                                 load_if_exists=True,
                                 pruner=optuna.pruners.HyperbandPruner(min_resource=5, max_resource="auto",
                                                                       reduction_factor=4))
-
-    study.optimize(lambda trial: objective(trial, training_data), n_trials=(number_of_trials//number_of_processes))
+    with device:
+        study.optimize(lambda trial: objective(trial, training_data), n_trials=(number_of_trials//number_of_processes))
     return study
 
 def new_temp_dirs():
@@ -228,6 +238,9 @@ def main():
 
     game_dfs = []
 
+    device = get_tf_device()
+    print("Using device:", device)
+
     for game_id, file in enumerate(list_of_files):
         file_df = pd.read_xml(file, xpath=".//instance")
         df = preprocess_data(file_df)
@@ -243,14 +256,14 @@ def main():
     number_of_trials = 32
     number_of_processes = 8
 
-    arguments = [(time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
-                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
-                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
-                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
-                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
-                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
-                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
-                 (time_snapshot, training_data.copy(), number_of_trials, number_of_processes)]
+    arguments = [(device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes),
+                 (device, time_snapshot, training_data.copy(), number_of_trials, number_of_processes)]
 
     with Pool(processes=number_of_processes) as pool:
         pool.starmap(run_study, arguments)
