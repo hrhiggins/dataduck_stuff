@@ -3,18 +3,27 @@ import tensorflow as tf
 import random
 
 class WindowGenerator(tf.keras.utils.Sequence):
-    def __init__(self, df, window, horizon, step, batch_size,
-                 feature_col="features",
-                 goal_col="goal_event",
-                 pc_col="penalty_corner_event",
-                 ps_col="penalty_stroke_event",
-                 ce_col="circle_entry_event",
-                 game_col="game_id"):
+    def __init__(
+        self,
+        df,
+        window,
+        horizon,
+        step,
+        batch_size,
+        global_len=120,                 # <--- NEW: length of global sequence
+        feature_col="features",
+        goal_col="goal_event",
+        pc_col="penalty_corner_event",
+        ps_col="penalty_stroke_event",
+        ce_col="circle_entry_event",
+        game_col="game_id"
+    ):
 
         self.window = window
         self.horizon = horizon
         self.step = step
         self.batch_size = batch_size
+        self.global_len = global_len
 
         # Store per-game arrays
         self.games = {}
@@ -25,13 +34,25 @@ class WindowGenerator(tf.keras.utils.Sequence):
             pss = game_df[ps_col].to_numpy(dtype=np.float32)
             ces = game_df[ce_col].to_numpy(dtype=np.float32)
 
-            self.games[game_id] = (features, goals, pcs, pss, ces)
+            # Precompute global sequence (downsampled)
+            T = len(features)
+            idx = np.linspace(0, T - 1, self.global_len).astype(int)
+            global_features = features[idx]
+
+            self.games[game_id] = (
+                features,
+                goals,
+                pcs,
+                pss,
+                ces,
+                global_features,     # <--- store global sequence
+            )
 
         # Precompute all window start positions
         self.index_game = []
         self.index_start = []
 
-        for game_id, (features, goals, pcs, pss, ces) in self.games.items():
+        for game_id, (features, goals, pcs, pss, ces, global_features) in self.games.items():
             T = len(features)
             max_start = T - window - horizon
             if max_start <= 0:
@@ -61,7 +82,9 @@ class WindowGenerator(tf.keras.utils.Sequence):
         game_ids = self.index_game[batch_ids]
         starts = self.index_start[batch_ids]
 
-        X_batch = []
+        local_batch = []
+        global_batch = []
+
         y_goal = []
         y_xg = []
         y_pc = []
@@ -69,30 +92,31 @@ class WindowGenerator(tf.keras.utils.Sequence):
         y_ce = []
 
         unique_games = np.unique(game_ids)
+
         for g in unique_games:
             mask = (game_ids == g)
             starts_g = starts[mask]
 
-            features, goals, pcs, pss, ces = self.games[g]
+            features, goals, pcs, pss, ces, global_features = self.games[g]
 
-            # Window slices
-            X_g = features[
+            # Local window slices
+            X_local = features[
                 starts_g[:, None] + np.arange(self.window)[None, :]
             ]
+
+            # Global sequence (same for all samples from this game)
+            X_global = np.repeat(global_features[None, :, :], len(starts_g), axis=0)
 
             # Future slices
             future_g = goals[
                 starts_g[:, None] + self.window + np.arange(self.horizon)[None, :]
             ]
-
             future_pc = pcs[
                 starts_g[:, None] + self.window + np.arange(self.horizon)[None, :]
             ]
-
             future_ps = pss[
                 starts_g[:, None] + self.window + np.arange(self.horizon)[None, :]
             ]
-
             future_ce = ces[
                 starts_g[:, None] + self.window + np.arange(self.horizon)[None, :]
             ]
@@ -104,10 +128,13 @@ class WindowGenerator(tf.keras.utils.Sequence):
             y_ps.append((future_ps.sum(axis=1) > 0).astype(np.float32))
             y_ce.append((future_ce.sum(axis=1) > 0).astype(np.float32))
 
-            X_batch.append(X_g)
+            local_batch.append(X_local)
+            global_batch.append(X_global)
 
         # Concatenate across games
-        X_batch = np.concatenate(X_batch, axis=0)
+        local_batch = np.concatenate(local_batch, axis=0)
+        global_batch = np.concatenate(global_batch, axis=0)
+
         y_goal = np.concatenate(y_goal, axis=0)
         y_xg = np.concatenate(y_xg, axis=0)
         y_pc = np.concatenate(y_pc, axis=0)
@@ -115,7 +142,7 @@ class WindowGenerator(tf.keras.utils.Sequence):
         y_ce = np.concatenate(y_ce, axis=0)
 
         return (
-            X_batch,
+            [local_batch, global_batch],   # <--- dual-stream input
             {
                 "goal_prob": y_goal,
                 "xg": y_xg,

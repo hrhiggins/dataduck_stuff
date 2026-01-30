@@ -3,7 +3,7 @@ from keras.optimizers import Adam, RMSprop
 from sklearn.model_selection import train_test_split
 from keras.layers import (
     Input, Dense, LayerNormalization, Dropout,
-    MultiHeadAttention, Add, Embedding
+    MultiHeadAttention, Add, Embedding, GlobalAveragePooling1D, GlobalMaxPooling1D, Concatenate
 )
 from keras.models import Model
 import tensorflow as tf
@@ -12,6 +12,7 @@ import gc
 from windowing import WindowGenerator
 
 
+# --- Warmup + Cosine LR Schedule ---
 class WarmupCosine(tf.keras.optimizers.schedules.LearningRateSchedule):
     def __init__(self, base_lr, warmup_steps=2000, total_steps=20000):
         super().__init__()
@@ -104,14 +105,23 @@ def objective(trial, training_data):
         batch_size=batch_size
     )
 
-    # Feature dimension
-    first_game_id = next(iter(train_gen.games))
-    feature_dim = train_gen.games[first_game_id][0].shape[1]
+    # --- Infer feature dims from generator ---
+    # Assumes WindowGenerator yields ([local_seq, global_seq], targets)
+    first_batch = next(iter(train_gen))
+    (local_example, global_example), _ = first_batch
+
+    local_seq_len = local_example.shape[1]
+    local_feature_dim = local_example.shape[2]
+
+    global_seq_len = global_example.shape[1]
+    global_feature_dim = global_example.shape[2]
 
     # --- Build model ---
-    model = build_dual_head_model(
-        sequence_length=window,
-        feature_dim=feature_dim,
+    model = build_dual_stream_model(
+        local_sequence_length=local_seq_len,
+        local_feature_dim=local_feature_dim,
+        global_sequence_length=global_seq_len,
+        global_feature_dim=global_feature_dim,
         dropout1=dropout1,
         dense_units=dense_units,
         activation=activation,
@@ -139,7 +149,7 @@ def objective(trial, training_data):
         validation_data=val_gen,
         epochs=epochs,
         callbacks=callbacks,
-        validation_freq=1,   # REQUIRED for pruning
+        validation_freq=1,
         verbose=0
     )
 
@@ -182,10 +192,12 @@ def transformer_encoder(x, num_heads, ff_dim, key_dim, dropout, ff_activation):
     return x
 
 
-# --- Full Model ---
-def build_dual_head_model(
-    sequence_length,
-    feature_dim,
+# --- Dual-stream (local + global) Model ---
+def build_dual_stream_model(
+    local_sequence_length,
+    local_feature_dim,
+    global_sequence_length,
+    global_feature_dim,
     dropout1,
     dense_units,
     activation,
@@ -203,44 +215,42 @@ def build_dual_head_model(
     penalty_stroke_weight,
     circle_entry_weight
 ):
-    inputs = Input(shape=(sequence_length, feature_dim))
+    # --- Local stream input ---
+    local_inputs = Input(shape=(local_sequence_length, local_feature_dim), name="local_input")
 
-    # Positional encoding
-    pos_encoding = Embedding(
-        input_dim=sequence_length,
+    # Local positional encoding
+    local_pos_encoding = Embedding(
+        input_dim=local_sequence_length,
         output_dim=pos_dim
-    )(tf.range(sequence_length))
+    )(tf.range(local_sequence_length))
+    local_pos_encoding = Dense(local_feature_dim)(local_pos_encoding)
+    local_pos_encoding = tf.expand_dims(local_pos_encoding, axis=0)
 
-    pos_encoding = Dense(feature_dim)(pos_encoding)
-    pos_encoding = tf.expand_dims(pos_encoding, axis=0)
+    local_x = local_inputs + local_pos_encoding
 
-    x = inputs + pos_encoding
-
-    # Block 1
-    x = transformer_encoder(
-        x,
+    # Local transformer blocks
+    local_x = transformer_encoder(
+        local_x,
         num_heads=num_heads,
         ff_dim=ff_dim,
         key_dim=key_dim,
         dropout=dropout1,
         ff_activation=ff_activation
     )
-    x = Dropout(dropout1)(x)
+    local_x = Dropout(dropout1)(local_x)
 
-    # Block 2
-    x = transformer_encoder(
-        x,
+    local_x = transformer_encoder(
+        local_x,
         num_heads=num_heads,
         ff_dim=ff_dim,
         key_dim=key_dim,
         dropout=dropout1,
         ff_activation=ff_activation
     )
-    x = Dropout(dropout1)(x)
+    local_x = Dropout(dropout1)(local_x)
 
-    # Block 3
-    x = transformer_encoder(
-        x,
+    local_x = transformer_encoder(
+        local_x,
         num_heads=num_heads,
         ff_dim=ff_dim,
         key_dim=key_dim,
@@ -248,19 +258,69 @@ def build_dual_head_model(
         ff_activation=ff_activation
     )
 
-    # Pooling
     if pooling == "avg":
-        x = tf.keras.layers.GlobalAveragePooling1D()(x)
+        local_repr = GlobalAveragePooling1D()(local_x)
     else:
-        x = tf.keras.layers.GlobalMaxPooling1D()(x)
+        local_repr = GlobalMaxPooling1D()(local_x)
 
-    # Shared dense layer
-    x = Dense(dense_units, activation=activation)(x)
+    # --- Global stream input ---
+    global_inputs = Input(shape=(global_sequence_length, global_feature_dim), name="global_input")
+
+    # Global positional encoding
+    global_pos_encoding = Embedding(
+        input_dim=global_sequence_length,
+        output_dim=pos_dim
+    )(tf.range(global_sequence_length))
+    global_pos_encoding = Dense(global_feature_dim)(global_pos_encoding)
+    global_pos_encoding = tf.expand_dims(global_pos_encoding, axis=0)
+
+    global_x = global_inputs + global_pos_encoding
+
+    # Global transformer blocks (can share hyperparams, separate stream)
+    global_x = transformer_encoder(
+        global_x,
+        num_heads=num_heads,
+        ff_dim=ff_dim,
+        key_dim=key_dim,
+        dropout=dropout1,
+        ff_activation=ff_activation
+    )
+    global_x = Dropout(dropout1)(global_x)
+
+    global_x = transformer_encoder(
+        global_x,
+        num_heads=num_heads,
+        ff_dim=ff_dim,
+        key_dim=key_dim,
+        dropout=dropout1,
+        ff_activation=ff_activation
+    )
+    global_x = Dropout(dropout1)(global_x)
+
+    global_x = transformer_encoder(
+        global_x,
+        num_heads=num_heads,
+        ff_dim=ff_dim,
+        key_dim=key_dim,
+        dropout=dropout1,
+        ff_activation=ff_activation
+    )
+
+    if pooling == "avg":
+        global_repr = GlobalAveragePooling1D()(global_x)
+    else:
+        global_repr = GlobalMaxPooling1D()(global_x)
+
+    # --- Fusion of local + global ---
+    fused = Concatenate(name="fusion")([local_repr, global_repr])
+
+    # Shared dense layer on fused representation
+    x = Dense(dense_units, activation=activation)(fused)
 
     # Goal probability head
     goal_prob = Dense(1, activation="sigmoid", name="goal_prob")(x)
 
-    # xG head (linear tuning)
+    # xG head
     xg_hidden = Dense(16, activation="gelu")(x)
     xg = Dense(1, activation=xg_activation, name="xg")(xg_hidden)
 
@@ -276,7 +336,10 @@ def build_dual_head_model(
         total_steps=20000
     )
 
-    model = Model(inputs, [goal_prob, xg, penalty_corner, penalty_stroke, circle_entry])
+    model = Model(
+        inputs=[local_inputs, global_inputs],
+        outputs=[goal_prob, xg, penalty_corner, penalty_stroke, circle_entry]
+    )
 
     model.compile(
         optimizer=optimizer_type(learning_rate=lr_schedule),
