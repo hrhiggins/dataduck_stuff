@@ -178,7 +178,7 @@ def build_dual_head_model(
 
     # Outputs
     goal_prob = Dense(1, activation="sigmoid", name="goal_prob")(x)
-    xg = Dense(1, activation="linear", name="xg")(x)
+    xg = Dense(1, activation="sigmoid", name="xg")(x)
 
     model = Model(inputs, [goal_prob, xg])
 
@@ -187,6 +187,10 @@ def build_dual_head_model(
         loss={
             "goal_prob": "binary_crossentropy",
             "xg": "mse"
+        },
+        loss_weights={
+            "goal_prob": 1.0,
+            "xg": 0.3
         },
         metrics={
             "xg": ["mse"]
