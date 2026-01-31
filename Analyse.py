@@ -149,7 +149,7 @@ def main():
 
     # Load the FULL model (.keras)
     model = tf.keras.models.load_model(
-        "temp/optuna/temp/trial_saves/best_model.keras",
+        "temp/best_model.keras",
         custom_objects={"WarmupCosine": WarmupCosine},
     )
 
