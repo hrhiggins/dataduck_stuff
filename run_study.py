@@ -279,7 +279,7 @@ def objective(trial, training_data):
     # Save best model (weights only to avoid LR schedule serialization issues)
     if trial.number == 0 or rmse < trial.study.best_value:
         model_name = "best_model"
-        model.save_weights(f"temp/{model_name}.keras")
+        model.save(f"temp/{model_name}.keras")
         trial.set_user_attr("model_name", model_name)
 
     del model, history, train_gen, val_gen
