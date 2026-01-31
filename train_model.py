@@ -14,7 +14,6 @@ from optuna.storages.journal import JournalFileBackend
 import time
 import numpy as np
 from wakepy import keep
-from keras.models import load_model
 import shutil
 from run_study import objective
 import tensorflow as tf
@@ -24,11 +23,10 @@ import tensorflow as tf
 from tensorflow.keras import mixed_precision
 mixed_precision.set_global_policy("mixed_float16")
 
+
 import warnings
 #warnings.filterwarnings("ignore", category=UserWarning)
 #warnings.filterwarnings("ignore", category=FutureWarning)
-
-
 
 codes_dict = {"ball_loss_1" : 1, "ball_loss_2" : 2, "ball_loss_3" : 3, "ball_loss_4" : 4, "ball_win_0" : 5,
               "ball_win_1" : 6, "ball_win_2" : 7, "ball_win_3" : 8, "ball_win_4" : 9, "ball_win_5" : 10,
@@ -315,16 +313,6 @@ def main():
     else:
         number_of_processes = 1
         run_study(device, time_snapshot, number_of_trials, number_of_processes, training_data.copy())
-
-    # Access the data of the completed study
-    completed_study = optuna.load_study(study_name="expected_goals", storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")))
-    best_trial = completed_study.best_trial
-    best_parameters = best_trial.params
-    print(f"Best trial was trial {completed_study.best_trial.number} with RMSE: {completed_study.best_value}")
-    best_model_name = completed_study.best_trial.user_attrs.get("model_name")
-    best_model = load_model(f"temp/optuna/temp/trial_saves/{best_model_name}.keras")
-    print(f"temp/optuna/temp/trial_saves/{best_model_name}.keras")
-    return best_model
 
 
 if __name__ == "__main__":

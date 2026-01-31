@@ -1,7 +1,3 @@
-
-# ============================================================
-# WindowGenerator: local + global inputs
-# ============================================================
 import numpy as np
 import tensorflow as tf
 
@@ -167,10 +163,6 @@ class WindowGenerator(tf.keras.utils.Sequence):
     def on_epoch_end(self):
         np.random.shuffle(self.order)
 
-
-# ============================================================
-# Warmup + Cosine LR schedule
-# ============================================================
 
 class WarmupCosine(tf.keras.optimizers.schedules.LearningRateSchedule):
     def __init__(self, base_lr, warmup_steps=2000, total_steps=20000):

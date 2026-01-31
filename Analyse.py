@@ -12,8 +12,9 @@ from train_model import (
     preprocess_data,
     codes_dict,
     NUM_CODES,
-    get_team_id
 )
+from windowing import WarmupCosine
+
 
 def add_team_context(df, teams_present, num_teams, num_codes):
     block_size = num_teams + num_codes
@@ -27,14 +28,11 @@ def add_team_context(df, teams_present, num_teams, num_codes):
 
         for i, team in enumerate(teams_present):
             start = i * block_size
-            team_onehot = vec[start : start + num_teams]
             event_vec = vec[start + num_teams : start + block_size]
 
-            # If this team has any event at this timestep
             if event_vec.sum() > 0:
                 active = team
 
-            # If this team scored
             goal_index = codes_dict["goal"] - 1
             if goal_flag == 1 and event_vec[goal_index] == 1:
                 scorer = team
@@ -47,9 +45,12 @@ def add_team_context(df, teams_present, num_teams, num_codes):
     return df
 
 
-
 def assign_defending_team(df, teams_present):
     df = df.copy()
+    if len(teams_present) != 2:
+        df["defending_team"] = None
+        return df
+
     teamA, teamB = teams_present
 
     def get_defender(active):
@@ -62,48 +63,72 @@ def assign_defending_team(df, teams_present):
     df["defending_team"] = df["active_team"].apply(get_defender)
     return df
 
-def run_sliding_inference(model, df, window_seconds, step_seconds):
+
+def run_sliding_inference(model, df, window_seconds, step_seconds, global_len=120):
     seq_len = int(window_seconds / step_seconds)
     feature_dim = len(df["features"].iloc[0])
 
+    # Build global sequence once per game
+    T = len(df)
+    idx = np.linspace(0, T - 1, global_len).astype(int)
+    global_features = np.array([df["features"].iloc[i] for i in idx], dtype=np.float32)
+    X_global = global_features.reshape(1, global_len, feature_dim)
+
     results = []
 
-    for idx in range(len(df)):
-        if idx < seq_len:
+    for t in range(len(df)):
+        if t < seq_len:
             continue
 
-        window = df["features"].iloc[idx-seq_len:idx].tolist()
-        X = np.array(window, dtype=np.float32).reshape(1, seq_len, feature_dim)
+        window = df["features"].iloc[t - seq_len : t].tolist()
+        X_local = np.array(window, dtype=np.float32).reshape(1, seq_len, feature_dim)
 
-        goal_prob, xg = model.predict(X, verbose=0)
+        preds = model.predict(
+            {
+                "local_input": X_local,
+                "global_input": X_global,
+            },
+            verbose=0,
+        )
 
-        row = df.iloc[idx].copy()
-        row["pred_goal_prob"] = float(goal_prob[0][0])
-        row["pred_xg"] = float(xg[0][0])
+        goal_prob = preds[0][0][0]
+        xg = preds[1][0][0]
+
+        row = df.iloc[t].copy()
+        row["pred_goal_prob"] = float(goal_prob)
+        row["pred_xg"] = float(xg)
         results.append(row)
 
     return pd.DataFrame(results)
 
+
 def compute_attacking_profile(df, team):
     df_team = df[df.active_team == team]
+    if len(df_team) == 0:
+        return {"avg_danger": None, "avg_xg": None, "danger_after_scoring": None, "num_samples": 0}
 
     return {
-        "avg_danger": df_team.pred_goal_prob.mean(),
-        "avg_xg": df_team.pred_xg.mean(),
-        "danger_after_scoring": df_team[df_team.goal_team == team].pred_goal_prob.mean(),
-        "num_samples": len(df_team)
+        "avg_danger": float(df_team.pred_goal_prob.mean()),
+        "avg_xg": float(df_team.pred_xg.mean()),
+        "danger_after_scoring": float(df_team[df_team.goal_team == team].pred_goal_prob.mean())
+            if (df_team.goal_team == team).any() else None,
+        "num_samples": int(len(df_team)),
     }
 
 
 def compute_defensive_profile(df, team):
     df_team = df[df.defending_team == team]
+    if len(df_team) == 0:
+        return {"avg_danger_conceded": None, "avg_xg_conceded": None,
+                "danger_conceded_after_opponent_goal": None, "num_samples": 0}
 
     return {
-        "avg_danger_conceded": df_team.pred_goal_prob.mean(),
-        "avg_xg_conceded": df_team.pred_xg.mean(),
-        "danger_conceded_after_opponent_goal":
-            df_team[df_team.goal_team.notna()].pred_goal_prob.mean(),
-        "num_samples": len(df_team)
+        "avg_danger_conceded": float(df_team.pred_goal_prob.mean()),
+        "avg_xg_conceded": float(df_team.pred_xg.mean()),
+        "danger_conceded_after_opponent_goal": float(
+            df_team[df_team.goal_team.notna()].pred_goal_prob.mean()
+        ) if df_team.goal_team.notna().any() else None,
+        "num_samples": int(len(df_team)),
     }
 
 
@@ -122,7 +147,11 @@ def main():
     samples = 1
     list_of_files = import_data_from_file()
 
-    model = tf.keras.models.load_model("temp/optuna/temp/trial_saves/best_model.keras")
+    # Load the FULL model (.keras)
+    model = tf.keras.models.load_model(
+        "temp/optuna/temp/trial_saves/best_model.keras",
+        custom_objects={"WarmupCosine": WarmupCosine},
+    )
 
     all_predictions = []
     all_teams = set()
@@ -135,14 +164,9 @@ def main():
         file_df = pd.read_xml(file, xpath=".//instance")
         events_df = preprocess_data(file_df)
 
-        # teams_present must come from the event-level dataframe
         teams_present = sorted(events_df["team"].unique())
-        if len(teams_present) != 2:
-            print(f"Warning: game {game_id} has {len(teams_present)} teams, expected 2")
-
         all_teams.update(teams_present)
 
-        # now convert to time series
         df = convert_to_time_series(events_df, samples)
 
         num_teams = len(teams_present)
@@ -155,7 +179,7 @@ def main():
             model=model,
             df=df,
             window_seconds=40,
-            step_seconds=1.0
+            step_seconds=1.0,
         )
 
         pred_df["game_id"] = game_id
@@ -180,9 +204,10 @@ def main():
     print("Profiles saved in profiles/ directory")
     print("Done.")
 
+
 if __name__ == "__main__":
-   with keep.running():
-       start = time.time()
-       main()
-       end = time.time()
-       print(f"The program took {end - start} seconds to run")
+    with keep.running():
+        start = time.time()
+        main()
+        end = time.time()
+        print(f"The program took {end - start} seconds to run")
