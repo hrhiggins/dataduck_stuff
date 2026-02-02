@@ -12,6 +12,7 @@ from train_model import (
     preprocess_data,
     codes_dict,
     NUM_CODES,
+    UncertaintyWeights,   # custom layer used in the model
 )
 from windowing import WarmupCosine
 
@@ -30,9 +31,11 @@ def add_team_context(df, teams_present, num_teams, num_codes):
             start = i * block_size
             event_vec = vec[start + num_teams : start + block_size]
 
+            # Any event for this team at this timestep
             if event_vec.sum() > 0:
                 active = team
 
+            # If this team scored
             goal_index = codes_dict["goal"] - 1
             if goal_flag == 1 and event_vec[goal_index] == 1:
                 scorer = team
@@ -64,11 +67,11 @@ def assign_defending_team(df, teams_present):
     return df
 
 
-def run_sliding_inference(model, df, window_seconds, step_seconds, global_len=120):
+def run_sliding_inference(model, df, window_seconds, step_seconds, global_len=80):
     seq_len = int(window_seconds / step_seconds)
     feature_dim = len(df["features"].iloc[0])
 
-    # Build global sequence once per game
+    # Build global sequence once per game (downsampled)
     T = len(df)
     idx = np.linspace(0, T - 1, global_len).astype(int)
     global_features = np.array([df["features"].iloc[i] for i in idx], dtype=np.float32)
@@ -105,13 +108,21 @@ def run_sliding_inference(model, df, window_seconds, step_seconds, global_len=12
 def compute_attacking_profile(df, team):
     df_team = df[df.active_team == team]
     if len(df_team) == 0:
-        return {"avg_danger": None, "avg_xg": None, "danger_after_scoring": None, "num_samples": 0}
+        return {
+            "avg_danger": None,
+            "avg_xg": None,
+            "danger_after_scoring": None,
+            "num_samples": 0,
+        }
 
     return {
         "avg_danger": float(df_team.pred_goal_prob.mean()),
         "avg_xg": float(df_team.pred_xg.mean()),
-        "danger_after_scoring": float(df_team[df_team.goal_team == team].pred_goal_prob.mean())
-            if (df_team.goal_team == team).any() else None,
+        "danger_after_scoring": float(
+            df_team[df_team.goal_team == team].pred_goal_prob.mean()
+        )
+        if (df_team.goal_team == team).any()
+        else None,
         "num_samples": int(len(df_team)),
     }
 
@@ -119,15 +130,21 @@ def compute_attacking_profile(df, team):
 def compute_defensive_profile(df, team):
     df_team = df[df.defending_team == team]
     if len(df_team) == 0:
-        return {"avg_danger_conceded": None, "avg_xg_conceded": None,
-                "danger_conceded_after_opponent_goal": None, "num_samples": 0}
+        return {
+            "avg_danger_conceded": None,
+            "avg_xg_conceded": None,
+            "danger_conceded_after_opponent_goal": None,
+            "num_samples": 0,
+        }
 
     return {
         "avg_danger_conceded": float(df_team.pred_goal_prob.mean()),
         "avg_xg_conceded": float(df_team.pred_xg.mean()),
         "danger_conceded_after_opponent_goal": float(
             df_team[df_team.goal_team.notna()].pred_goal_prob.mean()
-        ) if df_team.goal_team.notna().any() else None,
+        )
+        if df_team.goal_team.notna().any()
+        else None,
         "num_samples": int(len(df_team)),
     }
 
@@ -147,10 +164,13 @@ def main():
     samples = 1
     list_of_files = import_data_from_file()
 
-    # Load the FULL model (.keras)
+    # Load the FULL model (.keras) with custom objects
     model = tf.keras.models.load_model(
-        "temp/best_model.keras",
-        custom_objects={"WarmupCosine": WarmupCosine},
+        "temp/optuna/temp/trial_saves/best_model.keras",
+        custom_objects={
+            "WarmupCosine": WarmupCosine,
+            "UncertaintyWeights": UncertaintyWeights,
+        },
     )
 
     all_predictions = []
@@ -178,8 +198,9 @@ def main():
         pred_df = run_sliding_inference(
             model=model,
             df=df,
-            window_seconds=40,
+            window_seconds=40,   # must match training
             step_seconds=1.0,
+            global_len=80,       # must match training
         )
 
         pred_df["game_id"] = game_id
