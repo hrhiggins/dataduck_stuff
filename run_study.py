@@ -309,6 +309,7 @@ def objective(trial, training_data):
         TFKerasPruningCallback(trial, "val_xg_mse"),
         tf.keras.callbacks.EarlyStopping(
             monitor="val_xg_mse",
+            mode='min',
             patience=3,
             restore_best_weights=True,
             verbose=0
