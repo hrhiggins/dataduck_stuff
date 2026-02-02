@@ -78,8 +78,9 @@ def make_uncertainty_loss(base_loss_fn, log_vars, idx):
     def loss(y_true, y_pred):
         base = base_loss_fn(y_true, y_pred)
         precision = keras.ops.exp(-log_vars[idx])
-        return precision * base + log_vars[idx]
+        return keras.ops.add(precision * base, log_vars[idx])
     return loss
+
 
 
 # ============================================================
