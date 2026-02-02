@@ -15,7 +15,6 @@ from train_model import (
 )
 
 from windowing import WarmupCosine
-from run_study import UncertaintyLoss   # <-- correct import
 
 
 # ============================================================
@@ -36,11 +35,9 @@ def add_team_context(df, teams_present, num_teams, num_codes):
             start = i * block_size
             event_vec = vec[start + num_teams : start + block_size]
 
-            # Any event for this team at this timestep
             if event_vec.sum() > 0:
                 active = team
 
-            # If this team scored
             goal_index = codes_dict["goal"] - 1
             if goal_flag == 1 and event_vec[goal_index] == 1:
                 scorer = team
@@ -80,7 +77,6 @@ def run_sliding_inference(model, df, window_seconds, step_seconds, global_len=80
     seq_len = int(window_seconds / step_seconds)
     feature_dim = len(df["features"].iloc[0])
 
-    # Build global sequence once per game (downsampled)
     T = len(df)
     idx = np.linspace(0, T - 1, global_len).astype(int)
     global_features = np.array([df["features"].iloc[i] for i in idx], dtype=np.float32)
@@ -177,13 +173,11 @@ def main():
     samples = 1
     list_of_files = import_data_from_file()
 
-    # Load model with correct custom objects
+    # Load model WITHOUT compiling — avoids UncertaintyLoss errors
     model = tf.keras.models.load_model(
         "temp/optuna/best_model.keras",
-        custom_objects={
-            "WarmupCosine": WarmupCosine,
-            "UncertaintyLoss": UncertaintyLoss,
-        },
+        custom_objects={"WarmupCosine": WarmupCosine},
+        compile=False,
     )
 
     all_predictions = []
@@ -235,7 +229,7 @@ def main():
     with open("profiles/defensive_profiles.json", "w") as f:
         json.dump(defensive_profiles, f, indent=4)
 
-    print("Profiles saved in profiles/ directory")
+    print("Profiles saved in profiles/")
     print("Done.")
 
 
