@@ -8,6 +8,9 @@ import os
 from run_study import UncertaintyLoss, build_dual_head_model
 from windowing import WindowGenerator, WarmupCosine
 from train_model import preprocess_data, convert_to_time_series
+from optuna.storages.journal import JournalFileBackend
+from optuna.storages import JournalStorage
+
 
 
 # ============================================================
@@ -105,9 +108,10 @@ def main():
     # --------------------------------------------------------
     # Load Optuna study
     # --------------------------------------------------------
+
     study = optuna.load_study(
         study_name="expected_goals",
-        storage="sqlite:///optuna_study.db"
+        storage=JournalStorage(JournalFileBackend("temp/optuna/journals/journal_optuna_search_trial.log")),
     )
 
     best = study.best_trial.params
