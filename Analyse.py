@@ -13,8 +13,14 @@ from train_model import (
     codes_dict,
     NUM_CODES,
 )
-from windowing import WarmupCosine
 
+from windowing import WarmupCosine
+from run_study import UncertaintyLoss   # <-- correct import
+
+
+# ============================================================
+# Team context extraction
+# ============================================================
 
 def add_team_context(df, teams_present, num_teams, num_codes):
     block_size = num_teams + num_codes
@@ -66,11 +72,15 @@ def assign_defending_team(df, teams_present):
     return df
 
 
+# ============================================================
+# Sliding inference
+# ============================================================
+
 def run_sliding_inference(model, df, window_seconds, step_seconds, global_len=80):
     seq_len = int(window_seconds / step_seconds)
     feature_dim = len(df["features"].iloc[0])
 
-    # Global sequence once per game (downsampled)
+    # Build global sequence once per game (downsampled)
     T = len(df)
     idx = np.linspace(0, T - 1, global_len).astype(int)
     global_features = np.array([df["features"].iloc[i] for i in idx], dtype=np.float32)
@@ -104,6 +114,10 @@ def run_sliding_inference(model, df, window_seconds, step_seconds, global_len=80
     return pd.DataFrame(results)
 
 
+# ============================================================
+# Team profiles
+# ============================================================
+
 def compute_attacking_profile(df, team):
     df_team = df[df.active_team == team]
     if len(df_team) == 0:
@@ -119,9 +133,7 @@ def compute_attacking_profile(df, team):
         "avg_xg": float(df_team.pred_xg.mean()),
         "danger_after_scoring": float(
             df_team[df_team.goal_team == team].pred_goal_prob.mean()
-        )
-        if (df_team.goal_team == team).any()
-        else None,
+        ) if (df_team.goal_team == team).any() else None,
         "num_samples": int(len(df_team)),
     }
 
@@ -141,9 +153,7 @@ def compute_defensive_profile(df, team):
         "avg_xg_conceded": float(df_team.pred_xg.mean()),
         "danger_conceded_after_opponent_goal": float(
             df_team[df_team.goal_team.notna()].pred_goal_prob.mean()
-        )
-        if df_team.goal_team.notna().any()
-        else None,
+        ) if df_team.goal_team.notna().any() else None,
         "num_samples": int(len(df_team)),
     }
 
@@ -159,15 +169,20 @@ def compute_profiles_for_all_teams(df, all_teams):
     return attacking, defensive
 
 
+# ============================================================
+# Main
+# ============================================================
+
 def main():
     samples = 1
     list_of_files = import_data_from_file()
 
-    # Load the FULL model (.keras) with custom objects
+    # Load model with correct custom objects
     model = tf.keras.models.load_model(
         "temp/optuna/best_model.keras",
         custom_objects={
             "WarmupCosine": WarmupCosine,
+            "UncertaintyLoss": UncertaintyLoss,
         },
     )
 
@@ -196,9 +211,9 @@ def main():
         pred_df = run_sliding_inference(
             model=model,
             df=df,
-            window_seconds=40,   # must match training
+            window_seconds=40,
             step_seconds=1.0,
-            global_len=80,       # must match training
+            global_len=80,
         )
 
         pred_df["game_id"] = game_id

@@ -11,6 +11,7 @@ import tensorflow as tf
 import numpy as np
 import gc
 
+import keras
 from windowing import WindowGenerator, WarmupCosine
 
 
@@ -55,6 +56,7 @@ def cross_attention_block(local_x, global_x, num_heads, key_dim, dropout):
 # Uncertainty-based loss weighting (per-task Loss objects)
 # ============================================================
 
+@keras.saving.register_keras_serializable()
 class UncertaintyLoss(tf.keras.losses.Loss):
     def __init__(self, base_loss_fn, name_prefix, **kwargs):
         super().__init__(**kwargs)
