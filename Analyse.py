@@ -11,10 +11,9 @@ from train_model import (
     convert_to_time_series,
     preprocess_data,
     codes_dict,
-    NUM_CODES
+    NUM_CODES,
 )
 from windowing import WarmupCosine
-from run_study import UncertaintyWeights
 
 
 def add_team_context(df, teams_present, num_teams, num_codes):
@@ -71,7 +70,7 @@ def run_sliding_inference(model, df, window_seconds, step_seconds, global_len=80
     seq_len = int(window_seconds / step_seconds)
     feature_dim = len(df["features"].iloc[0])
 
-    # Build global sequence once per game (downsampled)
+    # Global sequence once per game (downsampled)
     T = len(df)
     idx = np.linspace(0, T - 1, global_len).astype(int)
     global_features = np.array([df["features"].iloc[i] for i in idx], dtype=np.float32)
@@ -169,7 +168,6 @@ def main():
         "temp/optuna/best_model.keras",
         custom_objects={
             "WarmupCosine": WarmupCosine,
-            "UncertaintyWeights": UncertaintyWeights,
         },
     )
 
