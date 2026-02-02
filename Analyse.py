@@ -180,13 +180,21 @@ def main():
         compile=False,
     )
 
-    all_predictions = []
+    os.makedirs("profiles", exist_ok=True)
+    os.makedirs("profiles/checkpoints", exist_ok=True)
+
     all_teams = set()
 
     print("Processing all games...")
 
     for game_id, file in enumerate(list_of_files):
-        print(f"Loading game {game_id}: {file}")
+        checkpoint_path = f"profiles/checkpoints/game_{game_id}.parquet"
+
+        if os.path.exists(checkpoint_path):
+            print(f"Skipping game {game_id} (checkpoint exists)")
+            continue
+
+        print(f"Processing game {game_id}: {file}")
 
         file_df = pd.read_xml(file, xpath=".//instance")
         events_df = preprocess_data(file_df)
@@ -211,17 +219,23 @@ def main():
         )
 
         pred_df["game_id"] = game_id
-        all_predictions.append(pred_df)
 
-    print("Combining all predictions...")
-    df_all = pd.concat(all_predictions, ignore_index=True)
+        pred_df.to_parquet(checkpoint_path)
+        print(f"Saved checkpoint for game {game_id}")
+
+    print("Combining all predictions from checkpoints...")
+
+    checkpoint_files = sorted(os.listdir("profiles/checkpoints"))
+    dfs = [
+        pd.read_parquet(os.path.join("profiles/checkpoints", f))
+        for f in checkpoint_files
+    ]
+    df_all = pd.concat(dfs, ignore_index=True)
 
     print("Computing profiles...")
     attacking_profiles, defensive_profiles = compute_profiles_for_all_teams(
         df_all, sorted(all_teams)
     )
-
-    os.makedirs("profiles", exist_ok=True)
 
     with open("profiles/attacking_profiles.json", "w") as f:
         json.dump(attacking_profiles, f, indent=4)
