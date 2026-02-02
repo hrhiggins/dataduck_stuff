@@ -77,9 +77,17 @@ class UncertaintyWeights(tf.keras.layers.Layer):
 def make_uncertainty_loss(base_loss_fn, log_vars, idx):
     def loss(y_true, y_pred):
         base = base_loss_fn(y_true, y_pred)
-        precision = keras.ops.exp(-log_vars[idx])
-        return keras.ops.add(precision * base, log_vars[idx])
+
+        # Convert log_vars[idx] into a symbolic tensor
+        lv = keras.ops.convert_to_tensor(log_vars[idx])
+
+        precision = keras.ops.exp(-lv)
+
+        # Use keras.ops.add instead of Python '+'
+        return keras.ops.add(precision * base, lv)
+
     return loss
+
 
 
 
@@ -113,7 +121,7 @@ def build_dual_head_model(
         output_dim=pos_dim
     )(tf.range(local_seq_len))
     local_pos = Dense(feature_dim)(local_pos)
-    local_pos = tf.expand_dims(local_pos, axis=0)
+    local_pos = keras.ops.expand_dims(local_pos, axis=0)
     local_x = local_inputs + local_pos
 
     # Global
@@ -122,7 +130,7 @@ def build_dual_head_model(
         output_dim=pos_dim
     )(tf.range(global_seq_len))
     global_pos = Dense(feature_dim)(global_pos)
-    global_pos = tf.expand_dims(global_pos, axis=0)
+    global_pos = keras.ops.expand_dims(global_pos, axis=0)
     global_x = global_inputs + global_pos
 
     # ----- Local transformer blocks (reduced depth for speed) -----
