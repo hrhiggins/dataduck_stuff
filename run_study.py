@@ -4,13 +4,12 @@ from sklearn.model_selection import train_test_split
 from keras.layers import (
     Input, Dense, LayerNormalization, Dropout,
     MultiHeadAttention, Add, Embedding, GlobalAveragePooling1D,
-    GlobalMaxPooling1D, Concatenate, Layer
+    GlobalMaxPooling1D, Concatenate
 )
 from keras.models import Model
 import tensorflow as tf
 import numpy as np
 import gc
-import keras
 
 from windowing import WindowGenerator, WarmupCosine
 
@@ -41,7 +40,6 @@ def transformer_encoder(x, num_heads, ff_dim, key_dim, dropout, ff_activation):
 
 
 def cross_attention_block(local_x, global_x, num_heads, key_dim, dropout):
-    # Local attends to global context
     attn_output = MultiHeadAttention(
         num_heads=num_heads,
         key_dim=key_dim,
@@ -54,41 +52,24 @@ def cross_attention_block(local_x, global_x, num_heads, key_dim, dropout):
 
 
 # ============================================================
-# Uncertainty-based loss weighting
+# Uncertainty-based loss weighting (per-task Loss objects)
 # ============================================================
 
-class UncertaintyWeights(tf.keras.layers.Layer):
-    def __init__(self, num_tasks, **kwargs):
+class UncertaintyLoss(tf.keras.losses.Loss):
+    def __init__(self, base_loss_fn, name_prefix, **kwargs):
         super().__init__(**kwargs)
-        self.num_tasks = num_tasks
-
-    def build(self, input_shape):
-        self.log_vars = self.add_weight(
-            shape=(self.num_tasks,),
-            initializer="zeros",
+        self.base_loss_fn = base_loss_fn
+        self.log_var = tf.Variable(
+            0.0,
             trainable=True,
-            name="log_vars"
+            name=f"{name_prefix}_log_var",
+            dtype=tf.float32,
         )
 
-    def call(self, inputs):
-        return self.log_vars
-
-
-def make_uncertainty_loss(base_loss_fn, log_vars, idx):
-    def loss(y_true, y_pred):
-        base = base_loss_fn(y_true, y_pred)
-
-        # Convert log_vars[idx] into a symbolic tensor
-        lv = keras.ops.convert_to_tensor(log_vars[idx])
-
-        precision = keras.ops.exp(-lv)
-
-        # Use keras.ops.add instead of Python '+'
-        return keras.ops.add(precision * base, lv)
-
-    return loss
-
-
+    def call(self, y_true, y_pred):
+        base = self.base_loss_fn(y_true, y_pred)
+        precision = tf.exp(-self.log_var)
+        return precision * base + self.log_var
 
 
 # ============================================================
@@ -121,7 +102,7 @@ def build_dual_head_model(
         output_dim=pos_dim
     )(tf.range(local_seq_len))
     local_pos = Dense(feature_dim)(local_pos)
-    local_pos = keras.ops.expand_dims(local_pos, axis=0)
+    local_pos = tf.keras.ops.expand_dims(local_pos, axis=0)
     local_x = local_inputs + local_pos
 
     # Global
@@ -130,10 +111,10 @@ def build_dual_head_model(
         output_dim=pos_dim
     )(tf.range(global_seq_len))
     global_pos = Dense(feature_dim)(global_pos)
-    global_pos = keras.ops.expand_dims(global_pos, axis=0)
+    global_pos = tf.keras.ops.expand_dims(global_pos, axis=0)
     global_x = global_inputs + global_pos
 
-    # ----- Local transformer blocks (reduced depth for speed) -----
+    # ----- Local transformer blocks -----
     for _ in range(2):
         local_x = transformer_encoder(
             local_x,
@@ -145,7 +126,7 @@ def build_dual_head_model(
         )
         local_x = Dropout(dropout1)(local_x)
 
-    # ----- Global transformer blocks (reduced depth) -----
+    # ----- Global transformer blocks -----
     for _ in range(2):
         global_x = transformer_encoder(
             global_x,
@@ -177,10 +158,6 @@ def build_dual_head_model(
     # ----- Fusion -----
     fused = Concatenate()([local_pooled, global_pooled])
 
-    # Uncertainty weights (5 tasks)
-    uw_layer = UncertaintyWeights(num_tasks=5)
-    log_vars = uw_layer(fused)
-
     # Shared dense layer
     x = Dense(dense_units, activation=activation)(fused)
 
@@ -201,17 +178,17 @@ def build_dual_head_model(
         outputs=[goal_prob, xg, penalty_corner, penalty_stroke, circle_entry]
     )
 
-    return model, log_vars
+    return model
 
 
 # ============================================================
-# Optuna objective (narrowed search, faster, uncertainty-weighted)
+# Optuna objective
 # ============================================================
 
 def objective(trial, training_data):
     tf.keras.backend.clear_session()
 
-    # --- Hyperparameters (narrowed for speed/stability) ---
+    # --- Hyperparameters ---
     num_heads = trial.suggest_categorical("num_heads", [2, 4])
     key_dim = trial.suggest_int("key_dim", 24, 40)
     ff_dim = trial.suggest_int("ff_dim", 48, 96)
@@ -236,7 +213,7 @@ def objective(trial, training_data):
     batch_size = 256
     epochs = trial.suggest_int("epochs", 8, 16)
 
-    # --- Windowing (shorter for speed) ---
+    # --- Windowing ---
     window_seconds = 40
     horizon_seconds = 12
     step_seconds = 1.0
@@ -244,14 +221,13 @@ def objective(trial, training_data):
     window = int(window_seconds / step_seconds)
     horizon = int(horizon_seconds / step_seconds)
 
-    # --- Train/Val split ---
     unique_games = training_data["game_id"].unique()
     train_games, val_games = train_test_split(unique_games, test_size=0.2, random_state=42)
 
     train_df = training_data[training_data["game_id"].isin(train_games)]
     val_df = training_data[training_data["game_id"].isin(val_games)]
 
-    global_len = 80  # shorter global context for speed
+    global_len = 80
 
     train_gen = WindowGenerator(
         df=train_df,
@@ -275,8 +251,7 @@ def objective(trial, training_data):
     first_game_id = next(iter(train_gen.games))
     feature_dim = train_gen.games[first_game_id][0].shape[1]
 
-    # --- Build model ---
-    model, log_vars = build_dual_head_model(
+    model = build_dual_head_model(
         local_seq_len=window,
         global_seq_len=global_len,
         feature_dim=feature_dim,
@@ -292,7 +267,6 @@ def objective(trial, training_data):
         pos_dim=pos_dim
     )
 
-    # --- Optimizer + LR schedule ---
     lr_schedule = WarmupCosine(
         base_lr=learning_rate,
         warmup_steps=1000,
@@ -300,13 +274,27 @@ def objective(trial, training_data):
     )
     optimizer = optimizer_type(learning_rate=lr_schedule)
 
-    # --- Uncertainty-weighted losses ---
     loss = {
-        "goal_prob": make_uncertainty_loss(tf.keras.losses.binary_crossentropy, log_vars, 0),
-        "xg": make_uncertainty_loss(tf.keras.losses.mse, log_vars, 1),
-        "penalty_corner": make_uncertainty_loss(tf.keras.losses.binary_crossentropy, log_vars, 2),
-        "penalty_stroke": make_uncertainty_loss(tf.keras.losses.binary_crossentropy, log_vars, 3),
-        "circle_entry": make_uncertainty_loss(tf.keras.losses.binary_crossentropy, log_vars, 4),
+        "goal_prob": UncertaintyLoss(
+            tf.keras.losses.BinaryCrossentropy(from_logits=False),
+            name_prefix="goal_prob",
+        ),
+        "xg": UncertaintyLoss(
+            tf.keras.losses.MeanSquaredError(),
+            name_prefix="xg",
+        ),
+        "penalty_corner": UncertaintyLoss(
+            tf.keras.losses.BinaryCrossentropy(from_logits=False),
+            name_prefix="penalty_corner",
+        ),
+        "penalty_stroke": UncertaintyLoss(
+            tf.keras.losses.BinaryCrossentropy(from_logits=False),
+            name_prefix="penalty_stroke",
+        ),
+        "circle_entry": UncertaintyLoss(
+            tf.keras.losses.BinaryCrossentropy(from_logits=False),
+            name_prefix="circle_entry",
+        ),
     }
 
     model.compile(
@@ -339,7 +327,6 @@ def objective(trial, training_data):
     final_mse = history.history["val_xg_mse"][-1]
     rmse = np.sqrt(final_mse)
 
-    # Save best full model (.keras)
     if trial.number == 0 or rmse < trial.study.best_value:
         model_name = "best_model"
         model.save(f"temp/optuna/{model_name}.keras")
