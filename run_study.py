@@ -10,6 +10,7 @@ from keras.models import Model
 import tensorflow as tf
 import numpy as np
 import gc
+import keras
 
 from windowing import WindowGenerator, WarmupCosine
 
@@ -56,7 +57,7 @@ def cross_attention_block(local_x, global_x, num_heads, key_dim, dropout):
 # Uncertainty-based loss weighting
 # ============================================================
 
-class UncertaintyWeights(Layer):
+class UncertaintyWeights(tf.keras.layers.Layer):
     def __init__(self, num_tasks, **kwargs):
         super().__init__(**kwargs)
         self.num_tasks = num_tasks
@@ -70,14 +71,13 @@ class UncertaintyWeights(Layer):
         )
 
     def call(self, inputs):
-        # We don't use the output directly; we just need the trainable weights
         return self.log_vars
 
 
 def make_uncertainty_loss(base_loss_fn, log_vars, idx):
     def loss(y_true, y_pred):
         base = base_loss_fn(y_true, y_pred)
-        precision = tf.exp(-log_vars[idx])
+        precision = keras.ops.exp(-log_vars[idx])
         return precision * base + log_vars[idx]
     return loss
 

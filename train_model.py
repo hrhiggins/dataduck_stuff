@@ -251,7 +251,7 @@ def convert_to_time_series(df, sample_rate):
 def run_study(device, time_snapshot, number_of_trials, number_of_processes, df):
     os.makedirs("temp/optuna/journals", exist_ok=True)
     study = optuna.create_study(directions=["minimize"], study_name="expected_goals",
-                                storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal{time_snapshot}.log")),
+                                storage=JournalStorage(JournalFileBackend(file_path=f"temp/optuna/journals/journal_{time_snapshot}.log")),
                                 load_if_exists=True,
                                 pruner=optuna.pruners.HyperbandPruner(min_resource=3, max_resource="auto",
                                                                       reduction_factor=3))
