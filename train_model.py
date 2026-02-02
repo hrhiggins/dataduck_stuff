@@ -272,7 +272,7 @@ def new_temp_dirs():
 # https://superfastpython.com/multiprocessing-pool-num-workers/#Need_to_Configure_the_Number_of_Worker_Processes
 # https://optuna.readthedocs.io/en/stable/reference/generated/optuna.load_study.html
 def main():
-    new_temp_dirs()
+    #new_temp_dirs()
 
     samples = 1
     list_of_files = import_data_from_file()
@@ -292,7 +292,7 @@ def main():
     print("all games gathered")
 
     training_data = pd.concat(game_dfs, ignore_index=True)
-    time_snapshot = time.time()
+    time_snapshot = f"optuna_search_trial"
 
     # Values work best:
     number_of_trials = 40

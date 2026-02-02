@@ -333,7 +333,7 @@ def objective(trial, training_data):
     # Save best full model (.keras)
     if trial.number == 0 or rmse < trial.study.best_value:
         model_name = "best_model"
-        model.save(f"temp/optuna/temp/trial_saves/{model_name}.keras")
+        model.save(f"temp/optuna/{model_name}.keras")
         trial.set_user_attr("model_name", model_name)
 
     del model, history, train_gen, val_gen

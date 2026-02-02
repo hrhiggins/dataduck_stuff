@@ -11,10 +11,10 @@ from train_model import (
     convert_to_time_series,
     preprocess_data,
     codes_dict,
-    NUM_CODES,
-    UncertaintyWeights,   # custom layer used in the model
+    NUM_CODES
 )
 from windowing import WarmupCosine
+from run_study import UncertaintyWeights
 
 
 def add_team_context(df, teams_present, num_teams, num_codes):
@@ -166,7 +166,7 @@ def main():
 
     # Load the FULL model (.keras) with custom objects
     model = tf.keras.models.load_model(
-        "temp/optuna/temp/trial_saves/best_model.keras",
+        "temp/optuna/best_model.keras",
         custom_objects={
             "WarmupCosine": WarmupCosine,
             "UncertaintyWeights": UncertaintyWeights,
